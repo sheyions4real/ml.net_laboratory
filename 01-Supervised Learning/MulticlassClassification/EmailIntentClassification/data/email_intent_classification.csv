@@ -1,0 +1,451 @@
+EmailId,SenderDomain,WordCount,HasAttachment,NumLinks,IsReply,HourReceived,SubjectLine,EmailBodySnippet,EmailIntent
+EML-000001,company.com,171,1,4,0,15,Invoice question,Please find my resume attached for the senior developer role.,JobApplication
+EML-000002,gmail.com,249,1,2,1,13,Re: Project timeline,Please find my resume attached for the senior developer role.,JobApplication
+EML-000003,gmail.com,125,0,0,0,10,Urgent: account issue,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000004,unknown.net,344,0,2,1,13,Application for open position,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000005,gmail.com,176,0,0,1,0,Invoice question,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000006,gmail.com,371,1,7,1,15,Invoice question,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000007,outlook.com,113,0,3,0,9,Special offer inside,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000008,outlook.com,64,1,3,0,21,Application for open position,Please find my resume attached for the senior developer role.,JobApplication
+EML-000009,company.com,337,0,1,1,2,Special offer inside,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000010,outlook.com,212,0,5,0,6,Re: Project timeline,I am unable to access my account after the latest update.,SupportRequest
+EML-000011,vendor.io,361,0,6,1,14,Special offer inside,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000012,gmail.com,123,0,3,1,7,Re: Project timeline,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000013,vendor.io,287,0,0,0,3,Urgent: account issue,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000014,unknown.net,267,0,3,0,11,Urgent: account issue,Please find my resume attached for the senior developer role.,JobApplication
+EML-000015,vendor.io,196,1,8,1,21,Application for open position,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000016,company.com,161,0,4,1,20,Special offer inside,My order arrived damaged and customer service has not responded.,Complaint
+EML-000017,outlook.com,323,1,7,1,6,Urgent: account issue,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000018,outlook.com,310,0,3,1,4,Invoice question,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000019,gmail.com,255,1,5,0,16,Special offer inside,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000020,unknown.net,292,1,0,0,20,Urgent: account issue,I am unable to access my account after the latest update.,SupportRequest
+EML-000021,vendor.io,104,1,6,0,22,Invoice question,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000022,vendor.io,197,0,3,0,22,Application for open position,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000023,unknown.net,179,0,3,1,19,Re: Project timeline,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000024,company.com,121,1,4,0,10,Invoice question,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000025,outlook.com,199,0,5,0,0,Special offer inside,My order arrived damaged and customer service has not responded.,Complaint
+EML-000026,gmail.com,185,0,8,0,3,Special offer inside,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000027,unknown.net,309,0,4,1,13,Re: Project timeline,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000028,outlook.com,355,0,4,0,10,Re: Project timeline,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000029,outlook.com,348,0,8,0,4,Urgent: account issue,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000030,outlook.com,214,0,8,1,23,Invoice question,My order arrived damaged and customer service has not responded.,Complaint
+EML-000031,unknown.net,186,0,2,0,22,Re: Project timeline,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000032,unknown.net,70,1,2,0,5,Invoice question,Please find my resume attached for the senior developer role.,JobApplication
+EML-000033,company.com,142,0,3,0,19,Re: Project timeline,My order arrived damaged and customer service has not responded.,Complaint
+EML-000034,unknown.net,353,0,1,1,12,Urgent: account issue,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000035,outlook.com,147,1,6,1,19,Urgent: account issue,Please find my resume attached for the senior developer role.,JobApplication
+EML-000036,outlook.com,354,0,0,1,4,Application for open position,My order arrived damaged and customer service has not responded.,Complaint
+EML-000037,unknown.net,58,0,7,0,4,Invoice question,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000038,outlook.com,222,1,5,0,6,Special offer inside,Please find my resume attached for the senior developer role.,JobApplication
+EML-000039,vendor.io,59,0,2,0,4,Special offer inside,My order arrived damaged and customer service has not responded.,Complaint
+EML-000040,unknown.net,398,1,8,0,8,Re: Project timeline,My order arrived damaged and customer service has not responded.,Complaint
+EML-000041,gmail.com,151,1,2,0,5,Re: Project timeline,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000042,company.com,95,1,0,0,22,Special offer inside,Please find my resume attached for the senior developer role.,JobApplication
+EML-000043,vendor.io,52,0,2,0,22,Application for open position,I am unable to access my account after the latest update.,SupportRequest
+EML-000044,gmail.com,174,0,1,1,17,Application for open position,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000045,unknown.net,220,0,6,0,15,Re: Project timeline,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000046,vendor.io,33,0,0,0,10,Re: Project timeline,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000047,outlook.com,345,0,2,0,10,Invoice question,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000048,gmail.com,236,1,4,0,19,Special offer inside,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000049,vendor.io,132,0,2,0,1,Re: Project timeline,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000050,gmail.com,146,1,2,0,8,Application for open position,Please find my resume attached for the senior developer role.,JobApplication
+EML-000051,unknown.net,152,0,8,0,13,Urgent: account issue,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000052,gmail.com,274,0,3,0,4,Special offer inside,My order arrived damaged and customer service has not responded.,Complaint
+EML-000053,outlook.com,198,0,8,0,20,Urgent: account issue,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000054,outlook.com,311,0,3,1,3,Urgent: account issue,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000055,gmail.com,334,0,1,1,3,Special offer inside,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000056,outlook.com,275,1,3,1,3,Application for open position,Please find my resume attached for the senior developer role.,JobApplication
+EML-000057,gmail.com,154,0,7,1,3,Urgent: account issue,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000058,unknown.net,203,0,1,1,11,Special offer inside,My order arrived damaged and customer service has not responded.,Complaint
+EML-000059,company.com,157,0,0,1,12,Application for open position,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000060,unknown.net,242,0,1,0,23,Invoice question,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000061,company.com,283,1,1,0,13,Application for open position,Please find my resume attached for the senior developer role.,JobApplication
+EML-000062,unknown.net,368,1,1,0,19,Invoice question,Please find my resume attached for the senior developer role.,JobApplication
+EML-000063,company.com,158,0,7,1,15,Special offer inside,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000064,unknown.net,372,0,0,0,10,Urgent: account issue,I am unable to access my account after the latest update.,SupportRequest
+EML-000065,outlook.com,308,1,1,0,7,Application for open position,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000066,company.com,171,1,8,0,14,Invoice question,I am unable to access my account after the latest update.,SupportRequest
+EML-000067,gmail.com,377,1,2,1,19,Application for open position,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000068,vendor.io,99,0,0,1,10,Application for open position,I am unable to access my account after the latest update.,SupportRequest
+EML-000069,vendor.io,126,0,0,1,12,Invoice question,My order arrived damaged and customer service has not responded.,Complaint
+EML-000070,company.com,372,0,7,1,23,Invoice question,My order arrived damaged and customer service has not responded.,Complaint
+EML-000071,company.com,203,0,6,1,5,Urgent: account issue,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000072,unknown.net,294,0,1,0,14,Re: Project timeline,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000073,vendor.io,166,0,4,1,17,Special offer inside,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000074,gmail.com,66,0,1,0,8,Application for open position,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000075,outlook.com,94,0,6,1,23,Re: Project timeline,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000076,company.com,342,1,1,0,22,Application for open position,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000077,company.com,213,1,6,0,2,Invoice question,Please find my resume attached for the senior developer role.,JobApplication
+EML-000078,company.com,149,1,2,0,16,Application for open position,My order arrived damaged and customer service has not responded.,Complaint
+EML-000079,unknown.net,370,0,4,1,19,Application for open position,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000080,vendor.io,270,0,6,1,10,Re: Project timeline,I am unable to access my account after the latest update.,SupportRequest
+EML-000081,outlook.com,84,0,4,1,20,Application for open position,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000082,vendor.io,174,1,3,0,0,Invoice question,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000083,outlook.com,85,0,1,1,18,Application for open position,My order arrived damaged and customer service has not responded.,Complaint
+EML-000084,company.com,15,0,8,1,20,Urgent: account issue,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000085,unknown.net,210,0,5,1,18,Invoice question,Please find my resume attached for the senior developer role.,JobApplication
+EML-000086,outlook.com,198,1,5,1,0,Re: Project timeline,Please find my resume attached for the senior developer role.,JobApplication
+EML-000087,company.com,73,1,1,0,8,Invoice question,Please find my resume attached for the senior developer role.,JobApplication
+EML-000088,outlook.com,125,0,1,1,12,Re: Project timeline,My order arrived damaged and customer service has not responded.,Complaint
+EML-000089,gmail.com,83,0,2,0,21,Invoice question,My order arrived damaged and customer service has not responded.,Complaint
+EML-000090,vendor.io,63,0,3,0,13,Application for open position,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000091,gmail.com,118,0,1,1,6,Invoice question,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000092,company.com,319,1,8,0,9,Invoice question,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000093,company.com,43,1,6,0,21,Re: Project timeline,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000094,company.com,20,0,1,0,13,Invoice question,My order arrived damaged and customer service has not responded.,Complaint
+EML-000095,vendor.io,43,1,6,0,2,Urgent: account issue,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000096,outlook.com,253,0,1,0,18,Application for open position,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000097,outlook.com,86,0,3,0,4,Urgent: account issue,Please find my resume attached for the senior developer role.,JobApplication
+EML-000098,outlook.com,317,0,4,0,5,Urgent: account issue,Please find my resume attached for the senior developer role.,JobApplication
+EML-000099,vendor.io,65,0,5,0,1,Re: Project timeline,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000100,vendor.io,219,0,1,1,0,Application for open position,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000101,gmail.com,349,0,4,1,23,Invoice question,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000102,company.com,30,0,3,1,7,Urgent: account issue,I am unable to access my account after the latest update.,SupportRequest
+EML-000103,unknown.net,327,0,0,1,20,Urgent: account issue,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000104,company.com,269,0,1,0,17,Urgent: account issue,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000105,vendor.io,45,0,7,1,16,Re: Project timeline,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000106,unknown.net,68,0,3,0,19,Invoice question,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000107,outlook.com,309,0,4,0,0,Re: Project timeline,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000108,unknown.net,160,0,2,0,19,Application for open position,My order arrived damaged and customer service has not responded.,Complaint
+EML-000109,vendor.io,331,0,5,1,11,Urgent: account issue,I am unable to access my account after the latest update.,SupportRequest
+EML-000110,vendor.io,28,0,6,1,2,Application for open position,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000111,vendor.io,209,1,6,0,17,Application for open position,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000112,vendor.io,44,1,8,1,9,Urgent: account issue,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000113,gmail.com,155,0,8,0,0,Application for open position,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000114,vendor.io,260,0,3,0,14,Application for open position,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000115,unknown.net,45,0,5,1,23,Invoice question,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000116,outlook.com,329,0,2,0,22,Special offer inside,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000117,gmail.com,369,0,7,0,15,Re: Project timeline,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000118,outlook.com,222,0,1,0,8,Re: Project timeline,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000119,outlook.com,264,0,2,1,21,Urgent: account issue,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000120,gmail.com,89,1,4,1,21,Special offer inside,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000121,unknown.net,128,1,3,0,16,Application for open position,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000122,outlook.com,167,1,6,1,17,Special offer inside,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000123,company.com,205,0,8,0,16,Application for open position,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000124,unknown.net,240,0,4,1,15,Re: Project timeline,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000125,vendor.io,102,1,0,0,10,Special offer inside,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000126,outlook.com,343,0,5,0,22,Urgent: account issue,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000127,gmail.com,328,0,3,0,15,Urgent: account issue,I am unable to access my account after the latest update.,SupportRequest
+EML-000128,gmail.com,149,0,3,1,3,Re: Project timeline,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000129,vendor.io,361,1,4,0,5,Special offer inside,Please find my resume attached for the senior developer role.,JobApplication
+EML-000130,gmail.com,240,0,0,1,12,Special offer inside,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000131,gmail.com,34,0,1,0,23,Invoice question,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000132,unknown.net,192,0,8,0,15,Application for open position,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000133,gmail.com,366,1,1,0,9,Urgent: account issue,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000134,vendor.io,150,0,4,0,19,Invoice question,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000135,unknown.net,278,0,3,0,11,Urgent: account issue,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000136,outlook.com,59,0,8,1,22,Special offer inside,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000137,vendor.io,370,0,5,1,10,Re: Project timeline,My order arrived damaged and customer service has not responded.,Complaint
+EML-000138,outlook.com,130,0,0,0,21,Invoice question,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000139,unknown.net,206,0,0,1,12,Invoice question,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000140,company.com,145,0,1,1,5,Re: Project timeline,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000141,company.com,114,0,6,0,6,Special offer inside,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000142,unknown.net,106,0,1,1,5,Invoice question,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000143,vendor.io,309,0,0,1,6,Invoice question,I am unable to access my account after the latest update.,SupportRequest
+EML-000144,company.com,11,0,0,1,11,Application for open position,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000145,vendor.io,163,0,6,0,6,Invoice question,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000146,gmail.com,298,1,2,0,20,Special offer inside,My order arrived damaged and customer service has not responded.,Complaint
+EML-000147,vendor.io,325,0,7,1,3,Re: Project timeline,I am unable to access my account after the latest update.,SupportRequest
+EML-000148,gmail.com,29,0,0,1,22,Invoice question,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000149,company.com,257,0,1,0,8,Re: Project timeline,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000150,gmail.com,287,0,7,1,21,Application for open position,I am unable to access my account after the latest update.,SupportRequest
+EML-000151,outlook.com,368,0,6,0,21,Re: Project timeline,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000152,vendor.io,49,1,2,1,20,Special offer inside,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000153,company.com,279,1,2,0,21,Invoice question,Please find my resume attached for the senior developer role.,JobApplication
+EML-000154,outlook.com,306,0,6,0,23,Special offer inside,I am unable to access my account after the latest update.,SupportRequest
+EML-000155,vendor.io,51,0,7,1,15,Re: Project timeline,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000156,gmail.com,345,0,4,1,2,Re: Project timeline,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000157,outlook.com,132,0,7,0,3,Special offer inside,My order arrived damaged and customer service has not responded.,Complaint
+EML-000158,company.com,35,1,4,0,5,Application for open position,Please find my resume attached for the senior developer role.,JobApplication
+EML-000159,vendor.io,120,1,6,1,20,Application for open position,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000160,unknown.net,83,0,0,0,4,Urgent: account issue,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000161,company.com,170,1,3,1,14,Urgent: account issue,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000162,outlook.com,332,1,2,0,8,Invoice question,Please find my resume attached for the senior developer role.,JobApplication
+EML-000163,vendor.io,282,1,3,0,7,Re: Project timeline,I am unable to access my account after the latest update.,SupportRequest
+EML-000164,gmail.com,90,1,8,1,21,Application for open position,I am unable to access my account after the latest update.,SupportRequest
+EML-000165,gmail.com,291,0,3,0,12,Special offer inside,I am unable to access my account after the latest update.,SupportRequest
+EML-000166,outlook.com,121,0,2,0,23,Urgent: account issue,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000167,vendor.io,317,0,7,0,14,Re: Project timeline,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000168,vendor.io,21,0,3,0,20,Special offer inside,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000169,vendor.io,240,0,2,0,7,Re: Project timeline,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000170,company.com,93,0,5,0,16,Invoice question,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000171,outlook.com,180,0,6,0,6,Re: Project timeline,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000172,vendor.io,260,1,4,0,3,Application for open position,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000173,vendor.io,94,1,6,0,2,Urgent: account issue,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000174,company.com,80,0,6,0,4,Urgent: account issue,My order arrived damaged and customer service has not responded.,Complaint
+EML-000175,company.com,380,1,0,1,20,Urgent: account issue,My order arrived damaged and customer service has not responded.,Complaint
+EML-000176,outlook.com,245,0,2,0,10,Invoice question,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000177,outlook.com,205,1,4,0,19,Invoice question,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000178,unknown.net,171,1,5,1,15,Re: Project timeline,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000179,vendor.io,302,0,1,0,7,Re: Project timeline,My order arrived damaged and customer service has not responded.,Complaint
+EML-000180,company.com,275,0,1,0,16,Urgent: account issue,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000181,vendor.io,98,0,6,0,12,Invoice question,My order arrived damaged and customer service has not responded.,Complaint
+EML-000182,company.com,23,1,4,1,8,Application for open position,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000183,outlook.com,18,1,8,0,19,Application for open position,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000184,gmail.com,138,0,5,1,5,Invoice question,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000185,outlook.com,400,0,2,1,15,Invoice question,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000186,company.com,46,1,3,1,11,Re: Project timeline,My order arrived damaged and customer service has not responded.,Complaint
+EML-000187,company.com,374,0,2,0,12,Urgent: account issue,My order arrived damaged and customer service has not responded.,Complaint
+EML-000188,vendor.io,21,1,0,0,9,Special offer inside,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000189,vendor.io,134,1,3,0,5,Urgent: account issue,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000190,vendor.io,247,1,6,0,6,Re: Project timeline,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000191,gmail.com,57,1,6,1,3,Special offer inside,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000192,vendor.io,214,0,8,0,0,Re: Project timeline,My order arrived damaged and customer service has not responded.,Complaint
+EML-000193,outlook.com,25,1,6,0,16,Re: Project timeline,Please find my resume attached for the senior developer role.,JobApplication
+EML-000194,company.com,83,0,2,0,14,Special offer inside,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000195,unknown.net,294,0,7,1,5,Re: Project timeline,I am unable to access my account after the latest update.,SupportRequest
+EML-000196,outlook.com,312,0,2,1,3,Application for open position,My order arrived damaged and customer service has not responded.,Complaint
+EML-000197,outlook.com,87,0,1,1,20,Invoice question,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000198,outlook.com,196,1,4,0,21,Invoice question,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000199,unknown.net,384,0,2,0,14,Application for open position,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000200,gmail.com,74,0,8,1,23,Special offer inside,Please find my resume attached for the senior developer role.,JobApplication
+EML-000201,vendor.io,125,1,1,0,21,Urgent: account issue,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000202,unknown.net,271,0,6,0,1,Invoice question,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000203,unknown.net,29,0,7,1,20,Invoice question,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000204,unknown.net,380,1,6,0,0,Application for open position,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000205,unknown.net,117,1,2,1,10,Re: Project timeline,Please find my resume attached for the senior developer role.,JobApplication
+EML-000206,unknown.net,24,0,3,0,7,Invoice question,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000207,gmail.com,374,0,7,0,11,Special offer inside,My order arrived damaged and customer service has not responded.,Complaint
+EML-000208,company.com,73,0,4,0,14,Invoice question,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000209,company.com,84,1,3,1,5,Special offer inside,Please find my resume attached for the senior developer role.,JobApplication
+EML-000210,outlook.com,250,1,8,0,10,Special offer inside,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000211,outlook.com,10,1,7,0,23,Re: Project timeline,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000212,outlook.com,158,0,3,0,9,Urgent: account issue,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000213,outlook.com,364,0,1,0,16,Special offer inside,My order arrived damaged and customer service has not responded.,Complaint
+EML-000214,vendor.io,245,1,7,1,20,Invoice question,My order arrived damaged and customer service has not responded.,Complaint
+EML-000215,outlook.com,304,0,3,0,16,Invoice question,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000216,unknown.net,345,0,2,1,17,Special offer inside,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000217,gmail.com,14,0,7,1,5,Invoice question,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000218,gmail.com,247,1,2,0,8,Application for open position,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000219,vendor.io,53,0,3,0,14,Urgent: account issue,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000220,outlook.com,371,0,7,1,16,Invoice question,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000221,gmail.com,109,1,4,0,8,Re: Project timeline,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000222,company.com,287,0,4,1,16,Re: Project timeline,I am unable to access my account after the latest update.,SupportRequest
+EML-000223,vendor.io,285,1,8,1,22,Re: Project timeline,Please find my resume attached for the senior developer role.,JobApplication
+EML-000224,outlook.com,77,0,1,0,8,Re: Project timeline,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000225,vendor.io,47,1,2,0,15,Application for open position,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000226,unknown.net,21,0,1,0,17,Re: Project timeline,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000227,company.com,97,0,6,0,13,Special offer inside,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000228,company.com,117,1,1,1,22,Urgent: account issue,Please find my resume attached for the senior developer role.,JobApplication
+EML-000229,gmail.com,44,0,0,0,15,Urgent: account issue,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000230,company.com,10,0,6,0,11,Urgent: account issue,I am unable to access my account after the latest update.,SupportRequest
+EML-000231,outlook.com,136,1,1,0,8,Application for open position,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000232,outlook.com,223,0,1,0,0,Special offer inside,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000233,company.com,279,1,1,0,17,Application for open position,Please find my resume attached for the senior developer role.,JobApplication
+EML-000234,vendor.io,188,1,8,0,14,Application for open position,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000235,company.com,390,0,2,0,14,Application for open position,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000236,vendor.io,114,1,1,0,17,Re: Project timeline,Please find my resume attached for the senior developer role.,JobApplication
+EML-000237,unknown.net,94,0,1,1,13,Application for open position,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000238,gmail.com,31,0,4,0,1,Urgent: account issue,I am unable to access my account after the latest update.,SupportRequest
+EML-000239,unknown.net,351,0,1,0,15,Urgent: account issue,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000240,vendor.io,252,1,6,0,0,Application for open position,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000241,vendor.io,18,1,1,0,22,Urgent: account issue,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000242,company.com,390,0,5,1,1,Special offer inside,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000243,gmail.com,153,0,5,0,10,Urgent: account issue,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000244,outlook.com,361,1,0,0,21,Urgent: account issue,Please find my resume attached for the senior developer role.,JobApplication
+EML-000245,unknown.net,16,1,5,0,23,Invoice question,My order arrived damaged and customer service has not responded.,Complaint
+EML-000246,company.com,318,0,7,0,18,Urgent: account issue,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000247,unknown.net,137,0,5,0,10,Application for open position,Please find my resume attached for the senior developer role.,JobApplication
+EML-000248,outlook.com,117,0,1,0,17,Invoice question,I am unable to access my account after the latest update.,SupportRequest
+EML-000249,company.com,54,0,0,0,8,Application for open position,My order arrived damaged and customer service has not responded.,Complaint
+EML-000250,company.com,114,1,1,1,19,Special offer inside,I am unable to access my account after the latest update.,SupportRequest
+EML-000251,company.com,85,0,7,0,21,Application for open position,My order arrived damaged and customer service has not responded.,Complaint
+EML-000252,outlook.com,81,1,4,1,6,Re: Project timeline,My order arrived damaged and customer service has not responded.,Complaint
+EML-000253,unknown.net,50,0,8,1,2,Invoice question,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000254,vendor.io,149,1,5,1,4,Urgent: account issue,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000255,company.com,318,0,2,1,5,Urgent: account issue,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000256,outlook.com,347,0,7,0,18,Re: Project timeline,I am unable to access my account after the latest update.,SupportRequest
+EML-000257,outlook.com,257,1,3,0,9,Re: Project timeline,I am unable to access my account after the latest update.,SupportRequest
+EML-000258,company.com,288,0,6,0,23,Invoice question,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000259,vendor.io,90,0,5,0,19,Urgent: account issue,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000260,vendor.io,261,0,2,0,5,Urgent: account issue,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000261,gmail.com,349,0,8,1,0,Application for open position,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000262,vendor.io,286,0,6,0,11,Re: Project timeline,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000263,vendor.io,121,0,4,1,4,Urgent: account issue,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000264,gmail.com,200,0,1,1,0,Application for open position,My order arrived damaged and customer service has not responded.,Complaint
+EML-000265,vendor.io,384,0,8,0,4,Urgent: account issue,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000266,gmail.com,208,0,1,1,23,Special offer inside,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000267,vendor.io,30,0,5,0,23,Invoice question,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000268,company.com,277,0,6,0,2,Re: Project timeline,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000269,company.com,254,1,0,0,14,Urgent: account issue,Please find my resume attached for the senior developer role.,JobApplication
+EML-000270,unknown.net,324,0,6,0,15,Invoice question,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000271,unknown.net,40,0,4,1,0,Re: Project timeline,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000272,gmail.com,164,0,2,0,10,Invoice question,My order arrived damaged and customer service has not responded.,Complaint
+EML-000273,unknown.net,274,1,0,0,22,Special offer inside,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000274,gmail.com,362,0,0,0,5,Urgent: account issue,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000275,vendor.io,45,0,8,0,3,Application for open position,My order arrived damaged and customer service has not responded.,Complaint
+EML-000276,outlook.com,204,0,4,1,21,Re: Project timeline,My order arrived damaged and customer service has not responded.,Complaint
+EML-000277,company.com,45,0,4,1,13,Urgent: account issue,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000278,vendor.io,375,1,6,1,15,Urgent: account issue,Please find my resume attached for the senior developer role.,JobApplication
+EML-000279,vendor.io,65,0,8,0,15,Invoice question,I am unable to access my account after the latest update.,SupportRequest
+EML-000280,outlook.com,58,0,6,0,3,Urgent: account issue,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000281,gmail.com,168,1,5,0,17,Re: Project timeline,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000282,unknown.net,26,0,3,1,14,Application for open position,I am unable to access my account after the latest update.,SupportRequest
+EML-000283,vendor.io,202,0,2,0,23,Invoice question,My order arrived damaged and customer service has not responded.,Complaint
+EML-000284,unknown.net,21,1,3,0,11,Invoice question,I am unable to access my account after the latest update.,SupportRequest
+EML-000285,outlook.com,79,0,2,1,11,Special offer inside,I am unable to access my account after the latest update.,SupportRequest
+EML-000286,company.com,51,0,2,1,2,Invoice question,My order arrived damaged and customer service has not responded.,Complaint
+EML-000287,vendor.io,164,1,8,0,16,Urgent: account issue,Please find my resume attached for the senior developer role.,JobApplication
+EML-000288,gmail.com,329,0,1,0,15,Re: Project timeline,My order arrived damaged and customer service has not responded.,Complaint
+EML-000289,gmail.com,288,0,1,0,22,Invoice question,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000290,gmail.com,193,0,1,0,19,Application for open position,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000291,vendor.io,293,0,8,0,0,Special offer inside,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000292,unknown.net,101,0,6,1,2,Invoice question,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000293,outlook.com,335,1,1,1,5,Re: Project timeline,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000294,gmail.com,62,0,6,0,7,Re: Project timeline,I am unable to access my account after the latest update.,SupportRequest
+EML-000295,outlook.com,368,1,4,0,20,Application for open position,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000296,outlook.com,287,0,5,0,15,Invoice question,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000297,unknown.net,166,0,7,0,7,Application for open position,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000298,outlook.com,329,0,7,1,3,Special offer inside,I am unable to access my account after the latest update.,SupportRequest
+EML-000299,unknown.net,363,1,4,0,9,Invoice question,Please find my resume attached for the senior developer role.,JobApplication
+EML-000300,company.com,23,0,1,0,14,Urgent: account issue,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000301,company.com,353,0,4,1,18,Urgent: account issue,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000302,outlook.com,79,0,7,1,10,Re: Project timeline,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000303,outlook.com,400,1,7,0,2,Application for open position,Please find my resume attached for the senior developer role.,JobApplication
+EML-000304,company.com,47,0,5,1,11,Special offer inside,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000305,outlook.com,376,0,4,0,2,Invoice question,Please find my resume attached for the senior developer role.,JobApplication
+EML-000306,gmail.com,175,1,1,1,21,Re: Project timeline,I am unable to access my account after the latest update.,SupportRequest
+EML-000307,gmail.com,362,0,1,0,21,Application for open position,My order arrived damaged and customer service has not responded.,Complaint
+EML-000308,gmail.com,12,1,7,0,4,Application for open position,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000309,vendor.io,374,0,5,0,21,Urgent: account issue,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000310,company.com,13,1,6,0,8,Urgent: account issue,My order arrived damaged and customer service has not responded.,Complaint
+EML-000311,gmail.com,378,0,3,1,15,Re: Project timeline,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000312,gmail.com,219,0,0,1,12,Urgent: account issue,My order arrived damaged and customer service has not responded.,Complaint
+EML-000313,gmail.com,98,0,8,0,9,Invoice question,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000314,unknown.net,23,0,4,1,6,Application for open position,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000315,company.com,189,1,0,0,2,Invoice question,I am unable to access my account after the latest update.,SupportRequest
+EML-000316,gmail.com,37,0,1,1,15,Special offer inside,I am unable to access my account after the latest update.,SupportRequest
+EML-000317,vendor.io,50,0,7,1,2,Re: Project timeline,My order arrived damaged and customer service has not responded.,Complaint
+EML-000318,vendor.io,268,1,4,1,3,Application for open position,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000319,company.com,164,0,4,0,7,Re: Project timeline,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000320,unknown.net,181,0,3,1,1,Urgent: account issue,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000321,company.com,50,0,3,0,17,Application for open position,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000322,unknown.net,399,0,8,0,11,Urgent: account issue,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000323,gmail.com,391,0,8,0,20,Urgent: account issue,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000324,vendor.io,247,0,2,1,7,Invoice question,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000325,outlook.com,127,0,5,0,17,Application for open position,Please find my resume attached for the senior developer role.,JobApplication
+EML-000326,unknown.net,28,1,6,1,1,Invoice question,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000327,vendor.io,127,0,4,1,19,Invoice question,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000328,vendor.io,316,0,5,0,17,Re: Project timeline,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000329,unknown.net,242,1,2,0,1,Application for open position,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000330,outlook.com,399,0,5,0,1,Special offer inside,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000331,unknown.net,44,0,8,0,19,Special offer inside,My order arrived damaged and customer service has not responded.,Complaint
+EML-000332,gmail.com,370,0,1,0,20,Application for open position,My order arrived damaged and customer service has not responded.,Complaint
+EML-000333,unknown.net,344,0,8,1,2,Application for open position,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000334,gmail.com,187,0,2,1,2,Special offer inside,I am unable to access my account after the latest update.,SupportRequest
+EML-000335,company.com,361,0,4,1,6,Urgent: account issue,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000336,outlook.com,119,0,5,0,13,Re: Project timeline,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000337,outlook.com,18,1,1,0,5,Special offer inside,Please find my resume attached for the senior developer role.,JobApplication
+EML-000338,vendor.io,191,1,8,0,14,Invoice question,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000339,gmail.com,334,0,1,1,8,Urgent: account issue,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000340,vendor.io,106,0,2,0,8,Application for open position,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000341,outlook.com,137,1,1,1,18,Re: Project timeline,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000342,unknown.net,244,0,1,1,10,Urgent: account issue,My order arrived damaged and customer service has not responded.,Complaint
+EML-000343,vendor.io,314,1,8,0,9,Special offer inside,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000344,outlook.com,137,0,7,0,9,Invoice question,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000345,vendor.io,261,0,2,0,17,Application for open position,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000346,company.com,111,0,2,0,11,Urgent: account issue,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000347,company.com,288,1,8,1,18,Special offer inside,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000348,company.com,36,0,5,0,8,Special offer inside,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000349,vendor.io,343,0,0,0,8,Application for open position,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000350,unknown.net,136,0,4,1,0,Re: Project timeline,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000351,outlook.com,150,1,7,0,19,Re: Project timeline,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000352,outlook.com,52,0,3,1,14,Urgent: account issue,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000353,outlook.com,199,0,5,1,20,Re: Project timeline,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000354,company.com,378,0,2,0,5,Application for open position,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000355,gmail.com,257,1,4,0,22,Urgent: account issue,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000356,vendor.io,392,1,3,0,5,Invoice question,Please find my resume attached for the senior developer role.,JobApplication
+EML-000357,gmail.com,66,1,1,1,8,Special offer inside,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000358,vendor.io,106,0,0,1,10,Invoice question,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000359,company.com,385,1,1,0,22,Application for open position,My order arrived damaged and customer service has not responded.,Complaint
+EML-000360,gmail.com,365,1,3,0,7,Application for open position,I am unable to access my account after the latest update.,SupportRequest
+EML-000361,unknown.net,364,1,4,0,3,Invoice question,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000362,unknown.net,304,0,8,1,1,Special offer inside,My order arrived damaged and customer service has not responded.,Complaint
+EML-000363,unknown.net,80,0,0,1,6,Special offer inside,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000364,vendor.io,183,0,6,1,4,Urgent: account issue,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000365,gmail.com,179,0,1,1,6,Application for open position,My order arrived damaged and customer service has not responded.,Complaint
+EML-000366,unknown.net,315,0,1,0,20,Re: Project timeline,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000367,unknown.net,218,0,2,0,0,Application for open position,I am unable to access my account after the latest update.,SupportRequest
+EML-000368,outlook.com,377,0,3,1,1,Application for open position,Please find my resume attached for the senior developer role.,JobApplication
+EML-000369,vendor.io,336,0,8,1,5,Application for open position,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000370,unknown.net,220,0,8,0,7,Re: Project timeline,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000371,unknown.net,324,1,7,0,17,Invoice question,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000372,unknown.net,199,1,4,1,10,Invoice question,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000373,company.com,329,1,7,0,13,Application for open position,My order arrived damaged and customer service has not responded.,Complaint
+EML-000374,outlook.com,14,1,3,1,17,Re: Project timeline,My order arrived damaged and customer service has not responded.,Complaint
+EML-000375,gmail.com,366,0,0,1,6,Special offer inside,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000376,outlook.com,372,0,2,0,1,Application for open position,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000377,gmail.com,254,0,8,0,22,Re: Project timeline,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000378,company.com,257,1,7,0,11,Application for open position,Please find my resume attached for the senior developer role.,JobApplication
+EML-000379,unknown.net,329,1,6,0,4,Application for open position,Please find my resume attached for the senior developer role.,JobApplication
+EML-000380,unknown.net,395,1,1,1,22,Urgent: account issue,My order arrived damaged and customer service has not responded.,Complaint
+EML-000381,company.com,317,1,8,1,1,Re: Project timeline,Please find my resume attached for the senior developer role.,JobApplication
+EML-000382,vendor.io,139,1,2,0,23,Urgent: account issue,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000383,unknown.net,95,0,0,1,0,Re: Project timeline,I am unable to access my account after the latest update.,SupportRequest
+EML-000384,company.com,375,0,1,0,0,Special offer inside,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000385,gmail.com,297,0,5,0,14,Application for open position,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000386,vendor.io,175,0,8,0,11,Application for open position,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000387,company.com,206,0,8,1,0,Special offer inside,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000388,outlook.com,296,0,2,0,17,Invoice question,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000389,company.com,242,1,0,0,4,Application for open position,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000390,outlook.com,105,0,3,0,20,Invoice question,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000391,outlook.com,190,1,8,0,23,Application for open position,I am unable to access my account after the latest update.,SupportRequest
+EML-000392,outlook.com,367,0,1,0,0,Re: Project timeline,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000393,vendor.io,160,1,2,1,0,Invoice question,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000394,vendor.io,222,0,4,0,16,Invoice question,I am unable to access my account after the latest update.,SupportRequest
+EML-000395,outlook.com,155,0,1,0,21,Invoice question,My order arrived damaged and customer service has not responded.,Complaint
+EML-000396,vendor.io,324,0,2,0,22,Urgent: account issue,I am unable to access my account after the latest update.,SupportRequest
+EML-000397,vendor.io,262,0,0,1,21,Invoice question,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000398,vendor.io,150,0,0,1,21,Urgent: account issue,My order arrived damaged and customer service has not responded.,Complaint
+EML-000399,company.com,332,1,1,0,11,Re: Project timeline,Please find my resume attached for the senior developer role.,JobApplication
+EML-000400,gmail.com,204,0,4,0,12,Special offer inside,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000401,outlook.com,364,0,6,0,7,Re: Project timeline,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000402,gmail.com,350,0,8,1,5,Urgent: account issue,I am unable to access my account after the latest update.,SupportRequest
+EML-000403,company.com,201,1,5,0,7,Urgent: account issue,I am unable to access my account after the latest update.,SupportRequest
+EML-000404,vendor.io,200,1,3,1,2,Application for open position,My order arrived damaged and customer service has not responded.,Complaint
+EML-000405,company.com,55,0,2,1,23,Special offer inside,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000406,vendor.io,177,0,2,0,16,Re: Project timeline,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000407,outlook.com,210,1,8,1,20,Urgent: account issue,Please find my resume attached for the senior developer role.,JobApplication
+EML-000408,vendor.io,61,0,7,1,10,Invoice question,I am unable to access my account after the latest update.,SupportRequest
+EML-000409,outlook.com,186,1,1,0,12,Application for open position,My order arrived damaged and customer service has not responded.,Complaint
+EML-000410,unknown.net,52,1,5,0,3,Re: Project timeline,Please find my resume attached for the senior developer role.,JobApplication
+EML-000411,outlook.com,118,0,1,0,16,Special offer inside,My order arrived damaged and customer service has not responded.,Complaint
+EML-000412,company.com,211,0,8,1,4,Special offer inside,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000413,gmail.com,163,0,5,0,18,Special offer inside,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000414,company.com,140,1,2,1,10,Special offer inside,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000415,outlook.com,395,0,8,0,1,Special offer inside,My order arrived damaged and customer service has not responded.,Complaint
+EML-000416,outlook.com,44,1,1,0,16,Special offer inside,Please find my resume attached for the senior developer role.,JobApplication
+EML-000417,company.com,195,0,7,0,17,Urgent: account issue,I am unable to access my account after the latest update.,SupportRequest
+EML-000418,vendor.io,72,1,8,1,15,Urgent: account issue,Please find my resume attached for the senior developer role.,JobApplication
+EML-000419,outlook.com,265,1,0,0,21,Urgent: account issue,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000420,outlook.com,115,1,0,0,20,Invoice question,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000421,outlook.com,386,0,2,0,18,Invoice question,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000422,vendor.io,147,0,5,1,11,Special offer inside,My order arrived damaged and customer service has not responded.,Complaint
+EML-000423,unknown.net,368,1,4,0,21,Invoice question,I am unable to access my account after the latest update.,SupportRequest
+EML-000424,unknown.net,145,0,7,1,5,Re: Project timeline,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000425,vendor.io,263,0,4,0,11,Application for open position,Congratulations! You have won a prize. Click here immediately.,Spam
+EML-000426,company.com,302,1,1,1,9,Invoice question,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000427,vendor.io,130,1,5,0,1,Urgent: account issue,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000428,outlook.com,380,0,1,0,1,Re: Project timeline,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000429,company.com,211,0,7,1,1,Application for open position,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000430,vendor.io,87,1,8,0,13,Urgent: account issue,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000431,outlook.com,26,0,8,1,2,Urgent: account issue,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000432,company.com,125,0,6,0,19,Urgent: account issue,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000433,company.com,170,1,2,0,11,Re: Project timeline,Please find my resume attached for the senior developer role.,JobApplication
+EML-000434,unknown.net,68,0,0,0,6,Special offer inside,My order arrived damaged and customer service has not responded.,Complaint
+EML-000435,gmail.com,194,1,8,1,6,Invoice question,My order arrived damaged and customer service has not responded.,Complaint
+EML-000436,unknown.net,307,0,5,1,21,Application for open position,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000437,gmail.com,205,1,5,0,23,Application for open position,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000438,company.com,349,0,1,0,11,Re: Project timeline,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000439,vendor.io,195,0,3,1,4,Application for open position,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000440,vendor.io,52,0,2,0,1,Re: Project timeline,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000441,company.com,66,0,3,1,19,Invoice question,Weekly digest: top stories in technology and business this week.,Newsletter
+EML-000442,company.com,38,0,5,0,6,Urgent: account issue,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000443,vendor.io,309,1,5,1,5,Special offer inside,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000444,company.com,303,0,1,0,16,Application for open position,My order arrived damaged and customer service has not responded.,Complaint
+EML-000445,vendor.io,55,0,3,0,5,Invoice question,I am unable to access my account after the latest update.,SupportRequest
+EML-000446,gmail.com,271,0,4,1,3,Urgent: account issue,Could you send pricing for the enterprise plan for 200 users?,SalesInquiry
+EML-000447,gmail.com,172,0,0,1,4,Special offer inside,My order arrived damaged and customer service has not responded.,Complaint
+EML-000448,outlook.com,152,1,8,1,4,Application for open position,There is a discrepancy on invoice #8834 dated last month.,InvoiceQuestion
+EML-000449,vendor.io,82,0,6,1,0,Special offer inside,Can we schedule a call next Tuesday to discuss the proposal?,MeetingRequest
+EML-000450,outlook.com,71,0,8,0,20,Urgent: account issue,My order arrived damaged and customer service has not responded.,Complaint

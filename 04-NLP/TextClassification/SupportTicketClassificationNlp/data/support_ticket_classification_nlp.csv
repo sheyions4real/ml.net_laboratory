@@ -1,0 +1,521 @@
+RecordId,Text,TicketCategory,WordCount,Source
+NLP-000001,The application crashes every time I try to export a report.,Technical,11,Review
+NLP-000002,The application crashes every time I try to export a report.,Technical,11,Review
+NLP-000003,The application crashes every time I try to export a report.,Technical,11,Email
+NLP-000004,My package has been stuck in transit for over two weeks.,Shipping,11,Review
+NLP-000005,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000006,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000007,"I would like to return item #8821, it arrived damaged.",Returns,10,Email
+NLP-000008,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000009,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000010,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000011,"I would like to return item #8821, it arrived damaged.",Returns,10,Email
+NLP-000012,I forgot my password and the reset link is not working.,AccountAccess,11,Review
+NLP-000013,My package has been stuck in transit for over two weeks.,Shipping,11,Ticket
+NLP-000014,"I would like to return item #8821, it arrived damaged.",Returns,10,Ticket
+NLP-000015,"I would like to return item #8821, it arrived damaged.",Returns,10,Email
+NLP-000016,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000017,I was charged twice on my latest invoice and need a refund.,Billing,12,Survey
+NLP-000018,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000019,"I would like to return item #8821, it arrived damaged.",Returns,10,Ticket
+NLP-000020,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000021,I was charged twice on my latest invoice and need a refund.,Billing,12,Survey
+NLP-000022,"I would like to return item #8821, it arrived damaged.",Returns,10,Email
+NLP-000023,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000024,I was charged twice on my latest invoice and need a refund.,Billing,12,Ticket
+NLP-000025,I forgot my password and the reset link is not working.,AccountAccess,11,Email
+NLP-000026,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000027,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000028,My package has been stuck in transit for over two weeks.,Shipping,11,Email
+NLP-000029,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000030,My package has been stuck in transit for over two weeks.,Shipping,11,Email
+NLP-000031,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000032,I was charged twice on my latest invoice and need a refund.,Billing,12,Survey
+NLP-000033,I forgot my password and the reset link is not working.,AccountAccess,11,Survey
+NLP-000034,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000035,My package has been stuck in transit for over two weeks.,Shipping,11,Chat
+NLP-000036,"I would like to return item #8821, it arrived damaged.",Returns,10,SocialMedia
+NLP-000037,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000038,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000039,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000040,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000041,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000042,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000043,My package has been stuck in transit for over two weeks.,Shipping,11,SocialMedia
+NLP-000044,I was charged twice on my latest invoice and need a refund.,Billing,12,Ticket
+NLP-000045,"I would like to return item #8821, it arrived damaged.",Returns,10,Ticket
+NLP-000046,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000047,"I would like to return item #8821, it arrived damaged.",Returns,10,Email
+NLP-000048,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000049,My package has been stuck in transit for over two weeks.,Shipping,11,Email
+NLP-000050,My package has been stuck in transit for over two weeks.,Shipping,11,Ticket
+NLP-000051,I forgot my password and the reset link is not working.,AccountAccess,11,Chat
+NLP-000052,I forgot my password and the reset link is not working.,AccountAccess,11,Survey
+NLP-000053,"I would like to return item #8821, it arrived damaged.",Returns,10,Ticket
+NLP-000054,My package has been stuck in transit for over two weeks.,Shipping,11,Chat
+NLP-000055,"I would like to return item #8821, it arrived damaged.",Returns,10,Ticket
+NLP-000056,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000057,I forgot my password and the reset link is not working.,AccountAccess,11,Email
+NLP-000058,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000059,"I would like to return item #8821, it arrived damaged.",Returns,10,Ticket
+NLP-000060,I forgot my password and the reset link is not working.,AccountAccess,11,Chat
+NLP-000061,My package has been stuck in transit for over two weeks.,Shipping,11,SocialMedia
+NLP-000062,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000063,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000064,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000065,The application crashes every time I try to export a report.,Technical,11,Email
+NLP-000066,I was charged twice on my latest invoice and need a refund.,Billing,12,Chat
+NLP-000067,My package has been stuck in transit for over two weeks.,Shipping,11,Review
+NLP-000068,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000069,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000070,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000071,My package has been stuck in transit for over two weeks.,Shipping,11,SocialMedia
+NLP-000072,I forgot my password and the reset link is not working.,AccountAccess,11,Email
+NLP-000073,"I would like to return item #8821, it arrived damaged.",Returns,10,Email
+NLP-000074,I forgot my password and the reset link is not working.,AccountAccess,11,Survey
+NLP-000075,I was charged twice on my latest invoice and need a refund.,Billing,12,Ticket
+NLP-000076,The application crashes every time I try to export a report.,Technical,11,Ticket
+NLP-000077,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000078,The application crashes every time I try to export a report.,Technical,11,Email
+NLP-000079,The application crashes every time I try to export a report.,Technical,11,Review
+NLP-000080,"I would like to return item #8821, it arrived damaged.",Returns,10,Email
+NLP-000081,I forgot my password and the reset link is not working.,AccountAccess,11,Survey
+NLP-000082,My package has been stuck in transit for over two weeks.,Shipping,11,Review
+NLP-000083,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000084,I forgot my password and the reset link is not working.,AccountAccess,11,Email
+NLP-000085,I was charged twice on my latest invoice and need a refund.,Billing,12,Survey
+NLP-000086,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000087,The application crashes every time I try to export a report.,Technical,11,Review
+NLP-000088,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000089,I forgot my password and the reset link is not working.,AccountAccess,11,Survey
+NLP-000090,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000091,"I would like to return item #8821, it arrived damaged.",Returns,10,SocialMedia
+NLP-000092,"I would like to return item #8821, it arrived damaged.",Returns,10,SocialMedia
+NLP-000093,I forgot my password and the reset link is not working.,AccountAccess,11,Review
+NLP-000094,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000095,My package has been stuck in transit for over two weeks.,Shipping,11,Review
+NLP-000096,I was charged twice on my latest invoice and need a refund.,Billing,12,Survey
+NLP-000097,The application crashes every time I try to export a report.,Technical,11,Email
+NLP-000098,The application crashes every time I try to export a report.,Technical,11,Ticket
+NLP-000099,I was charged twice on my latest invoice and need a refund.,Billing,12,Survey
+NLP-000100,My package has been stuck in transit for over two weeks.,Shipping,11,Chat
+NLP-000101,My package has been stuck in transit for over two weeks.,Shipping,11,Chat
+NLP-000102,My package has been stuck in transit for over two weeks.,Shipping,11,Chat
+NLP-000103,I forgot my password and the reset link is not working.,AccountAccess,11,Review
+NLP-000104,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000105,I forgot my password and the reset link is not working.,AccountAccess,11,Ticket
+NLP-000106,I was charged twice on my latest invoice and need a refund.,Billing,12,Email
+NLP-000107,I was charged twice on my latest invoice and need a refund.,Billing,12,Email
+NLP-000108,I was charged twice on my latest invoice and need a refund.,Billing,12,Survey
+NLP-000109,My package has been stuck in transit for over two weeks.,Shipping,11,Ticket
+NLP-000110,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000111,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000112,The application crashes every time I try to export a report.,Technical,11,Survey
+NLP-000113,My package has been stuck in transit for over two weeks.,Shipping,11,Email
+NLP-000114,I forgot my password and the reset link is not working.,AccountAccess,11,Survey
+NLP-000115,I forgot my password and the reset link is not working.,AccountAccess,11,Review
+NLP-000116,I forgot my password and the reset link is not working.,AccountAccess,11,Email
+NLP-000117,I was charged twice on my latest invoice and need a refund.,Billing,12,Survey
+NLP-000118,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000119,The application crashes every time I try to export a report.,Technical,11,Ticket
+NLP-000120,"I would like to return item #8821, it arrived damaged.",Returns,10,SocialMedia
+NLP-000121,The application crashes every time I try to export a report.,Technical,11,Survey
+NLP-000122,The application crashes every time I try to export a report.,Technical,11,Ticket
+NLP-000123,The application crashes every time I try to export a report.,Technical,11,Survey
+NLP-000124,"I would like to return item #8821, it arrived damaged.",Returns,10,Ticket
+NLP-000125,I forgot my password and the reset link is not working.,AccountAccess,11,Review
+NLP-000126,My package has been stuck in transit for over two weeks.,Shipping,11,SocialMedia
+NLP-000127,"I would like to return item #8821, it arrived damaged.",Returns,10,SocialMedia
+NLP-000128,My package has been stuck in transit for over two weeks.,Shipping,11,SocialMedia
+NLP-000129,The application crashes every time I try to export a report.,Technical,11,Email
+NLP-000130,I forgot my password and the reset link is not working.,AccountAccess,11,Review
+NLP-000131,I forgot my password and the reset link is not working.,AccountAccess,11,Survey
+NLP-000132,I forgot my password and the reset link is not working.,AccountAccess,11,Ticket
+NLP-000133,The application crashes every time I try to export a report.,Technical,11,Email
+NLP-000134,I was charged twice on my latest invoice and need a refund.,Billing,12,Ticket
+NLP-000135,My package has been stuck in transit for over two weeks.,Shipping,11,Email
+NLP-000136,The application crashes every time I try to export a report.,Technical,11,Review
+NLP-000137,My package has been stuck in transit for over two weeks.,Shipping,11,Email
+NLP-000138,My package has been stuck in transit for over two weeks.,Shipping,11,SocialMedia
+NLP-000139,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000140,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000141,My package has been stuck in transit for over two weeks.,Shipping,11,Email
+NLP-000142,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000143,I was charged twice on my latest invoice and need a refund.,Billing,12,Email
+NLP-000144,My package has been stuck in transit for over two weeks.,Shipping,11,Review
+NLP-000145,I forgot my password and the reset link is not working.,AccountAccess,11,Review
+NLP-000146,My package has been stuck in transit for over two weeks.,Shipping,11,Chat
+NLP-000147,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000148,My package has been stuck in transit for over two weeks.,Shipping,11,Chat
+NLP-000149,My package has been stuck in transit for over two weeks.,Shipping,11,Chat
+NLP-000150,I forgot my password and the reset link is not working.,AccountAccess,11,Ticket
+NLP-000151,"I would like to return item #8821, it arrived damaged.",Returns,10,SocialMedia
+NLP-000152,I was charged twice on my latest invoice and need a refund.,Billing,12,Email
+NLP-000153,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000154,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000155,The application crashes every time I try to export a report.,Technical,11,Review
+NLP-000156,I was charged twice on my latest invoice and need a refund.,Billing,12,Chat
+NLP-000157,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000158,The application crashes every time I try to export a report.,Technical,11,Email
+NLP-000159,I was charged twice on my latest invoice and need a refund.,Billing,12,Email
+NLP-000160,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000161,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000162,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000163,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000164,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000165,My package has been stuck in transit for over two weeks.,Shipping,11,Chat
+NLP-000166,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000167,The application crashes every time I try to export a report.,Technical,11,Survey
+NLP-000168,My package has been stuck in transit for over two weeks.,Shipping,11,Email
+NLP-000169,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000170,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000171,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000172,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000173,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000174,I forgot my password and the reset link is not working.,AccountAccess,11,Ticket
+NLP-000175,My package has been stuck in transit for over two weeks.,Shipping,11,Email
+NLP-000176,The application crashes every time I try to export a report.,Technical,11,Email
+NLP-000177,I forgot my password and the reset link is not working.,AccountAccess,11,Ticket
+NLP-000178,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000179,My package has been stuck in transit for over two weeks.,Shipping,11,SocialMedia
+NLP-000180,The application crashes every time I try to export a report.,Technical,11,Email
+NLP-000181,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000182,I forgot my password and the reset link is not working.,AccountAccess,11,Ticket
+NLP-000183,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000184,I was charged twice on my latest invoice and need a refund.,Billing,12,Email
+NLP-000185,I forgot my password and the reset link is not working.,AccountAccess,11,Chat
+NLP-000186,I was charged twice on my latest invoice and need a refund.,Billing,12,Ticket
+NLP-000187,I forgot my password and the reset link is not working.,AccountAccess,11,Email
+NLP-000188,The application crashes every time I try to export a report.,Technical,11,Ticket
+NLP-000189,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000190,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000191,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000192,The application crashes every time I try to export a report.,Technical,11,Ticket
+NLP-000193,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000194,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000195,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000196,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000197,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000198,I was charged twice on my latest invoice and need a refund.,Billing,12,Chat
+NLP-000199,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000200,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000201,I forgot my password and the reset link is not working.,AccountAccess,11,Review
+NLP-000202,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000203,The application crashes every time I try to export a report.,Technical,11,Review
+NLP-000204,I was charged twice on my latest invoice and need a refund.,Billing,12,Chat
+NLP-000205,"I would like to return item #8821, it arrived damaged.",Returns,10,SocialMedia
+NLP-000206,My package has been stuck in transit for over two weeks.,Shipping,11,Review
+NLP-000207,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000208,I was charged twice on my latest invoice and need a refund.,Billing,12,Email
+NLP-000209,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000210,I was charged twice on my latest invoice and need a refund.,Billing,12,Survey
+NLP-000211,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000212,"I would like to return item #8821, it arrived damaged.",Returns,10,Email
+NLP-000213,My package has been stuck in transit for over two weeks.,Shipping,11,Email
+NLP-000214,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000215,I forgot my password and the reset link is not working.,AccountAccess,11,Ticket
+NLP-000216,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000217,"I would like to return item #8821, it arrived damaged.",Returns,10,SocialMedia
+NLP-000218,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000219,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000220,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000221,The application crashes every time I try to export a report.,Technical,11,Survey
+NLP-000222,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000223,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000224,My package has been stuck in transit for over two weeks.,Shipping,11,Email
+NLP-000225,The application crashes every time I try to export a report.,Technical,11,Ticket
+NLP-000226,"I would like to return item #8821, it arrived damaged.",Returns,10,Ticket
+NLP-000227,"I would like to return item #8821, it arrived damaged.",Returns,10,Email
+NLP-000228,The application crashes every time I try to export a report.,Technical,11,Email
+NLP-000229,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000230,"I would like to return item #8821, it arrived damaged.",Returns,10,SocialMedia
+NLP-000231,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000232,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000233,"I would like to return item #8821, it arrived damaged.",Returns,10,SocialMedia
+NLP-000234,My package has been stuck in transit for over two weeks.,Shipping,11,Review
+NLP-000235,I forgot my password and the reset link is not working.,AccountAccess,11,Chat
+NLP-000236,The application crashes every time I try to export a report.,Technical,11,Email
+NLP-000237,My package has been stuck in transit for over two weeks.,Shipping,11,Ticket
+NLP-000238,The application crashes every time I try to export a report.,Technical,11,Ticket
+NLP-000239,I forgot my password and the reset link is not working.,AccountAccess,11,Email
+NLP-000240,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000241,I forgot my password and the reset link is not working.,AccountAccess,11,Email
+NLP-000242,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000243,I forgot my password and the reset link is not working.,AccountAccess,11,Review
+NLP-000244,My package has been stuck in transit for over two weeks.,Shipping,11,SocialMedia
+NLP-000245,I forgot my password and the reset link is not working.,AccountAccess,11,Survey
+NLP-000246,I was charged twice on my latest invoice and need a refund.,Billing,12,Email
+NLP-000247,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000248,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000249,I forgot my password and the reset link is not working.,AccountAccess,11,Review
+NLP-000250,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000251,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000252,I forgot my password and the reset link is not working.,AccountAccess,11,Review
+NLP-000253,The application crashes every time I try to export a report.,Technical,11,Survey
+NLP-000254,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000255,I was charged twice on my latest invoice and need a refund.,Billing,12,Chat
+NLP-000256,The application crashes every time I try to export a report.,Technical,11,Ticket
+NLP-000257,The application crashes every time I try to export a report.,Technical,11,Review
+NLP-000258,"I would like to return item #8821, it arrived damaged.",Returns,10,Email
+NLP-000259,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000260,I was charged twice on my latest invoice and need a refund.,Billing,12,Chat
+NLP-000261,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000262,The application crashes every time I try to export a report.,Technical,11,Ticket
+NLP-000263,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000264,My package has been stuck in transit for over two weeks.,Shipping,11,Review
+NLP-000265,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000266,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000267,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000268,I forgot my password and the reset link is not working.,AccountAccess,11,Survey
+NLP-000269,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000270,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000271,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000272,I was charged twice on my latest invoice and need a refund.,Billing,12,Email
+NLP-000273,My package has been stuck in transit for over two weeks.,Shipping,11,SocialMedia
+NLP-000274,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000275,I was charged twice on my latest invoice and need a refund.,Billing,12,Chat
+NLP-000276,The application crashes every time I try to export a report.,Technical,11,Ticket
+NLP-000277,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000278,My package has been stuck in transit for over two weeks.,Shipping,11,SocialMedia
+NLP-000279,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000280,My package has been stuck in transit for over two weeks.,Shipping,11,Ticket
+NLP-000281,My package has been stuck in transit for over two weeks.,Shipping,11,SocialMedia
+NLP-000282,The application crashes every time I try to export a report.,Technical,11,Survey
+NLP-000283,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000284,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000285,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000286,I forgot my password and the reset link is not working.,AccountAccess,11,Review
+NLP-000287,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000288,I forgot my password and the reset link is not working.,AccountAccess,11,Email
+NLP-000289,I forgot my password and the reset link is not working.,AccountAccess,11,Ticket
+NLP-000290,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000291,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000292,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000293,I forgot my password and the reset link is not working.,AccountAccess,11,Review
+NLP-000294,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000295,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000296,I forgot my password and the reset link is not working.,AccountAccess,11,Ticket
+NLP-000297,I forgot my password and the reset link is not working.,AccountAccess,11,Survey
+NLP-000298,"I would like to return item #8821, it arrived damaged.",Returns,10,Ticket
+NLP-000299,I was charged twice on my latest invoice and need a refund.,Billing,12,Email
+NLP-000300,I was charged twice on my latest invoice and need a refund.,Billing,12,Chat
+NLP-000301,"I would like to return item #8821, it arrived damaged.",Returns,10,Ticket
+NLP-000302,I was charged twice on my latest invoice and need a refund.,Billing,12,Ticket
+NLP-000303,I was charged twice on my latest invoice and need a refund.,Billing,12,Chat
+NLP-000304,My package has been stuck in transit for over two weeks.,Shipping,11,Chat
+NLP-000305,"I would like to return item #8821, it arrived damaged.",Returns,10,Email
+NLP-000306,I was charged twice on my latest invoice and need a refund.,Billing,12,Ticket
+NLP-000307,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000308,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000309,My package has been stuck in transit for over two weeks.,Shipping,11,SocialMedia
+NLP-000310,I forgot my password and the reset link is not working.,AccountAccess,11,Ticket
+NLP-000311,My package has been stuck in transit for over two weeks.,Shipping,11,Review
+NLP-000312,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000313,The application crashes every time I try to export a report.,Technical,11,Survey
+NLP-000314,I was charged twice on my latest invoice and need a refund.,Billing,12,Ticket
+NLP-000315,The application crashes every time I try to export a report.,Technical,11,Survey
+NLP-000316,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000317,The application crashes every time I try to export a report.,Technical,11,Survey
+NLP-000318,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000319,"I would like to return item #8821, it arrived damaged.",Returns,10,Ticket
+NLP-000320,I forgot my password and the reset link is not working.,AccountAccess,11,Chat
+NLP-000321,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000322,"I would like to return item #8821, it arrived damaged.",Returns,10,SocialMedia
+NLP-000323,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000324,I was charged twice on my latest invoice and need a refund.,Billing,12,Ticket
+NLP-000325,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000326,My package has been stuck in transit for over two weeks.,Shipping,11,Review
+NLP-000327,I was charged twice on my latest invoice and need a refund.,Billing,12,Chat
+NLP-000328,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000329,I forgot my password and the reset link is not working.,AccountAccess,11,Email
+NLP-000330,My package has been stuck in transit for over two weeks.,Shipping,11,SocialMedia
+NLP-000331,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000332,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000333,My package has been stuck in transit for over two weeks.,Shipping,11,Review
+NLP-000334,I forgot my password and the reset link is not working.,AccountAccess,11,Ticket
+NLP-000335,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000336,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000337,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000338,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000339,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000340,I was charged twice on my latest invoice and need a refund.,Billing,12,Survey
+NLP-000341,I forgot my password and the reset link is not working.,AccountAccess,11,Ticket
+NLP-000342,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000343,"I would like to return item #8821, it arrived damaged.",Returns,10,Email
+NLP-000344,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000345,"I would like to return item #8821, it arrived damaged.",Returns,10,SocialMedia
+NLP-000346,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000347,My package has been stuck in transit for over two weeks.,Shipping,11,Review
+NLP-000348,My package has been stuck in transit for over two weeks.,Shipping,11,Email
+NLP-000349,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000350,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000351,I was charged twice on my latest invoice and need a refund.,Billing,12,Chat
+NLP-000352,The application crashes every time I try to export a report.,Technical,11,Survey
+NLP-000353,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000354,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000355,I forgot my password and the reset link is not working.,AccountAccess,11,Ticket
+NLP-000356,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000357,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000358,"I would like to return item #8821, it arrived damaged.",Returns,10,Ticket
+NLP-000359,My package has been stuck in transit for over two weeks.,Shipping,11,Chat
+NLP-000360,I was charged twice on my latest invoice and need a refund.,Billing,12,Survey
+NLP-000361,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000362,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000363,My package has been stuck in transit for over two weeks.,Shipping,11,Chat
+NLP-000364,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000365,My package has been stuck in transit for over two weeks.,Shipping,11,Ticket
+NLP-000366,I forgot my password and the reset link is not working.,AccountAccess,11,Email
+NLP-000367,I was charged twice on my latest invoice and need a refund.,Billing,12,Survey
+NLP-000368,I was charged twice on my latest invoice and need a refund.,Billing,12,Email
+NLP-000369,The application crashes every time I try to export a report.,Technical,11,Survey
+NLP-000370,My package has been stuck in transit for over two weeks.,Shipping,11,Review
+NLP-000371,The application crashes every time I try to export a report.,Technical,11,Email
+NLP-000372,I was charged twice on my latest invoice and need a refund.,Billing,12,Survey
+NLP-000373,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000374,My package has been stuck in transit for over two weeks.,Shipping,11,Ticket
+NLP-000375,The application crashes every time I try to export a report.,Technical,11,Survey
+NLP-000376,"I would like to return item #8821, it arrived damaged.",Returns,10,Ticket
+NLP-000377,The application crashes every time I try to export a report.,Technical,11,Email
+NLP-000378,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000379,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000380,I was charged twice on my latest invoice and need a refund.,Billing,12,Chat
+NLP-000381,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000382,The application crashes every time I try to export a report.,Technical,11,Review
+NLP-000383,I was charged twice on my latest invoice and need a refund.,Billing,12,Chat
+NLP-000384,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000385,I was charged twice on my latest invoice and need a refund.,Billing,12,Ticket
+NLP-000386,I forgot my password and the reset link is not working.,AccountAccess,11,Chat
+NLP-000387,I forgot my password and the reset link is not working.,AccountAccess,11,Survey
+NLP-000388,The application crashes every time I try to export a report.,Technical,11,Ticket
+NLP-000389,I forgot my password and the reset link is not working.,AccountAccess,11,Review
+NLP-000390,I forgot my password and the reset link is not working.,AccountAccess,11,Email
+NLP-000391,I forgot my password and the reset link is not working.,AccountAccess,11,Chat
+NLP-000392,I forgot my password and the reset link is not working.,AccountAccess,11,Email
+NLP-000393,"I would like to return item #8821, it arrived damaged.",Returns,10,Email
+NLP-000394,"I would like to return item #8821, it arrived damaged.",Returns,10,Email
+NLP-000395,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000396,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000397,The application crashes every time I try to export a report.,Technical,11,Review
+NLP-000398,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000399,The application crashes every time I try to export a report.,Technical,11,Survey
+NLP-000400,The application crashes every time I try to export a report.,Technical,11,Survey
+NLP-000401,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000402,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000403,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000404,I forgot my password and the reset link is not working.,AccountAccess,11,Survey
+NLP-000405,My package has been stuck in transit for over two weeks.,Shipping,11,Email
+NLP-000406,The application crashes every time I try to export a report.,Technical,11,Review
+NLP-000407,The application crashes every time I try to export a report.,Technical,11,Review
+NLP-000408,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000409,I forgot my password and the reset link is not working.,AccountAccess,11,Survey
+NLP-000410,I forgot my password and the reset link is not working.,AccountAccess,11,Survey
+NLP-000411,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000412,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000413,My package has been stuck in transit for over two weeks.,Shipping,11,Ticket
+NLP-000414,The application crashes every time I try to export a report.,Technical,11,Review
+NLP-000415,I forgot my password and the reset link is not working.,AccountAccess,11,Email
+NLP-000416,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000417,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000418,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000419,My package has been stuck in transit for over two weeks.,Shipping,11,Email
+NLP-000420,The application crashes every time I try to export a report.,Technical,11,Review
+NLP-000421,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000422,I was charged twice on my latest invoice and need a refund.,Billing,12,Chat
+NLP-000423,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000424,I was charged twice on my latest invoice and need a refund.,Billing,12,Ticket
+NLP-000425,My package has been stuck in transit for over two weeks.,Shipping,11,SocialMedia
+NLP-000426,My package has been stuck in transit for over two weeks.,Shipping,11,Review
+NLP-000427,I forgot my password and the reset link is not working.,AccountAccess,11,Survey
+NLP-000428,The application crashes every time I try to export a report.,Technical,11,Email
+NLP-000429,My package has been stuck in transit for over two weeks.,Shipping,11,SocialMedia
+NLP-000430,My package has been stuck in transit for over two weeks.,Shipping,11,Ticket
+NLP-000431,I forgot my password and the reset link is not working.,AccountAccess,11,Survey
+NLP-000432,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000433,The application crashes every time I try to export a report.,Technical,11,Email
+NLP-000434,The application crashes every time I try to export a report.,Technical,11,Ticket
+NLP-000435,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000436,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000437,The application crashes every time I try to export a report.,Technical,11,Ticket
+NLP-000438,The application crashes every time I try to export a report.,Technical,11,Review
+NLP-000439,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000440,I was charged twice on my latest invoice and need a refund.,Billing,12,Chat
+NLP-000441,My package has been stuck in transit for over two weeks.,Shipping,11,Ticket
+NLP-000442,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000443,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000444,My package has been stuck in transit for over two weeks.,Shipping,11,Chat
+NLP-000445,My package has been stuck in transit for over two weeks.,Shipping,11,Email
+NLP-000446,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000447,I was charged twice on my latest invoice and need a refund.,Billing,12,Survey
+NLP-000448,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000449,The application crashes every time I try to export a report.,Technical,11,Review
+NLP-000450,"I would like to return item #8821, it arrived damaged.",Returns,10,Email
+NLP-000451,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000452,My package has been stuck in transit for over two weeks.,Shipping,11,SocialMedia
+NLP-000453,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000454,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000455,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000456,My package has been stuck in transit for over two weeks.,Shipping,11,Email
+NLP-000457,"I would like to return item #8821, it arrived damaged.",Returns,10,SocialMedia
+NLP-000458,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000459,"I would like to return item #8821, it arrived damaged.",Returns,10,Email
+NLP-000460,I forgot my password and the reset link is not working.,AccountAccess,11,Chat
+NLP-000461,I was charged twice on my latest invoice and need a refund.,Billing,12,Email
+NLP-000462,I was charged twice on my latest invoice and need a refund.,Billing,12,Ticket
+NLP-000463,The application crashes every time I try to export a report.,Technical,11,Review
+NLP-000464,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000465,"I would like to return item #8821, it arrived damaged.",Returns,10,Email
+NLP-000466,The application crashes every time I try to export a report.,Technical,11,Email
+NLP-000467,My package has been stuck in transit for over two weeks.,Shipping,11,Email
+NLP-000468,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000469,"I would like to return item #8821, it arrived damaged.",Returns,10,Ticket
+NLP-000470,The application crashes every time I try to export a report.,Technical,11,Survey
+NLP-000471,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000472,The application crashes every time I try to export a report.,Technical,11,Ticket
+NLP-000473,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000474,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000475,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000476,"I would like to return item #8821, it arrived damaged.",Returns,10,Ticket
+NLP-000477,The application crashes every time I try to export a report.,Technical,11,Survey
+NLP-000478,My package has been stuck in transit for over two weeks.,Shipping,11,Chat
+NLP-000479,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000480,I was charged twice on my latest invoice and need a refund.,Billing,12,Survey
+NLP-000481,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000482,I forgot my password and the reset link is not working.,AccountAccess,11,Survey
+NLP-000483,My package has been stuck in transit for over two weeks.,Shipping,11,Review
+NLP-000484,"I would like to return item #8821, it arrived damaged.",Returns,10,Ticket
+NLP-000485,I forgot my password and the reset link is not working.,AccountAccess,11,SocialMedia
+NLP-000486,My package has been stuck in transit for over two weeks.,Shipping,11,Ticket
+NLP-000487,The application crashes every time I try to export a report.,Technical,11,Survey
+NLP-000488,I forgot my password and the reset link is not working.,AccountAccess,11,Review
+NLP-000489,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000490,The application crashes every time I try to export a report.,Technical,11,Chat
+NLP-000491,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000492,"I would like to return item #8821, it arrived damaged.",Returns,10,Email
+NLP-000493,I forgot my password and the reset link is not working.,AccountAccess,11,Review
+NLP-000494,"I would like to return item #8821, it arrived damaged.",Returns,10,Ticket
+NLP-000495,I forgot my password and the reset link is not working.,AccountAccess,11,Chat
+NLP-000496,I was charged twice on my latest invoice and need a refund.,Billing,12,Ticket
+NLP-000497,I forgot my password and the reset link is not working.,AccountAccess,11,Chat
+NLP-000498,I forgot my password and the reset link is not working.,AccountAccess,11,Chat
+NLP-000499,I forgot my password and the reset link is not working.,AccountAccess,11,Review
+NLP-000500,The application crashes every time I try to export a report.,Technical,11,Review
+NLP-000501,The application crashes every time I try to export a report.,Technical,11,SocialMedia
+NLP-000502,I forgot my password and the reset link is not working.,AccountAccess,11,Chat
+NLP-000503,I forgot my password and the reset link is not working.,AccountAccess,11,Survey
+NLP-000504,"I would like to return item #8821, it arrived damaged.",Returns,10,Review
+NLP-000505,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000506,I forgot my password and the reset link is not working.,AccountAccess,11,Review
+NLP-000507,I was charged twice on my latest invoice and need a refund.,Billing,12,Chat
+NLP-000508,"I would like to return item #8821, it arrived damaged.",Returns,10,Email
+NLP-000509,The application crashes every time I try to export a report.,Technical,11,Review
+NLP-000510,My package has been stuck in transit for over two weeks.,Shipping,11,Survey
+NLP-000511,"I would like to return item #8821, it arrived damaged.",Returns,10,Survey
+NLP-000512,I forgot my password and the reset link is not working.,AccountAccess,11,Email
+NLP-000513,The application crashes every time I try to export a report.,Technical,11,Email
+NLP-000514,I was charged twice on my latest invoice and need a refund.,Billing,12,Survey
+NLP-000515,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia
+NLP-000516,I was charged twice on my latest invoice and need a refund.,Billing,12,Email
+NLP-000517,"I would like to return item #8821, it arrived damaged.",Returns,10,Chat
+NLP-000518,I was charged twice on my latest invoice and need a refund.,Billing,12,Survey
+NLP-000519,I was charged twice on my latest invoice and need a refund.,Billing,12,Review
+NLP-000520,I was charged twice on my latest invoice and need a refund.,Billing,12,SocialMedia

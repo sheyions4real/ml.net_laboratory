@@ -1,0 +1,601 @@
+ClaimId,PolicyHolderAge,PolicyTenureYears,ClaimAmount,IncidentHour,IncidentType,VehicleAge,NumPreviousClaims,PoliceReportFiled,WitnessPresent,AgentId,ClaimDescription,SubmissionDelayDays,IsFraudulent
+CLM-000001,47,2.7,24514,3,Vandalism,,5,0,0,AGT-713,Hail damage to roof and hood,7,0
+CLM-000002,29,6.4,76991,9,Fire,17,0,0,1,AGT-226,Hail damage to roof and hood,3,0
+CLM-000003,71,2.9,67633,2,Weather,18,4,0,1,AGT-565,Rear-end collision on highway,10,1
+CLM-000004,34,14.2,47185,14,Fire,7,4,0,1,AGT-511,Break-in damage to driver door,14,1
+CLM-000005,48,8.2,13316,23,Fire,17,2,0,1,AGT-930,Rear-end collision on highway,18,1
+CLM-000006,75,12,55568,23,Theft,2,4,1,1,AGT-679,Hail damage to roof and hood,15,0
+CLM-000007,44,14,17981,18,Medical,12,1,1,1,AGT-105,Rear-end collision on highway,1,1
+CLM-000008,71,6.8,60169,3,Theft,18,3,0,1,AGT-519,Vehicle stolen from parking lot,36,0
+CLM-000009,42,14.9,58004,11,Collision,14,0,1,0,AGT-527,Rear-end collision on highway,0,0
+CLM-000010,72,9.6,57209,15,Theft,11,1,1,0,AGT-789,Single vehicle skid on wet road,2,0
+CLM-000011,66,12.4,35807,12,Vandalism,11,3,1,1,AGT-557,Hail damage to roof and hood,43,0
+CLM-000012,48,5.2,79992,1,Collision,15,0,0,0,AGT-679,Vehicle stolen from parking lot,32,1
+CLM-000013,46,15.7,64397,16,Theft,16,4,1,1,AGT-511,Hail damage to roof and hood,17,1
+CLM-000014,27,14,61720,7,Medical,8,1,1,0,AGT-654,Single vehicle skid on wet road,2,0
+CLM-000015,52,3.7,48821,18,Medical,0,5,1,0,AGT-281,Hail damage to roof and hood,1,0
+CLM-000016,33,12.9,78022,9,Weather,17,5,0,0,AGT-823,Vehicle stolen from parking lot,10,1
+CLM-000017,35,4.8,20290,5,Vandalism,12,2,1,1,AGT-940,Break-in damage to driver door,10,0
+CLM-000018,57,5.7,65261,14,Medical,17,1,1,1,AGT-728,Break-in damage to driver door,0,1
+CLM-000019,75,5.4,21987,10,Theft,11,3,0,1,AGT-215,Single vehicle skid on wet road,28,1
+CLM-000020,32,10.4,13898,2,Fire,7,5,1,1,AGT-551,Hail damage to roof and hood,23,0
+CLM-000021,25,7.3,11130,0,Weather,0,2,0,1,AGT-899,Hail damage to roof and hood,40,1
+CLM-000022,52,14.2,53352,6,Weather,13,5,0,1,AGT-229,Vehicle stolen from parking lot,0,0
+CLM-000023,71,13.3,83341,8,Fire,12,2,1,0,AGT-743,Break-in damage to driver door,43,0
+CLM-000024,74,3.7,62853,3,Theft,11,1,1,1,AGT-791,Break-in damage to driver door,43,0
+CLM-000025,78,13.8,82111,8,Fire,6,0,0,0,AGT-685,Rear-end collision on highway,39,0
+CLM-000026,29,3.9,862,0,Fire,11,0,1,1,AGT-799,,41,0
+CLM-000027,35,8.5,24675,12,Collision,0,4,0,0,AGT-814,Hail damage to roof and hood,38,0
+CLM-000028,59,15,40241,1,Theft,11,1,0,0,AGT-730,Hail damage to roof and hood,17,0
+CLM-000029,29,2.4,75591,9,Vandalism,7,1,1,0,AGT-456,Vehicle stolen from parking lot,30,1
+CLM-000030,43,6,49696,23,Vandalism,16,4,0,0,AGT-777,Single vehicle skid on wet road,20,0
+CLM-000031,41,17.9,78508,12,Weather,9,3,1,0,AGT-909,Single vehicle skid on wet road,3,1
+CLM-000032,32,13,6493,18,Vandalism,8,5,1,1,AGT-869,Single vehicle skid on wet road,11,0
+CLM-000033,27,14.4,40857,1,Vandalism,7,5,1,1,AGT-165,Hail damage to roof and hood,11,1
+CLM-000034,53,18.9,80813,8,Vandalism,11,3,1,1,AGT-942,Break-in damage to driver door,25,1
+CLM-000035,77,12.7,48312,16,Collision,6,1,1,0,AGT-926,Vehicle stolen from parking lot,21,1
+CLM-000036,30,9.3,67064,6,Vandalism,7,3,1,0,AGT-331,Vehicle stolen from parking lot,33,0
+CLM-000037,31,10.5,25566,3,Fire,16,2,0,1,AGT-400,Vehicle stolen from parking lot,5,0
+CLM-000038,33,19.2,25146,3,Theft,13,5,1,0,AGT-359,Break-in damage to driver door,26,1
+CLM-000039,54,18.8,22196,3,Weather,0,1,1,1,AGT-665,,45,1
+CLM-000040,46,1.6,56787,15,Weather,3,4,0,0,AGT-480,Break-in damage to driver door,38,0
+CLM-000041,74,18.2,6338,13,Medical,17,4,1,1,AGT-175,Single vehicle skid on wet road,3,0
+CLM-000042,76,3.2,2373,0,Theft,15,5,1,1,AGT-938,,44,0
+CLM-000043,25,14.4,23902,0,Medical,17,2,0,1,AGT-981,Vehicle stolen from parking lot,0,0
+CLM-000044,34,9.7,57793,16,Vandalism,16,5,1,0,AGT-776,Vehicle stolen from parking lot,18,0
+CLM-000045,73,5.1,10313,22,Collision,5,5,1,0,AGT-766,Break-in damage to driver door,6,0
+CLM-000046,27,2.6,51856,12,Collision,4,2,1,1,AGT-492,Single vehicle skid on wet road,33,0
+CLM-000047,78,8.3,45877,20,Weather,1,3,1,0,AGT-605,Break-in damage to driver door,38,1
+CLM-000048,32,13.9,30939,0,Medical,12,3,1,0,AGT-104,Break-in damage to driver door,15,0
+CLM-000049,55,9,11661,15,Collision,18,2,1,0,AGT-869,,30,0
+CLM-000050,78,6.5,29674,4,Fire,3,2,1,0,AGT-614,,29,0
+CLM-000051,63,5,38959,22,Collision,15,5,1,1,AGT-830,,13,0
+CLM-000052,40,16.2,24906,9,Fire,5,3,1,1,AGT-501,Vehicle stolen from parking lot,8,1
+CLM-000053,37,2.5,17031,17,Medical,16,2,1,0,AGT-665,Hail damage to roof and hood,3,0
+CLM-000054,65,4.3,43502,5,Medical,7,2,1,0,AGT-595,Single vehicle skid on wet road,15,1
+CLM-000055,53,17.5,27866,16,Collision,5,5,1,0,AGT-552,,25,0
+CLM-000056,45,5.7,37574,6,Theft,14,5,0,1,AGT-841,Single vehicle skid on wet road,23,1
+CLM-000057,31,10.7,74266,0,Fire,15,2,1,0,AGT-641,Break-in damage to driver door,30,0
+CLM-000058,24,5.6,1485,8,Collision,9,0,1,1,AGT-472,Vehicle stolen from parking lot,8,0
+CLM-000059,35,19.6,58646,11,Fire,1,2,0,0,AGT-740,Vehicle stolen from parking lot,23,1
+CLM-000060,37,1.1,27340,22,Theft,18,5,1,1,AGT-940,Single vehicle skid on wet road,15,1
+CLM-000061,57,19.3,73598,0,Weather,4,0,1,1,AGT-232,Break-in damage to driver door,41,0
+CLM-000062,39,18.4,3773,19,Fire,17,5,0,0,AGT-785,Rear-end collision on highway,44,1
+CLM-000063,29,4.5,44346,18,Fire,5,4,1,0,AGT-372,Break-in damage to driver door,21,0
+CLM-000064,56,15.4,39079,12,Weather,10,0,1,0,AGT-429,Single vehicle skid on wet road,11,0
+CLM-000065,55,7.8,36395,18,Fire,5,0,1,0,AGT-248,Break-in damage to driver door,43,1
+CLM-000066,69,2.4,75050,9,Collision,12,0,0,1,AGT-346,Single vehicle skid on wet road,33,0
+CLM-000067,65,1.6,74312,6,Medical,11,2,1,0,AGT-861,Rear-end collision on highway,37,0
+CLM-000068,68,14.8,18358,4,Medical,6,4,1,1,AGT-165,Vehicle stolen from parking lot,9,0
+CLM-000069,26,19.3,15272,22,Medical,9,5,1,1,AGT-552,,11,0
+CLM-000070,54,14.3,73521,21,Medical,9,1,0,0,AGT-439,Vehicle stolen from parking lot,4,0
+CLM-000071,25,15.9,51863,19,Weather,13,2,0,0,AGT-550,Break-in damage to driver door,41,1
+CLM-000072,29,13.9,19614,9,Medical,17,3,0,1,AGT-738,Single vehicle skid on wet road,22,0
+CLM-000073,34,17.1,27874,12,Collision,17,2,1,0,AGT-896,,26,0
+CLM-000074,58,8.6,72539,13,Theft,1,4,1,1,AGT-297,Single vehicle skid on wet road,35,1
+CLM-000075,54,4.8,51263,22,Fire,3,3,1,1,AGT-474,Single vehicle skid on wet road,19,0
+CLM-000076,59,16.4,28338,5,Collision,17,0,1,0,AGT-984,Vehicle stolen from parking lot,11,0
+CLM-000077,61,11.1,33015,10,Fire,15,4,1,0,AGT-357,Break-in damage to driver door,15,0
+CLM-000078,39,8.4,30395,20,Weather,15,4,0,1,AGT-552,,15,0
+CLM-000079,77,13.7,78611,11,Medical,17,1,1,0,AGT-817,Hail damage to roof and hood,29,0
+CLM-000080,63,9.3,40819,11,Weather,4,1,0,1,AGT-206,Vehicle stolen from parking lot,0,0
+CLM-000081,76,9.1,8936,0,Weather,11,1,1,0,AGT-601,Vehicle stolen from parking lot,36,0
+CLM-000082,46,13.5,35693,10,Collision,,4,1,1,AGT-844,,12,0
+CLM-000083,53,6,75216,13,Medical,0,5,1,1,AGT-974,Break-in damage to driver door,33,1
+CLM-000084,38,14,17573,20,Weather,,5,0,0,AGT-151,Rear-end collision on highway,41,1
+CLM-000085,61,6.2,77034,5,Medical,13,5,0,1,AGT-508,Break-in damage to driver door,2,1
+CLM-000086,63,5,5374,19,Theft,13,4,1,0,AGT-870,Hail damage to roof and hood,23,0
+CLM-000087,53,14.5,30388,10,Medical,1,0,0,0,AGT-633,Single vehicle skid on wet road,37,0
+CLM-000088,77,1,76331,12,Theft,2,5,0,1,AGT-273,Rear-end collision on highway,11,0
+CLM-000089,72,11.7,45571,14,Collision,4,4,1,1,AGT-136,Single vehicle skid on wet road,21,1
+CLM-000090,50,10.2,5747,14,Medical,13,3,1,0,AGT-929,Rear-end collision on highway,3,1
+CLM-000091,70,11.9,74456,18,Fire,5,4,0,0,AGT-643,Break-in damage to driver door,43,1
+CLM-000092,48,10.1,66855,0,Medical,,5,1,1,AGT-248,Break-in damage to driver door,8,0
+CLM-000093,54,2.6,39178,9,Theft,8,0,1,1,AGT-207,Single vehicle skid on wet road,10,0
+CLM-000094,31,5.1,43970,14,Collision,10,2,1,1,AGT-420,Hail damage to roof and hood,29,0
+CLM-000095,78,15.5,52923,0,Fire,7,1,1,0,AGT-946,,45,0
+CLM-000096,77,16.5,5207,17,Fire,8,2,1,1,AGT-271,Break-in damage to driver door,27,0
+CLM-000097,22,19.4,48065,7,Collision,6,2,1,0,AGT-410,Single vehicle skid on wet road,31,1
+CLM-000098,78,8.2,62279,11,Weather,1,3,0,1,AGT-742,Vehicle stolen from parking lot,7,1
+CLM-000099,30,11.4,27073,1,Medical,18,3,0,0,AGT-941,Rear-end collision on highway,2,0
+CLM-000100,25,13.6,14985,6,Theft,18,1,1,0,AGT-804,Single vehicle skid on wet road,44,0
+CLM-000101,34,15,72345,17,Vandalism,15,4,0,0,AGT-157,Single vehicle skid on wet road,6,0
+CLM-000102,37,3.2,77419,15,Collision,6,5,1,0,AGT-817,Vehicle stolen from parking lot,12,0
+CLM-000103,48,1.8,15053,22,Theft,6,0,1,1,AGT-146,Hail damage to roof and hood,26,0
+CLM-000104,44,13.1,54774,22,Vandalism,10,5,0,1,AGT-746,Vehicle stolen from parking lot,31,1
+CLM-000105,54,1.8,33247,14,Theft,7,3,1,1,AGT-987,Hail damage to roof and hood,39,1
+CLM-000106,64,9.7,78315,12,Weather,0,0,1,0,AGT-154,,20,0
+CLM-000107,51,15.2,41619,13,Weather,3,3,1,1,AGT-279,Vehicle stolen from parking lot,9,1
+CLM-000108,55,2,62447,23,Collision,9,4,1,0,AGT-164,Break-in damage to driver door,15,1
+CLM-000109,78,19.8,39829,17,Collision,18,4,0,0,AGT-117,,40,1
+CLM-000110,35,6.2,26738,5,Vandalism,3,4,1,1,AGT-458,Single vehicle skid on wet road,0,0
+CLM-000111,53,12.6,81202,14,Collision,13,4,1,0,AGT-147,Rear-end collision on highway,43,1
+CLM-000112,41,10.4,33219,2,Theft,5,3,1,0,AGT-490,Break-in damage to driver door,18,1
+CLM-000113,72,16.7,70128,9,Weather,2,0,1,0,AGT-276,,33,1
+CLM-000114,53,8.8,55211,14,Collision,17,2,1,1,AGT-772,Single vehicle skid on wet road,25,0
+CLM-000115,72,18.1,54677,21,Theft,2,4,1,0,AGT-639,Break-in damage to driver door,13,1
+CLM-000116,67,18.9,34296,16,Fire,15,3,0,1,AGT-874,,33,0
+CLM-000117,59,7.3,18358,3,Medical,6,3,1,1,AGT-737,Rear-end collision on highway,31,0
+CLM-000118,71,2.3,84852,18,Collision,4,2,1,1,AGT-710,Vehicle stolen from parking lot,27,0
+CLM-000119,42,3.8,81496,20,Weather,12,0,0,0,AGT-697,,36,1
+CLM-000120,48,5.8,41247,18,Weather,11,4,0,0,AGT-594,Break-in damage to driver door,40,1
+CLM-000121,45,7.9,28551,17,Theft,8,4,0,0,AGT-937,,38,0
+CLM-000122,72,11.5,67925,9,Fire,3,1,1,0,AGT-264,Break-in damage to driver door,14,1
+CLM-000123,51,6,68027,6,Weather,5,5,0,1,AGT-229,,4,1
+CLM-000124,78,19,38005,20,Vandalism,7,0,0,0,AGT-368,Break-in damage to driver door,29,0
+CLM-000125,73,14.9,63068,3,Vandalism,13,1,0,1,AGT-910,Rear-end collision on highway,37,0
+CLM-000126,73,8,19285,20,Fire,9,1,1,1,AGT-827,Rear-end collision on highway,39,1
+CLM-000127,47,4.5,35641,11,Theft,10,4,1,1,AGT-263,Break-in damage to driver door,42,0
+CLM-000128,25,4.2,64011,1,Weather,1,0,0,1,AGT-940,Single vehicle skid on wet road,20,1
+CLM-000129,68,10.9,13957,12,Theft,2,3,1,0,AGT-278,Single vehicle skid on wet road,22,0
+CLM-000130,37,13.6,81797,0,Medical,12,3,1,0,AGT-256,Break-in damage to driver door,34,0
+CLM-000131,71,11.1,37755,2,Weather,8,3,1,0,AGT-671,Single vehicle skid on wet road,30,1
+CLM-000132,76,7.8,44325,0,Fire,6,2,0,1,AGT-133,Vehicle stolen from parking lot,0,0
+CLM-000133,24,2.7,51540,20,Theft,8,5,0,1,AGT-373,Single vehicle skid on wet road,15,1
+CLM-000134,57,18.4,21231,10,Weather,10,2,0,1,AGT-232,Single vehicle skid on wet road,30,0
+CLM-000135,77,19,79175,19,Weather,3,4,0,1,AGT-840,Break-in damage to driver door,41,1
+CLM-000136,53,8,32391,12,Weather,,5,1,1,AGT-457,Single vehicle skid on wet road,18,1
+CLM-000137,66,7.6,35405,6,Medical,7,0,1,0,AGT-682,Single vehicle skid on wet road,13,0
+CLM-000138,72,18.8,5141,3,Medical,9,3,1,0,AGT-324,Rear-end collision on highway,41,1
+CLM-000139,27,7.8,76218,9,Fire,17,1,0,1,AGT-588,Break-in damage to driver door,27,0
+CLM-000140,47,9.9,10972,8,Collision,16,2,1,1,AGT-399,Rear-end collision on highway,14,0
+CLM-000141,63,10.3,26787,10,Theft,,1,1,0,AGT-789,Break-in damage to driver door,33,0
+CLM-000142,52,19.8,4517,7,Theft,10,5,1,1,AGT-855,Single vehicle skid on wet road,23,0
+CLM-000143,62,12.9,78397,1,Collision,10,3,1,0,AGT-691,,23,0
+CLM-000144,28,5.7,53393,19,Medical,8,1,0,0,AGT-389,Hail damage to roof and hood,9,0
+CLM-000145,55,16.4,56795,2,Vandalism,5,2,1,0,AGT-214,Break-in damage to driver door,20,1
+CLM-000146,45,8.9,48217,20,Vandalism,13,2,0,1,AGT-235,Rear-end collision on highway,21,0
+CLM-000147,59,10.3,58354,13,Theft,15,0,1,1,AGT-781,Vehicle stolen from parking lot,42,1
+CLM-000148,45,14.2,7634,22,Theft,5,2,0,1,AGT-840,Vehicle stolen from parking lot,8,0
+CLM-000149,41,11.6,33245,10,Collision,15,5,0,1,AGT-525,Break-in damage to driver door,31,1
+CLM-000150,32,19.8,22217,15,Collision,2,4,1,1,AGT-520,Rear-end collision on highway,14,0
+CLM-000151,26,2.3,68381,5,Theft,13,4,1,0,AGT-276,Vehicle stolen from parking lot,41,1
+CLM-000152,54,5.7,26606,11,Weather,3,3,1,1,AGT-754,Single vehicle skid on wet road,9,0
+CLM-000153,74,10.4,28338,14,Medical,6,3,1,1,AGT-441,Rear-end collision on highway,4,0
+CLM-000154,44,11.4,62559,14,Collision,11,2,1,0,AGT-429,Hail damage to roof and hood,19,1
+CLM-000155,75,7.3,78178,14,Weather,15,2,1,1,AGT-604,Break-in damage to driver door,19,1
+CLM-000156,25,19.3,23705,1,Fire,5,0,0,0,AGT-551,Rear-end collision on highway,42,1
+CLM-000157,64,14,13375,16,Medical,4,2,0,0,AGT-636,Single vehicle skid on wet road,1,0
+CLM-000158,66,18.6,50439,5,Weather,2,5,0,1,AGT-198,,38,0
+CLM-000159,46,12.2,19861,20,Medical,10,5,0,1,AGT-922,Break-in damage to driver door,35,1
+CLM-000160,72,19.5,7744,5,Vandalism,6,0,0,1,AGT-718,,31,0
+CLM-000161,32,1.5,78981,9,Vandalism,18,2,1,1,AGT-735,Break-in damage to driver door,10,0
+CLM-000162,45,0.5,65997,13,Vandalism,8,4,0,0,AGT-140,,43,0
+CLM-000163,32,18.6,15599,23,Vandalism,5,2,0,0,AGT-358,Single vehicle skid on wet road,37,0
+CLM-000164,49,2.1,14197,13,Weather,8,1,0,1,AGT-745,Hail damage to roof and hood,41,1
+CLM-000165,66,5.3,32648,21,Medical,10,4,1,0,AGT-159,Single vehicle skid on wet road,19,0
+CLM-000166,41,5.6,18736,20,Fire,15,3,0,0,AGT-470,Break-in damage to driver door,30,1
+CLM-000167,30,5.9,36053,23,Theft,12,4,1,1,AGT-278,Hail damage to roof and hood,0,1
+CLM-000168,35,16.9,76556,5,Vandalism,12,1,1,0,AGT-610,Hail damage to roof and hood,14,1
+CLM-000169,52,16.9,74162,1,Fire,16,0,1,1,AGT-731,Rear-end collision on highway,11,0
+CLM-000170,59,16.3,62623,19,Weather,2,5,0,0,AGT-259,Break-in damage to driver door,34,1
+CLM-000171,22,5.7,50832,18,Medical,2,4,1,1,AGT-551,Break-in damage to driver door,45,1
+CLM-000172,45,13.7,46195,9,Theft,3,5,1,0,AGT-638,Rear-end collision on highway,27,1
+CLM-000173,38,1.2,78858,14,Theft,8,2,0,1,AGT-391,Vehicle stolen from parking lot,31,1
+CLM-000174,50,3.9,48062,20,Weather,3,5,1,0,AGT-470,Rear-end collision on highway,34,0
+CLM-000175,78,11.5,12347,13,Theft,16,5,1,0,AGT-700,Rear-end collision on highway,39,1
+CLM-000176,27,10.1,33449,1,Vandalism,3,3,1,0,AGT-124,Rear-end collision on highway,21,1
+CLM-000177,67,12.9,38659,5,Vandalism,8,0,0,1,AGT-815,Vehicle stolen from parking lot,15,0
+CLM-000178,44,0.7,80106,11,Fire,2,2,0,0,AGT-292,Single vehicle skid on wet road,30,0
+CLM-000179,33,2.5,40750,19,Fire,10,3,1,1,AGT-884,Hail damage to roof and hood,10,1
+CLM-000180,72,2.2,27697,13,Weather,1,4,0,1,AGT-117,Vehicle stolen from parking lot,15,1
+CLM-000181,60,5,1335,22,Theft,16,4,1,0,AGT-210,Rear-end collision on highway,7,1
+CLM-000182,30,14.5,49260,23,Fire,4,0,1,1,AGT-949,Hail damage to roof and hood,6,0
+CLM-000183,50,12.4,71787,21,Weather,12,4,0,1,AGT-963,,17,1
+CLM-000184,42,8.3,42413,11,Fire,13,0,0,0,AGT-997,Single vehicle skid on wet road,6,0
+CLM-000185,66,15.5,11706,14,Weather,9,5,0,1,AGT-404,Single vehicle skid on wet road,21,0
+CLM-000186,69,11.8,38470,17,Collision,13,4,1,0,AGT-489,Rear-end collision on highway,34,0
+CLM-000187,48,2.1,43538,2,Medical,9,1,1,1,AGT-864,Rear-end collision on highway,21,1
+CLM-000188,38,11.8,19963,9,Theft,15,5,1,1,AGT-651,Vehicle stolen from parking lot,45,0
+CLM-000189,34,18.1,60666,1,Fire,14,3,0,0,AGT-635,Vehicle stolen from parking lot,31,0
+CLM-000190,64,3.5,19691,6,Fire,18,2,0,0,AGT-698,Break-in damage to driver door,38,0
+CLM-000191,70,16,71077,22,Weather,14,0,1,0,AGT-291,Hail damage to roof and hood,43,1
+CLM-000192,33,15.3,36561,23,Vandalism,5,5,0,1,AGT-813,Hail damage to roof and hood,24,0
+CLM-000193,60,16.1,786,17,Theft,9,4,0,0,AGT-205,Break-in damage to driver door,3,0
+CLM-000194,68,1.1,43441,10,Collision,8,2,0,1,AGT-256,Single vehicle skid on wet road,32,0
+CLM-000195,43,12.3,45926,11,Weather,6,2,0,1,AGT-386,Break-in damage to driver door,32,1
+CLM-000196,44,8.5,10277,21,Vandalism,13,3,1,0,AGT-284,Vehicle stolen from parking lot,41,0
+CLM-000197,39,14.7,72797,14,Weather,17,1,1,1,AGT-333,Rear-end collision on highway,35,1
+CLM-000198,71,2.9,3132,2,Medical,10,3,0,0,AGT-752,Break-in damage to driver door,4,0
+CLM-000199,49,13.3,2283,17,Weather,0,1,0,1,AGT-902,Rear-end collision on highway,2,1
+CLM-000200,39,12.5,17564,7,Theft,,1,1,0,AGT-835,Break-in damage to driver door,34,0
+CLM-000201,58,9.3,57373,11,Theft,14,3,0,1,AGT-756,Vehicle stolen from parking lot,44,1
+CLM-000202,60,11.1,58543,0,Theft,5,2,1,1,AGT-967,Break-in damage to driver door,1,0
+CLM-000203,39,7.4,54993,16,Medical,6,0,1,1,AGT-302,Break-in damage to driver door,3,0
+CLM-000204,28,6.2,11755,3,Vandalism,1,1,1,1,AGT-620,Break-in damage to driver door,18,0
+CLM-000205,55,0.7,48286,15,Medical,1,5,1,1,AGT-882,,43,0
+CLM-000206,50,1.5,38622,19,Vandalism,15,5,1,1,AGT-807,,44,1
+CLM-000207,65,11.3,38037,17,Vandalism,11,2,1,1,AGT-222,,34,0
+CLM-000208,57,14.7,6110,18,Collision,10,3,0,1,AGT-316,,1,0
+CLM-000209,67,12.4,18185,1,Theft,18,2,1,1,AGT-936,,31,1
+CLM-000210,30,12.8,11690,10,Fire,14,1,1,1,AGT-506,Single vehicle skid on wet road,44,1
+CLM-000211,72,12.5,30566,6,Medical,18,3,0,1,AGT-388,Vehicle stolen from parking lot,7,0
+CLM-000212,29,1.1,39880,15,Theft,6,4,0,0,AGT-141,Rear-end collision on highway,23,0
+CLM-000213,63,15.1,68290,6,Fire,,0,0,1,AGT-927,Single vehicle skid on wet road,16,1
+CLM-000214,35,3.4,14063,20,Fire,,3,1,1,AGT-921,Hail damage to roof and hood,5,0
+CLM-000215,72,2.2,36089,3,Fire,10,4,0,1,AGT-941,Break-in damage to driver door,6,0
+CLM-000216,51,18.5,81963,2,Theft,9,5,1,1,AGT-752,Break-in damage to driver door,32,0
+CLM-000217,76,9,64880,18,Weather,8,3,0,0,AGT-720,Single vehicle skid on wet road,43,1
+CLM-000218,35,18.8,3477,4,Fire,4,5,1,1,AGT-360,Break-in damage to driver door,44,0
+CLM-000219,69,11.6,41768,8,Fire,9,3,1,0,AGT-690,,7,0
+CLM-000220,37,12.6,2681,1,Weather,7,0,0,1,AGT-216,Rear-end collision on highway,27,0
+CLM-000221,30,19.2,35796,1,Fire,18,5,0,0,AGT-569,Break-in damage to driver door,25,0
+CLM-000222,51,4.5,71417,6,Collision,18,3,1,0,AGT-588,Single vehicle skid on wet road,9,0
+CLM-000223,37,16.2,83750,20,Collision,11,3,0,1,AGT-889,Vehicle stolen from parking lot,16,0
+CLM-000224,70,13.9,84478,2,Collision,3,4,0,0,AGT-455,Vehicle stolen from parking lot,18,0
+CLM-000225,56,19.5,25824,14,Medical,2,0,1,0,AGT-864,,37,0
+CLM-000226,66,1.4,67288,22,Medical,0,2,0,1,AGT-644,Single vehicle skid on wet road,23,1
+CLM-000227,25,11.8,70315,14,Collision,0,2,1,1,AGT-304,Break-in damage to driver door,41,1
+CLM-000228,44,4.2,27076,13,Collision,13,3,0,0,AGT-180,Single vehicle skid on wet road,22,1
+CLM-000229,76,10.8,77920,2,Theft,15,4,1,0,AGT-166,Hail damage to roof and hood,20,0
+CLM-000230,59,17,61658,21,Collision,8,3,1,0,AGT-335,Break-in damage to driver door,22,0
+CLM-000231,71,3.2,75929,12,Vandalism,13,2,0,1,AGT-329,,33,1
+CLM-000232,49,9.6,28542,19,Fire,7,5,0,0,AGT-414,Hail damage to roof and hood,32,1
+CLM-000233,37,2.2,33939,14,Vandalism,6,1,1,1,AGT-793,Vehicle stolen from parking lot,10,0
+CLM-000234,77,15.3,68500,4,Theft,15,3,1,0,AGT-452,,27,1
+CLM-000235,43,11.6,5632,19,Medical,0,3,1,0,AGT-366,Rear-end collision on highway,39,0
+CLM-000236,48,10.2,41110,21,Weather,10,3,1,0,AGT-181,Rear-end collision on highway,43,0
+CLM-000237,37,13.3,3809,10,Fire,8,4,1,1,AGT-578,Break-in damage to driver door,14,0
+CLM-000238,43,19.5,74655,13,Fire,0,3,1,1,AGT-156,Hail damage to roof and hood,33,1
+CLM-000239,41,0.6,84836,9,Collision,11,4,1,1,AGT-847,Rear-end collision on highway,25,1
+CLM-000240,40,9.7,15259,16,Fire,11,4,1,1,AGT-727,Break-in damage to driver door,36,0
+CLM-000241,45,17.8,78255,16,Theft,2,4,0,0,AGT-682,Hail damage to roof and hood,22,1
+CLM-000242,35,16.3,60169,3,Vandalism,1,5,1,1,AGT-622,Single vehicle skid on wet road,45,1
+CLM-000243,42,17.7,47162,23,Theft,16,4,1,1,AGT-432,Break-in damage to driver door,39,1
+CLM-000244,58,9.5,71312,0,Theft,7,0,1,0,AGT-874,Rear-end collision on highway,6,0
+CLM-000245,42,4.3,77770,16,Weather,4,2,1,0,AGT-168,Rear-end collision on highway,1,0
+CLM-000246,54,11.6,45238,17,Medical,17,3,1,1,AGT-661,Single vehicle skid on wet road,12,0
+CLM-000247,43,1,18208,14,Collision,2,4,1,0,AGT-514,Vehicle stolen from parking lot,22,0
+CLM-000248,54,4.7,78349,1,Weather,13,4,0,0,AGT-894,,16,0
+CLM-000249,22,3.6,2033,3,Fire,4,2,0,0,AGT-495,Vehicle stolen from parking lot,1,1
+CLM-000250,56,14,24364,7,Vandalism,0,4,0,1,AGT-811,Rear-end collision on highway,33,0
+CLM-000251,66,11.4,78678,12,Theft,14,4,1,0,AGT-509,Vehicle stolen from parking lot,8,1
+CLM-000252,50,9.9,30483,10,Vandalism,17,2,0,0,AGT-877,Rear-end collision on highway,38,1
+CLM-000253,46,18.1,48373,10,Fire,2,2,1,0,AGT-904,Hail damage to roof and hood,0,1
+CLM-000254,37,18.3,40265,12,Theft,18,1,0,1,AGT-458,,6,0
+CLM-000255,37,6,67634,11,Collision,17,3,1,1,AGT-635,Break-in damage to driver door,43,1
+CLM-000256,24,12.5,31967,19,Weather,2,0,1,1,AGT-165,Break-in damage to driver door,36,0
+CLM-000257,55,14.3,28605,7,Collision,7,2,1,0,AGT-201,,33,0
+CLM-000258,25,4.7,65901,14,Medical,14,0,1,1,AGT-794,Single vehicle skid on wet road,34,0
+CLM-000259,39,14.4,35699,20,Medical,16,0,1,1,AGT-622,,37,1
+CLM-000260,65,19.8,76944,20,Vandalism,5,2,1,1,AGT-732,Rear-end collision on highway,3,0
+CLM-000261,51,17.7,51003,21,Medical,11,0,1,1,AGT-895,Rear-end collision on highway,16,1
+CLM-000262,62,6.9,81235,18,Collision,5,1,1,1,AGT-805,,35,0
+CLM-000263,61,5.5,65207,11,Collision,6,2,1,0,AGT-666,Single vehicle skid on wet road,13,0
+CLM-000264,60,13.8,32063,23,Medical,8,1,1,0,AGT-318,Hail damage to roof and hood,29,0
+CLM-000265,63,3.2,12727,10,Weather,4,2,1,1,AGT-862,Break-in damage to driver door,5,1
+CLM-000266,76,19.3,38620,11,Medical,0,2,0,1,AGT-389,Rear-end collision on highway,8,0
+CLM-000267,68,13.4,8951,2,Fire,,3,0,0,AGT-596,Single vehicle skid on wet road,20,0
+CLM-000268,60,2,82787,18,Vandalism,16,1,1,1,AGT-113,Hail damage to roof and hood,11,1
+CLM-000269,37,14.5,76880,8,Weather,13,3,0,1,AGT-567,Vehicle stolen from parking lot,7,1
+CLM-000270,74,19.5,25063,19,Weather,4,1,1,0,AGT-715,,34,0
+CLM-000271,53,2.5,62421,4,Weather,0,5,1,0,AGT-608,Rear-end collision on highway,7,0
+CLM-000272,23,17.8,5621,4,Collision,16,3,0,1,AGT-995,Single vehicle skid on wet road,39,0
+CLM-000273,31,17.3,8127,18,Fire,14,4,1,1,AGT-448,Break-in damage to driver door,43,0
+CLM-000274,73,18,5854,14,Vandalism,13,1,1,1,AGT-507,Rear-end collision on highway,16,0
+CLM-000275,22,1.3,28987,15,Weather,0,5,1,1,AGT-366,,5,0
+CLM-000276,72,17.5,55424,21,Vandalism,6,3,1,0,AGT-754,Vehicle stolen from parking lot,13,0
+CLM-000277,25,2.1,61334,16,Fire,10,2,1,0,AGT-588,Rear-end collision on highway,29,0
+CLM-000278,63,13.8,28652,7,Vandalism,,3,1,1,AGT-464,Single vehicle skid on wet road,9,0
+CLM-000279,42,6.4,81913,10,Medical,8,2,1,1,AGT-627,Rear-end collision on highway,27,0
+CLM-000280,76,1.3,21403,2,Weather,14,4,1,0,AGT-971,Vehicle stolen from parking lot,18,0
+CLM-000281,65,5.6,66955,12,Theft,15,1,1,1,AGT-757,Break-in damage to driver door,39,0
+CLM-000282,58,11.4,11251,11,Fire,14,0,1,0,AGT-879,Hail damage to roof and hood,10,0
+CLM-000283,78,10,17842,4,Weather,10,2,1,1,AGT-774,Vehicle stolen from parking lot,28,0
+CLM-000284,23,10.9,35090,1,Vandalism,2,2,0,1,AGT-997,Hail damage to roof and hood,19,0
+CLM-000285,25,6.1,37023,0,Theft,13,3,1,1,AGT-819,Break-in damage to driver door,28,0
+CLM-000286,33,8.3,1598,0,Theft,5,5,1,0,AGT-515,Vehicle stolen from parking lot,27,0
+CLM-000287,41,0.9,636,19,Theft,16,0,1,0,AGT-709,Vehicle stolen from parking lot,20,0
+CLM-000288,43,8.6,68483,13,Weather,10,5,1,0,AGT-980,,1,1
+CLM-000289,24,18.8,68449,18,Medical,14,5,1,0,AGT-799,Rear-end collision on highway,4,0
+CLM-000290,58,2.8,36140,2,Theft,17,0,1,1,AGT-753,Hail damage to roof and hood,42,0
+CLM-000291,63,13.3,5402,6,Collision,18,2,0,1,AGT-634,Hail damage to roof and hood,23,1
+CLM-000292,65,14.9,3023,4,Theft,13,4,0,0,AGT-622,Vehicle stolen from parking lot,13,0
+CLM-000293,70,4.1,22820,20,Vandalism,3,4,1,1,AGT-676,Hail damage to roof and hood,42,1
+CLM-000294,54,5.9,28372,1,Collision,2,4,0,0,AGT-969,Vehicle stolen from parking lot,0,0
+CLM-000295,36,18.8,18014,21,Fire,11,5,1,0,AGT-883,Break-in damage to driver door,30,1
+CLM-000296,62,13.5,71898,22,Weather,12,3,1,1,AGT-730,Rear-end collision on highway,25,1
+CLM-000297,66,17.7,6201,21,Theft,7,5,1,0,AGT-226,Break-in damage to driver door,42,1
+CLM-000298,63,3.3,58518,1,Medical,15,1,0,0,AGT-594,Break-in damage to driver door,16,1
+CLM-000299,30,6.5,60468,16,Weather,,5,0,0,AGT-223,Rear-end collision on highway,17,0
+CLM-000300,36,8.7,66941,0,Collision,7,3,1,1,AGT-469,Hail damage to roof and hood,42,0
+CLM-000301,61,6.4,34118,2,Theft,1,2,1,1,AGT-639,,41,1
+CLM-000302,23,14.8,55668,8,Weather,9,3,0,0,AGT-342,Single vehicle skid on wet road,29,1
+CLM-000303,55,1.6,6343,1,Theft,15,0,0,0,AGT-324,,14,0
+CLM-000304,33,12,34425,7,Collision,12,1,0,0,AGT-319,Break-in damage to driver door,35,1
+CLM-000305,68,18.9,25564,7,Vandalism,2,3,1,0,AGT-313,Break-in damage to driver door,15,0
+CLM-000306,35,16.9,31310,2,Weather,1,2,0,0,AGT-313,,39,1
+CLM-000307,55,11.1,20025,21,Medical,5,1,1,1,AGT-985,Single vehicle skid on wet road,0,0
+CLM-000308,39,15.5,51432,11,Theft,5,1,0,0,AGT-796,Single vehicle skid on wet road,10,1
+CLM-000309,46,12.3,48480,3,Vandalism,18,5,1,1,AGT-837,Single vehicle skid on wet road,15,0
+CLM-000310,69,12.4,43918,6,Vandalism,17,3,0,1,AGT-826,Single vehicle skid on wet road,29,0
+CLM-000311,28,1.1,82548,20,Fire,13,1,1,0,AGT-325,Break-in damage to driver door,0,0
+CLM-000312,55,5.6,42649,19,Collision,13,4,1,1,AGT-165,Single vehicle skid on wet road,25,0
+CLM-000313,46,9.5,82282,2,Vandalism,16,4,1,0,AGT-991,Break-in damage to driver door,15,0
+CLM-000314,67,18.6,67916,21,Weather,15,1,0,1,AGT-723,Vehicle stolen from parking lot,12,1
+CLM-000315,61,9.4,8774,6,Fire,17,5,1,0,AGT-282,Single vehicle skid on wet road,38,1
+CLM-000316,28,4.1,35721,19,Medical,12,2,0,0,AGT-649,Single vehicle skid on wet road,1,0
+CLM-000317,31,1.2,992,5,Fire,10,1,1,1,AGT-542,Hail damage to roof and hood,14,0
+CLM-000318,70,17.3,30653,0,Medical,15,4,1,0,AGT-603,Single vehicle skid on wet road,20,0
+CLM-000319,38,17.7,41588,23,Collision,4,3,0,0,AGT-779,Rear-end collision on highway,4,1
+CLM-000320,50,12.1,33997,2,Weather,1,0,0,1,AGT-860,Break-in damage to driver door,29,0
+CLM-000321,66,14.8,26267,14,Weather,0,3,1,1,AGT-661,Vehicle stolen from parking lot,26,1
+CLM-000322,43,15,40201,4,Medical,12,0,1,0,AGT-670,Rear-end collision on highway,17,1
+CLM-000323,22,10.6,24502,23,Fire,10,4,1,0,AGT-198,Single vehicle skid on wet road,16,1
+CLM-000324,72,2.6,10032,13,Collision,0,5,1,0,AGT-640,Break-in damage to driver door,29,1
+CLM-000325,76,18.2,81860,20,Theft,17,4,0,1,AGT-363,Single vehicle skid on wet road,15,0
+CLM-000326,74,19.2,46886,13,Weather,1,0,1,0,AGT-655,Hail damage to roof and hood,44,1
+CLM-000327,77,12.9,6254,14,Collision,9,5,0,1,AGT-627,Break-in damage to driver door,12,1
+CLM-000328,24,13.8,53270,13,Collision,0,3,1,1,AGT-231,Hail damage to roof and hood,7,0
+CLM-000329,25,6.2,20686,11,Collision,4,3,1,1,AGT-603,Vehicle stolen from parking lot,11,0
+CLM-000330,72,10.5,80212,10,Collision,9,0,1,1,AGT-868,,23,0
+CLM-000331,40,11.6,25979,19,Vandalism,10,1,0,0,AGT-743,Rear-end collision on highway,31,0
+CLM-000332,45,17.6,15708,11,Fire,8,4,1,1,AGT-416,Vehicle stolen from parking lot,28,0
+CLM-000333,37,15.9,71771,8,Collision,15,0,0,0,AGT-340,Hail damage to roof and hood,30,0
+CLM-000334,23,4,29540,11,Medical,1,0,0,0,AGT-436,Break-in damage to driver door,23,0
+CLM-000335,70,15.1,49263,7,Vandalism,14,1,1,0,AGT-495,Rear-end collision on highway,44,1
+CLM-000336,42,20,5950,19,Medical,13,4,1,0,AGT-241,Vehicle stolen from parking lot,29,1
+CLM-000337,39,7.9,51584,3,Vandalism,8,4,1,1,AGT-165,,40,1
+CLM-000338,67,7.4,26310,13,Collision,2,2,1,1,AGT-236,,14,0
+CLM-000339,33,0.9,78450,6,Weather,,2,1,1,AGT-808,Hail damage to roof and hood,23,1
+CLM-000340,35,17.2,76045,8,Weather,,4,1,0,AGT-919,Single vehicle skid on wet road,5,1
+CLM-000341,52,7.1,46487,15,Weather,14,1,1,1,AGT-984,Hail damage to roof and hood,16,0
+CLM-000342,57,10.5,24046,22,Collision,10,1,1,1,AGT-337,Vehicle stolen from parking lot,23,0
+CLM-000343,63,1.2,59517,20,Vandalism,0,5,0,0,AGT-323,Vehicle stolen from parking lot,24,1
+CLM-000344,35,13,15223,12,Medical,12,4,1,1,AGT-162,Hail damage to roof and hood,34,0
+CLM-000345,27,1.7,31145,10,Weather,7,2,1,0,AGT-839,Single vehicle skid on wet road,24,0
+CLM-000346,59,3.1,38332,23,Theft,10,2,0,1,AGT-713,Single vehicle skid on wet road,8,1
+CLM-000347,51,1.8,45364,20,Vandalism,14,4,0,0,AGT-482,Single vehicle skid on wet road,41,1
+CLM-000348,26,5,43734,8,Medical,1,1,1,1,AGT-859,Break-in damage to driver door,35,1
+CLM-000349,40,5.3,7761,22,Fire,17,0,0,0,AGT-847,Single vehicle skid on wet road,13,0
+CLM-000350,62,13.7,3876,17,Vandalism,10,4,1,0,AGT-713,Vehicle stolen from parking lot,11,0
+CLM-000351,77,7.2,41151,16,Vandalism,16,4,0,0,AGT-820,,9,1
+CLM-000352,24,11.1,53361,10,Theft,6,2,1,1,AGT-824,Break-in damage to driver door,39,1
+CLM-000353,33,11.7,17364,20,Medical,12,4,0,0,AGT-915,Rear-end collision on highway,25,0
+CLM-000354,56,18,10642,9,Fire,10,3,1,1,AGT-663,Rear-end collision on highway,23,0
+CLM-000355,26,5.8,27351,5,Weather,3,2,0,1,AGT-640,Single vehicle skid on wet road,20,1
+CLM-000356,61,16,22180,23,Fire,7,5,1,1,AGT-866,Break-in damage to driver door,29,0
+CLM-000357,73,19.4,46557,19,Weather,10,5,0,1,AGT-556,Single vehicle skid on wet road,3,0
+CLM-000358,31,1.2,9557,16,Vandalism,4,5,1,0,AGT-457,Rear-end collision on highway,28,1
+CLM-000359,59,12.7,36420,14,Medical,17,0,1,0,AGT-275,Break-in damage to driver door,23,0
+CLM-000360,52,19.3,69482,8,Collision,9,2,0,0,AGT-631,Vehicle stolen from parking lot,15,1
+CLM-000361,73,2.8,73906,1,Theft,0,3,0,1,AGT-627,Single vehicle skid on wet road,13,0
+CLM-000362,71,5.3,83795,3,Theft,0,2,1,1,AGT-893,Single vehicle skid on wet road,20,0
+CLM-000363,39,5.8,71839,21,Theft,6,4,1,1,AGT-590,,24,0
+CLM-000364,76,16.1,55244,0,Fire,11,4,1,0,AGT-960,Vehicle stolen from parking lot,23,0
+CLM-000365,50,10,82603,9,Vandalism,9,4,1,0,AGT-377,Rear-end collision on highway,31,0
+CLM-000366,56,13.6,2079,13,Weather,3,4,1,0,AGT-979,Vehicle stolen from parking lot,28,0
+CLM-000367,77,10.4,62937,19,Theft,6,5,1,1,AGT-105,Single vehicle skid on wet road,16,1
+CLM-000368,42,6.6,42287,16,Vandalism,15,0,1,0,AGT-491,Break-in damage to driver door,29,0
+CLM-000369,75,11,11612,19,Weather,7,2,1,1,AGT-422,Rear-end collision on highway,15,0
+CLM-000370,30,13.4,31673,4,Weather,8,4,1,0,AGT-999,Break-in damage to driver door,26,0
+CLM-000371,50,3.3,51096,8,Theft,10,0,1,0,AGT-603,Hail damage to roof and hood,45,0
+CLM-000372,66,13.6,38527,5,Theft,,3,0,0,AGT-718,,15,0
+CLM-000373,35,3.4,63738,18,Fire,12,4,1,0,AGT-717,Hail damage to roof and hood,10,0
+CLM-000374,50,12.4,68478,10,Theft,17,3,1,1,AGT-731,Break-in damage to driver door,31,1
+CLM-000375,22,13.3,6238,0,Theft,3,2,0,1,AGT-606,Break-in damage to driver door,16,0
+CLM-000376,25,14.9,69566,6,Fire,9,4,0,1,AGT-922,Single vehicle skid on wet road,15,0
+CLM-000377,22,7.7,82722,17,Weather,13,1,1,1,AGT-841,Single vehicle skid on wet road,6,0
+CLM-000378,57,3.2,62797,19,Vandalism,0,1,1,1,AGT-546,Hail damage to roof and hood,20,0
+CLM-000379,27,2.2,31880,7,Fire,13,2,0,0,AGT-578,Rear-end collision on highway,13,0
+CLM-000380,24,4.1,29173,22,Vandalism,9,0,0,0,AGT-599,Hail damage to roof and hood,14,0
+CLM-000381,54,5.5,72454,7,Medical,14,2,0,1,AGT-335,,36,0
+CLM-000382,51,13,27392,5,Theft,12,0,1,1,AGT-215,Rear-end collision on highway,1,1
+CLM-000383,37,4.5,29478,14,Collision,16,2,0,0,AGT-971,Single vehicle skid on wet road,15,0
+CLM-000384,25,16.3,56447,4,Collision,7,4,0,1,AGT-145,Hail damage to roof and hood,39,0
+CLM-000385,43,15.7,17181,15,Fire,,5,1,1,AGT-401,Break-in damage to driver door,44,0
+CLM-000386,56,3.7,60362,10,Medical,13,5,1,1,AGT-261,Single vehicle skid on wet road,20,0
+CLM-000387,64,3.2,78267,22,Theft,10,0,0,0,AGT-167,,17,0
+CLM-000388,34,4.4,9374,10,Medical,1,3,0,1,AGT-358,Rear-end collision on highway,0,0
+CLM-000389,50,7.1,27709,11,Vandalism,8,1,1,1,AGT-821,,27,0
+CLM-000390,40,5.3,44109,19,Theft,1,2,0,0,AGT-741,Rear-end collision on highway,4,0
+CLM-000391,43,18,20119,20,Vandalism,5,1,1,0,AGT-856,Single vehicle skid on wet road,36,0
+CLM-000392,76,8.2,45715,18,Vandalism,4,0,1,0,AGT-821,,21,1
+CLM-000393,73,4.6,66553,13,Collision,9,1,1,1,AGT-287,Hail damage to roof and hood,7,0
+CLM-000394,63,8.6,61855,7,Weather,1,3,0,0,AGT-698,Single vehicle skid on wet road,5,0
+CLM-000395,27,10.2,49157,11,Vandalism,15,4,1,1,AGT-449,Hail damage to roof and hood,14,1
+CLM-000396,58,3.8,69275,10,Medical,16,0,1,0,AGT-177,Rear-end collision on highway,35,0
+CLM-000397,70,18.1,45164,4,Collision,5,0,1,1,AGT-257,Rear-end collision on highway,13,0
+CLM-000398,62,17.1,15718,2,Medical,2,2,1,1,AGT-367,Single vehicle skid on wet road,36,1
+CLM-000399,51,9.4,36118,17,Theft,7,2,0,1,AGT-680,Break-in damage to driver door,38,0
+CLM-000400,28,12.9,79101,1,Medical,9,5,0,0,AGT-489,Rear-end collision on highway,10,0
+CLM-000401,40,18.2,60134,5,Medical,12,3,0,0,AGT-432,Rear-end collision on highway,37,0
+CLM-000402,50,5.7,37883,12,Fire,5,1,0,1,AGT-667,,17,1
+CLM-000403,26,8,61534,23,Weather,,0,0,1,AGT-184,Break-in damage to driver door,18,0
+CLM-000404,34,16.6,77834,20,Vandalism,6,1,1,1,AGT-430,Vehicle stolen from parking lot,26,0
+CLM-000405,23,19.5,49052,8,Vandalism,1,3,0,0,AGT-572,Rear-end collision on highway,12,0
+CLM-000406,38,0.5,52154,8,Theft,18,3,1,1,AGT-332,Hail damage to roof and hood,15,0
+CLM-000407,34,9.3,9266,22,Medical,9,5,0,1,AGT-612,Rear-end collision on highway,7,0
+CLM-000408,57,14.9,78454,22,Medical,15,1,0,1,AGT-874,Single vehicle skid on wet road,16,1
+CLM-000409,55,6.5,2432,3,Fire,0,0,1,1,AGT-263,Break-in damage to driver door,37,0
+CLM-000410,24,1.9,38655,18,Medical,18,3,0,1,AGT-741,,40,1
+CLM-000411,37,2.3,17007,4,Collision,10,3,0,1,AGT-720,,10,0
+CLM-000412,27,7.4,29507,14,Medical,11,0,1,0,AGT-269,Break-in damage to driver door,0,0
+CLM-000413,30,1.4,75844,4,Medical,4,2,0,0,AGT-206,Hail damage to roof and hood,43,0
+CLM-000414,28,11.6,54535,18,Medical,18,3,0,1,AGT-258,Rear-end collision on highway,19,0
+CLM-000415,41,15.2,24456,2,Collision,5,0,1,1,AGT-653,Hail damage to roof and hood,31,1
+CLM-000416,22,3.1,41189,16,Collision,18,5,1,0,AGT-334,,44,0
+CLM-000417,62,3.6,7178,1,Theft,8,1,1,1,AGT-553,Hail damage to roof and hood,29,0
+CLM-000418,24,18.3,14511,21,Theft,18,0,1,1,AGT-185,Vehicle stolen from parking lot,40,0
+CLM-000419,52,6.4,22665,3,Theft,8,4,0,1,AGT-883,Hail damage to roof and hood,45,1
+CLM-000420,59,14.2,5903,1,Collision,,0,0,0,AGT-626,Single vehicle skid on wet road,22,1
+CLM-000421,46,20,40473,3,Vandalism,9,1,0,0,AGT-716,,34,1
+CLM-000422,77,6.7,75909,21,Vandalism,9,0,1,0,AGT-354,Hail damage to roof and hood,1,0
+CLM-000423,55,17.2,25006,7,Fire,4,1,0,1,AGT-684,Vehicle stolen from parking lot,20,0
+CLM-000424,39,1.7,65017,13,Fire,0,1,0,0,AGT-884,Hail damage to roof and hood,21,0
+CLM-000425,30,2,49730,23,Vandalism,17,0,0,0,AGT-542,Single vehicle skid on wet road,17,0
+CLM-000426,61,11,7799,0,Weather,9,0,0,1,AGT-144,Hail damage to roof and hood,41,1
+CLM-000427,58,12.1,31986,5,Medical,5,5,0,0,AGT-696,Single vehicle skid on wet road,37,1
+CLM-000428,38,6.7,1422,13,Vandalism,4,4,1,1,AGT-341,Break-in damage to driver door,18,0
+CLM-000429,31,10,51904,14,Vandalism,12,2,1,0,AGT-374,Single vehicle skid on wet road,12,0
+CLM-000430,33,4.5,74430,1,Theft,12,4,1,1,AGT-256,Vehicle stolen from parking lot,20,0
+CLM-000431,32,4.2,80333,8,Collision,13,2,0,1,AGT-203,Rear-end collision on highway,6,0
+CLM-000432,42,17,19541,21,Vandalism,2,1,1,1,AGT-966,Vehicle stolen from parking lot,28,0
+CLM-000433,43,6.4,50595,23,Medical,2,0,1,1,AGT-523,Break-in damage to driver door,27,1
+CLM-000434,35,16.2,19570,16,Vandalism,5,5,0,1,AGT-116,Break-in damage to driver door,42,1
+CLM-000435,45,18.1,78154,22,Collision,12,0,1,1,AGT-409,Single vehicle skid on wet road,23,1
+CLM-000436,55,18.5,54535,18,Medical,17,3,0,1,AGT-247,Rear-end collision on highway,6,0
+CLM-000437,36,16.7,19385,11,Fire,9,5,1,1,AGT-480,,19,0
+CLM-000438,37,6.1,82480,8,Vandalism,4,0,1,1,AGT-564,Break-in damage to driver door,36,1
+CLM-000439,27,9.2,83814,5,Weather,12,3,1,1,AGT-570,Single vehicle skid on wet road,31,1
+CLM-000440,74,19.3,3816,8,Vandalism,6,4,1,0,AGT-307,Single vehicle skid on wet road,35,0
+CLM-000441,44,11.6,34878,6,Theft,13,4,1,1,AGT-602,Break-in damage to driver door,11,0
+CLM-000442,66,19.2,16171,2,Vandalism,3,4,1,0,AGT-916,Rear-end collision on highway,25,1
+CLM-000443,72,16.8,15179,4,Medical,2,5,1,0,AGT-742,Break-in damage to driver door,1,1
+CLM-000444,76,2.2,45211,8,Fire,18,4,0,1,AGT-811,Vehicle stolen from parking lot,14,1
+CLM-000445,38,5.5,9567,20,Vandalism,4,3,0,1,AGT-276,Rear-end collision on highway,35,0
+CLM-000446,45,18.5,31712,20,Weather,,2,0,0,AGT-871,Break-in damage to driver door,15,1
+CLM-000447,42,10.9,46324,7,Vandalism,6,0,0,0,AGT-317,Vehicle stolen from parking lot,45,0
+CLM-000448,52,12.2,6226,17,Collision,15,0,1,0,AGT-747,Vehicle stolen from parking lot,5,0
+CLM-000449,38,0.5,15700,18,Theft,4,2,1,1,AGT-701,Rear-end collision on highway,1,0
+CLM-000450,66,10.5,82054,6,Collision,5,2,1,0,AGT-818,Vehicle stolen from parking lot,29,0
+CLM-000451,28,13.1,52068,19,Fire,7,0,1,0,AGT-915,Single vehicle skid on wet road,33,1
+CLM-000452,66,18.7,697,23,Weather,12,2,0,0,AGT-630,Hail damage to roof and hood,18,1
+CLM-000453,28,17.1,3930,20,Vandalism,6,0,1,0,AGT-650,Vehicle stolen from parking lot,30,1
+CLM-000454,48,13.1,35488,4,Fire,1,1,1,0,AGT-770,Hail damage to roof and hood,10,0
+CLM-000455,39,11.8,27465,16,Medical,13,4,1,1,AGT-180,Hail damage to roof and hood,38,1
+CLM-000456,55,16.2,53716,13,Fire,7,3,0,0,AGT-598,Rear-end collision on highway,12,0
+CLM-000457,25,16,26397,1,Medical,5,4,1,1,AGT-979,Rear-end collision on highway,36,0
+CLM-000458,72,19,48957,18,Fire,12,0,1,1,AGT-297,Rear-end collision on highway,36,0
+CLM-000459,36,18.5,43592,22,Fire,6,1,0,0,AGT-329,Vehicle stolen from parking lot,34,1
+CLM-000460,55,0.8,6707,22,Collision,17,3,1,0,AGT-593,Vehicle stolen from parking lot,24,0
+CLM-000461,62,8.2,6404,13,Medical,11,3,1,0,AGT-586,Single vehicle skid on wet road,15,1
+CLM-000462,62,19.2,3349,13,Theft,3,5,0,1,AGT-338,Vehicle stolen from parking lot,45,0
+CLM-000463,75,2.2,58983,19,Fire,10,4,0,1,AGT-431,Hail damage to roof and hood,38,0
+CLM-000464,37,19.8,3606,23,Weather,7,5,0,1,AGT-579,Rear-end collision on highway,19,0
+CLM-000465,41,9.6,11188,6,Weather,9,4,1,1,AGT-909,Rear-end collision on highway,36,1
+CLM-000466,46,10.2,54950,6,Theft,5,2,1,0,AGT-453,,33,1
+CLM-000467,64,6.9,55699,9,Fire,1,2,1,0,AGT-104,Hail damage to roof and hood,20,1
+CLM-000468,76,9.2,36942,14,Medical,16,4,0,0,AGT-495,Hail damage to roof and hood,10,0
+CLM-000469,41,17.2,37056,5,Weather,13,3,0,1,AGT-777,Rear-end collision on highway,31,1
+CLM-000470,42,6.6,73699,23,Collision,7,5,1,0,AGT-193,Break-in damage to driver door,1,0
+CLM-000471,33,2.5,22275,17,Theft,2,3,1,0,AGT-814,Rear-end collision on highway,40,0
+CLM-000472,50,13.7,50850,19,Fire,13,0,1,0,AGT-179,Break-in damage to driver door,45,1
+CLM-000473,42,16.6,52789,17,Collision,9,5,1,0,AGT-495,Break-in damage to driver door,3,0
+CLM-000474,69,17.7,24391,13,Medical,9,1,0,0,AGT-614,Rear-end collision on highway,2,0
+CLM-000475,65,13.5,29373,18,Medical,13,1,1,1,AGT-326,Rear-end collision on highway,30,0
+CLM-000476,48,11.9,9620,5,Fire,2,4,1,1,AGT-468,Rear-end collision on highway,6,0
+CLM-000477,60,4.5,53569,14,Theft,15,2,1,0,AGT-810,Break-in damage to driver door,38,0
+CLM-000478,35,14,24155,11,Theft,5,0,1,1,AGT-182,Break-in damage to driver door,13,0
+CLM-000479,73,0.6,29909,9,Weather,1,0,0,1,AGT-382,Break-in damage to driver door,5,0
+CLM-000480,47,3.1,8952,1,Medical,4,1,1,1,AGT-875,Single vehicle skid on wet road,14,0
+CLM-000481,33,12.4,75403,5,Fire,13,1,1,0,AGT-407,Single vehicle skid on wet road,37,1
+CLM-000482,68,11.4,6478,7,Medical,11,1,1,1,AGT-374,Hail damage to roof and hood,45,0
+CLM-000483,53,7.6,68734,9,Vandalism,12,2,1,1,AGT-388,Single vehicle skid on wet road,13,0
+CLM-000484,72,7.9,59983,0,Medical,4,3,1,0,AGT-674,Rear-end collision on highway,18,0
+CLM-000485,30,15.6,84645,5,Fire,7,1,1,0,AGT-686,Rear-end collision on highway,23,1
+CLM-000486,58,12.5,65167,14,Collision,13,2,0,1,AGT-783,Rear-end collision on highway,6,0
+CLM-000487,56,4,41125,12,Theft,11,1,1,0,AGT-948,Break-in damage to driver door,12,0
+CLM-000488,42,14.4,67790,20,Theft,7,3,0,1,AGT-440,Rear-end collision on highway,17,0
+CLM-000489,43,3.6,2035,19,Weather,1,5,1,0,AGT-482,Rear-end collision on highway,40,1
+CLM-000490,50,1.7,38625,19,Theft,8,1,0,1,AGT-545,Hail damage to roof and hood,25,0
+CLM-000491,38,8.3,81663,21,Collision,18,2,1,0,AGT-435,Vehicle stolen from parking lot,23,1
+CLM-000492,50,2.8,78161,16,Collision,2,4,1,1,AGT-441,Hail damage to roof and hood,22,0
+CLM-000493,60,19.5,22887,14,Fire,1,4,1,1,AGT-298,Break-in damage to driver door,29,1
+CLM-000494,37,19.1,21675,15,Theft,13,1,0,1,AGT-973,,14,1
+CLM-000495,50,2.2,58305,13,Weather,7,1,0,1,AGT-234,,18,1
+CLM-000496,72,14.2,70789,23,Medical,6,3,1,1,AGT-632,Rear-end collision on highway,0,0
+CLM-000497,60,2.8,38303,15,Medical,6,0,1,1,AGT-722,Hail damage to roof and hood,4,0
+CLM-000498,78,13.6,46378,13,Collision,11,0,1,0,AGT-763,Single vehicle skid on wet road,36,1
+CLM-000499,26,5.3,60890,20,Fire,6,1,0,1,AGT-366,Rear-end collision on highway,0,0
+CLM-000500,34,1.7,40167,0,Theft,14,5,1,1,AGT-585,,35,1
+CLM-000501,40,19.5,83005,1,Collision,18,2,0,0,AGT-987,Vehicle stolen from parking lot,45,0
+CLM-000502,71,17,55046,15,Collision,3,0,1,1,AGT-532,Rear-end collision on highway,5,0
+CLM-000503,61,16.8,16979,22,Fire,17,2,1,0,AGT-253,Break-in damage to driver door,43,0
+CLM-000504,33,9,4009,6,Medical,11,5,1,1,AGT-490,Single vehicle skid on wet road,25,0
+CLM-000505,57,8.9,37548,15,Theft,6,3,1,1,AGT-281,,15,0
+CLM-000506,56,10.7,29507,6,Medical,3,3,1,0,AGT-842,Single vehicle skid on wet road,11,1
+CLM-000507,37,9.1,52102,2,Medical,13,4,1,1,AGT-789,,24,1
+CLM-000508,52,11.1,57033,18,Weather,17,4,1,0,AGT-904,Vehicle stolen from parking lot,37,1
+CLM-000509,59,13.2,42750,23,Vandalism,5,0,1,0,AGT-732,Break-in damage to driver door,0,0
+CLM-000510,65,12.3,69037,2,Medical,3,1,0,0,AGT-602,Hail damage to roof and hood,11,0
+CLM-000511,48,10.7,79957,2,Fire,7,1,1,0,AGT-370,,0,0
+CLM-000512,65,1.6,20356,18,Medical,4,3,0,1,AGT-665,,4,0
+CLM-000513,25,11.1,76411,1,Theft,0,5,1,1,AGT-343,Single vehicle skid on wet road,26,1
+CLM-000514,26,1.2,5998,14,Fire,17,4,1,1,AGT-197,Rear-end collision on highway,32,1
+CLM-000515,22,10.4,23110,15,Fire,14,1,1,0,AGT-988,Vehicle stolen from parking lot,30,0
+CLM-000516,30,14,44163,3,Medical,12,5,1,0,AGT-867,Rear-end collision on highway,6,1
+CLM-000517,37,11.3,50119,22,Theft,5,5,1,1,AGT-658,Break-in damage to driver door,35,1
+CLM-000518,36,7.7,33986,23,Medical,17,1,1,0,AGT-691,Break-in damage to driver door,30,0
+CLM-000519,77,14.8,34713,8,Collision,15,3,0,1,AGT-575,,30,0
+CLM-000520,63,1.9,70639,15,Medical,8,1,1,1,AGT-875,Break-in damage to driver door,7,0
+CLM-000521,31,3.9,33428,4,Medical,14,5,1,1,AGT-533,Hail damage to roof and hood,25,0
+CLM-000522,39,16.5,26833,4,Fire,16,4,0,1,AGT-487,Vehicle stolen from parking lot,13,1
+CLM-000523,72,4.8,30541,9,Medical,4,4,0,0,AGT-500,Break-in damage to driver door,32,0
+CLM-000524,78,3.1,44704,13,Theft,8,5,1,1,AGT-997,Break-in damage to driver door,20,1
+CLM-000525,55,2,7721,23,Weather,0,5,1,0,AGT-296,Single vehicle skid on wet road,40,0
+CLM-000526,23,3.3,71268,11,Medical,17,5,1,1,AGT-341,Vehicle stolen from parking lot,20,1
+CLM-000527,54,13.7,43650,8,Weather,3,5,0,0,AGT-330,Single vehicle skid on wet road,18,0
+CLM-000528,30,5.4,21779,18,Weather,14,0,1,0,AGT-840,Vehicle stolen from parking lot,30,0
+CLM-000529,56,12.6,56111,12,Weather,18,4,1,1,AGT-365,Hail damage to roof and hood,31,0
+CLM-000530,52,5.6,55948,21,Vandalism,6,4,1,0,AGT-266,Rear-end collision on highway,8,0
+CLM-000531,38,5.5,43528,20,Vandalism,0,4,1,0,AGT-293,Vehicle stolen from parking lot,37,0
+CLM-000532,22,19.8,34750,22,Medical,12,1,0,1,AGT-659,Break-in damage to driver door,4,0
+CLM-000533,40,5.1,78234,5,Vandalism,18,3,0,0,AGT-842,,12,1
+CLM-000534,43,6.3,58256,17,Collision,,3,0,0,AGT-265,Break-in damage to driver door,2,0
+CLM-000535,42,5.8,77836,4,Theft,15,1,1,0,AGT-246,Hail damage to roof and hood,8,0
+CLM-000536,74,9.8,83016,21,Fire,16,0,1,1,AGT-207,Break-in damage to driver door,40,0
+CLM-000537,42,2.1,77621,20,Theft,14,4,0,0,AGT-620,Break-in damage to driver door,43,0
+CLM-000538,56,9.4,25514,3,Collision,5,0,1,1,AGT-609,Break-in damage to driver door,12,1
+CLM-000539,36,20,77472,14,Collision,,2,0,0,AGT-438,Rear-end collision on highway,14,0
+CLM-000540,51,6.9,59636,19,Theft,16,2,0,0,AGT-622,Break-in damage to driver door,3,0
+CLM-000541,24,0.7,1292,7,Fire,2,2,0,1,AGT-643,,22,1
+CLM-000542,39,5.7,38313,5,Collision,16,1,1,0,AGT-320,Rear-end collision on highway,25,1
+CLM-000543,66,9.1,14005,4,Fire,1,1,1,1,AGT-925,Single vehicle skid on wet road,38,0
+CLM-000544,51,4.4,44538,3,Fire,6,2,1,1,AGT-836,,40,0
+CLM-000545,30,13.8,35690,7,Fire,15,1,0,1,AGT-296,Vehicle stolen from parking lot,18,0
+CLM-000546,58,9.6,17192,6,Theft,18,4,1,0,AGT-660,Rear-end collision on highway,29,1
+CLM-000547,40,3.4,35545,6,Vandalism,9,4,1,1,AGT-660,Break-in damage to driver door,26,0
+CLM-000548,36,9.1,74919,4,Medical,2,5,1,0,AGT-152,,30,0
+CLM-000549,46,14.1,1654,16,Medical,13,5,1,0,AGT-506,Hail damage to roof and hood,11,0
+CLM-000550,73,12.9,62853,4,Collision,4,2,0,0,AGT-218,Single vehicle skid on wet road,21,0
+CLM-000551,51,13.6,3104,16,Theft,,0,1,1,AGT-707,Rear-end collision on highway,33,0
+CLM-000552,37,9.1,47242,3,Weather,11,2,1,1,AGT-927,Vehicle stolen from parking lot,42,1
+CLM-000553,25,12,21972,6,Theft,10,4,0,0,AGT-936,Break-in damage to driver door,39,0
+CLM-000554,39,18.2,73692,0,Medical,18,1,0,1,AGT-331,,19,0
+CLM-000555,31,9.8,6396,14,Weather,17,2,0,0,AGT-433,Rear-end collision on highway,29,1
+CLM-000556,74,2.7,41451,2,Fire,13,4,1,0,AGT-279,Single vehicle skid on wet road,33,1
+CLM-000557,46,17.3,81295,2,Fire,6,0,1,1,AGT-941,Hail damage to roof and hood,43,0
+CLM-000558,47,10.2,10189,16,Collision,12,1,1,0,AGT-448,Single vehicle skid on wet road,1,0
+CLM-000559,51,12.6,50630,19,Vandalism,6,2,1,1,AGT-963,Single vehicle skid on wet road,30,1
+CLM-000560,67,1.8,81238,2,Fire,3,2,0,0,AGT-624,Hail damage to roof and hood,38,1
+CLM-000561,62,17.4,21187,20,Fire,4,0,1,1,AGT-720,,4,0
+CLM-000562,46,19.7,8646,3,Theft,7,0,1,1,AGT-388,Single vehicle skid on wet road,18,0
+CLM-000563,70,16.4,78724,17,Medical,15,0,1,1,AGT-630,,6,1
+CLM-000564,69,19.1,69122,3,Theft,7,2,1,0,AGT-545,Hail damage to roof and hood,1,0
+CLM-000565,28,15.5,31818,16,Theft,10,3,1,0,AGT-555,Break-in damage to driver door,29,1
+CLM-000566,54,1.6,3543,19,Weather,4,4,1,1,AGT-851,,0,0
+CLM-000567,25,14.8,2698,21,Weather,8,0,0,1,AGT-666,Single vehicle skid on wet road,17,0
+CLM-000568,49,13.1,49454,15,Collision,13,3,0,1,AGT-534,,3,0
+CLM-000569,52,10.6,50321,3,Fire,3,2,1,0,AGT-675,Hail damage to roof and hood,28,0
+CLM-000570,73,13,79351,15,Theft,11,3,0,1,AGT-353,Vehicle stolen from parking lot,26,0
+CLM-000571,42,12.2,7750,21,Fire,10,3,1,0,AGT-834,Single vehicle skid on wet road,44,1
+CLM-000572,71,2.8,47945,14,Weather,9,0,1,1,AGT-630,Vehicle stolen from parking lot,33,0
+CLM-000573,69,6.5,84572,17,Vandalism,11,1,1,0,AGT-623,,16,1
+CLM-000574,38,8.9,70002,8,Theft,13,3,1,1,AGT-959,Break-in damage to driver door,42,1
+CLM-000575,75,6.6,79102,22,Weather,14,3,1,0,AGT-268,Break-in damage to driver door,43,1
+CLM-000576,77,10.2,27180,15,Collision,5,5,1,1,AGT-840,Hail damage to roof and hood,38,0
+CLM-000577,78,2.9,46880,11,Theft,5,4,0,1,AGT-827,Single vehicle skid on wet road,0,1
+CLM-000578,57,1,34666,12,Weather,3,2,0,1,AGT-856,Break-in damage to driver door,11,0
+CLM-000579,22,8.4,78239,4,Medical,18,1,1,1,AGT-977,Rear-end collision on highway,15,0
+CLM-000580,55,4.5,58301,6,Fire,0,5,1,1,AGT-766,,43,1
+CLM-000581,63,1.4,83489,16,Fire,,1,1,1,AGT-472,,28,1
+CLM-000582,42,6.4,20886,3,Vandalism,10,4,1,1,AGT-488,Rear-end collision on highway,44,0
+CLM-000583,27,11.7,68169,23,Medical,14,1,0,1,AGT-159,Rear-end collision on highway,30,1
+CLM-000584,63,5.1,27141,7,Theft,2,2,1,0,AGT-929,Rear-end collision on highway,39,0
+CLM-000585,64,19.3,7308,18,Fire,,5,1,0,AGT-190,,16,0
+CLM-000586,78,10.5,84621,20,Collision,12,4,0,1,AGT-751,Vehicle stolen from parking lot,7,0
+CLM-000587,41,2.3,65256,20,Weather,,4,1,0,AGT-560,,10,1
+CLM-000588,71,17.7,13963,7,Medical,4,1,1,1,AGT-729,Rear-end collision on highway,2,0
+CLM-000589,47,14.2,40162,22,Vandalism,7,0,0,1,AGT-120,,1,0
+CLM-000590,76,2.3,56031,1,Fire,4,5,1,0,AGT-460,Single vehicle skid on wet road,28,0
+CLM-000591,29,9.7,70940,19,Vandalism,18,3,1,1,AGT-917,Vehicle stolen from parking lot,29,1
+CLM-000592,28,4,20849,13,Fire,8,5,0,1,AGT-540,Rear-end collision on highway,33,1
+CLM-000593,30,10.5,38921,3,Weather,13,4,1,1,AGT-278,Vehicle stolen from parking lot,27,0
+CLM-000594,50,6.5,29827,16,Collision,12,4,1,1,AGT-276,Break-in damage to driver door,16,0
+CLM-000595,41,5.8,39056,12,Theft,3,0,1,1,AGT-991,Single vehicle skid on wet road,41,0
+CLM-000596,33,4.3,16162,18,Medical,1,3,1,1,AGT-564,Break-in damage to driver door,40,0
+CLM-000597,34,1.4,45125,14,Vandalism,8,3,1,1,AGT-199,Hail damage to roof and hood,7,0
+CLM-000598,64,1.7,39133,15,Collision,16,3,0,0,AGT-871,Rear-end collision on highway,23,0
+CLM-000599,32,14.6,27006,15,Theft,6,5,1,0,AGT-470,Vehicle stolen from parking lot,6,1
+CLM-000600,45,13.5,6727,3,Weather,15,0,1,1,AGT-641,Hail damage to roof and hood,29,1

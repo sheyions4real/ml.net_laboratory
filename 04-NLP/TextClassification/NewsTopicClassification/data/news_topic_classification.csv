@@ -1,0 +1,641 @@
+RecordId,Text,NewsTopic,WordCount,Source
+NLP-000001,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000002,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000003,Underdog team wins championship in dramatic overtime finish.,Sports,8,Chat
+NLP-000004,Global markets react to central bank interest rate decision.,Business,9,Chat
+NLP-000005,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000006,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000007,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000008,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000009,Underdog team wins championship in dramatic overtime finish.,Sports,8,Survey
+NLP-000010,New study links regular exercise to improved cognitive function in adults.,Health,11,Ticket
+NLP-000011,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000012,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000013,Major tech company announces breakthrough in quantum computing research.,Technology,9,SocialMedia
+NLP-000014,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000015,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000016,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000017,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000018,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000019,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000020,Underdog team wins championship in dramatic overtime finish.,Sports,8,Survey
+NLP-000021,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000022,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000023,Global markets react to central bank interest rate decision.,Business,9,Survey
+NLP-000024,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000025,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000026,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000027,Global markets react to central bank interest rate decision.,Business,9,Survey
+NLP-000028,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000029,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000030,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000031,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000032,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000033,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000034,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000035,Underdog team wins championship in dramatic overtime finish.,Sports,8,SocialMedia
+NLP-000036,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000037,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000038,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000039,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000040,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000041,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000042,New study links regular exercise to improved cognitive function in adults.,Health,11,Review
+NLP-000043,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000044,Major tech company announces breakthrough in quantum computing research.,Technology,9,SocialMedia
+NLP-000045,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000046,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000047,Underdog team wins championship in dramatic overtime finish.,Sports,8,Survey
+NLP-000048,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000049,Major tech company announces breakthrough in quantum computing research.,Technology,9,SocialMedia
+NLP-000050,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000051,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000052,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000053,Underdog team wins championship in dramatic overtime finish.,Sports,8,Survey
+NLP-000054,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000055,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000056,Underdog team wins championship in dramatic overtime finish.,Sports,8,Chat
+NLP-000057,Underdog team wins championship in dramatic overtime finish.,Sports,8,Chat
+NLP-000058,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000059,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000060,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000061,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000062,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000063,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000064,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000065,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000066,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000067,Underdog team wins championship in dramatic overtime finish.,Sports,8,Survey
+NLP-000068,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000069,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000070,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000071,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000072,Senate passes new infrastructure bill after months of negotiations.,Politics,9,SocialMedia
+NLP-000073,Senate passes new infrastructure bill after months of negotiations.,Politics,9,SocialMedia
+NLP-000074,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000075,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000076,Underdog team wins championship in dramatic overtime finish.,Sports,8,Chat
+NLP-000077,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000078,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000079,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000080,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000081,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000082,Senate passes new infrastructure bill after months of negotiations.,Politics,9,SocialMedia
+NLP-000083,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000084,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000085,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000086,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000087,Underdog team wins championship in dramatic overtime finish.,Sports,8,Survey
+NLP-000088,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000089,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000090,Underdog team wins championship in dramatic overtime finish.,Sports,8,Survey
+NLP-000091,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000092,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000093,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000094,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000095,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000096,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000097,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000098,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000099,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000100,Underdog team wins championship in dramatic overtime finish.,Sports,8,SocialMedia
+NLP-000101,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000102,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000103,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000104,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000105,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000106,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000107,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000108,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000109,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000110,Underdog team wins championship in dramatic overtime finish.,Sports,8,Chat
+NLP-000111,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000112,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000113,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000114,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000115,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000116,Global markets react to central bank interest rate decision.,Business,9,Survey
+NLP-000117,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000118,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000119,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000120,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000121,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000122,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000123,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000124,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000125,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000126,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000127,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000128,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000129,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000130,New study links regular exercise to improved cognitive function in adults.,Health,11,Review
+NLP-000131,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000132,New study links regular exercise to improved cognitive function in adults.,Health,11,Review
+NLP-000133,New study links regular exercise to improved cognitive function in adults.,Health,11,Review
+NLP-000134,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000135,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000136,Global markets react to central bank interest rate decision.,Business,9,Survey
+NLP-000137,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000138,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000139,Senate passes new infrastructure bill after months of negotiations.,Politics,9,SocialMedia
+NLP-000140,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000141,Global markets react to central bank interest rate decision.,Business,9,Chat
+NLP-000142,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000143,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000144,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000145,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000146,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000147,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000148,Underdog team wins championship in dramatic overtime finish.,Sports,8,Chat
+NLP-000149,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000150,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000151,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000152,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000153,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000154,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000155,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000156,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000157,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000158,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000159,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000160,Underdog team wins championship in dramatic overtime finish.,Sports,8,SocialMedia
+NLP-000161,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000162,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000163,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000164,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000165,Underdog team wins championship in dramatic overtime finish.,Sports,8,SocialMedia
+NLP-000166,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000167,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000168,Senate passes new infrastructure bill after months of negotiations.,Politics,9,SocialMedia
+NLP-000169,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000170,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000171,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000172,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000173,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000174,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000175,Global markets react to central bank interest rate decision.,Business,9,Chat
+NLP-000176,Global markets react to central bank interest rate decision.,Business,9,Chat
+NLP-000177,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000178,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000179,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000180,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000181,Global markets react to central bank interest rate decision.,Business,9,Survey
+NLP-000182,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000183,Global markets react to central bank interest rate decision.,Business,9,Survey
+NLP-000184,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000185,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000186,Global markets react to central bank interest rate decision.,Business,9,Chat
+NLP-000187,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000188,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000189,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000190,Global markets react to central bank interest rate decision.,Business,9,Chat
+NLP-000191,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000192,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000193,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000194,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000195,Global markets react to central bank interest rate decision.,Business,9,Chat
+NLP-000196,Underdog team wins championship in dramatic overtime finish.,Sports,8,SocialMedia
+NLP-000197,New study links regular exercise to improved cognitive function in adults.,Health,11,Ticket
+NLP-000198,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000199,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000200,Global markets react to central bank interest rate decision.,Business,9,Chat
+NLP-000201,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000202,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000203,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000204,Global markets react to central bank interest rate decision.,Business,9,Survey
+NLP-000205,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000206,Underdog team wins championship in dramatic overtime finish.,Sports,8,Chat
+NLP-000207,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000208,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000209,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000210,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000211,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000212,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000213,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000214,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000215,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000216,Senate passes new infrastructure bill after months of negotiations.,Politics,9,SocialMedia
+NLP-000217,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000218,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000219,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000220,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000221,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000222,Underdog team wins championship in dramatic overtime finish.,Sports,8,SocialMedia
+NLP-000223,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000224,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000225,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000226,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000227,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000228,Global markets react to central bank interest rate decision.,Business,9,Survey
+NLP-000229,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000230,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000231,Major tech company announces breakthrough in quantum computing research.,Technology,9,SocialMedia
+NLP-000232,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000233,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000234,Underdog team wins championship in dramatic overtime finish.,Sports,8,Survey
+NLP-000235,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000236,Underdog team wins championship in dramatic overtime finish.,Sports,8,Survey
+NLP-000237,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000238,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000239,Major tech company announces breakthrough in quantum computing research.,Technology,9,SocialMedia
+NLP-000240,New study links regular exercise to improved cognitive function in adults.,Health,11,Ticket
+NLP-000241,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000242,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000243,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000244,Underdog team wins championship in dramatic overtime finish.,Sports,8,SocialMedia
+NLP-000245,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000246,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000247,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000248,Senate passes new infrastructure bill after months of negotiations.,Politics,9,SocialMedia
+NLP-000249,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000250,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000251,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000252,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000253,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000254,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000255,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000256,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000257,Global markets react to central bank interest rate decision.,Business,9,Survey
+NLP-000258,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000259,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000260,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000261,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000262,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000263,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000264,Global markets react to central bank interest rate decision.,Business,9,Survey
+NLP-000265,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000266,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000267,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000268,Underdog team wins championship in dramatic overtime finish.,Sports,8,SocialMedia
+NLP-000269,Global markets react to central bank interest rate decision.,Business,9,Chat
+NLP-000270,Underdog team wins championship in dramatic overtime finish.,Sports,8,SocialMedia
+NLP-000271,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000272,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000273,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000274,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000275,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000276,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000277,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000278,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000279,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000280,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000281,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000282,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000283,Major tech company announces breakthrough in quantum computing research.,Technology,9,SocialMedia
+NLP-000284,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000285,Underdog team wins championship in dramatic overtime finish.,Sports,8,SocialMedia
+NLP-000286,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000287,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000288,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000289,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000290,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000291,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000292,Underdog team wins championship in dramatic overtime finish.,Sports,8,Chat
+NLP-000293,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000294,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000295,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000296,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000297,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000298,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000299,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000300,Major tech company announces breakthrough in quantum computing research.,Technology,9,SocialMedia
+NLP-000301,Senate passes new infrastructure bill after months of negotiations.,Politics,9,SocialMedia
+NLP-000302,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000303,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000304,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000305,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000306,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000307,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000308,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000309,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000310,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000311,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000312,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000313,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000314,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000315,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000316,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000317,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000318,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000319,Underdog team wins championship in dramatic overtime finish.,Sports,8,Chat
+NLP-000320,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000321,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000322,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000323,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000324,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000325,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000326,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000327,Underdog team wins championship in dramatic overtime finish.,Sports,8,SocialMedia
+NLP-000328,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000329,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000330,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000331,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000332,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000333,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000334,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000335,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000336,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000337,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000338,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000339,New study links regular exercise to improved cognitive function in adults.,Health,11,Ticket
+NLP-000340,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000341,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000342,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000343,Underdog team wins championship in dramatic overtime finish.,Sports,8,SocialMedia
+NLP-000344,Major tech company announces breakthrough in quantum computing research.,Technology,9,SocialMedia
+NLP-000345,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000346,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000347,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000348,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000349,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000350,Major tech company announces breakthrough in quantum computing research.,Technology,9,SocialMedia
+NLP-000351,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000352,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000353,New study links regular exercise to improved cognitive function in adults.,Health,11,Review
+NLP-000354,Senate passes new infrastructure bill after months of negotiations.,Politics,9,SocialMedia
+NLP-000355,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000356,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000357,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000358,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000359,Senate passes new infrastructure bill after months of negotiations.,Politics,9,SocialMedia
+NLP-000360,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000361,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000362,New study links regular exercise to improved cognitive function in adults.,Health,11,Ticket
+NLP-000363,Underdog team wins championship in dramatic overtime finish.,Sports,8,Chat
+NLP-000364,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000365,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000366,Senate passes new infrastructure bill after months of negotiations.,Politics,9,SocialMedia
+NLP-000367,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000368,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000369,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000370,Global markets react to central bank interest rate decision.,Business,9,Survey
+NLP-000371,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000372,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000373,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000374,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000375,Global markets react to central bank interest rate decision.,Business,9,Survey
+NLP-000376,New study links regular exercise to improved cognitive function in adults.,Health,11,Review
+NLP-000377,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000378,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000379,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000380,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000381,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000382,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000383,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000384,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000385,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000386,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000387,Underdog team wins championship in dramatic overtime finish.,Sports,8,Chat
+NLP-000388,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000389,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000390,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000391,New study links regular exercise to improved cognitive function in adults.,Health,11,Ticket
+NLP-000392,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000393,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000394,Global markets react to central bank interest rate decision.,Business,9,Survey
+NLP-000395,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000396,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000397,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000398,Global markets react to central bank interest rate decision.,Business,9,Survey
+NLP-000399,Global markets react to central bank interest rate decision.,Business,9,Survey
+NLP-000400,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000401,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000402,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000403,New study links regular exercise to improved cognitive function in adults.,Health,11,Review
+NLP-000404,Underdog team wins championship in dramatic overtime finish.,Sports,8,SocialMedia
+NLP-000405,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000406,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000407,Underdog team wins championship in dramatic overtime finish.,Sports,8,Survey
+NLP-000408,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000409,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000410,Senate passes new infrastructure bill after months of negotiations.,Politics,9,SocialMedia
+NLP-000411,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000412,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000413,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000414,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000415,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000416,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000417,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000418,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000419,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000420,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000421,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000422,New study links regular exercise to improved cognitive function in adults.,Health,11,Ticket
+NLP-000423,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000424,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000425,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000426,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000427,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000428,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000429,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000430,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000431,Global markets react to central bank interest rate decision.,Business,9,Chat
+NLP-000432,Underdog team wins championship in dramatic overtime finish.,Sports,8,Chat
+NLP-000433,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000434,Global markets react to central bank interest rate decision.,Business,9,Chat
+NLP-000435,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000436,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000437,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000438,Senate passes new infrastructure bill after months of negotiations.,Politics,9,SocialMedia
+NLP-000439,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000440,Underdog team wins championship in dramatic overtime finish.,Sports,8,Survey
+NLP-000441,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000442,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000443,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000444,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000445,Global markets react to central bank interest rate decision.,Business,9,Survey
+NLP-000446,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000447,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000448,Underdog team wins championship in dramatic overtime finish.,Sports,8,Chat
+NLP-000449,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000450,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000451,Underdog team wins championship in dramatic overtime finish.,Sports,8,Chat
+NLP-000452,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000453,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000454,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000455,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000456,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000457,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000458,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000459,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000460,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000461,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000462,Senate passes new infrastructure bill after months of negotiations.,Politics,9,SocialMedia
+NLP-000463,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000464,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000465,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000466,Underdog team wins championship in dramatic overtime finish.,Sports,8,Chat
+NLP-000467,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000468,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000469,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000470,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000471,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000472,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000473,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000474,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000475,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000476,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000477,Global markets react to central bank interest rate decision.,Business,9,Chat
+NLP-000478,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000479,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000480,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000481,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000482,Major tech company announces breakthrough in quantum computing research.,Technology,9,SocialMedia
+NLP-000483,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000484,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000485,Major tech company announces breakthrough in quantum computing research.,Technology,9,SocialMedia
+NLP-000486,New study links regular exercise to improved cognitive function in adults.,Health,11,Ticket
+NLP-000487,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000488,New study links regular exercise to improved cognitive function in adults.,Health,11,Review
+NLP-000489,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000490,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000491,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000492,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000493,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000494,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000495,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000496,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000497,Global markets react to central bank interest rate decision.,Business,9,Survey
+NLP-000498,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000499,Senate passes new infrastructure bill after months of negotiations.,Politics,9,SocialMedia
+NLP-000500,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000501,Major tech company announces breakthrough in quantum computing research.,Technology,9,SocialMedia
+NLP-000502,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000503,Underdog team wins championship in dramatic overtime finish.,Sports,8,SocialMedia
+NLP-000504,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000505,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000506,Major tech company announces breakthrough in quantum computing research.,Technology,9,SocialMedia
+NLP-000507,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000508,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000509,Global markets react to central bank interest rate decision.,Business,9,Chat
+NLP-000510,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000511,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000512,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000513,New study links regular exercise to improved cognitive function in adults.,Health,11,Review
+NLP-000514,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000515,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000516,Senate passes new infrastructure bill after months of negotiations.,Politics,9,SocialMedia
+NLP-000517,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000518,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000519,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000520,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000521,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000522,Global markets react to central bank interest rate decision.,Business,9,Survey
+NLP-000523,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000524,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000525,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000526,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000527,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000528,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000529,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000530,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000531,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000532,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000533,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000534,Major tech company announces breakthrough in quantum computing research.,Technology,9,SocialMedia
+NLP-000535,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000536,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000537,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000538,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000539,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000540,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000541,Underdog team wins championship in dramatic overtime finish.,Sports,8,SocialMedia
+NLP-000542,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000543,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000544,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000545,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000546,Underdog team wins championship in dramatic overtime finish.,Sports,8,Chat
+NLP-000547,Underdog team wins championship in dramatic overtime finish.,Sports,8,Survey
+NLP-000548,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000549,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000550,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000551,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000552,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000553,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000554,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000555,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000556,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000557,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000558,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000559,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000560,New study links regular exercise to improved cognitive function in adults.,Health,11,Ticket
+NLP-000561,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000562,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000563,New study links regular exercise to improved cognitive function in adults.,Health,11,Ticket
+NLP-000564,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000565,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000566,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000567,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000568,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000569,Underdog team wins championship in dramatic overtime finish.,Sports,8,SocialMedia
+NLP-000570,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000571,Global markets react to central bank interest rate decision.,Business,9,Chat
+NLP-000572,New study links regular exercise to improved cognitive function in adults.,Health,11,Review
+NLP-000573,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000574,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000575,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000576,Underdog team wins championship in dramatic overtime finish.,Sports,8,Survey
+NLP-000577,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000578,Underdog team wins championship in dramatic overtime finish.,Sports,8,Email
+NLP-000579,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000580,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000581,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000582,Senate passes new infrastructure bill after months of negotiations.,Politics,9,SocialMedia
+NLP-000583,Global markets react to central bank interest rate decision.,Business,9,Chat
+NLP-000584,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000585,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000586,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Review
+NLP-000587,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000588,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000589,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000590,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000591,Major tech company announces breakthrough in quantum computing research.,Technology,9,Email
+NLP-000592,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000593,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000594,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000595,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000596,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000597,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000598,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000599,Major tech company announces breakthrough in quantum computing research.,Technology,9,Chat
+NLP-000600,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000601,Global markets react to central bank interest rate decision.,Business,9,Chat
+NLP-000602,Senate passes new infrastructure bill after months of negotiations.,Politics,9,SocialMedia
+NLP-000603,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000604,Global markets react to central bank interest rate decision.,Business,9,SocialMedia
+NLP-000605,New study links regular exercise to improved cognitive function in adults.,Health,11,Email
+NLP-000606,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000607,Global markets react to central bank interest rate decision.,Business,9,Survey
+NLP-000608,Global markets react to central bank interest rate decision.,Business,9,Chat
+NLP-000609,Global markets react to central bank interest rate decision.,Business,9,Review
+NLP-000610,Underdog team wins championship in dramatic overtime finish.,Sports,8,Chat
+NLP-000611,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000612,Underdog team wins championship in dramatic overtime finish.,Sports,8,Ticket
+NLP-000613,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000614,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000615,New study links regular exercise to improved cognitive function in adults.,Health,11,Review
+NLP-000616,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000617,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000618,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000619,Major tech company announces breakthrough in quantum computing research.,Technology,9,SocialMedia
+NLP-000620,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Chat
+NLP-000621,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000622,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000623,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000624,New study links regular exercise to improved cognitive function in adults.,Health,11,Survey
+NLP-000625,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000626,Underdog team wins championship in dramatic overtime finish.,Sports,8,Survey
+NLP-000627,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Email
+NLP-000628,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Survey
+NLP-000629,Underdog team wins championship in dramatic overtime finish.,Sports,8,Review
+NLP-000630,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket
+NLP-000631,Major tech company announces breakthrough in quantum computing research.,Technology,9,Review
+NLP-000632,Global markets react to central bank interest rate decision.,Business,9,Ticket
+NLP-000633,Major tech company announces breakthrough in quantum computing research.,Technology,9,Ticket
+NLP-000634,Global markets react to central bank interest rate decision.,Business,9,Email
+NLP-000635,Global markets react to central bank interest rate decision.,Business,9,Chat
+NLP-000636,Underdog team wins championship in dramatic overtime finish.,Sports,8,Chat
+NLP-000637,New study links regular exercise to improved cognitive function in adults.,Health,11,Chat
+NLP-000638,Major tech company announces breakthrough in quantum computing research.,Technology,9,Survey
+NLP-000639,New study links regular exercise to improved cognitive function in adults.,Health,11,SocialMedia
+NLP-000640,Senate passes new infrastructure bill after months of negotiations.,Politics,9,Ticket

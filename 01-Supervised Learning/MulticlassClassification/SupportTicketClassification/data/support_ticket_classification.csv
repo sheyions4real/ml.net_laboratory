@@ -1,0 +1,781 @@
+TicketId,CustomerTier,Channel,Priority,ProductLine,ResponseTimeHours,ResolutionTimeHours,AgentExperienceYears,Escalated,CustomerSentimentScore,TicketSubject,TicketCategory
+TKT-000001,Gold,WebPortal,Medium,EnterpriseERP,34.6,18.7,1.4,1,0.4,Delayed shipment tracking,Shipping
+TKT-000002,Platinum,WebPortal,Low,MobileApp,30.5,27.2,11.8,0,-0.19,Invoice discrepancy for March,ProductInquiry
+TKT-000003,Bronze,WebPortal,Medium,CloudSuite,9,42,4.8,0,-0.38,Request refund for order #4421,Returns
+TKT-000004,Platinum,WebPortal,Medium,CloudSuite,28,89.3,4.3,0,0.9,Request refund for order #4421,Returns
+TKT-000005,Silver,WebPortal,High,RetailPOS,41,19.7,8,0,0.74,Cannot reset password,Technical
+TKT-000006,Platinum,Phone,Critical,CloudSuite,0.4,4.7,5.6,1,-0.48,Invoice discrepancy for March,AccountAccess
+TKT-000007,Silver,WebPortal,Critical,EnterpriseERP,30.7,116,6.5,0,0.52,API rate limit exceeded,Shipping
+TKT-000008,Gold,Phone,Low,CloudSuite,25.6,17.2,3.6,0,-0.51,API rate limit exceeded,Shipping
+TKT-000009,Platinum,WebPortal,High,MobileApp,9.5,34.2,4.4,1,-0.76,App crashes on startup,Returns
+TKT-000010,Gold,Chat,Medium,CloudSuite,34,53.1,2.4,0,-0.86,Request refund for order #4421,Returns
+TKT-000011,Platinum,Phone,Critical,CloudSuite,28.4,76.8,6.2,0,0.56,Delayed shipment tracking,Returns
+TKT-000012,Gold,Phone,Low,RetailPOS,15.6,99.3,1.3,1,0.44,Request refund for order #4421,ProductInquiry
+TKT-000013,Bronze,Phone,High,CloudSuite,43,20.3,7.5,0,0.37,Cannot reset password,AccountAccess
+TKT-000014,Bronze,WebPortal,High,CloudSuite,35.7,23.1,5.7,0,-0.81,Cannot reset password,Technical
+TKT-000015,Silver,WebPortal,Medium,CloudSuite,17.9,22.6,7.8,1,-0.14,Delayed shipment tracking,Shipping
+TKT-000016,Bronze,Chat,Low,EnterpriseERP,35.6,76.9,7.5,0,0.15,App crashes on startup,AccountAccess
+TKT-000017,Silver,Email,Medium,EnterpriseERP,8.7,5.5,5.5,0,-0.17,API rate limit exceeded,Shipping
+TKT-000018,Platinum,Phone,Medium,MobileApp,30.5,49,4.8,0,0.91,Request refund for order #4421,Shipping
+TKT-000019,Gold,Phone,Medium,MobileApp,32.1,37.2,5.8,0,0.79,Invoice discrepancy for March,Billing
+TKT-000020,Platinum,Phone,High,RetailPOS,31.3,15.8,0.8,0,-0.39,App crashes on startup,Billing
+TKT-000021,Bronze,WebPortal,Critical,MobileApp,7.3,19.5,4.8,1,-0.38,App crashes on startup,Shipping
+TKT-000022,Bronze,Chat,Low,CloudSuite,46,61.1,9.6,0,0.3,Cannot reset password,Returns
+TKT-000023,Gold,Chat,Critical,MobileApp,11.5,66.6,5.7,0,-0.72,API rate limit exceeded,Billing
+TKT-000024,Bronze,Phone,Medium,RetailPOS,9.5,6.2,11.2,0,-0.46,Cannot reset password,Billing
+TKT-000025,Platinum,Email,Low,CloudSuite,23.7,86.3,4.6,0,0.34,Cannot reset password,Technical
+TKT-000026,Gold,Email,High,RetailPOS,32.3,116.2,2.4,0,-0.32,API rate limit exceeded,ProductInquiry
+TKT-000027,Platinum,Phone,High,CloudSuite,26.4,16.7,2,0,-0.64,API rate limit exceeded,Shipping
+TKT-000028,Platinum,WebPortal,Low,MobileApp,45.2,3.3,10.7,0,0.9,App crashes on startup,Technical
+TKT-000029,Platinum,Email,Low,RetailPOS,7.1,4.9,10.5,0,-0.78,Request refund for order #4421,Shipping
+TKT-000030,Bronze,WebPortal,Critical,RetailPOS,18.1,3.9,6.8,0,0.01,Request refund for order #4421,Shipping
+TKT-000031,Silver,WebPortal,High,EnterpriseERP,46.8,9.8,9.7,0,-0.85,Cannot reset password,AccountAccess
+TKT-000032,Silver,Chat,High,CloudSuite,38.5,119.7,10.1,1,0.5,Request refund for order #4421,Technical
+TKT-000033,Silver,Email,Medium,EnterpriseERP,14.5,33.7,6.3,0,0.05,API rate limit exceeded,Shipping
+TKT-000034,Platinum,Chat,High,RetailPOS,38,111.9,9.7,0,-0.91,Delayed shipment tracking,Billing
+TKT-000035,Bronze,Phone,High,CloudSuite,26.5,18.9,1.3,0,-0.73,Delayed shipment tracking,Billing
+TKT-000036,Platinum,Phone,Low,RetailPOS,27.6,90.8,5.8,0,-0.88,Delayed shipment tracking,Billing
+TKT-000037,Silver,Phone,Low,EnterpriseERP,40.3,75.1,6,0,-0.28,Request refund for order #4421,ProductInquiry
+TKT-000038,Bronze,Chat,Low,RetailPOS,4,69.2,9.5,0,-0.27,Invoice discrepancy for March,Technical
+TKT-000039,Bronze,Chat,High,MobileApp,47.4,73.6,0.6,1,-0.76,App crashes on startup,Billing
+TKT-000040,Gold,WebPortal,Low,CloudSuite,0.3,18.8,7.3,0,0.45,Invoice discrepancy for March,ProductInquiry
+TKT-000041,Bronze,Email,Critical,EnterpriseERP,37.2,105.9,11.7,0,-0.67,Cannot reset password,Technical
+TKT-000042,Silver,Email,Critical,MobileApp,28.3,25.7,5.3,1,-0.6,API rate limit exceeded,AccountAccess
+TKT-000043,Gold,Email,Medium,CloudSuite,19.4,102.5,8.7,0,0.42,Invoice discrepancy for March,Technical
+TKT-000044,Silver,WebPortal,Medium,CloudSuite,32.1,34.7,2.1,0,-0.26,Invoice discrepancy for March,Technical
+TKT-000045,Gold,Phone,High,RetailPOS,13.3,71.7,1.7,0,-0.62,App crashes on startup,Returns
+TKT-000046,Platinum,WebPortal,High,CloudSuite,34.3,42.5,7.3,0,-0.36,Delayed shipment tracking,Shipping
+TKT-000047,Platinum,WebPortal,Critical,MobileApp,41,91.5,3.5,0,0,Delayed shipment tracking,AccountAccess
+TKT-000048,Platinum,Chat,High,EnterpriseERP,2.9,30.2,10.2,0,0.46,Request refund for order #4421,Returns
+TKT-000049,Bronze,Chat,Low,RetailPOS,10.3,46.1,3.3,0,0.31,Cannot reset password,Technical
+TKT-000050,Gold,Email,Low,EnterpriseERP,46.5,36.8,10.8,0,-0.59,Request refund for order #4421,Technical
+TKT-000051,Gold,Phone,Critical,EnterpriseERP,45.5,46.5,7.2,0,-0.95,API rate limit exceeded,Billing
+TKT-000052,Bronze,Email,Critical,MobileApp,27.6,28.8,8.1,0,-0.54,App crashes on startup,Shipping
+TKT-000053,Bronze,WebPortal,Critical,RetailPOS,32.6,26.1,11.2,0,0.96,App crashes on startup,AccountAccess
+TKT-000054,Bronze,WebPortal,Low,EnterpriseERP,37.6,46.9,4.4,0,-0.39,Cannot reset password,Shipping
+TKT-000055,Gold,WebPortal,Critical,EnterpriseERP,38,63.5,8.8,1,0.48,API rate limit exceeded,Shipping
+TKT-000056,Platinum,WebPortal,High,RetailPOS,33.2,113.8,10.2,1,0.39,API rate limit exceeded,Returns
+TKT-000057,Bronze,Email,Low,RetailPOS,44.6,27.3,10.6,0,-0.04,API rate limit exceeded,Billing
+TKT-000058,Gold,Chat,High,MobileApp,33.4,94.1,5.5,0,-0.32,Invoice discrepancy for March,Billing
+TKT-000059,Gold,Chat,High,RetailPOS,39.8,119.7,3.6,1,-0.12,Request refund for order #4421,AccountAccess
+TKT-000060,Bronze,Phone,Critical,CloudSuite,34.8,71.5,9.1,1,-0.32,Request refund for order #4421,Shipping
+TKT-000061,Bronze,Chat,Medium,CloudSuite,5.3,92.3,11.6,0,-0.63,Invoice discrepancy for March,Shipping
+TKT-000062,Platinum,Phone,Critical,MobileApp,19.3,46.3,3.6,0,0.04,Delayed shipment tracking,Technical
+TKT-000063,Silver,WebPortal,Critical,RetailPOS,39.8,30.2,7.7,0,-0.21,Invoice discrepancy for March,Returns
+TKT-000064,Gold,Chat,Medium,EnterpriseERP,19.6,72.6,10.8,0,0.98,Cannot reset password,AccountAccess
+TKT-000065,Silver,WebPortal,Critical,RetailPOS,7.1,94.9,8.1,0,-0.07,Cannot reset password,Shipping
+TKT-000066,Bronze,Phone,Critical,CloudSuite,21,26.5,2.2,0,0.52,Delayed shipment tracking,Technical
+TKT-000067,Bronze,Chat,Low,MobileApp,5.4,31.3,3,0,0.44,API rate limit exceeded,ProductInquiry
+TKT-000068,Silver,Phone,Critical,EnterpriseERP,27.5,103.7,11.3,0,0.95,API rate limit exceeded,ProductInquiry
+TKT-000069,Gold,Phone,Critical,EnterpriseERP,12.8,36.9,10.8,1,-0.9,API rate limit exceeded,Technical
+TKT-000070,Gold,WebPortal,Low,CloudSuite,38.4,89.1,7.1,0,0.17,API rate limit exceeded,Billing
+TKT-000071,Silver,Phone,High,MobileApp,37.1,43.2,6.3,0,-0.17,Request refund for order #4421,Technical
+TKT-000072,Silver,Email,Medium,EnterpriseERP,46.7,84.6,0.6,1,-0.29,Delayed shipment tracking,Returns
+TKT-000073,Platinum,Chat,High,MobileApp,39.7,83.2,5.6,0,0.87,App crashes on startup,Technical
+TKT-000074,Bronze,WebPortal,Medium,MobileApp,6.9,77.6,8.2,0,0.17,Delayed shipment tracking,Billing
+TKT-000075,Platinum,Phone,Medium,EnterpriseERP,27.7,89.2,7.5,1,-0.62,Cannot reset password,ProductInquiry
+TKT-000076,Bronze,Email,Critical,RetailPOS,25.7,6.3,8.7,1,0.33,Delayed shipment tracking,Billing
+TKT-000077,Gold,Chat,Medium,RetailPOS,9,62.6,10.3,1,-0.67,Invoice discrepancy for March,AccountAccess
+TKT-000078,Silver,Chat,Critical,EnterpriseERP,25.1,13.1,9.4,0,0.15,Delayed shipment tracking,ProductInquiry
+TKT-000079,Platinum,Chat,Critical,RetailPOS,30.8,59.8,11.4,0,-0.02,API rate limit exceeded,Shipping
+TKT-000080,Platinum,Chat,Critical,MobileApp,19.4,33.5,4.4,0,-0.45,API rate limit exceeded,AccountAccess
+TKT-000081,Silver,Email,High,MobileApp,1.6,71.9,10.3,0,-0.89,Request refund for order #4421,AccountAccess
+TKT-000082,Silver,WebPortal,Low,RetailPOS,28.1,111.2,1.8,0,-0.25,Delayed shipment tracking,Shipping
+TKT-000083,Silver,Chat,Medium,CloudSuite,27.3,110.8,9.4,0,0.73,Cannot reset password,ProductInquiry
+TKT-000084,Gold,Phone,Medium,MobileApp,29.8,115.8,7.7,0,0.24,App crashes on startup,Billing
+TKT-000085,Silver,Chat,Critical,CloudSuite,28.3,49.3,11.8,1,-0.97,Invoice discrepancy for March,Technical
+TKT-000086,Platinum,WebPortal,Critical,RetailPOS,16.6,5.4,11.1,0,0.19,App crashes on startup,Technical
+TKT-000087,Gold,Chat,Low,MobileApp,19.1,65.5,8.6,0,0.88,App crashes on startup,Billing
+TKT-000088,Platinum,Chat,Medium,MobileApp,12.3,63.6,11.8,0,-0.71,Invoice discrepancy for March,Shipping
+TKT-000089,Gold,Chat,High,MobileApp,31.1,17.2,10.5,0,-0.22,Cannot reset password,Billing
+TKT-000090,Platinum,Chat,Critical,CloudSuite,8.9,52.4,3.1,0,0.6,App crashes on startup,Technical
+TKT-000091,Silver,WebPortal,Medium,CloudSuite,19.9,108.4,1.2,0,0.69,App crashes on startup,Technical
+TKT-000092,Gold,Chat,Critical,RetailPOS,11.3,19.5,5.8,0,-0.43,Request refund for order #4421,Billing
+TKT-000093,Gold,Chat,Critical,RetailPOS,26.6,24.8,6,1,0.7,Cannot reset password,AccountAccess
+TKT-000094,Gold,WebPortal,Low,EnterpriseERP,17.6,24.2,3.1,0,0.38,Invoice discrepancy for March,Technical
+TKT-000095,Bronze,WebPortal,Medium,CloudSuite,26.7,75.1,4.4,0,0.32,Cannot reset password,Technical
+TKT-000096,Silver,WebPortal,Medium,CloudSuite,18.1,95.7,7.4,0,0.71,App crashes on startup,AccountAccess
+TKT-000097,Bronze,WebPortal,Low,CloudSuite,19.3,45.9,1.9,0,0.59,API rate limit exceeded,Shipping
+TKT-000098,Bronze,WebPortal,High,CloudSuite,41.9,11.1,2.7,0,-0.99,Request refund for order #4421,AccountAccess
+TKT-000099,Silver,Phone,High,MobileApp,10,24.8,2.4,0,-0.42,App crashes on startup,ProductInquiry
+TKT-000100,Bronze,WebPortal,Medium,CloudSuite,24.6,38.7,10.7,0,-0.37,Delayed shipment tracking,Returns
+TKT-000101,Platinum,Email,High,EnterpriseERP,30.5,54.5,2.1,0,0.82,Cannot reset password,Technical
+TKT-000102,Platinum,Phone,Low,MobileApp,47.5,86.2,3.6,0,0,App crashes on startup,Technical
+TKT-000103,Silver,Chat,Low,RetailPOS,4.1,44.3,9,1,0.16,Request refund for order #4421,Technical
+TKT-000104,Silver,Email,Medium,CloudSuite,20.5,100.4,11.4,0,-0.51,Delayed shipment tracking,AccountAccess
+TKT-000105,Platinum,WebPortal,Low,RetailPOS,16.6,98.2,7.7,0,0.27,Delayed shipment tracking,Billing
+TKT-000106,Silver,Chat,Low,RetailPOS,47.9,36.9,10.5,0,-0.39,App crashes on startup,ProductInquiry
+TKT-000107,Silver,Email,Low,EnterpriseERP,21,95.8,6,1,-0.15,Delayed shipment tracking,Billing
+TKT-000108,Bronze,Chat,Critical,MobileApp,6.5,37.2,1.3,0,0.45,Delayed shipment tracking,Technical
+TKT-000109,Bronze,WebPortal,High,RetailPOS,26.6,101.1,4,1,0.62,Invoice discrepancy for March,Shipping
+TKT-000110,Platinum,WebPortal,Low,EnterpriseERP,29.6,63.1,8.8,0,0.15,Invoice discrepancy for March,AccountAccess
+TKT-000111,Gold,Phone,Medium,MobileApp,16,36.7,8.3,0,0.8,Delayed shipment tracking,Billing
+TKT-000112,Bronze,WebPortal,Critical,RetailPOS,21.3,81.9,10.1,1,-0.03,Request refund for order #4421,Returns
+TKT-000113,Silver,Email,Medium,CloudSuite,31.8,115.8,7.2,0,0.66,API rate limit exceeded,AccountAccess
+TKT-000114,Gold,WebPortal,High,MobileApp,30.8,113.3,5.6,0,0.98,Request refund for order #4421,Technical
+TKT-000115,Silver,Chat,Medium,RetailPOS,37.8,22.6,1.2,1,-0.25,App crashes on startup,Technical
+TKT-000116,Platinum,WebPortal,Critical,CloudSuite,14.2,17.5,6.2,0,0.55,Delayed shipment tracking,Returns
+TKT-000117,Bronze,Phone,Low,EnterpriseERP,20.2,17.5,9.7,0,-0.72,Cannot reset password,Returns
+TKT-000118,Gold,WebPortal,Critical,EnterpriseERP,40.2,50.6,0.8,0,-0.47,Cannot reset password,Returns
+TKT-000119,Bronze,Chat,High,RetailPOS,27.4,118,2.2,1,-0.47,API rate limit exceeded,Billing
+TKT-000120,Platinum,Chat,High,RetailPOS,10.4,70.3,11.7,0,0.54,Request refund for order #4421,Billing
+TKT-000121,Gold,WebPortal,Medium,CloudSuite,7.8,68.2,2.5,0,-0.29,Delayed shipment tracking,Shipping
+TKT-000122,Silver,Chat,Low,RetailPOS,14.2,18.5,11.1,0,0.19,Invoice discrepancy for March,AccountAccess
+TKT-000123,Bronze,Phone,Medium,MobileApp,39.3,78.1,11.6,0,-0.1,Invoice discrepancy for March,ProductInquiry
+TKT-000124,Bronze,Phone,High,MobileApp,25.9,117,9.3,1,0.29,Cannot reset password,ProductInquiry
+TKT-000125,Platinum,Email,Low,EnterpriseERP,44.7,31.1,3.2,1,0.29,API rate limit exceeded,Shipping
+TKT-000126,Bronze,Phone,Critical,MobileApp,47.6,49.6,9.8,0,0.94,App crashes on startup,Returns
+TKT-000127,Silver,Email,Medium,CloudSuite,2.9,22.7,11.2,0,-0.29,Cannot reset password,Billing
+TKT-000128,Silver,WebPortal,Low,MobileApp,13.1,89,0.9,0,-0.15,Invoice discrepancy for March,AccountAccess
+TKT-000129,Gold,Email,Low,EnterpriseERP,43.9,91.4,4.2,1,-0.06,Invoice discrepancy for March,Billing
+TKT-000130,Platinum,WebPortal,Critical,CloudSuite,21.1,110.2,11.6,0,-0.64,Delayed shipment tracking,ProductInquiry
+TKT-000131,Silver,WebPortal,Critical,RetailPOS,16.7,93.5,8.6,0,0.95,Cannot reset password,Shipping
+TKT-000132,Gold,Email,Medium,CloudSuite,26.4,92.7,5.9,1,0.33,Request refund for order #4421,Returns
+TKT-000133,Bronze,WebPortal,Critical,RetailPOS,29.1,4.8,11.5,0,0.16,Delayed shipment tracking,Technical
+TKT-000134,Gold,Phone,High,MobileApp,13.5,15.6,2.9,0,-0.59,Invoice discrepancy for March,AccountAccess
+TKT-000135,Bronze,Phone,Low,CloudSuite,44.2,103.6,1.1,0,0.3,Invoice discrepancy for March,AccountAccess
+TKT-000136,Silver,WebPortal,Low,EnterpriseERP,46.5,43.5,6.3,0,-0.91,App crashes on startup,Technical
+TKT-000137,Bronze,Phone,Low,EnterpriseERP,24.8,115.1,12,0,-0.7,Invoice discrepancy for March,AccountAccess
+TKT-000138,Silver,Email,Low,RetailPOS,17.7,63.5,11.7,1,-0.94,API rate limit exceeded,Technical
+TKT-000139,Silver,Email,Critical,CloudSuite,23.1,61,2.4,1,-0.45,Request refund for order #4421,AccountAccess
+TKT-000140,Gold,Chat,Low,MobileApp,21.7,16.9,1.9,0,-0.35,Invoice discrepancy for March,Technical
+TKT-000141,Gold,Phone,Low,MobileApp,43.7,29.3,10.7,0,0.81,Delayed shipment tracking,Technical
+TKT-000142,Silver,WebPortal,Critical,MobileApp,4.5,4.3,3.4,0,0.17,Delayed shipment tracking,AccountAccess
+TKT-000143,Platinum,Email,Critical,MobileApp,37.4,62.6,10.8,1,-0.97,Delayed shipment tracking,Billing
+TKT-000144,Gold,WebPortal,Low,MobileApp,16.4,77.3,6.7,1,-0.04,App crashes on startup,AccountAccess
+TKT-000145,Platinum,Email,High,RetailPOS,42.1,105.1,9.9,0,-0.18,Cannot reset password,ProductInquiry
+TKT-000146,Gold,Email,Critical,CloudSuite,5.7,101.8,11.2,0,-0.18,Invoice discrepancy for March,Shipping
+TKT-000147,Silver,Chat,High,CloudSuite,16.6,36.3,9.3,0,-0.39,App crashes on startup,Returns
+TKT-000148,Gold,WebPortal,Critical,RetailPOS,17.9,59.3,11.7,0,0.57,Request refund for order #4421,AccountAccess
+TKT-000149,Gold,Email,Low,CloudSuite,34.3,28.5,2.4,0,-0.59,API rate limit exceeded,Technical
+TKT-000150,Silver,Email,High,CloudSuite,11.4,21.2,1.7,0,0.79,API rate limit exceeded,AccountAccess
+TKT-000151,Platinum,Email,Critical,CloudSuite,4.4,108.7,11.4,0,0.7,Invoice discrepancy for March,Returns
+TKT-000152,Bronze,Phone,Medium,EnterpriseERP,10.5,119.4,7.2,0,-0.4,Delayed shipment tracking,Shipping
+TKT-000153,Bronze,Chat,Medium,RetailPOS,19.4,99.1,7.9,0,-0.56,App crashes on startup,Billing
+TKT-000154,Gold,Chat,Critical,RetailPOS,37.2,44.3,10.3,0,-0.47,App crashes on startup,ProductInquiry
+TKT-000155,Silver,WebPortal,Critical,RetailPOS,4.5,15,7.2,0,0.1,Invoice discrepancy for March,Billing
+TKT-000156,Silver,WebPortal,Critical,RetailPOS,34.5,58.9,2.2,0,0.45,App crashes on startup,Shipping
+TKT-000157,Gold,Phone,Medium,RetailPOS,15.8,107.1,7.8,0,0.97,API rate limit exceeded,Billing
+TKT-000158,Silver,Email,Low,MobileApp,4.8,73.7,8.5,0,-0.94,Delayed shipment tracking,ProductInquiry
+TKT-000159,Bronze,Email,Critical,MobileApp,18.4,118.3,10.2,0,0.06,Cannot reset password,Technical
+TKT-000160,Platinum,Chat,Critical,EnterpriseERP,2.6,37.5,5.3,0,-0.83,Delayed shipment tracking,Billing
+TKT-000161,Bronze,Email,Critical,RetailPOS,32.6,12.7,9.4,1,0.15,API rate limit exceeded,Returns
+TKT-000162,Gold,Email,High,CloudSuite,22.9,70,5,1,-0.32,Delayed shipment tracking,AccountAccess
+TKT-000163,Gold,Email,Critical,EnterpriseERP,44.9,11.5,9.8,1,-0.22,Delayed shipment tracking,AccountAccess
+TKT-000164,Gold,Email,Low,CloudSuite,43.4,51.3,7.3,0,-0.04,Invoice discrepancy for March,AccountAccess
+TKT-000165,Platinum,Email,Medium,EnterpriseERP,14.8,55.2,5.4,1,0.39,Request refund for order #4421,AccountAccess
+TKT-000166,Silver,Email,Low,RetailPOS,11.2,98.8,2.3,0,-0.77,Request refund for order #4421,AccountAccess
+TKT-000167,Gold,Phone,High,EnterpriseERP,31.6,101,8.8,0,-0.55,API rate limit exceeded,Shipping
+TKT-000168,Silver,Chat,Low,CloudSuite,32,3.2,7.2,0,0.5,Cannot reset password,ProductInquiry
+TKT-000169,Gold,WebPortal,High,CloudSuite,3,63.4,0.8,0,0.67,Invoice discrepancy for March,Shipping
+TKT-000170,Bronze,Email,Medium,EnterpriseERP,15.1,45.9,10.4,0,-0.17,Delayed shipment tracking,Shipping
+TKT-000171,Platinum,WebPortal,High,RetailPOS,10.4,97.9,4.9,0,-0.17,API rate limit exceeded,AccountAccess
+TKT-000172,Silver,WebPortal,Critical,EnterpriseERP,2.2,67.8,5,1,0.08,Request refund for order #4421,Technical
+TKT-000173,Gold,WebPortal,Medium,MobileApp,43.4,55.9,5.5,1,0.92,API rate limit exceeded,Returns
+TKT-000174,Silver,Phone,Critical,EnterpriseERP,42.9,38.6,1.6,0,0.46,Cannot reset password,Billing
+TKT-000175,Silver,Email,Medium,RetailPOS,45.9,80.8,10.9,0,-0.34,Delayed shipment tracking,Billing
+TKT-000176,Gold,Chat,Critical,RetailPOS,26.3,93.2,1.1,1,0.09,App crashes on startup,ProductInquiry
+TKT-000177,Platinum,WebPortal,Critical,CloudSuite,2.8,31.1,11.1,0,-0.3,Invoice discrepancy for March,Returns
+TKT-000178,Bronze,WebPortal,Low,RetailPOS,22.3,8.7,10.1,1,0.37,Cannot reset password,Shipping
+TKT-000179,Silver,Chat,Critical,EnterpriseERP,38.9,118.3,7.9,0,0.69,Invoice discrepancy for March,Returns
+TKT-000180,Silver,Chat,Low,EnterpriseERP,28,59.2,10.3,0,0.57,App crashes on startup,Billing
+TKT-000181,Silver,Chat,Critical,EnterpriseERP,27.8,3.6,2.9,0,0.46,Invoice discrepancy for March,ProductInquiry
+TKT-000182,Gold,Chat,High,RetailPOS,20.2,103.6,11,0,-0.52,Invoice discrepancy for March,Shipping
+TKT-000183,Gold,WebPortal,Medium,RetailPOS,46.7,36.2,5.4,0,-0.27,App crashes on startup,Technical
+TKT-000184,Silver,WebPortal,Medium,MobileApp,46.2,115.8,10.2,0,0.95,Invoice discrepancy for March,Returns
+TKT-000185,Platinum,WebPortal,Critical,MobileApp,6.3,112.9,5.6,0,-0.54,App crashes on startup,AccountAccess
+TKT-000186,Platinum,Chat,Low,CloudSuite,26.3,35.4,9.1,1,0.91,Invoice discrepancy for March,AccountAccess
+TKT-000187,Bronze,Email,Medium,RetailPOS,7.2,20.3,10.4,1,0.41,Delayed shipment tracking,ProductInquiry
+TKT-000188,Bronze,Phone,Critical,RetailPOS,15.7,32.2,3.4,0,0.84,Request refund for order #4421,Shipping
+TKT-000189,Platinum,Email,Critical,CloudSuite,28.6,57,2.9,0,-0.41,Cannot reset password,Shipping
+TKT-000190,Bronze,Email,Low,EnterpriseERP,43.3,36.7,4.4,0,-0.72,App crashes on startup,Technical
+TKT-000191,Gold,WebPortal,Medium,RetailPOS,5.1,1.7,5.1,0,-0.12,App crashes on startup,Returns
+TKT-000192,Bronze,Email,Medium,MobileApp,28.3,42.2,5.6,0,0.57,Request refund for order #4421,Technical
+TKT-000193,Gold,Email,Medium,RetailPOS,40.3,112.6,3.4,0,0.57,API rate limit exceeded,ProductInquiry
+TKT-000194,Silver,Chat,Medium,MobileApp,13.6,15.5,6.7,0,-0.98,Cannot reset password,Technical
+TKT-000195,Gold,Chat,High,CloudSuite,47.9,23.3,0.7,1,0.58,API rate limit exceeded,Shipping
+TKT-000196,Silver,Phone,High,CloudSuite,2.5,6.4,3.9,0,-0.26,Cannot reset password,Billing
+TKT-000197,Gold,WebPortal,Low,RetailPOS,33.3,64.6,4.1,0,0.36,Request refund for order #4421,Returns
+TKT-000198,Gold,Chat,High,CloudSuite,18.5,18.5,2.8,0,-0.89,API rate limit exceeded,Returns
+TKT-000199,Gold,Phone,High,RetailPOS,17.8,64.1,7,0,0.81,Cannot reset password,Technical
+TKT-000200,Platinum,Email,Critical,EnterpriseERP,39,23.5,2.1,1,-0.99,Request refund for order #4421,Billing
+TKT-000201,Bronze,WebPortal,Critical,RetailPOS,22.5,41.7,6.5,0,-0.25,App crashes on startup,AccountAccess
+TKT-000202,Bronze,Email,Medium,EnterpriseERP,23.2,83.5,0.5,0,0,Delayed shipment tracking,Shipping
+TKT-000203,Platinum,Email,Low,MobileApp,23.2,71.3,6.4,0,-0.11,App crashes on startup,ProductInquiry
+TKT-000204,Platinum,Chat,High,MobileApp,31.9,8.6,5.7,0,0.8,Invoice discrepancy for March,Technical
+TKT-000205,Bronze,Phone,Critical,RetailPOS,24.7,108.5,8.1,0,0.88,Cannot reset password,ProductInquiry
+TKT-000206,Silver,WebPortal,Medium,EnterpriseERP,38.3,110.7,2.3,0,0.04,Request refund for order #4421,ProductInquiry
+TKT-000207,Silver,Chat,Medium,EnterpriseERP,17.6,84.3,10.4,0,-0.22,App crashes on startup,Shipping
+TKT-000208,Bronze,Chat,Medium,MobileApp,41.7,59.4,0.7,0,-0.66,App crashes on startup,AccountAccess
+TKT-000209,Bronze,Email,Low,RetailPOS,13.6,17.4,7.2,0,-0.66,Cannot reset password,ProductInquiry
+TKT-000210,Bronze,Phone,High,RetailPOS,20.7,76.9,11.1,0,-0.94,API rate limit exceeded,ProductInquiry
+TKT-000211,Silver,Email,Critical,RetailPOS,10.5,54.3,5.5,1,0.4,App crashes on startup,Returns
+TKT-000212,Gold,Phone,Critical,RetailPOS,27.5,16.7,0.8,0,0.85,App crashes on startup,Billing
+TKT-000213,Platinum,WebPortal,High,RetailPOS,6.1,7.1,7.6,0,-0.25,Request refund for order #4421,Technical
+TKT-000214,Gold,WebPortal,Medium,MobileApp,28.3,23.7,5.7,0,0.81,App crashes on startup,Billing
+TKT-000215,Silver,Phone,Low,MobileApp,40.2,16.7,1.2,0,0.92,App crashes on startup,Billing
+TKT-000216,Bronze,Phone,High,MobileApp,23.1,11.2,8.8,0,-0.84,App crashes on startup,Shipping
+TKT-000217,Gold,Email,Critical,CloudSuite,0.6,79.8,0.6,0,-0.33,Cannot reset password,AccountAccess
+TKT-000218,Bronze,Email,Critical,MobileApp,38.6,97.5,11.8,0,-0.03,API rate limit exceeded,AccountAccess
+TKT-000219,Silver,Chat,High,MobileApp,1.2,91.1,0.9,0,-0.64,App crashes on startup,Billing
+TKT-000220,Gold,Chat,Critical,EnterpriseERP,42.9,26.2,5.4,0,-0.5,Delayed shipment tracking,Billing
+TKT-000221,Gold,Phone,High,MobileApp,33.8,71.5,7.1,1,-0.74,Delayed shipment tracking,Shipping
+TKT-000222,Silver,WebPortal,High,MobileApp,10.4,48.7,2.3,1,0.99,App crashes on startup,ProductInquiry
+TKT-000223,Silver,Phone,High,EnterpriseERP,27.7,114.1,2,0,0.15,API rate limit exceeded,Returns
+TKT-000224,Gold,Chat,High,CloudSuite,13.6,26.5,7.7,1,0.3,Invoice discrepancy for March,AccountAccess
+TKT-000225,Bronze,Chat,Critical,RetailPOS,3.2,37.6,10.9,0,-0.81,Request refund for order #4421,Technical
+TKT-000226,Platinum,Email,Medium,EnterpriseERP,30.7,51.1,2.7,0,0.61,Request refund for order #4421,Returns
+TKT-000227,Bronze,Chat,Medium,EnterpriseERP,12.7,57.6,5.9,0,0.59,API rate limit exceeded,Technical
+TKT-000228,Gold,WebPortal,Low,MobileApp,13.5,40.2,3.5,0,-0.37,App crashes on startup,Billing
+TKT-000229,Gold,WebPortal,Low,CloudSuite,23.5,29.7,1.7,0,0.23,API rate limit exceeded,AccountAccess
+TKT-000230,Platinum,Email,High,CloudSuite,41,114.6,9.4,1,0.17,Delayed shipment tracking,Returns
+TKT-000231,Gold,Phone,Low,MobileApp,18.7,78.1,4.2,0,-0.01,Delayed shipment tracking,AccountAccess
+TKT-000232,Silver,Email,Critical,RetailPOS,6.8,73,8.1,1,-0.16,App crashes on startup,AccountAccess
+TKT-000233,Silver,Phone,Critical,CloudSuite,6.3,88.9,4.3,0,0.91,Delayed shipment tracking,Technical
+TKT-000234,Gold,Email,High,EnterpriseERP,28.3,86.1,10.5,1,-0.21,Delayed shipment tracking,Shipping
+TKT-000235,Platinum,Phone,Medium,EnterpriseERP,44.3,65.6,9.5,0,0.86,Delayed shipment tracking,Technical
+TKT-000236,Gold,Phone,Critical,RetailPOS,23.6,29.8,7.1,0,0.6,Cannot reset password,Billing
+TKT-000237,Platinum,Phone,Low,MobileApp,16.6,6.6,6.8,0,-0.01,Invoice discrepancy for March,AccountAccess
+TKT-000238,Gold,Email,Medium,MobileApp,37.7,114,10.9,0,0.72,Request refund for order #4421,Shipping
+TKT-000239,Silver,Phone,High,EnterpriseERP,36.9,28.6,2.6,0,0.14,Cannot reset password,Returns
+TKT-000240,Bronze,Phone,Low,CloudSuite,3.5,82.1,1.9,0,0.2,App crashes on startup,Shipping
+TKT-000241,Platinum,WebPortal,High,RetailPOS,3.6,70.2,7.8,0,0.21,Delayed shipment tracking,Returns
+TKT-000242,Bronze,Chat,High,MobileApp,46.1,38.7,1.9,0,0,Invoice discrepancy for March,AccountAccess
+TKT-000243,Silver,Email,Critical,EnterpriseERP,42.7,73.5,3.1,0,0.91,API rate limit exceeded,ProductInquiry
+TKT-000244,Platinum,Email,Medium,CloudSuite,15.4,76.6,7.6,0,0.33,API rate limit exceeded,Technical
+TKT-000245,Bronze,Chat,Low,EnterpriseERP,37.4,32.1,6.2,1,0.14,App crashes on startup,Billing
+TKT-000246,Bronze,Phone,High,EnterpriseERP,2.1,5.6,11.8,0,0.03,Invoice discrepancy for March,Technical
+TKT-000247,Gold,Chat,Medium,MobileApp,7.9,8.1,11.7,0,0.19,API rate limit exceeded,Shipping
+TKT-000248,Bronze,Chat,High,RetailPOS,16.2,75.1,1,0,0.54,API rate limit exceeded,Billing
+TKT-000249,Gold,Phone,High,EnterpriseERP,5.1,117.8,4.4,0,0.11,Delayed shipment tracking,AccountAccess
+TKT-000250,Platinum,WebPortal,High,EnterpriseERP,0.8,41.1,5.5,0,0.62,API rate limit exceeded,Billing
+TKT-000251,Bronze,Chat,Low,EnterpriseERP,41.7,9.2,9,0,-0.66,App crashes on startup,ProductInquiry
+TKT-000252,Platinum,Phone,Medium,RetailPOS,45.6,22.5,3.8,0,-0.8,Cannot reset password,Technical
+TKT-000253,Gold,Email,Medium,RetailPOS,45.6,8,3.4,0,-0.88,Invoice discrepancy for March,ProductInquiry
+TKT-000254,Platinum,WebPortal,Critical,EnterpriseERP,23.5,41.4,0.8,0,-0.69,App crashes on startup,Billing
+TKT-000255,Gold,WebPortal,Medium,MobileApp,15.3,59.9,10.5,0,-0.45,App crashes on startup,Technical
+TKT-000256,Platinum,Chat,Critical,EnterpriseERP,26.1,64.4,1.1,0,0.42,Invoice discrepancy for March,AccountAccess
+TKT-000257,Bronze,Email,Medium,CloudSuite,41.1,84.8,7.7,0,0.5,App crashes on startup,ProductInquiry
+TKT-000258,Silver,Chat,High,MobileApp,20.1,4.9,1.8,0,0.84,Invoice discrepancy for March,Shipping
+TKT-000259,Bronze,WebPortal,High,CloudSuite,11.2,55.3,10.4,0,0.43,Delayed shipment tracking,Technical
+TKT-000260,Bronze,Phone,Critical,RetailPOS,12.8,101.9,0.6,0,-0.8,Delayed shipment tracking,Billing
+TKT-000261,Bronze,Phone,High,EnterpriseERP,39.1,29.8,3,0,0.61,Delayed shipment tracking,ProductInquiry
+TKT-000262,Gold,Chat,Low,MobileApp,39.3,11.1,2.7,0,0.72,Delayed shipment tracking,Technical
+TKT-000263,Silver,Email,Critical,CloudSuite,13.6,90.7,4.7,0,-0.85,Invoice discrepancy for March,Shipping
+TKT-000264,Gold,WebPortal,High,MobileApp,26.5,51.1,8.8,0,-0.5,API rate limit exceeded,ProductInquiry
+TKT-000265,Bronze,WebPortal,High,MobileApp,23.6,51.2,3.8,0,-0.02,API rate limit exceeded,Shipping
+TKT-000266,Platinum,WebPortal,High,RetailPOS,30.1,57.9,1.9,0,-0.27,Invoice discrepancy for March,Technical
+TKT-000267,Silver,Email,Low,MobileApp,19,87.5,4.2,0,-0.53,App crashes on startup,Returns
+TKT-000268,Gold,Chat,Low,RetailPOS,21.8,78.8,0.8,1,-0.62,App crashes on startup,Technical
+TKT-000269,Bronze,Chat,Low,CloudSuite,24.4,26.2,5.4,0,-0.35,Cannot reset password,AccountAccess
+TKT-000270,Gold,Phone,High,CloudSuite,30.8,61.9,4.2,0,-0.27,Delayed shipment tracking,Technical
+TKT-000271,Bronze,Email,Low,RetailPOS,8.1,73,5.3,0,-0.45,Request refund for order #4421,Shipping
+TKT-000272,Gold,WebPortal,Low,EnterpriseERP,15.6,64.3,10.7,0,-0.88,API rate limit exceeded,Technical
+TKT-000273,Platinum,WebPortal,Low,CloudSuite,24,51.7,2.1,0,0.09,App crashes on startup,Returns
+TKT-000274,Platinum,Chat,Critical,CloudSuite,35.8,11,2,0,0.32,App crashes on startup,Technical
+TKT-000275,Silver,Email,Critical,RetailPOS,17.2,98.1,8.4,0,-0.18,App crashes on startup,Technical
+TKT-000276,Bronze,Chat,High,CloudSuite,23.6,13.5,8.3,0,0.83,API rate limit exceeded,Technical
+TKT-000277,Silver,Email,High,CloudSuite,15,73.5,5.1,1,-0.58,API rate limit exceeded,ProductInquiry
+TKT-000278,Silver,Email,High,MobileApp,43.3,61.2,2.2,0,0.51,Invoice discrepancy for March,Billing
+TKT-000279,Silver,Phone,Medium,EnterpriseERP,24.7,44.6,2.5,1,-0.57,Delayed shipment tracking,Shipping
+TKT-000280,Platinum,Chat,Low,EnterpriseERP,6.9,81.1,4.6,0,-0.17,Cannot reset password,Shipping
+TKT-000281,Gold,Phone,Medium,EnterpriseERP,43.6,41.6,11.3,0,0.99,App crashes on startup,ProductInquiry
+TKT-000282,Silver,Phone,High,CloudSuite,16.5,20.4,10.5,0,-0.61,App crashes on startup,Shipping
+TKT-000283,Bronze,WebPortal,Medium,RetailPOS,1.1,30,4.1,0,0.32,Cannot reset password,Returns
+TKT-000284,Gold,Chat,Medium,MobileApp,26.7,47.5,2,0,0.19,Cannot reset password,Returns
+TKT-000285,Gold,WebPortal,Medium,MobileApp,18.5,111.2,7.7,0,-0.66,Invoice discrepancy for March,Billing
+TKT-000286,Platinum,Phone,High,RetailPOS,25.9,38.1,8.6,0,0.39,Cannot reset password,Billing
+TKT-000287,Platinum,WebPortal,High,RetailPOS,8.8,82.7,2.4,0,-0.83,Delayed shipment tracking,Billing
+TKT-000288,Platinum,Email,High,MobileApp,8.1,91.1,6.3,0,0.9,Cannot reset password,ProductInquiry
+TKT-000289,Platinum,WebPortal,Medium,CloudSuite,7.2,11.3,1.8,0,-0.16,App crashes on startup,AccountAccess
+TKT-000290,Bronze,Email,High,EnterpriseERP,31,16.4,10,0,-0.8,Delayed shipment tracking,Shipping
+TKT-000291,Platinum,Phone,Medium,MobileApp,46.4,22.3,11.6,1,-0.17,API rate limit exceeded,Returns
+TKT-000292,Platinum,Phone,High,CloudSuite,43.5,111.3,4.5,0,0.54,Request refund for order #4421,Technical
+TKT-000293,Silver,Email,Low,MobileApp,45.1,59.1,1.3,1,-0.9,Delayed shipment tracking,Shipping
+TKT-000294,Gold,WebPortal,Medium,CloudSuite,47.3,111.2,8.9,0,-0.19,API rate limit exceeded,AccountAccess
+TKT-000295,Platinum,Email,Low,CloudSuite,46.7,84.1,6.7,0,0.55,API rate limit exceeded,Returns
+TKT-000296,Bronze,Email,Critical,CloudSuite,4.3,103.6,7.7,1,0.56,App crashes on startup,Billing
+TKT-000297,Silver,Email,Medium,MobileApp,45.3,55.4,7.5,0,-0.13,App crashes on startup,ProductInquiry
+TKT-000298,Bronze,Chat,Medium,EnterpriseERP,26.6,16.2,7,0,0.34,API rate limit exceeded,Shipping
+TKT-000299,Platinum,Phone,Medium,MobileApp,40.3,63.8,3.5,0,-0.14,API rate limit exceeded,Billing
+TKT-000300,Platinum,WebPortal,Low,RetailPOS,32.1,77,4.5,0,0.32,Cannot reset password,Technical
+TKT-000301,Platinum,Chat,Low,CloudSuite,12.6,89.8,6.4,0,0.52,Cannot reset password,Billing
+TKT-000302,Bronze,Email,Critical,RetailPOS,24.9,61.2,3.1,0,0.7,Invoice discrepancy for March,AccountAccess
+TKT-000303,Silver,WebPortal,Critical,EnterpriseERP,22.2,35.5,5.7,0,0.39,App crashes on startup,ProductInquiry
+TKT-000304,Platinum,Chat,High,CloudSuite,11.2,14.7,11.5,0,0.44,Request refund for order #4421,Billing
+TKT-000305,Bronze,Chat,Critical,CloudSuite,47.4,14.4,8.4,0,0.2,API rate limit exceeded,AccountAccess
+TKT-000306,Gold,Chat,Low,RetailPOS,21.4,34.9,3,0,0.49,App crashes on startup,AccountAccess
+TKT-000307,Gold,WebPortal,Low,RetailPOS,3.3,11.2,5.9,0,-0.7,Request refund for order #4421,Returns
+TKT-000308,Silver,Chat,Critical,CloudSuite,17.3,76.7,6.9,0,0.53,App crashes on startup,Returns
+TKT-000309,Platinum,Phone,Critical,EnterpriseERP,2,11.4,8.3,0,-0.94,Delayed shipment tracking,Billing
+TKT-000310,Platinum,Email,High,EnterpriseERP,34.5,57,4.3,0,0.43,Invoice discrepancy for March,Shipping
+TKT-000311,Bronze,Chat,High,CloudSuite,28.5,38,10.3,0,0.12,API rate limit exceeded,Returns
+TKT-000312,Bronze,Chat,High,CloudSuite,13.8,49.9,6.9,1,-0.61,Cannot reset password,Shipping
+TKT-000313,Bronze,Phone,Critical,CloudSuite,36.5,58.8,9.7,0,0.16,Delayed shipment tracking,AccountAccess
+TKT-000314,Gold,Chat,Medium,RetailPOS,28,104.4,11.5,0,0.88,Delayed shipment tracking,Technical
+TKT-000315,Platinum,Phone,Medium,MobileApp,37.4,31.8,3.8,0,-0.42,API rate limit exceeded,Returns
+TKT-000316,Silver,WebPortal,Critical,CloudSuite,10.6,57.4,5.3,1,-0.71,API rate limit exceeded,Shipping
+TKT-000317,Silver,WebPortal,Critical,RetailPOS,39.2,73.2,9.6,0,0.66,Invoice discrepancy for March,AccountAccess
+TKT-000318,Gold,Email,High,MobileApp,33.5,6.6,9.3,0,0.45,Delayed shipment tracking,AccountAccess
+TKT-000319,Gold,Phone,High,MobileApp,6.2,27.3,11.7,0,0.37,App crashes on startup,Billing
+TKT-000320,Gold,Phone,High,MobileApp,5,100.8,8.1,0,-0.04,Invoice discrepancy for March,AccountAccess
+TKT-000321,Silver,Email,Medium,MobileApp,32.1,102,7.2,0,-0.08,Cannot reset password,Shipping
+TKT-000322,Silver,Phone,Critical,CloudSuite,27.4,65,4.3,0,-0.33,API rate limit exceeded,ProductInquiry
+TKT-000323,Gold,Phone,Critical,MobileApp,13.4,112.2,10.4,0,-0.87,Cannot reset password,Technical
+TKT-000324,Platinum,WebPortal,Low,MobileApp,10.9,29.4,2,0,0.96,Delayed shipment tracking,AccountAccess
+TKT-000325,Gold,WebPortal,Low,EnterpriseERP,17.4,41.9,1,0,0.04,API rate limit exceeded,Returns
+TKT-000326,Silver,Email,Critical,EnterpriseERP,27.1,117,11.7,0,0.37,API rate limit exceeded,Shipping
+TKT-000327,Gold,WebPortal,Medium,RetailPOS,41.2,54.4,8.5,0,-0.23,App crashes on startup,Technical
+TKT-000328,Bronze,Chat,Low,EnterpriseERP,18.5,8.1,10.6,0,-0.98,Cannot reset password,Billing
+TKT-000329,Bronze,Chat,Critical,EnterpriseERP,8.8,53.3,6.4,0,0.65,API rate limit exceeded,Billing
+TKT-000330,Silver,Chat,High,RetailPOS,35.5,79.5,8.1,1,-0.35,App crashes on startup,Returns
+TKT-000331,Gold,Phone,Medium,EnterpriseERP,5.9,5.7,6.1,0,0.35,Invoice discrepancy for March,Shipping
+TKT-000332,Silver,Chat,Low,RetailPOS,37.5,11.3,10.7,0,0.43,Delayed shipment tracking,ProductInquiry
+TKT-000333,Platinum,Chat,Low,RetailPOS,41.4,88.1,3.3,0,0.93,Invoice discrepancy for March,Shipping
+TKT-000334,Bronze,Email,Critical,RetailPOS,7.7,30.7,8.5,0,0.95,Invoice discrepancy for March,Shipping
+TKT-000335,Platinum,Phone,Low,MobileApp,19.9,12.5,9.8,0,0.54,Request refund for order #4421,AccountAccess
+TKT-000336,Gold,Phone,Low,EnterpriseERP,32.1,99.6,9.1,1,-0.33,Cannot reset password,ProductInquiry
+TKT-000337,Bronze,WebPortal,Critical,RetailPOS,44.4,119.8,10.2,0,-0.7,Cannot reset password,AccountAccess
+TKT-000338,Silver,Chat,Critical,MobileApp,45,81.1,0.8,0,-0.01,App crashes on startup,ProductInquiry
+TKT-000339,Platinum,WebPortal,High,CloudSuite,7,77.3,6.1,0,0.34,Delayed shipment tracking,ProductInquiry
+TKT-000340,Silver,Email,Critical,RetailPOS,43.4,62.8,11.2,0,-0.48,Request refund for order #4421,AccountAccess
+TKT-000341,Silver,Email,Low,EnterpriseERP,9.7,50.5,8.1,0,0.98,Invoice discrepancy for March,Returns
+TKT-000342,Gold,WebPortal,Critical,EnterpriseERP,22.1,56.8,3.8,0,0.29,Delayed shipment tracking,ProductInquiry
+TKT-000343,Gold,Email,Medium,RetailPOS,33.9,61.5,8.9,0,-0.07,Invoice discrepancy for March,Shipping
+TKT-000344,Gold,Email,High,CloudSuite,33.4,79.1,5,1,0.62,Delayed shipment tracking,ProductInquiry
+TKT-000345,Platinum,Chat,Critical,CloudSuite,24.4,90.2,6.6,0,-0.78,Invoice discrepancy for March,Technical
+TKT-000346,Silver,Phone,Medium,MobileApp,35.9,48.5,2.7,0,-0.15,Cannot reset password,Shipping
+TKT-000347,Silver,WebPortal,Critical,RetailPOS,30.7,109.5,0.9,0,0.62,Invoice discrepancy for March,Shipping
+TKT-000348,Silver,WebPortal,Low,CloudSuite,33.4,92,5.6,0,-0.3,Cannot reset password,AccountAccess
+TKT-000349,Bronze,WebPortal,Low,MobileApp,28.5,47.3,6.3,0,0.63,Delayed shipment tracking,ProductInquiry
+TKT-000350,Gold,WebPortal,Critical,RetailPOS,39,105,0.9,0,-0.05,App crashes on startup,AccountAccess
+TKT-000351,Silver,Email,High,MobileApp,25.9,100.3,8.7,0,0.71,App crashes on startup,ProductInquiry
+TKT-000352,Silver,Chat,Critical,RetailPOS,37.7,8.2,11.2,0,-0.65,Invoice discrepancy for March,Shipping
+TKT-000353,Gold,WebPortal,Critical,MobileApp,24.3,52.1,0.9,0,-0.6,Delayed shipment tracking,AccountAccess
+TKT-000354,Gold,Chat,Medium,MobileApp,24.6,105.8,7.4,0,-0.56,App crashes on startup,ProductInquiry
+TKT-000355,Platinum,Phone,Medium,EnterpriseERP,25.7,63.6,6.6,0,0.11,Cannot reset password,Returns
+TKT-000356,Silver,Chat,Low,RetailPOS,41.3,104.6,6.3,1,0.97,App crashes on startup,Shipping
+TKT-000357,Platinum,Phone,Critical,EnterpriseERP,29.8,111.8,7.9,1,0.94,Request refund for order #4421,Technical
+TKT-000358,Silver,Chat,High,CloudSuite,41,89.3,7.7,1,-0.81,API rate limit exceeded,AccountAccess
+TKT-000359,Gold,Phone,Low,EnterpriseERP,32.1,104.8,8.5,0,0.99,App crashes on startup,Billing
+TKT-000360,Platinum,Chat,Critical,RetailPOS,16.8,36.6,6.5,0,0.34,API rate limit exceeded,Billing
+TKT-000361,Bronze,Email,High,RetailPOS,19.4,8,8.5,0,-0.74,Cannot reset password,Technical
+TKT-000362,Silver,Chat,Low,CloudSuite,2.2,78.8,3.9,0,-0.87,App crashes on startup,Shipping
+TKT-000363,Platinum,Phone,Low,RetailPOS,26.4,99.6,9.4,0,-0.63,Delayed shipment tracking,Billing
+TKT-000364,Platinum,Phone,High,MobileApp,27.4,101.2,11.4,0,-0.75,API rate limit exceeded,ProductInquiry
+TKT-000365,Bronze,Phone,Critical,EnterpriseERP,11,38.4,4.4,0,-0.67,API rate limit exceeded,Technical
+TKT-000366,Silver,Chat,Low,CloudSuite,31.1,83.4,11.5,0,0.46,Delayed shipment tracking,Returns
+TKT-000367,Silver,Chat,Medium,RetailPOS,24,35.4,11.2,0,-0.62,API rate limit exceeded,AccountAccess
+TKT-000368,Gold,Phone,Low,MobileApp,14.8,38.8,11.5,0,-0.97,Request refund for order #4421,Technical
+TKT-000369,Bronze,Chat,Medium,MobileApp,44.6,95.5,8.5,0,-0.17,Request refund for order #4421,ProductInquiry
+TKT-000370,Silver,Phone,Low,EnterpriseERP,26.6,13,5.5,0,-0.16,Delayed shipment tracking,AccountAccess
+TKT-000371,Gold,WebPortal,Low,RetailPOS,34.3,51.1,11.1,0,-0.4,Cannot reset password,Returns
+TKT-000372,Bronze,Phone,High,MobileApp,1.2,19.1,3.4,0,0.22,Delayed shipment tracking,Returns
+TKT-000373,Platinum,Chat,Medium,MobileApp,44.5,10.7,5.4,0,0.14,API rate limit exceeded,Billing
+TKT-000374,Bronze,WebPortal,High,CloudSuite,27,7.1,8.5,0,0.55,Invoice discrepancy for March,ProductInquiry
+TKT-000375,Platinum,WebPortal,High,MobileApp,14.5,33,1.6,1,0.91,App crashes on startup,Shipping
+TKT-000376,Gold,Phone,Critical,CloudSuite,33,118.7,10.2,0,-0.67,Invoice discrepancy for March,Billing
+TKT-000377,Bronze,Chat,High,EnterpriseERP,14.5,2.2,5,0,-0.16,API rate limit exceeded,Shipping
+TKT-000378,Silver,Phone,High,CloudSuite,46.5,100,6.5,0,0.04,Delayed shipment tracking,Returns
+TKT-000379,Bronze,Phone,Critical,EnterpriseERP,45.4,48.9,2.5,0,-0.69,Delayed shipment tracking,Shipping
+TKT-000380,Bronze,Phone,Low,CloudSuite,27.4,29.1,3.5,0,-0.23,App crashes on startup,Shipping
+TKT-000381,Platinum,Phone,Critical,MobileApp,19.7,77.8,2.8,0,-0.85,Delayed shipment tracking,Shipping
+TKT-000382,Platinum,Phone,High,EnterpriseERP,4,33.3,2.5,0,-0.63,Invoice discrepancy for March,ProductInquiry
+TKT-000383,Gold,Phone,Critical,MobileApp,19.2,41.8,5.3,0,-0.03,Delayed shipment tracking,AccountAccess
+TKT-000384,Platinum,Chat,Low,RetailPOS,9.9,43.3,3,0,-0.69,App crashes on startup,Returns
+TKT-000385,Silver,Chat,Critical,RetailPOS,13.1,114.5,2.7,1,0.47,Invoice discrepancy for March,AccountAccess
+TKT-000386,Platinum,Email,Critical,CloudSuite,47.5,17.2,3.3,0,-0.75,API rate limit exceeded,Billing
+TKT-000387,Bronze,Email,High,MobileApp,26.9,80.4,1.9,0,-0.45,API rate limit exceeded,Billing
+TKT-000388,Platinum,Chat,Critical,MobileApp,43.1,111.7,2.8,0,0.58,Request refund for order #4421,Returns
+TKT-000389,Silver,Email,High,MobileApp,13.5,28.5,2.7,0,-0.6,Cannot reset password,ProductInquiry
+TKT-000390,Silver,Email,High,CloudSuite,2.9,116.3,1,0,-0.84,Request refund for order #4421,Shipping
+TKT-000391,Silver,WebPortal,Medium,RetailPOS,9.8,17.6,8.7,0,0.29,Cannot reset password,Returns
+TKT-000392,Gold,Chat,High,EnterpriseERP,45.8,3.6,3.2,0,0.83,Cannot reset password,ProductInquiry
+TKT-000393,Bronze,Email,Critical,EnterpriseERP,47.9,51.5,2.3,0,0.56,Cannot reset password,Shipping
+TKT-000394,Platinum,Phone,Medium,MobileApp,41.1,41.8,11.5,0,0.68,Request refund for order #4421,AccountAccess
+TKT-000395,Platinum,Email,High,MobileApp,46.7,14.5,2.7,1,-0.68,Cannot reset password,Billing
+TKT-000396,Gold,Chat,Low,RetailPOS,44.7,110.3,4.1,0,0.66,Delayed shipment tracking,Technical
+TKT-000397,Gold,Phone,Critical,MobileApp,32.5,59.7,11.7,0,-1,App crashes on startup,Returns
+TKT-000398,Bronze,Email,Low,MobileApp,1.2,89.9,5,0,0.45,Cannot reset password,AccountAccess
+TKT-000399,Bronze,Chat,Critical,CloudSuite,22.5,101.6,9.3,0,0.18,Cannot reset password,AccountAccess
+TKT-000400,Platinum,Chat,Critical,EnterpriseERP,33.7,92.1,1.7,0,-0.89,Invoice discrepancy for March,Billing
+TKT-000401,Platinum,Email,High,RetailPOS,6,102.2,11.9,0,-0.76,Request refund for order #4421,ProductInquiry
+TKT-000402,Gold,Email,Critical,RetailPOS,9.6,70.3,2,0,-0.46,App crashes on startup,Billing
+TKT-000403,Gold,WebPortal,Low,MobileApp,36.9,83,8,0,0.35,Delayed shipment tracking,Technical
+TKT-000404,Platinum,Email,Medium,MobileApp,11.5,51.4,10.4,0,-0.68,App crashes on startup,Billing
+TKT-000405,Silver,WebPortal,Low,MobileApp,11,105.7,7.1,0,-0.77,App crashes on startup,Billing
+TKT-000406,Bronze,Chat,Medium,EnterpriseERP,9.1,74.8,9.1,0,-0.55,Invoice discrepancy for March,Technical
+TKT-000407,Silver,WebPortal,Critical,RetailPOS,13.1,5.8,11.8,0,-0.58,Request refund for order #4421,Returns
+TKT-000408,Silver,WebPortal,Low,EnterpriseERP,41.3,64,8.3,1,0.4,API rate limit exceeded,ProductInquiry
+TKT-000409,Platinum,Chat,Critical,EnterpriseERP,22.8,21.8,8.6,0,0.83,Delayed shipment tracking,Shipping
+TKT-000410,Bronze,WebPortal,Low,MobileApp,35.7,12.5,7.7,0,0.91,Delayed shipment tracking,ProductInquiry
+TKT-000411,Bronze,Chat,High,MobileApp,44.2,43.3,11.6,0,-0.46,Request refund for order #4421,Technical
+TKT-000412,Gold,Phone,Critical,CloudSuite,1.8,119.3,2.9,1,-0.31,API rate limit exceeded,Shipping
+TKT-000413,Silver,Chat,Low,CloudSuite,10.6,69.6,4.6,0,-0.64,Cannot reset password,AccountAccess
+TKT-000414,Platinum,Phone,High,EnterpriseERP,19.4,22.7,6.7,0,-0.59,App crashes on startup,Shipping
+TKT-000415,Silver,Phone,Medium,MobileApp,23.1,50.1,11.7,0,0.45,Delayed shipment tracking,Technical
+TKT-000416,Gold,WebPortal,Critical,CloudSuite,7,29.4,6.6,1,-0.47,Cannot reset password,ProductInquiry
+TKT-000417,Platinum,Phone,Medium,EnterpriseERP,34.6,7.7,8.3,0,0.41,Delayed shipment tracking,AccountAccess
+TKT-000418,Platinum,Phone,High,RetailPOS,26.5,60.4,2.7,0,0.1,API rate limit exceeded,AccountAccess
+TKT-000419,Platinum,WebPortal,Critical,MobileApp,45.1,115.9,2.5,0,0.95,Request refund for order #4421,Returns
+TKT-000420,Bronze,Chat,Low,CloudSuite,32.7,74.9,3.2,0,0.67,Cannot reset password,ProductInquiry
+TKT-000421,Platinum,Email,Critical,EnterpriseERP,4.5,114.9,10.2,1,0.1,Request refund for order #4421,AccountAccess
+TKT-000422,Silver,Chat,Medium,EnterpriseERP,6.2,23.6,11.6,1,-0.46,Invoice discrepancy for March,Shipping
+TKT-000423,Gold,Phone,Medium,EnterpriseERP,11.5,94.3,3.7,0,-0.32,Cannot reset password,ProductInquiry
+TKT-000424,Silver,Phone,Low,EnterpriseERP,37,92.1,9.4,1,-0.09,Invoice discrepancy for March,ProductInquiry
+TKT-000425,Bronze,WebPortal,Critical,MobileApp,45.6,51,2.6,0,-0.11,Cannot reset password,Billing
+TKT-000426,Platinum,Chat,High,MobileApp,17.8,96.4,1.1,1,0.41,App crashes on startup,Returns
+TKT-000427,Platinum,Email,High,CloudSuite,11.1,112,1.3,0,-0.29,App crashes on startup,Shipping
+TKT-000428,Bronze,Email,High,EnterpriseERP,22.6,68.3,9.5,0,0.44,API rate limit exceeded,Technical
+TKT-000429,Platinum,Email,Low,MobileApp,24.9,9.3,10.1,0,-0.91,Invoice discrepancy for March,Billing
+TKT-000430,Gold,Phone,Critical,MobileApp,24.9,54,9.4,0,0.32,Request refund for order #4421,Returns
+TKT-000431,Gold,Chat,Medium,CloudSuite,45,105,9.5,0,-0.92,App crashes on startup,Billing
+TKT-000432,Platinum,Email,Medium,RetailPOS,8.3,8.6,9.7,1,0.42,API rate limit exceeded,Returns
+TKT-000433,Bronze,Phone,High,MobileApp,31.8,91.1,6.1,1,-0.21,App crashes on startup,Returns
+TKT-000434,Gold,Chat,Medium,RetailPOS,42.3,82.3,4.5,1,-0.79,API rate limit exceeded,ProductInquiry
+TKT-000435,Silver,WebPortal,Medium,MobileApp,15.5,33.9,10.3,1,-0.61,API rate limit exceeded,Billing
+TKT-000436,Platinum,Email,High,CloudSuite,22.3,27.8,7,0,-0.07,Delayed shipment tracking,Technical
+TKT-000437,Bronze,Phone,Medium,MobileApp,21.3,111.9,10.5,0,-0.44,Request refund for order #4421,ProductInquiry
+TKT-000438,Gold,WebPortal,Critical,MobileApp,17.2,117.4,10.6,0,-0.47,Delayed shipment tracking,AccountAccess
+TKT-000439,Silver,Phone,Low,CloudSuite,37.9,84.5,10.4,1,-0.19,API rate limit exceeded,Technical
+TKT-000440,Silver,WebPortal,High,EnterpriseERP,35.1,51.2,2.1,1,-0.74,Delayed shipment tracking,Returns
+TKT-000441,Bronze,Phone,High,CloudSuite,3.5,112.1,9.1,0,0.3,Delayed shipment tracking,AccountAccess
+TKT-000442,Platinum,Chat,High,EnterpriseERP,0.2,32.8,5.8,1,-0.22,Cannot reset password,Returns
+TKT-000443,Silver,Chat,Low,CloudSuite,10.3,18.8,3.4,1,0.56,Cannot reset password,Technical
+TKT-000444,Silver,Phone,Medium,RetailPOS,18.9,72.7,9.7,1,0.27,App crashes on startup,Technical
+TKT-000445,Platinum,Phone,Critical,RetailPOS,32.7,68,3.4,0,-0.25,App crashes on startup,Shipping
+TKT-000446,Silver,Phone,High,RetailPOS,2.7,19.2,4.7,0,-0.67,Request refund for order #4421,Shipping
+TKT-000447,Gold,Email,High,MobileApp,35,28.8,7.3,1,0.92,Invoice discrepancy for March,AccountAccess
+TKT-000448,Platinum,Email,High,MobileApp,42.1,77.7,11.5,0,0.77,Cannot reset password,Technical
+TKT-000449,Platinum,Email,Low,RetailPOS,45.2,27.2,5.7,0,0.22,Cannot reset password,Technical
+TKT-000450,Platinum,Chat,Critical,RetailPOS,5.5,87,1.2,0,0.44,Request refund for order #4421,Returns
+TKT-000451,Bronze,WebPortal,Low,RetailPOS,25.5,23.6,1.5,0,0.98,Cannot reset password,Shipping
+TKT-000452,Platinum,Chat,Medium,CloudSuite,2.4,58.3,6.1,1,0.68,App crashes on startup,ProductInquiry
+TKT-000453,Bronze,Email,Medium,CloudSuite,39.3,101.3,8.3,0,0.68,App crashes on startup,AccountAccess
+TKT-000454,Silver,Chat,Critical,EnterpriseERP,35.9,117.2,0.6,0,0.99,Invoice discrepancy for March,Returns
+TKT-000455,Silver,WebPortal,Medium,MobileApp,42.1,83.3,4.7,0,0.07,Cannot reset password,Returns
+TKT-000456,Platinum,Phone,High,RetailPOS,22.4,39.9,11.4,0,-0.9,Request refund for order #4421,ProductInquiry
+TKT-000457,Silver,Email,Low,EnterpriseERP,23.7,75,4.2,0,-0.35,Request refund for order #4421,Technical
+TKT-000458,Gold,Email,Medium,MobileApp,10.3,59.1,6.9,0,-0.46,App crashes on startup,Returns
+TKT-000459,Silver,Phone,High,RetailPOS,22.3,88.2,6,0,0.75,API rate limit exceeded,Technical
+TKT-000460,Platinum,Phone,High,RetailPOS,34.5,107.5,2.2,1,-0.43,Cannot reset password,ProductInquiry
+TKT-000461,Bronze,Chat,Low,CloudSuite,30.8,86.5,2,1,0.89,Request refund for order #4421,AccountAccess
+TKT-000462,Platinum,Email,Low,CloudSuite,42.4,24,2.2,0,-0.7,Cannot reset password,Shipping
+TKT-000463,Bronze,WebPortal,Low,MobileApp,12.5,101.8,7.5,0,-0.53,API rate limit exceeded,ProductInquiry
+TKT-000464,Gold,Phone,Critical,CloudSuite,18.5,23.6,4,0,-0.87,Invoice discrepancy for March,AccountAccess
+TKT-000465,Bronze,Phone,Low,EnterpriseERP,10.5,9.7,8.9,0,0.64,Request refund for order #4421,Shipping
+TKT-000466,Platinum,WebPortal,Low,MobileApp,44.8,115.7,10.3,0,-0.35,API rate limit exceeded,ProductInquiry
+TKT-000467,Platinum,Email,High,EnterpriseERP,8.3,2.7,7.6,0,0.4,API rate limit exceeded,ProductInquiry
+TKT-000468,Gold,Chat,Critical,MobileApp,30.6,22.4,11.6,0,-0.99,API rate limit exceeded,Technical
+TKT-000469,Silver,Phone,Medium,EnterpriseERP,9.5,96.6,10,0,0.22,App crashes on startup,AccountAccess
+TKT-000470,Silver,WebPortal,Medium,MobileApp,11.2,66,7,0,0.05,App crashes on startup,Shipping
+TKT-000471,Platinum,WebPortal,Low,CloudSuite,0.5,71.4,3.3,0,-0.18,Cannot reset password,AccountAccess
+TKT-000472,Silver,Chat,High,CloudSuite,10.4,51.8,2,1,0.39,Invoice discrepancy for March,Shipping
+TKT-000473,Silver,Chat,Critical,MobileApp,5.3,94.8,7.6,1,-0.08,API rate limit exceeded,ProductInquiry
+TKT-000474,Platinum,Chat,Critical,MobileApp,21.5,50.1,11.4,0,0.63,Delayed shipment tracking,Billing
+TKT-000475,Bronze,Email,Medium,EnterpriseERP,44.8,98.7,6.8,0,-0.97,Invoice discrepancy for March,Billing
+TKT-000476,Platinum,WebPortal,Critical,CloudSuite,46.2,52.1,3.4,0,-0.24,API rate limit exceeded,Technical
+TKT-000477,Gold,WebPortal,Medium,MobileApp,18.2,88.7,10.6,0,0.87,App crashes on startup,AccountAccess
+TKT-000478,Silver,Phone,Critical,RetailPOS,15.9,80.9,3.5,0,-0.35,Cannot reset password,Returns
+TKT-000479,Bronze,Email,Critical,MobileApp,29.8,71.2,11.8,0,0.35,App crashes on startup,Returns
+TKT-000480,Platinum,Chat,Low,CloudSuite,0.9,44.2,7.6,0,-0.57,Delayed shipment tracking,ProductInquiry
+TKT-000481,Silver,Phone,Critical,EnterpriseERP,18.8,62.8,1,0,0.26,App crashes on startup,Technical
+TKT-000482,Platinum,Phone,Low,EnterpriseERP,40.4,82.5,2.6,1,-0.03,Invoice discrepancy for March,ProductInquiry
+TKT-000483,Gold,Email,Low,MobileApp,14.1,37.3,7.6,0,0.16,Cannot reset password,Billing
+TKT-000484,Bronze,Phone,Low,CloudSuite,9.5,73,11.9,0,-0.66,Request refund for order #4421,AccountAccess
+TKT-000485,Silver,Chat,High,EnterpriseERP,42.9,27.1,9.6,0,-0.68,Request refund for order #4421,Shipping
+TKT-000486,Platinum,Email,High,MobileApp,13.5,62.4,7,0,-0.9,API rate limit exceeded,AccountAccess
+TKT-000487,Bronze,Chat,High,EnterpriseERP,12.1,87.9,1.4,0,0.94,Cannot reset password,AccountAccess
+TKT-000488,Silver,Phone,Low,MobileApp,29.3,28.6,5.8,0,0.49,App crashes on startup,Billing
+TKT-000489,Gold,Phone,Medium,EnterpriseERP,19.9,1.2,7.3,0,-0.89,Cannot reset password,ProductInquiry
+TKT-000490,Bronze,Email,Low,MobileApp,39.6,101.5,11.1,0,-0.14,App crashes on startup,Technical
+TKT-000491,Silver,Phone,Critical,EnterpriseERP,44.8,82.6,11.2,0,-0.22,Invoice discrepancy for March,ProductInquiry
+TKT-000492,Gold,Phone,Low,RetailPOS,40.4,93.7,5.9,0,-0.28,Delayed shipment tracking,AccountAccess
+TKT-000493,Platinum,Phone,High,CloudSuite,30.3,68.6,2.1,0,0.4,Cannot reset password,Billing
+TKT-000494,Silver,Phone,High,MobileApp,37.9,90,9.8,0,0.73,API rate limit exceeded,AccountAccess
+TKT-000495,Platinum,Phone,High,EnterpriseERP,12.4,42.8,1,0,-0.39,Delayed shipment tracking,Shipping
+TKT-000496,Gold,WebPortal,Critical,EnterpriseERP,45.5,102.8,9.8,0,-0.04,Delayed shipment tracking,ProductInquiry
+TKT-000497,Gold,Email,Low,MobileApp,40,31.7,7.8,0,0.81,Request refund for order #4421,ProductInquiry
+TKT-000498,Bronze,Email,Medium,EnterpriseERP,4.2,116.6,8.8,1,0.08,API rate limit exceeded,Billing
+TKT-000499,Gold,Chat,Medium,RetailPOS,15.7,84.1,5.3,0,-0.91,Delayed shipment tracking,Shipping
+TKT-000500,Gold,Phone,High,RetailPOS,16.2,92.6,8.9,0,0.51,Delayed shipment tracking,Technical
+TKT-000501,Gold,Chat,High,EnterpriseERP,42.3,61.2,7.6,0,0.78,Request refund for order #4421,Billing
+TKT-000502,Platinum,Phone,Medium,RetailPOS,16.4,61.2,8.7,1,0.67,Delayed shipment tracking,Returns
+TKT-000503,Platinum,WebPortal,Critical,MobileApp,3.3,111.8,2.7,0,0.16,Request refund for order #4421,Billing
+TKT-000504,Bronze,WebPortal,Low,MobileApp,38.3,50.1,12,0,0.1,Delayed shipment tracking,Billing
+TKT-000505,Silver,Phone,High,EnterpriseERP,11.5,87.8,4.6,0,0.86,Cannot reset password,Shipping
+TKT-000506,Platinum,Email,Low,MobileApp,18,56.8,9.4,0,0.33,Invoice discrepancy for March,ProductInquiry
+TKT-000507,Silver,Email,Low,CloudSuite,1.3,33.2,5.9,0,-0.62,API rate limit exceeded,ProductInquiry
+TKT-000508,Gold,Email,High,RetailPOS,22.3,49.9,2,0,0.85,Request refund for order #4421,AccountAccess
+TKT-000509,Platinum,Email,Low,EnterpriseERP,16,81.2,11.4,0,0.72,API rate limit exceeded,Billing
+TKT-000510,Bronze,WebPortal,Medium,MobileApp,24.2,14.7,9,0,0.05,Invoice discrepancy for March,Billing
+TKT-000511,Platinum,Chat,High,RetailPOS,3.5,56.5,3.1,0,0.03,Delayed shipment tracking,Shipping
+TKT-000512,Bronze,Chat,Critical,RetailPOS,34.8,107.8,7.2,0,-0.31,Request refund for order #4421,Returns
+TKT-000513,Gold,WebPortal,Low,CloudSuite,7.2,6.4,3.3,0,-0.48,Cannot reset password,ProductInquiry
+TKT-000514,Silver,Email,High,EnterpriseERP,36.3,84.5,2.9,1,0.35,Request refund for order #4421,AccountAccess
+TKT-000515,Gold,Email,High,EnterpriseERP,15.6,76.2,10,0,-0.05,Invoice discrepancy for March,Shipping
+TKT-000516,Gold,Chat,Medium,EnterpriseERP,3.6,38.8,2.6,0,-0.81,Cannot reset password,AccountAccess
+TKT-000517,Bronze,Phone,High,RetailPOS,5,72,5.6,0,-0.71,Cannot reset password,Billing
+TKT-000518,Silver,Chat,Medium,MobileApp,32.1,44.4,7.4,0,0.62,Request refund for order #4421,Technical
+TKT-000519,Gold,WebPortal,Critical,CloudSuite,17.3,76.6,5.8,0,0.61,Request refund for order #4421,AccountAccess
+TKT-000520,Bronze,WebPortal,Medium,CloudSuite,45.6,14.5,1.6,1,0.93,API rate limit exceeded,AccountAccess
+TKT-000521,Platinum,Phone,Critical,RetailPOS,40.2,1.3,5.6,0,0.77,API rate limit exceeded,ProductInquiry
+TKT-000522,Gold,Phone,Critical,CloudSuite,38.9,69.2,1.5,0,0.94,API rate limit exceeded,ProductInquiry
+TKT-000523,Bronze,Email,Medium,RetailPOS,19.1,21.6,11.5,0,0.86,Invoice discrepancy for March,Billing
+TKT-000524,Platinum,Email,Low,MobileApp,35.6,70.2,10.2,0,-0.61,Invoice discrepancy for March,AccountAccess
+TKT-000525,Bronze,Email,High,MobileApp,27.5,103.6,9.9,0,-0.27,Request refund for order #4421,Billing
+TKT-000526,Gold,Phone,Medium,MobileApp,15.8,28,5.3,0,0.15,Request refund for order #4421,AccountAccess
+TKT-000527,Platinum,WebPortal,Low,CloudSuite,25.6,46.7,1.1,1,0.69,Invoice discrepancy for March,Technical
+TKT-000528,Silver,Email,Low,MobileApp,7.1,15.7,9.7,0,0.87,App crashes on startup,Technical
+TKT-000529,Bronze,WebPortal,Low,RetailPOS,14.5,1,4.8,1,-0.88,API rate limit exceeded,Billing
+TKT-000530,Platinum,WebPortal,Low,RetailPOS,39.7,76.1,6,1,-0.1,Request refund for order #4421,Returns
+TKT-000531,Platinum,Chat,Medium,EnterpriseERP,31,106.1,9.3,0,0.92,Request refund for order #4421,Shipping
+TKT-000532,Platinum,Chat,Medium,RetailPOS,26,80.2,10.2,0,-0.43,Cannot reset password,Shipping
+TKT-000533,Bronze,WebPortal,High,RetailPOS,24.1,30.1,7.7,0,-0.75,API rate limit exceeded,Returns
+TKT-000534,Bronze,Phone,Low,MobileApp,14.4,2.2,3.5,0,0.01,API rate limit exceeded,AccountAccess
+TKT-000535,Platinum,Chat,High,RetailPOS,13.2,70.4,8.5,0,-0.76,Invoice discrepancy for March,Technical
+TKT-000536,Gold,Email,Critical,CloudSuite,24.3,54.3,2.5,0,0.5,App crashes on startup,Shipping
+TKT-000537,Silver,WebPortal,Medium,EnterpriseERP,5.1,96.6,7.4,0,0.03,App crashes on startup,Technical
+TKT-000538,Platinum,WebPortal,Low,CloudSuite,42.2,25.8,7.6,0,0.67,Cannot reset password,ProductInquiry
+TKT-000539,Gold,Email,Low,MobileApp,46.2,33.4,9,0,-0.95,App crashes on startup,Technical
+TKT-000540,Bronze,WebPortal,Low,RetailPOS,25.1,106.1,1.9,1,0.64,Invoice discrepancy for March,Billing
+TKT-000541,Silver,WebPortal,Low,RetailPOS,38.2,28.3,2.1,0,-0.76,App crashes on startup,Billing
+TKT-000542,Silver,Email,Low,CloudSuite,40.1,95,9.5,1,-0.88,App crashes on startup,Billing
+TKT-000543,Silver,Email,High,EnterpriseERP,34.2,8.2,9.2,0,0.65,API rate limit exceeded,Returns
+TKT-000544,Gold,WebPortal,High,CloudSuite,38.2,38.2,11.6,0,-0.61,Cannot reset password,Billing
+TKT-000545,Gold,Phone,Low,RetailPOS,5.8,96.8,1.4,0,0.67,Cannot reset password,Returns
+TKT-000546,Silver,Email,Critical,RetailPOS,27.6,86.8,5,0,-0.96,Cannot reset password,Returns
+TKT-000547,Silver,Email,Medium,EnterpriseERP,16.1,87.4,9.5,0,0.83,Request refund for order #4421,Billing
+TKT-000548,Bronze,WebPortal,Low,EnterpriseERP,19.9,102.7,11.8,0,0.67,App crashes on startup,Shipping
+TKT-000549,Bronze,WebPortal,Medium,EnterpriseERP,14.3,92.6,5.1,0,-0.05,Invoice discrepancy for March,AccountAccess
+TKT-000550,Gold,WebPortal,Low,MobileApp,34,74.7,3.8,0,0.94,Invoice discrepancy for March,Billing
+TKT-000551,Bronze,WebPortal,Critical,MobileApp,10.1,51.4,1.1,0,0.95,App crashes on startup,Returns
+TKT-000552,Bronze,Phone,Low,EnterpriseERP,25.4,111.1,5,0,-0.13,Request refund for order #4421,Technical
+TKT-000553,Platinum,Chat,Critical,RetailPOS,8.2,11.6,7.3,0,-0.63,Delayed shipment tracking,ProductInquiry
+TKT-000554,Silver,Chat,Critical,EnterpriseERP,38.1,56.5,1.2,0,-0.8,App crashes on startup,AccountAccess
+TKT-000555,Bronze,Chat,Medium,RetailPOS,41.1,93.4,1.2,0,-0.94,Request refund for order #4421,Technical
+TKT-000556,Silver,WebPortal,Critical,RetailPOS,6.9,50.9,1.6,1,-0.43,API rate limit exceeded,ProductInquiry
+TKT-000557,Platinum,Phone,High,RetailPOS,46,45.5,11.9,0,0,App crashes on startup,Shipping
+TKT-000558,Bronze,Email,High,EnterpriseERP,13.2,84.7,1,1,-0.74,App crashes on startup,Shipping
+TKT-000559,Gold,Phone,Critical,CloudSuite,15.9,109.6,7.7,0,-0.68,App crashes on startup,Billing
+TKT-000560,Gold,Chat,Low,RetailPOS,9.6,26.3,11.5,1,0.24,API rate limit exceeded,AccountAccess
+TKT-000561,Gold,Email,Low,CloudSuite,34.7,106.5,1.2,0,0.27,Invoice discrepancy for March,AccountAccess
+TKT-000562,Platinum,Phone,Low,MobileApp,38,99.6,7.4,0,-0.87,Delayed shipment tracking,Billing
+TKT-000563,Platinum,Phone,Low,RetailPOS,21.3,13.6,7.7,0,0.67,App crashes on startup,ProductInquiry
+TKT-000564,Platinum,Email,Medium,CloudSuite,34.8,115,5.9,1,-0.12,Request refund for order #4421,Returns
+TKT-000565,Platinum,WebPortal,Medium,MobileApp,29,112.1,11.7,0,0.56,Request refund for order #4421,Technical
+TKT-000566,Bronze,Email,Low,MobileApp,10.1,102.1,1.4,0,-0.47,App crashes on startup,Shipping
+TKT-000567,Silver,WebPortal,High,EnterpriseERP,3,78.4,11.2,0,-0.38,Request refund for order #4421,Billing
+TKT-000568,Gold,Phone,Critical,CloudSuite,35.6,60.6,5.5,0,-0.36,Cannot reset password,AccountAccess
+TKT-000569,Bronze,WebPortal,Low,MobileApp,43,21.3,6,0,-0.67,Cannot reset password,ProductInquiry
+TKT-000570,Bronze,Email,Medium,RetailPOS,24.2,99.6,6.5,1,-0.59,Request refund for order #4421,AccountAccess
+TKT-000571,Silver,Phone,High,RetailPOS,28.8,69,6.1,0,-0.49,Request refund for order #4421,ProductInquiry
+TKT-000572,Gold,Email,Medium,CloudSuite,46.8,27.1,4.4,0,-0.74,Cannot reset password,Shipping
+TKT-000573,Bronze,Email,Low,EnterpriseERP,26.3,76.3,6.5,0,-0.2,Invoice discrepancy for March,Shipping
+TKT-000574,Silver,Chat,High,RetailPOS,42,29.9,2.3,0,0.77,Invoice discrepancy for March,ProductInquiry
+TKT-000575,Bronze,Chat,High,CloudSuite,29.5,94.3,1.8,0,-0.79,Delayed shipment tracking,Shipping
+TKT-000576,Silver,Phone,Critical,MobileApp,22.2,50,5,0,0.85,App crashes on startup,Shipping
+TKT-000577,Silver,Phone,Medium,EnterpriseERP,32.1,1.3,2.9,0,-0.82,Delayed shipment tracking,Billing
+TKT-000578,Gold,Email,Medium,EnterpriseERP,25.4,65.7,8.5,0,-0.53,Invoice discrepancy for March,Billing
+TKT-000579,Bronze,Email,High,EnterpriseERP,18.2,119.9,11.9,0,0.82,API rate limit exceeded,ProductInquiry
+TKT-000580,Platinum,WebPortal,Medium,RetailPOS,10.1,13.7,4,1,0.83,Request refund for order #4421,Shipping
+TKT-000581,Platinum,WebPortal,High,RetailPOS,33.4,10.8,10.8,0,-0.92,Request refund for order #4421,ProductInquiry
+TKT-000582,Platinum,Chat,High,EnterpriseERP,14.6,18.9,5.6,0,-1,Request refund for order #4421,Returns
+TKT-000583,Bronze,Email,Critical,MobileApp,15.7,18.6,6.7,1,0.79,Request refund for order #4421,AccountAccess
+TKT-000584,Bronze,Chat,Medium,MobileApp,16,39.4,5.8,0,-0.71,Invoice discrepancy for March,Shipping
+TKT-000585,Platinum,Chat,High,MobileApp,21.3,3.9,11.9,0,0.19,App crashes on startup,AccountAccess
+TKT-000586,Gold,Phone,Medium,MobileApp,42.9,115,9.7,0,0.72,Delayed shipment tracking,ProductInquiry
+TKT-000587,Silver,WebPortal,Critical,MobileApp,20.8,61.5,9.8,0,-0.06,Invoice discrepancy for March,Returns
+TKT-000588,Gold,Chat,Medium,MobileApp,5,23,0.5,0,-0.26,Delayed shipment tracking,Billing
+TKT-000589,Gold,Email,High,MobileApp,39,92.4,8,1,-0.75,Invoice discrepancy for March,Shipping
+TKT-000590,Platinum,WebPortal,Critical,MobileApp,16.9,49.4,5.3,0,-0.27,Request refund for order #4421,Shipping
+TKT-000591,Bronze,Chat,High,RetailPOS,24.9,35.8,6.7,0,0.58,API rate limit exceeded,Shipping
+TKT-000592,Silver,Phone,High,MobileApp,32.2,92.2,11.6,0,0.04,API rate limit exceeded,AccountAccess
+TKT-000593,Gold,Email,Low,MobileApp,34.2,61.9,0.8,0,0.25,Request refund for order #4421,ProductInquiry
+TKT-000594,Gold,Email,Low,RetailPOS,10.8,69.7,6.5,0,0.24,API rate limit exceeded,Billing
+TKT-000595,Bronze,Chat,High,MobileApp,47.3,87.4,8.4,1,-0.72,Invoice discrepancy for March,AccountAccess
+TKT-000596,Bronze,Chat,Medium,RetailPOS,4.1,43.5,1.2,0,0.41,Request refund for order #4421,Returns
+TKT-000597,Gold,WebPortal,Low,CloudSuite,27.6,115.4,8.8,1,0.54,Request refund for order #4421,Returns
+TKT-000598,Platinum,Chat,Medium,EnterpriseERP,9.1,87.2,4.5,0,-0.78,Delayed shipment tracking,Technical
+TKT-000599,Platinum,WebPortal,Critical,CloudSuite,15.4,41.8,9.9,0,-0.85,Delayed shipment tracking,Returns
+TKT-000600,Gold,WebPortal,Medium,MobileApp,24,92.8,6.2,0,-0.54,API rate limit exceeded,AccountAccess
+TKT-000601,Platinum,WebPortal,Medium,MobileApp,28.9,105.8,6.2,1,-0.69,Request refund for order #4421,Technical
+TKT-000602,Gold,Email,Low,CloudSuite,47.4,22.3,6.4,0,0.31,API rate limit exceeded,Billing
+TKT-000603,Gold,Phone,High,EnterpriseERP,23.1,42,11.4,0,-0.83,App crashes on startup,Returns
+TKT-000604,Bronze,Phone,Medium,CloudSuite,20,96.3,10.6,0,0,Invoice discrepancy for March,Returns
+TKT-000605,Bronze,Chat,Low,EnterpriseERP,8,75.8,3.3,0,0.38,App crashes on startup,Billing
+TKT-000606,Gold,Chat,Critical,CloudSuite,16.7,60.1,6.3,0,0.6,Invoice discrepancy for March,Returns
+TKT-000607,Silver,Email,Low,CloudSuite,41.8,62.7,4.9,0,-0.35,Request refund for order #4421,ProductInquiry
+TKT-000608,Silver,Chat,Low,RetailPOS,12.2,92.9,2.7,0,-0.98,Cannot reset password,Billing
+TKT-000609,Platinum,Email,Critical,CloudSuite,41.3,37.9,8.5,0,-0.51,Invoice discrepancy for March,Billing
+TKT-000610,Bronze,Chat,Critical,CloudSuite,9,111.4,0.8,0,0.86,App crashes on startup,Returns
+TKT-000611,Bronze,Chat,High,EnterpriseERP,34.3,36.1,0.8,0,-0.86,Delayed shipment tracking,AccountAccess
+TKT-000612,Silver,Email,Medium,MobileApp,21.5,71.4,1.7,0,0.44,Cannot reset password,ProductInquiry
+TKT-000613,Gold,Chat,Low,CloudSuite,35.7,63.8,7.4,0,0.52,Cannot reset password,Billing
+TKT-000614,Bronze,Chat,Critical,RetailPOS,43.5,40.2,2.7,0,-0.32,Cannot reset password,Returns
+TKT-000615,Gold,Phone,Critical,EnterpriseERP,22.4,46,4.7,0,0.86,Invoice discrepancy for March,AccountAccess
+TKT-000616,Bronze,Phone,Critical,RetailPOS,30.1,118.6,0.7,0,1,Invoice discrepancy for March,Technical
+TKT-000617,Bronze,WebPortal,High,CloudSuite,4.3,20.9,10.8,0,-0.54,Cannot reset password,Billing
+TKT-000618,Platinum,WebPortal,Low,CloudSuite,10.7,89.4,11.1,0,0.28,API rate limit exceeded,Returns
+TKT-000619,Gold,Phone,Critical,CloudSuite,47.8,48.5,10.6,0,0.65,App crashes on startup,Billing
+TKT-000620,Silver,Chat,Critical,EnterpriseERP,33.4,34.6,11.7,0,0.02,Delayed shipment tracking,Technical
+TKT-000621,Silver,Email,Critical,RetailPOS,29.8,85.8,5.1,0,0.36,Delayed shipment tracking,ProductInquiry
+TKT-000622,Gold,Chat,Medium,RetailPOS,43.6,56.8,6,0,-0.24,Delayed shipment tracking,ProductInquiry
+TKT-000623,Gold,Email,High,RetailPOS,32.9,81,5.5,0,0.17,App crashes on startup,Billing
+TKT-000624,Silver,Email,Low,CloudSuite,25.1,106.8,7.4,0,0.37,Cannot reset password,Returns
+TKT-000625,Platinum,WebPortal,Low,CloudSuite,26.4,95.8,1.4,0,-0.52,App crashes on startup,ProductInquiry
+TKT-000626,Bronze,Chat,Low,EnterpriseERP,21.5,80.9,8.7,1,-0.67,App crashes on startup,Shipping
+TKT-000627,Silver,Email,Low,RetailPOS,33.7,17.3,6.9,0,-0.88,Request refund for order #4421,Billing
+TKT-000628,Bronze,WebPortal,High,MobileApp,24.1,18.2,5.4,0,0.14,API rate limit exceeded,Shipping
+TKT-000629,Silver,Phone,High,EnterpriseERP,20.2,92.1,1.3,0,0.53,API rate limit exceeded,Shipping
+TKT-000630,Gold,WebPortal,Critical,RetailPOS,30,77.5,0.6,1,0.54,Invoice discrepancy for March,Billing
+TKT-000631,Platinum,Chat,Critical,CloudSuite,17.5,65.5,6,0,-0.55,Cannot reset password,Technical
+TKT-000632,Platinum,Phone,High,RetailPOS,47.9,3.5,7.5,0,-0.55,Delayed shipment tracking,Returns
+TKT-000633,Platinum,Email,Low,EnterpriseERP,20.2,4.2,7.8,0,0.74,Invoice discrepancy for March,Returns
+TKT-000634,Silver,Chat,Critical,EnterpriseERP,18.1,33.2,10,1,0.16,Delayed shipment tracking,Technical
+TKT-000635,Silver,Email,Low,RetailPOS,2.8,97.3,11.5,0,-0.66,App crashes on startup,Technical
+TKT-000636,Bronze,WebPortal,Critical,EnterpriseERP,2.5,28.5,9.4,0,0.7,API rate limit exceeded,ProductInquiry
+TKT-000637,Bronze,Chat,Critical,MobileApp,29.1,89.4,5,0,-0.1,Delayed shipment tracking,Technical
+TKT-000638,Platinum,Chat,Low,MobileApp,32.1,22,10.8,0,-0.77,Delayed shipment tracking,Technical
+TKT-000639,Platinum,Phone,Medium,CloudSuite,17.9,49.5,2.7,1,0.42,Cannot reset password,AccountAccess
+TKT-000640,Silver,WebPortal,Medium,EnterpriseERP,36.1,107,7.3,0,0.68,Delayed shipment tracking,AccountAccess
+TKT-000641,Gold,WebPortal,Critical,MobileApp,20.8,42.5,0.9,0,0.19,Request refund for order #4421,Technical
+TKT-000642,Gold,Email,Critical,EnterpriseERP,28.7,5.5,3.7,1,0.14,Cannot reset password,AccountAccess
+TKT-000643,Bronze,Chat,Critical,RetailPOS,26,87.7,11,0,-0.83,Delayed shipment tracking,Shipping
+TKT-000644,Bronze,Chat,High,EnterpriseERP,36.7,89.6,8.2,0,0.59,Request refund for order #4421,AccountAccess
+TKT-000645,Platinum,Phone,High,CloudSuite,36.2,118.5,7.8,0,-0.01,API rate limit exceeded,ProductInquiry
+TKT-000646,Bronze,Phone,Low,MobileApp,13.7,96.1,2.3,1,-0.37,Delayed shipment tracking,Returns
+TKT-000647,Bronze,Phone,Critical,EnterpriseERP,36.8,89.6,6.7,0,-0.42,API rate limit exceeded,Billing
+TKT-000648,Silver,Email,High,EnterpriseERP,34.2,19.4,11.8,1,-0.54,Request refund for order #4421,Technical
+TKT-000649,Bronze,Chat,High,CloudSuite,47.5,116.8,1.1,0,0,Cannot reset password,AccountAccess
+TKT-000650,Bronze,Phone,High,MobileApp,38.7,51.3,6.4,0,-0.39,Invoice discrepancy for March,Shipping
+TKT-000651,Bronze,Email,Critical,MobileApp,16.8,52.9,4.8,1,0.14,Invoice discrepancy for March,Returns
+TKT-000652,Silver,WebPortal,Critical,EnterpriseERP,32,70.3,0.7,0,-0.41,Cannot reset password,Billing
+TKT-000653,Bronze,Chat,Medium,EnterpriseERP,27.6,40.4,1,0,-0.27,Delayed shipment tracking,Shipping
+TKT-000654,Platinum,Phone,Low,RetailPOS,14.8,6.6,4.1,0,-0.29,Request refund for order #4421,Returns
+TKT-000655,Gold,Chat,High,MobileApp,19.8,23,11.4,0,-0.99,Delayed shipment tracking,Billing
+TKT-000656,Gold,Chat,Medium,RetailPOS,19.3,99,2.3,1,0.35,Request refund for order #4421,AccountAccess
+TKT-000657,Bronze,Chat,High,CloudSuite,9.4,72.1,2.2,1,0.16,App crashes on startup,Billing
+TKT-000658,Bronze,Chat,High,CloudSuite,2.9,89.2,1.2,1,-0.69,App crashes on startup,AccountAccess
+TKT-000659,Silver,WebPortal,High,RetailPOS,29.6,7.4,5,1,-0.82,Delayed shipment tracking,AccountAccess
+TKT-000660,Silver,Chat,High,MobileApp,31.2,20.7,10.2,0,-0.58,Request refund for order #4421,Technical
+TKT-000661,Silver,Phone,Critical,RetailPOS,14.2,96.5,9.7,0,0.54,Delayed shipment tracking,Technical
+TKT-000662,Bronze,Chat,Critical,RetailPOS,30.4,89.6,9.2,1,0.6,Delayed shipment tracking,ProductInquiry
+TKT-000663,Silver,WebPortal,Medium,RetailPOS,40.3,118.6,8.7,0,-1,App crashes on startup,Returns
+TKT-000664,Bronze,Email,Medium,MobileApp,39.1,98.9,7.9,0,0.08,Invoice discrepancy for March,ProductInquiry
+TKT-000665,Platinum,Email,Low,MobileApp,17.4,5.3,10.7,0,-0.57,API rate limit exceeded,Returns
+TKT-000666,Bronze,WebPortal,Low,CloudSuite,18.4,94.9,3.4,0,0.03,Invoice discrepancy for March,Technical
+TKT-000667,Bronze,Phone,High,MobileApp,45.4,67.2,4.9,0,0.11,API rate limit exceeded,Shipping
+TKT-000668,Platinum,WebPortal,Critical,EnterpriseERP,27.7,101.9,5.3,1,-0.8,Invoice discrepancy for March,ProductInquiry
+TKT-000669,Bronze,WebPortal,Medium,RetailPOS,9.5,29.9,3.8,0,-0.95,Delayed shipment tracking,Returns
+TKT-000670,Platinum,WebPortal,High,CloudSuite,15.8,88.5,9.9,0,-0.67,App crashes on startup,AccountAccess
+TKT-000671,Platinum,Email,High,MobileApp,41.4,69,11.7,0,0.45,Request refund for order #4421,ProductInquiry
+TKT-000672,Platinum,Email,Medium,EnterpriseERP,46.8,101,10.2,0,0.73,Invoice discrepancy for March,Technical
+TKT-000673,Silver,Chat,Medium,CloudSuite,33.6,52.6,7,1,-0.4,App crashes on startup,Shipping
+TKT-000674,Platinum,Phone,High,CloudSuite,20.8,18.1,1.6,1,0.59,Request refund for order #4421,ProductInquiry
+TKT-000675,Platinum,Email,Low,CloudSuite,13.9,82.5,4.6,1,-0.15,Delayed shipment tracking,Returns
+TKT-000676,Bronze,Email,Low,RetailPOS,32.5,23.7,11.1,0,-0.2,Delayed shipment tracking,Technical
+TKT-000677,Silver,WebPortal,Critical,CloudSuite,28.7,38.9,5.7,0,0.14,Invoice discrepancy for March,AccountAccess
+TKT-000678,Gold,WebPortal,Low,CloudSuite,6.2,14,5.6,0,0.2,API rate limit exceeded,AccountAccess
+TKT-000679,Gold,WebPortal,High,RetailPOS,11.4,108.2,6.4,0,-0.13,App crashes on startup,AccountAccess
+TKT-000680,Bronze,Chat,Medium,RetailPOS,27.2,60.3,11.4,0,-0.1,Invoice discrepancy for March,Technical
+TKT-000681,Bronze,WebPortal,High,CloudSuite,23.9,98.5,11.4,1,0.71,Cannot reset password,ProductInquiry
+TKT-000682,Platinum,Phone,Critical,RetailPOS,46.4,45.6,6.9,0,0.77,Cannot reset password,Billing
+TKT-000683,Gold,Email,High,MobileApp,5.5,25.5,1,1,-0.31,Delayed shipment tracking,Returns
+TKT-000684,Platinum,Phone,Low,RetailPOS,0.3,30.7,4.6,0,0.52,Invoice discrepancy for March,Returns
+TKT-000685,Gold,Email,Medium,RetailPOS,4.8,26.9,2.3,0,0.09,API rate limit exceeded,Billing
+TKT-000686,Silver,Email,Medium,EnterpriseERP,39.4,103.7,0.8,0,-0.26,API rate limit exceeded,Returns
+TKT-000687,Platinum,Phone,Medium,RetailPOS,24.3,107.1,8.9,0,-0.45,Invoice discrepancy for March,Returns
+TKT-000688,Silver,WebPortal,Low,EnterpriseERP,7.1,30.6,6.3,0,-0.96,App crashes on startup,ProductInquiry
+TKT-000689,Bronze,Phone,High,RetailPOS,14.8,21.8,0.6,0,0.21,App crashes on startup,ProductInquiry
+TKT-000690,Bronze,Phone,High,CloudSuite,32,65.9,11.5,0,-0.57,Invoice discrepancy for March,Technical
+TKT-000691,Gold,Chat,Critical,EnterpriseERP,44.2,68.1,12,0,0.57,Request refund for order #4421,Technical
+TKT-000692,Silver,Chat,Low,EnterpriseERP,5.1,6.9,9.1,1,-0.94,Cannot reset password,Shipping
+TKT-000693,Platinum,Chat,Medium,EnterpriseERP,9.7,54.1,10.4,0,-0.77,Request refund for order #4421,Returns
+TKT-000694,Bronze,WebPortal,Low,CloudSuite,32.4,35.6,9.5,0,-0.78,Delayed shipment tracking,Returns
+TKT-000695,Gold,Email,Low,CloudSuite,3.8,24,6.9,0,0.02,Delayed shipment tracking,Returns
+TKT-000696,Gold,Email,Critical,MobileApp,14.5,39,11.1,0,0.53,Cannot reset password,Shipping
+TKT-000697,Bronze,Email,Critical,EnterpriseERP,41.3,51.3,8.5,0,0.43,Request refund for order #4421,Shipping
+TKT-000698,Platinum,Phone,Critical,CloudSuite,1.3,89.3,2.2,0,-0.46,Delayed shipment tracking,Returns
+TKT-000699,Platinum,Email,Medium,CloudSuite,46.3,60.6,10.5,0,0.56,Delayed shipment tracking,Returns
+TKT-000700,Gold,Phone,Critical,CloudSuite,36.1,12.8,3.9,0,1,Delayed shipment tracking,Billing
+TKT-000701,Platinum,WebPortal,Medium,CloudSuite,41.4,48.1,1.9,0,0.27,Invoice discrepancy for March,Technical
+TKT-000702,Gold,Chat,Critical,EnterpriseERP,41.5,16,2.6,0,0.36,Delayed shipment tracking,Shipping
+TKT-000703,Silver,Phone,Critical,RetailPOS,2.7,107.4,8.1,1,-0.94,App crashes on startup,Technical
+TKT-000704,Gold,Phone,Medium,MobileApp,31.4,64.8,11,0,0.82,Invoice discrepancy for March,Technical
+TKT-000705,Gold,WebPortal,Low,EnterpriseERP,39.5,80.2,2.5,0,0.79,API rate limit exceeded,Billing
+TKT-000706,Bronze,WebPortal,Critical,RetailPOS,28.2,60.2,10.1,0,-0.9,API rate limit exceeded,Returns
+TKT-000707,Silver,Email,High,MobileApp,44.6,98.1,10,0,-0.31,Invoice discrepancy for March,Returns
+TKT-000708,Silver,Phone,Critical,EnterpriseERP,36.7,18,9.6,1,-0.74,Invoice discrepancy for March,AccountAccess
+TKT-000709,Platinum,Phone,Low,RetailPOS,5.8,63,9.4,0,0.15,Invoice discrepancy for March,Shipping
+TKT-000710,Silver,WebPortal,Low,MobileApp,24.5,47.5,11,0,-0.74,App crashes on startup,Billing
+TKT-000711,Gold,Email,High,EnterpriseERP,19.6,88.5,3.7,0,-0.4,App crashes on startup,ProductInquiry
+TKT-000712,Bronze,Chat,Low,MobileApp,12.6,34.9,6.4,0,0.74,Request refund for order #4421,Billing
+TKT-000713,Silver,Phone,High,CloudSuite,7,71.6,1.4,0,-0.75,Cannot reset password,Technical
+TKT-000714,Platinum,WebPortal,Medium,EnterpriseERP,8.2,64.4,9.6,0,-0.63,App crashes on startup,Billing
+TKT-000715,Silver,Chat,Medium,EnterpriseERP,15.5,106.6,7.5,0,0.83,App crashes on startup,Shipping
+TKT-000716,Gold,Phone,Medium,RetailPOS,42.8,87.7,2.5,0,0.71,Request refund for order #4421,Returns
+TKT-000717,Gold,WebPortal,Low,MobileApp,18.5,22.8,1.5,0,-0.8,Cannot reset password,Shipping
+TKT-000718,Platinum,Chat,Medium,RetailPOS,17.2,38.6,2.2,0,-0.39,API rate limit exceeded,Technical
+TKT-000719,Silver,WebPortal,Low,RetailPOS,6.3,97.3,6,0,0.99,API rate limit exceeded,ProductInquiry
+TKT-000720,Silver,Email,Critical,RetailPOS,39.8,11.6,11.8,0,0.62,Invoice discrepancy for March,Technical
+TKT-000721,Gold,Chat,Low,MobileApp,1.5,74.4,5.3,0,-0.21,Request refund for order #4421,Technical
+TKT-000722,Silver,Email,High,CloudSuite,18.4,104.4,5.4,0,-0.29,Request refund for order #4421,Shipping
+TKT-000723,Gold,Phone,Low,RetailPOS,31.4,2.4,7.9,0,0.38,Delayed shipment tracking,ProductInquiry
+TKT-000724,Silver,WebPortal,Low,EnterpriseERP,41.4,23.9,5.4,0,-0.43,Request refund for order #4421,Billing
+TKT-000725,Bronze,WebPortal,Critical,RetailPOS,47.3,81.7,1.3,0,-0.28,Invoice discrepancy for March,Billing
+TKT-000726,Gold,Chat,Low,MobileApp,33.6,64.3,7.7,0,-0.04,Delayed shipment tracking,AccountAccess
+TKT-000727,Gold,Phone,High,CloudSuite,43.6,72.4,5.8,1,0.14,Invoice discrepancy for March,Returns
+TKT-000728,Platinum,Chat,Critical,RetailPOS,11.6,22.3,7.8,1,-0.72,Cannot reset password,AccountAccess
+TKT-000729,Silver,Email,High,CloudSuite,37,32.8,10.6,0,-0.34,App crashes on startup,Technical
+TKT-000730,Platinum,Phone,Critical,EnterpriseERP,22.4,36,4.6,0,-0.06,Request refund for order #4421,AccountAccess
+TKT-000731,Platinum,Phone,Low,MobileApp,21.7,10.4,7,0,-0.67,App crashes on startup,ProductInquiry
+TKT-000732,Silver,Email,Low,CloudSuite,41.5,25.7,5.2,0,-0.38,Request refund for order #4421,ProductInquiry
+TKT-000733,Bronze,WebPortal,Critical,RetailPOS,36.8,26.2,10.1,1,0.86,App crashes on startup,Shipping
+TKT-000734,Bronze,Chat,High,CloudSuite,18.4,101.6,3.1,0,0.6,API rate limit exceeded,Shipping
+TKT-000735,Bronze,WebPortal,High,EnterpriseERP,41.1,86.2,4.4,0,0.08,Delayed shipment tracking,ProductInquiry
+TKT-000736,Silver,Phone,Critical,EnterpriseERP,5.2,105.2,3.8,0,-0.01,Request refund for order #4421,AccountAccess
+TKT-000737,Silver,Email,High,CloudSuite,38.7,70.7,11.7,0,-0.49,API rate limit exceeded,Technical
+TKT-000738,Bronze,Phone,Medium,CloudSuite,8.1,62.3,8,0,0.54,API rate limit exceeded,Technical
+TKT-000739,Platinum,WebPortal,Medium,RetailPOS,15,85.5,6.9,0,-0.47,Cannot reset password,Technical
+TKT-000740,Gold,Email,Low,EnterpriseERP,34.8,53.5,4,1,-0.29,Delayed shipment tracking,ProductInquiry
+TKT-000741,Bronze,WebPortal,High,EnterpriseERP,8.7,6,4.5,1,-0.34,Request refund for order #4421,Billing
+TKT-000742,Gold,WebPortal,High,MobileApp,36.2,19.5,10.6,1,-0.05,App crashes on startup,Returns
+TKT-000743,Bronze,WebPortal,Critical,CloudSuite,4.5,43.5,1.5,0,-0.72,Request refund for order #4421,AccountAccess
+TKT-000744,Silver,Chat,Low,RetailPOS,32.9,117.5,9.2,0,-0.75,Request refund for order #4421,Billing
+TKT-000745,Bronze,WebPortal,Low,MobileApp,35.8,59.2,8.7,0,-0.07,Request refund for order #4421,ProductInquiry
+TKT-000746,Gold,Phone,High,RetailPOS,33.2,74.2,1.7,0,-0.93,API rate limit exceeded,Billing
+TKT-000747,Silver,Phone,Medium,EnterpriseERP,9.7,57.7,7.7,0,0.63,API rate limit exceeded,ProductInquiry
+TKT-000748,Gold,Phone,High,RetailPOS,4.3,81.2,11.6,0,-0.14,Invoice discrepancy for March,Technical
+TKT-000749,Platinum,Phone,Low,EnterpriseERP,25.7,38.9,5.2,0,0.5,API rate limit exceeded,Shipping
+TKT-000750,Platinum,Email,Low,MobileApp,24.1,40.6,5.9,1,0.74,Invoice discrepancy for March,AccountAccess
+TKT-000751,Bronze,WebPortal,Critical,RetailPOS,9.7,7.4,0.9,0,-0.72,Invoice discrepancy for March,Billing
+TKT-000752,Platinum,WebPortal,High,MobileApp,47.6,108.7,8.6,0,0.64,API rate limit exceeded,Technical
+TKT-000753,Bronze,Chat,Low,RetailPOS,28.2,69.7,8.8,0,-0.35,Invoice discrepancy for March,AccountAccess
+TKT-000754,Bronze,WebPortal,Low,RetailPOS,33.6,106.1,3.8,0,0.3,API rate limit exceeded,Billing
+TKT-000755,Bronze,WebPortal,Medium,RetailPOS,10.2,97.2,3.3,0,-0.91,App crashes on startup,ProductInquiry
+TKT-000756,Silver,Email,Medium,EnterpriseERP,5.7,90.9,4,0,0.41,Request refund for order #4421,Billing
+TKT-000757,Platinum,WebPortal,High,EnterpriseERP,39.3,23.2,2.9,0,0.13,App crashes on startup,Billing
+TKT-000758,Bronze,Email,Medium,CloudSuite,2.7,10.4,11.8,0,0.73,API rate limit exceeded,Technical
+TKT-000759,Gold,Email,Critical,RetailPOS,25.1,96,2.1,0,-0.7,Delayed shipment tracking,AccountAccess
+TKT-000760,Platinum,Phone,High,RetailPOS,34.9,92.4,7.7,0,0.91,Request refund for order #4421,Shipping
+TKT-000761,Bronze,Chat,High,MobileApp,29.7,72.8,3.2,1,-0.79,Cannot reset password,ProductInquiry
+TKT-000762,Silver,Email,Critical,EnterpriseERP,14.1,71.6,2.2,0,0.32,API rate limit exceeded,Returns
+TKT-000763,Gold,WebPortal,Critical,MobileApp,38.2,3.4,8.6,0,-0.11,Invoice discrepancy for March,ProductInquiry
+TKT-000764,Gold,WebPortal,High,RetailPOS,45.5,93,10.7,1,-0.67,API rate limit exceeded,AccountAccess
+TKT-000765,Bronze,Phone,Critical,EnterpriseERP,4.9,50.3,9.1,0,-0.1,Cannot reset password,Technical
+TKT-000766,Platinum,Email,Medium,RetailPOS,8.7,118.8,10.4,0,-0.62,Request refund for order #4421,Shipping
+TKT-000767,Platinum,Email,High,RetailPOS,22.2,63.7,6.2,0,-0.98,Cannot reset password,AccountAccess
+TKT-000768,Platinum,Email,Critical,RetailPOS,9.3,61.4,7.9,0,-0.26,App crashes on startup,Returns
+TKT-000769,Silver,Chat,Low,RetailPOS,0.7,60.3,2.3,0,0.64,Delayed shipment tracking,AccountAccess
+TKT-000770,Gold,WebPortal,Medium,RetailPOS,12.2,99.7,6.1,0,0.1,Cannot reset password,ProductInquiry
+TKT-000771,Platinum,Phone,Medium,EnterpriseERP,19.3,101.3,2.9,1,-0.97,Delayed shipment tracking,Returns
+TKT-000772,Platinum,Email,Critical,CloudSuite,6,22.7,8.3,0,-0.7,Request refund for order #4421,Technical
+TKT-000773,Platinum,Chat,High,CloudSuite,35.5,112.4,10.9,0,-0.2,API rate limit exceeded,Billing
+TKT-000774,Gold,WebPortal,High,MobileApp,6.9,7.5,3.4,0,0.4,Invoice discrepancy for March,Technical
+TKT-000775,Platinum,Chat,Low,EnterpriseERP,17.7,50.9,10.7,1,0.81,API rate limit exceeded,AccountAccess
+TKT-000776,Bronze,Phone,Medium,EnterpriseERP,13.1,96.2,0.6,0,-0.88,Request refund for order #4421,AccountAccess
+TKT-000777,Silver,Phone,Medium,EnterpriseERP,3.6,59.5,0.6,0,-0.53,App crashes on startup,Shipping
+TKT-000778,Silver,Chat,Low,MobileApp,24.6,39.9,11.2,0,0.24,API rate limit exceeded,Shipping
+TKT-000779,Silver,Phone,Low,RetailPOS,2.2,10.6,2.2,0,0.04,Request refund for order #4421,Shipping
+TKT-000780,Gold,Phone,High,CloudSuite,45.6,59.6,10.7,0,-0.17,Invoice discrepancy for March,ProductInquiry

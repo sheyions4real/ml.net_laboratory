@@ -1,0 +1,471 @@
+RecordId,Text,ReviewCategory,WordCount,Source
+NLP-000001,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Survey
+NLP-000002,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000003,Good value for money compared to similar products in this range.,Price,11,SocialMedia
+NLP-000004,Support team responded within hours and resolved my issue.,CustomerService,9,Chat
+NLP-000005,Good value for money compared to similar products in this range.,Price,11,SocialMedia
+NLP-000006,Missing several advertised features mentioned on the product page.,Features,9,Review
+NLP-000007,Support team responded within hours and resolved my issue.,CustomerService,9,Chat
+NLP-000008,Missing several advertised features mentioned on the product page.,Features,9,Email
+NLP-000009,Support team responded within hours and resolved my issue.,CustomerService,9,Email
+NLP-000010,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000011,Missing several advertised features mentioned on the product page.,Features,9,SocialMedia
+NLP-000012,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000013,The build quality feels cheap and the material started peeling after a week.,Quality,13,Email
+NLP-000014,The build quality feels cheap and the material started peeling after a week.,Quality,13,Ticket
+NLP-000015,Missing several advertised features mentioned on the product page.,Features,9,Review
+NLP-000016,Delivery was fast but the box arrived dented on one corner.,Shipping,11,SocialMedia
+NLP-000017,The build quality feels cheap and the material started peeling after a week.,Quality,13,Email
+NLP-000018,Support team responded within hours and resolved my issue.,CustomerService,9,Survey
+NLP-000019,Missing several advertised features mentioned on the product page.,Features,9,Review
+NLP-000020,The build quality feels cheap and the material started peeling after a week.,Quality,13,Review
+NLP-000021,The build quality feels cheap and the material started peeling after a week.,Quality,13,SocialMedia
+NLP-000022,Missing several advertised features mentioned on the product page.,Features,9,Email
+NLP-000023,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Ticket
+NLP-000024,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000025,The build quality feels cheap and the material started peeling after a week.,Quality,13,Ticket
+NLP-000026,The build quality feels cheap and the material started peeling after a week.,Quality,13,Chat
+NLP-000027,Support team responded within hours and resolved my issue.,CustomerService,9,Review
+NLP-000028,Support team responded within hours and resolved my issue.,CustomerService,9,Chat
+NLP-000029,Good value for money compared to similar products in this range.,Price,11,SocialMedia
+NLP-000030,Support team responded within hours and resolved my issue.,CustomerService,9,Chat
+NLP-000031,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Survey
+NLP-000032,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Email
+NLP-000033,Delivery was fast but the box arrived dented on one corner.,Shipping,11,SocialMedia
+NLP-000034,Missing several advertised features mentioned on the product page.,Features,9,Survey
+NLP-000035,Support team responded within hours and resolved my issue.,CustomerService,9,Survey
+NLP-000036,Support team responded within hours and resolved my issue.,CustomerService,9,Chat
+NLP-000037,The build quality feels cheap and the material started peeling after a week.,Quality,13,Email
+NLP-000038,Delivery was fast but the box arrived dented on one corner.,Shipping,11,SocialMedia
+NLP-000039,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Ticket
+NLP-000040,Support team responded within hours and resolved my issue.,CustomerService,9,SocialMedia
+NLP-000041,Missing several advertised features mentioned on the product page.,Features,9,Email
+NLP-000042,Support team responded within hours and resolved my issue.,CustomerService,9,Email
+NLP-000043,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Email
+NLP-000044,Missing several advertised features mentioned on the product page.,Features,9,SocialMedia
+NLP-000045,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Email
+NLP-000046,Support team responded within hours and resolved my issue.,CustomerService,9,Survey
+NLP-000047,Good value for money compared to similar products in this range.,Price,11,SocialMedia
+NLP-000048,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000049,Missing several advertised features mentioned on the product page.,Features,9,SocialMedia
+NLP-000050,Good value for money compared to similar products in this range.,Price,11,Chat
+NLP-000051,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000052,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Ticket
+NLP-000053,Good value for money compared to similar products in this range.,Price,11,Ticket
+NLP-000054,The build quality feels cheap and the material started peeling after a week.,Quality,13,SocialMedia
+NLP-000055,Good value for money compared to similar products in this range.,Price,11,Ticket
+NLP-000056,Good value for money compared to similar products in this range.,Price,11,Chat
+NLP-000057,The build quality feels cheap and the material started peeling after a week.,Quality,13,Survey
+NLP-000058,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Email
+NLP-000059,The build quality feels cheap and the material started peeling after a week.,Quality,13,SocialMedia
+NLP-000060,Good value for money compared to similar products in this range.,Price,11,SocialMedia
+NLP-000061,Support team responded within hours and resolved my issue.,CustomerService,9,Survey
+NLP-000062,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000063,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000064,Good value for money compared to similar products in this range.,Price,11,Survey
+NLP-000065,Missing several advertised features mentioned on the product page.,Features,9,Survey
+NLP-000066,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000067,Missing several advertised features mentioned on the product page.,Features,9,Ticket
+NLP-000068,Good value for money compared to similar products in this range.,Price,11,SocialMedia
+NLP-000069,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Email
+NLP-000070,Support team responded within hours and resolved my issue.,CustomerService,9,Review
+NLP-000071,Support team responded within hours and resolved my issue.,CustomerService,9,SocialMedia
+NLP-000072,Good value for money compared to similar products in this range.,Price,11,Survey
+NLP-000073,Missing several advertised features mentioned on the product page.,Features,9,Ticket
+NLP-000074,Support team responded within hours and resolved my issue.,CustomerService,9,Survey
+NLP-000075,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000076,The build quality feels cheap and the material started peeling after a week.,Quality,13,Review
+NLP-000077,Delivery was fast but the box arrived dented on one corner.,Shipping,11,SocialMedia
+NLP-000078,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000079,The build quality feels cheap and the material started peeling after a week.,Quality,13,Ticket
+NLP-000080,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000081,Good value for money compared to similar products in this range.,Price,11,Review
+NLP-000082,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000083,Good value for money compared to similar products in this range.,Price,11,Survey
+NLP-000084,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000085,The build quality feels cheap and the material started peeling after a week.,Quality,13,Email
+NLP-000086,Missing several advertised features mentioned on the product page.,Features,9,Email
+NLP-000087,Support team responded within hours and resolved my issue.,CustomerService,9,SocialMedia
+NLP-000088,The build quality feels cheap and the material started peeling after a week.,Quality,13,Chat
+NLP-000089,Support team responded within hours and resolved my issue.,CustomerService,9,SocialMedia
+NLP-000090,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Chat
+NLP-000091,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Ticket
+NLP-000092,Missing several advertised features mentioned on the product page.,Features,9,Ticket
+NLP-000093,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000094,Missing several advertised features mentioned on the product page.,Features,9,Email
+NLP-000095,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000096,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Chat
+NLP-000097,Good value for money compared to similar products in this range.,Price,11,Chat
+NLP-000098,Good value for money compared to similar products in this range.,Price,11,Survey
+NLP-000099,Missing several advertised features mentioned on the product page.,Features,9,Email
+NLP-000100,Good value for money compared to similar products in this range.,Price,11,SocialMedia
+NLP-000101,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000102,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000103,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000104,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000105,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000106,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Chat
+NLP-000107,Good value for money compared to similar products in this range.,Price,11,Review
+NLP-000108,Delivery was fast but the box arrived dented on one corner.,Shipping,11,SocialMedia
+NLP-000109,Good value for money compared to similar products in this range.,Price,11,SocialMedia
+NLP-000110,The build quality feels cheap and the material started peeling after a week.,Quality,13,SocialMedia
+NLP-000111,Missing several advertised features mentioned on the product page.,Features,9,Survey
+NLP-000112,Support team responded within hours and resolved my issue.,CustomerService,9,Chat
+NLP-000113,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000114,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000115,The build quality feels cheap and the material started peeling after a week.,Quality,13,Ticket
+NLP-000116,Delivery was fast but the box arrived dented on one corner.,Shipping,11,SocialMedia
+NLP-000117,Good value for money compared to similar products in this range.,Price,11,Review
+NLP-000118,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000119,Support team responded within hours and resolved my issue.,CustomerService,9,Review
+NLP-000120,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Chat
+NLP-000121,Good value for money compared to similar products in this range.,Price,11,Ticket
+NLP-000122,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Survey
+NLP-000123,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000124,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Email
+NLP-000125,Missing several advertised features mentioned on the product page.,Features,9,Ticket
+NLP-000126,Good value for money compared to similar products in this range.,Price,11,SocialMedia
+NLP-000127,Missing several advertised features mentioned on the product page.,Features,9,Survey
+NLP-000128,Support team responded within hours and resolved my issue.,CustomerService,9,Email
+NLP-000129,The build quality feels cheap and the material started peeling after a week.,Quality,13,Review
+NLP-000130,Delivery was fast but the box arrived dented on one corner.,Shipping,11,SocialMedia
+NLP-000131,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Ticket
+NLP-000132,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000133,Missing several advertised features mentioned on the product page.,Features,9,SocialMedia
+NLP-000134,Delivery was fast but the box arrived dented on one corner.,Shipping,11,SocialMedia
+NLP-000135,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000136,Missing several advertised features mentioned on the product page.,Features,9,Email
+NLP-000137,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000138,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000139,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Email
+NLP-000140,Support team responded within hours and resolved my issue.,CustomerService,9,Email
+NLP-000141,Good value for money compared to similar products in this range.,Price,11,Chat
+NLP-000142,Missing several advertised features mentioned on the product page.,Features,9,Ticket
+NLP-000143,Support team responded within hours and resolved my issue.,CustomerService,9,SocialMedia
+NLP-000144,Good value for money compared to similar products in this range.,Price,11,Ticket
+NLP-000145,Support team responded within hours and resolved my issue.,CustomerService,9,SocialMedia
+NLP-000146,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000147,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000148,Missing several advertised features mentioned on the product page.,Features,9,Survey
+NLP-000149,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000150,The build quality feels cheap and the material started peeling after a week.,Quality,13,Review
+NLP-000151,Support team responded within hours and resolved my issue.,CustomerService,9,SocialMedia
+NLP-000152,The build quality feels cheap and the material started peeling after a week.,Quality,13,Review
+NLP-000153,Support team responded within hours and resolved my issue.,CustomerService,9,Email
+NLP-000154,Missing several advertised features mentioned on the product page.,Features,9,Email
+NLP-000155,Missing several advertised features mentioned on the product page.,Features,9,Review
+NLP-000156,The build quality feels cheap and the material started peeling after a week.,Quality,13,Email
+NLP-000157,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Survey
+NLP-000158,Missing several advertised features mentioned on the product page.,Features,9,Email
+NLP-000159,The build quality feels cheap and the material started peeling after a week.,Quality,13,Ticket
+NLP-000160,Good value for money compared to similar products in this range.,Price,11,Survey
+NLP-000161,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000162,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000163,Support team responded within hours and resolved my issue.,CustomerService,9,Chat
+NLP-000164,Support team responded within hours and resolved my issue.,CustomerService,9,Review
+NLP-000165,Good value for money compared to similar products in this range.,Price,11,Ticket
+NLP-000166,Good value for money compared to similar products in this range.,Price,11,Ticket
+NLP-000167,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000168,The build quality feels cheap and the material started peeling after a week.,Quality,13,Chat
+NLP-000169,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Email
+NLP-000170,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000171,The build quality feels cheap and the material started peeling after a week.,Quality,13,Ticket
+NLP-000172,Support team responded within hours and resolved my issue.,CustomerService,9,Chat
+NLP-000173,Missing several advertised features mentioned on the product page.,Features,9,Ticket
+NLP-000174,Support team responded within hours and resolved my issue.,CustomerService,9,Survey
+NLP-000175,Good value for money compared to similar products in this range.,Price,11,SocialMedia
+NLP-000176,Good value for money compared to similar products in this range.,Price,11,Ticket
+NLP-000177,Support team responded within hours and resolved my issue.,CustomerService,9,Email
+NLP-000178,The build quality feels cheap and the material started peeling after a week.,Quality,13,Chat
+NLP-000179,Missing several advertised features mentioned on the product page.,Features,9,Email
+NLP-000180,Missing several advertised features mentioned on the product page.,Features,9,Review
+NLP-000181,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000182,Support team responded within hours and resolved my issue.,CustomerService,9,SocialMedia
+NLP-000183,Good value for money compared to similar products in this range.,Price,11,SocialMedia
+NLP-000184,The build quality feels cheap and the material started peeling after a week.,Quality,13,Chat
+NLP-000185,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000186,Delivery was fast but the box arrived dented on one corner.,Shipping,11,SocialMedia
+NLP-000187,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000188,Support team responded within hours and resolved my issue.,CustomerService,9,Chat
+NLP-000189,Support team responded within hours and resolved my issue.,CustomerService,9,Review
+NLP-000190,Missing several advertised features mentioned on the product page.,Features,9,Survey
+NLP-000191,Missing several advertised features mentioned on the product page.,Features,9,Review
+NLP-000192,Delivery was fast but the box arrived dented on one corner.,Shipping,11,SocialMedia
+NLP-000193,Missing several advertised features mentioned on the product page.,Features,9,SocialMedia
+NLP-000194,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Chat
+NLP-000195,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000196,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Chat
+NLP-000197,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000198,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000199,Support team responded within hours and resolved my issue.,CustomerService,9,Email
+NLP-000200,Good value for money compared to similar products in this range.,Price,11,Chat
+NLP-000201,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000202,Good value for money compared to similar products in this range.,Price,11,Chat
+NLP-000203,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000204,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000205,Missing several advertised features mentioned on the product page.,Features,9,SocialMedia
+NLP-000206,Support team responded within hours and resolved my issue.,CustomerService,9,Review
+NLP-000207,The build quality feels cheap and the material started peeling after a week.,Quality,13,Review
+NLP-000208,The build quality feels cheap and the material started peeling after a week.,Quality,13,Survey
+NLP-000209,Good value for money compared to similar products in this range.,Price,11,Ticket
+NLP-000210,Good value for money compared to similar products in this range.,Price,11,Survey
+NLP-000211,Support team responded within hours and resolved my issue.,CustomerService,9,Review
+NLP-000212,The build quality feels cheap and the material started peeling after a week.,Quality,13,Review
+NLP-000213,Missing several advertised features mentioned on the product page.,Features,9,SocialMedia
+NLP-000214,Support team responded within hours and resolved my issue.,CustomerService,9,Email
+NLP-000215,The build quality feels cheap and the material started peeling after a week.,Quality,13,Review
+NLP-000216,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Email
+NLP-000217,Good value for money compared to similar products in this range.,Price,11,Review
+NLP-000218,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000219,Support team responded within hours and resolved my issue.,CustomerService,9,Survey
+NLP-000220,The build quality feels cheap and the material started peeling after a week.,Quality,13,SocialMedia
+NLP-000221,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Ticket
+NLP-000222,The build quality feels cheap and the material started peeling after a week.,Quality,13,Email
+NLP-000223,The build quality feels cheap and the material started peeling after a week.,Quality,13,Survey
+NLP-000224,The build quality feels cheap and the material started peeling after a week.,Quality,13,Chat
+NLP-000225,Missing several advertised features mentioned on the product page.,Features,9,Review
+NLP-000226,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Ticket
+NLP-000227,The build quality feels cheap and the material started peeling after a week.,Quality,13,Review
+NLP-000228,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000229,Good value for money compared to similar products in this range.,Price,11,SocialMedia
+NLP-000230,Good value for money compared to similar products in this range.,Price,11,Ticket
+NLP-000231,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Ticket
+NLP-000232,Missing several advertised features mentioned on the product page.,Features,9,Survey
+NLP-000233,The build quality feels cheap and the material started peeling after a week.,Quality,13,Ticket
+NLP-000234,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Survey
+NLP-000235,Good value for money compared to similar products in this range.,Price,11,Survey
+NLP-000236,The build quality feels cheap and the material started peeling after a week.,Quality,13,SocialMedia
+NLP-000237,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000238,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000239,Good value for money compared to similar products in this range.,Price,11,Chat
+NLP-000240,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Survey
+NLP-000241,Support team responded within hours and resolved my issue.,CustomerService,9,Email
+NLP-000242,Missing several advertised features mentioned on the product page.,Features,9,Email
+NLP-000243,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Survey
+NLP-000244,Good value for money compared to similar products in this range.,Price,11,Ticket
+NLP-000245,The build quality feels cheap and the material started peeling after a week.,Quality,13,Ticket
+NLP-000246,The build quality feels cheap and the material started peeling after a week.,Quality,13,Chat
+NLP-000247,Good value for money compared to similar products in this range.,Price,11,Chat
+NLP-000248,The build quality feels cheap and the material started peeling after a week.,Quality,13,SocialMedia
+NLP-000249,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000250,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Survey
+NLP-000251,Good value for money compared to similar products in this range.,Price,11,Ticket
+NLP-000252,Good value for money compared to similar products in this range.,Price,11,Review
+NLP-000253,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Email
+NLP-000254,Delivery was fast but the box arrived dented on one corner.,Shipping,11,SocialMedia
+NLP-000255,Good value for money compared to similar products in this range.,Price,11,Chat
+NLP-000256,The build quality feels cheap and the material started peeling after a week.,Quality,13,Review
+NLP-000257,The build quality feels cheap and the material started peeling after a week.,Quality,13,Chat
+NLP-000258,Missing several advertised features mentioned on the product page.,Features,9,SocialMedia
+NLP-000259,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Survey
+NLP-000260,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Email
+NLP-000261,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Survey
+NLP-000262,The build quality feels cheap and the material started peeling after a week.,Quality,13,Chat
+NLP-000263,The build quality feels cheap and the material started peeling after a week.,Quality,13,Email
+NLP-000264,Support team responded within hours and resolved my issue.,CustomerService,9,SocialMedia
+NLP-000265,Missing several advertised features mentioned on the product page.,Features,9,Ticket
+NLP-000266,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Survey
+NLP-000267,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000268,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000269,The build quality feels cheap and the material started peeling after a week.,Quality,13,Chat
+NLP-000270,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000271,Good value for money compared to similar products in this range.,Price,11,Ticket
+NLP-000272,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000273,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000274,Good value for money compared to similar products in this range.,Price,11,Chat
+NLP-000275,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000276,The build quality feels cheap and the material started peeling after a week.,Quality,13,Email
+NLP-000277,The build quality feels cheap and the material started peeling after a week.,Quality,13,SocialMedia
+NLP-000278,Good value for money compared to similar products in this range.,Price,11,Survey
+NLP-000279,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Ticket
+NLP-000280,Support team responded within hours and resolved my issue.,CustomerService,9,Email
+NLP-000281,The build quality feels cheap and the material started peeling after a week.,Quality,13,Ticket
+NLP-000282,Support team responded within hours and resolved my issue.,CustomerService,9,Email
+NLP-000283,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000284,Good value for money compared to similar products in this range.,Price,11,Ticket
+NLP-000285,Missing several advertised features mentioned on the product page.,Features,9,Ticket
+NLP-000286,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Chat
+NLP-000287,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000288,Good value for money compared to similar products in this range.,Price,11,Ticket
+NLP-000289,Good value for money compared to similar products in this range.,Price,11,Chat
+NLP-000290,Good value for money compared to similar products in this range.,Price,11,Review
+NLP-000291,The build quality feels cheap and the material started peeling after a week.,Quality,13,Survey
+NLP-000292,The build quality feels cheap and the material started peeling after a week.,Quality,13,SocialMedia
+NLP-000293,Support team responded within hours and resolved my issue.,CustomerService,9,SocialMedia
+NLP-000294,Good value for money compared to similar products in this range.,Price,11,SocialMedia
+NLP-000295,Good value for money compared to similar products in this range.,Price,11,SocialMedia
+NLP-000296,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Ticket
+NLP-000297,Good value for money compared to similar products in this range.,Price,11,Review
+NLP-000298,Delivery was fast but the box arrived dented on one corner.,Shipping,11,SocialMedia
+NLP-000299,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000300,Good value for money compared to similar products in this range.,Price,11,Chat
+NLP-000301,The build quality feels cheap and the material started peeling after a week.,Quality,13,Review
+NLP-000302,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000303,Good value for money compared to similar products in this range.,Price,11,SocialMedia
+NLP-000304,The build quality feels cheap and the material started peeling after a week.,Quality,13,Email
+NLP-000305,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Survey
+NLP-000306,Good value for money compared to similar products in this range.,Price,11,Chat
+NLP-000307,The build quality feels cheap and the material started peeling after a week.,Quality,13,Email
+NLP-000308,Missing several advertised features mentioned on the product page.,Features,9,SocialMedia
+NLP-000309,Support team responded within hours and resolved my issue.,CustomerService,9,SocialMedia
+NLP-000310,Support team responded within hours and resolved my issue.,CustomerService,9,Survey
+NLP-000311,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Chat
+NLP-000312,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000313,The build quality feels cheap and the material started peeling after a week.,Quality,13,SocialMedia
+NLP-000314,Good value for money compared to similar products in this range.,Price,11,Survey
+NLP-000315,Missing several advertised features mentioned on the product page.,Features,9,Review
+NLP-000316,Support team responded within hours and resolved my issue.,CustomerService,9,SocialMedia
+NLP-000317,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000318,The build quality feels cheap and the material started peeling after a week.,Quality,13,Chat
+NLP-000319,Good value for money compared to similar products in this range.,Price,11,Survey
+NLP-000320,Good value for money compared to similar products in this range.,Price,11,Chat
+NLP-000321,Support team responded within hours and resolved my issue.,CustomerService,9,Email
+NLP-000322,Good value for money compared to similar products in this range.,Price,11,Survey
+NLP-000323,Missing several advertised features mentioned on the product page.,Features,9,Review
+NLP-000324,Support team responded within hours and resolved my issue.,CustomerService,9,Email
+NLP-000325,Support team responded within hours and resolved my issue.,CustomerService,9,Chat
+NLP-000326,Good value for money compared to similar products in this range.,Price,11,Survey
+NLP-000327,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Chat
+NLP-000328,Good value for money compared to similar products in this range.,Price,11,Chat
+NLP-000329,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Ticket
+NLP-000330,Good value for money compared to similar products in this range.,Price,11,Review
+NLP-000331,Support team responded within hours and resolved my issue.,CustomerService,9,Email
+NLP-000332,Missing several advertised features mentioned on the product page.,Features,9,Review
+NLP-000333,Missing several advertised features mentioned on the product page.,Features,9,Email
+NLP-000334,Support team responded within hours and resolved my issue.,CustomerService,9,Chat
+NLP-000335,Delivery was fast but the box arrived dented on one corner.,Shipping,11,SocialMedia
+NLP-000336,Delivery was fast but the box arrived dented on one corner.,Shipping,11,SocialMedia
+NLP-000337,Support team responded within hours and resolved my issue.,CustomerService,9,Survey
+NLP-000338,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000339,The build quality feels cheap and the material started peeling after a week.,Quality,13,Chat
+NLP-000340,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Survey
+NLP-000341,Missing several advertised features mentioned on the product page.,Features,9,Review
+NLP-000342,The build quality feels cheap and the material started peeling after a week.,Quality,13,Survey
+NLP-000343,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Survey
+NLP-000344,Support team responded within hours and resolved my issue.,CustomerService,9,Chat
+NLP-000345,Support team responded within hours and resolved my issue.,CustomerService,9,Survey
+NLP-000346,Delivery was fast but the box arrived dented on one corner.,Shipping,11,SocialMedia
+NLP-000347,Good value for money compared to similar products in this range.,Price,11,SocialMedia
+NLP-000348,Missing several advertised features mentioned on the product page.,Features,9,Review
+NLP-000349,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Email
+NLP-000350,Missing several advertised features mentioned on the product page.,Features,9,Survey
+NLP-000351,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000352,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Email
+NLP-000353,The build quality feels cheap and the material started peeling after a week.,Quality,13,SocialMedia
+NLP-000354,Support team responded within hours and resolved my issue.,CustomerService,9,Survey
+NLP-000355,Missing several advertised features mentioned on the product page.,Features,9,Email
+NLP-000356,Good value for money compared to similar products in this range.,Price,11,Chat
+NLP-000357,Support team responded within hours and resolved my issue.,CustomerService,9,SocialMedia
+NLP-000358,Support team responded within hours and resolved my issue.,CustomerService,9,Survey
+NLP-000359,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000360,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000361,Support team responded within hours and resolved my issue.,CustomerService,9,Chat
+NLP-000362,The build quality feels cheap and the material started peeling after a week.,Quality,13,Survey
+NLP-000363,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000364,The build quality feels cheap and the material started peeling after a week.,Quality,13,Email
+NLP-000365,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Ticket
+NLP-000366,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Survey
+NLP-000367,Missing several advertised features mentioned on the product page.,Features,9,Ticket
+NLP-000368,Missing several advertised features mentioned on the product page.,Features,9,Ticket
+NLP-000369,Delivery was fast but the box arrived dented on one corner.,Shipping,11,SocialMedia
+NLP-000370,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000371,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000372,Good value for money compared to similar products in this range.,Price,11,Review
+NLP-000373,The build quality feels cheap and the material started peeling after a week.,Quality,13,Survey
+NLP-000374,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Chat
+NLP-000375,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Email
+NLP-000376,Good value for money compared to similar products in this range.,Price,11,SocialMedia
+NLP-000377,Good value for money compared to similar products in this range.,Price,11,Survey
+NLP-000378,The build quality feels cheap and the material started peeling after a week.,Quality,13,Chat
+NLP-000379,Support team responded within hours and resolved my issue.,CustomerService,9,Survey
+NLP-000380,Good value for money compared to similar products in this range.,Price,11,Survey
+NLP-000381,Missing several advertised features mentioned on the product page.,Features,9,Survey
+NLP-000382,Support team responded within hours and resolved my issue.,CustomerService,9,Chat
+NLP-000383,Missing several advertised features mentioned on the product page.,Features,9,Survey
+NLP-000384,The build quality feels cheap and the material started peeling after a week.,Quality,13,Ticket
+NLP-000385,Missing several advertised features mentioned on the product page.,Features,9,Email
+NLP-000386,Missing several advertised features mentioned on the product page.,Features,9,SocialMedia
+NLP-000387,The build quality feels cheap and the material started peeling after a week.,Quality,13,Review
+NLP-000388,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000389,The build quality feels cheap and the material started peeling after a week.,Quality,13,SocialMedia
+NLP-000390,Missing several advertised features mentioned on the product page.,Features,9,Email
+NLP-000391,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000392,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Email
+NLP-000393,Support team responded within hours and resolved my issue.,CustomerService,9,Survey
+NLP-000394,Support team responded within hours and resolved my issue.,CustomerService,9,Survey
+NLP-000395,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000396,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000397,Support team responded within hours and resolved my issue.,CustomerService,9,Survey
+NLP-000398,The build quality feels cheap and the material started peeling after a week.,Quality,13,Survey
+NLP-000399,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Email
+NLP-000400,Support team responded within hours and resolved my issue.,CustomerService,9,Email
+NLP-000401,Support team responded within hours and resolved my issue.,CustomerService,9,Chat
+NLP-000402,Support team responded within hours and resolved my issue.,CustomerService,9,Chat
+NLP-000403,Missing several advertised features mentioned on the product page.,Features,9,Review
+NLP-000404,Good value for money compared to similar products in this range.,Price,11,Chat
+NLP-000405,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Email
+NLP-000406,The build quality feels cheap and the material started peeling after a week.,Quality,13,Email
+NLP-000407,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000408,The build quality feels cheap and the material started peeling after a week.,Quality,13,Survey
+NLP-000409,Missing several advertised features mentioned on the product page.,Features,9,SocialMedia
+NLP-000410,Delivery was fast but the box arrived dented on one corner.,Shipping,11,SocialMedia
+NLP-000411,Good value for money compared to similar products in this range.,Price,11,Ticket
+NLP-000412,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Email
+NLP-000413,Support team responded within hours and resolved my issue.,CustomerService,9,Chat
+NLP-000414,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Survey
+NLP-000415,Support team responded within hours and resolved my issue.,CustomerService,9,SocialMedia
+NLP-000416,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Ticket
+NLP-000417,Good value for money compared to similar products in this range.,Price,11,Ticket
+NLP-000418,The build quality feels cheap and the material started peeling after a week.,Quality,13,Review
+NLP-000419,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000420,Good value for money compared to similar products in this range.,Price,11,Review
+NLP-000421,Missing several advertised features mentioned on the product page.,Features,9,Ticket
+NLP-000422,Support team responded within hours and resolved my issue.,CustomerService,9,Chat
+NLP-000423,Missing several advertised features mentioned on the product page.,Features,9,Ticket
+NLP-000424,Missing several advertised features mentioned on the product page.,Features,9,Ticket
+NLP-000425,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000426,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000427,The build quality feels cheap and the material started peeling after a week.,Quality,13,Chat
+NLP-000428,Missing several advertised features mentioned on the product page.,Features,9,Survey
+NLP-000429,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Ticket
+NLP-000430,Good value for money compared to similar products in this range.,Price,11,Ticket
+NLP-000431,Support team responded within hours and resolved my issue.,CustomerService,9,Email
+NLP-000432,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000433,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000434,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000435,Good value for money compared to similar products in this range.,Price,11,Review
+NLP-000436,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000437,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Survey
+NLP-000438,Good value for money compared to similar products in this range.,Price,11,Review
+NLP-000439,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Ticket
+NLP-000440,Good value for money compared to similar products in this range.,Price,11,Chat
+NLP-000441,Missing several advertised features mentioned on the product page.,Features,9,Ticket
+NLP-000442,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Review
+NLP-000443,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000444,Missing several advertised features mentioned on the product page.,Features,9,SocialMedia
+NLP-000445,Missing several advertised features mentioned on the product page.,Features,9,SocialMedia
+NLP-000446,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000447,Support team responded within hours and resolved my issue.,CustomerService,9,Ticket
+NLP-000448,Missing several advertised features mentioned on the product page.,Features,9,Ticket
+NLP-000449,Support team responded within hours and resolved my issue.,CustomerService,9,Email
+NLP-000450,Missing several advertised features mentioned on the product page.,Features,9,Chat
+NLP-000451,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Ticket
+NLP-000452,Good value for money compared to similar products in this range.,Price,11,Review
+NLP-000453,Support team responded within hours and resolved my issue.,CustomerService,9,Review
+NLP-000454,Missing several advertised features mentioned on the product page.,Features,9,SocialMedia
+NLP-000455,The build quality feels cheap and the material started peeling after a week.,Quality,13,Review
+NLP-000456,Support team responded within hours and resolved my issue.,CustomerService,9,Chat
+NLP-000457,Good value for money compared to similar products in this range.,Price,11,SocialMedia
+NLP-000458,Missing several advertised features mentioned on the product page.,Features,9,Review
+NLP-000459,Missing several advertised features mentioned on the product page.,Features,9,Ticket
+NLP-000460,The build quality feels cheap and the material started peeling after a week.,Quality,13,Chat
+NLP-000461,Delivery was fast but the box arrived dented on one corner.,Shipping,11,Ticket
+NLP-000462,The build quality feels cheap and the material started peeling after a week.,Quality,13,Review
+NLP-000463,The build quality feels cheap and the material started peeling after a week.,Quality,13,Review
+NLP-000464,The build quality feels cheap and the material started peeling after a week.,Quality,13,Review
+NLP-000465,Good value for money compared to similar products in this range.,Price,11,Ticket
+NLP-000466,Support team responded within hours and resolved my issue.,CustomerService,9,Email
+NLP-000467,Missing several advertised features mentioned on the product page.,Features,9,Review
+NLP-000468,Good value for money compared to similar products in this range.,Price,11,Email
+NLP-000469,Missing several advertised features mentioned on the product page.,Features,9,SocialMedia
+NLP-000470,Good value for money compared to similar products in this range.,Price,11,Survey

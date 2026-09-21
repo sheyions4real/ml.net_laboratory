@@ -1,0 +1,891 @@
+PatientId,Age,BMI,BloodPressureSystolic,BloodPressureDiastolic,GlucoseLevel,CholesterolTotal,Smoker,FamilyHistory,ExerciseHoursPerWeek,Symptoms,DiagnosisClass
+PAT-000001,36,26.1,181,65,226,179,0,0,10.7,Shortness of breath,Type2Diabetes
+PAT-000002,37,29.2,182,112,179,297,0,0,11.1,Frequent urination,Type2Diabetes
+PAT-000003,77,41.3,149,93,257,248,1,1,7.6,Frequent urination,Type2Diabetes
+PAT-000004,19,41.4,118,66,251,311,0,1,10.5,Fatigue,Type2Diabetes
+PAT-000005,74,33.7,104,104,264,278,0,1,4.5,Persistent cough,Type2Diabetes
+PAT-000006,83,36.4,128,117,126,180,1,0,2.8,None,Hypertension
+PAT-000007,63,19.9,171,68,135,,0,0,5.1,Persistent cough,Hypertension
+PAT-000008,79,40.3,114,93,90,169,0,1,4.1,Shortness of breath,Healthy
+PAT-000009,64,29.4,114,97,198,194,0,1,6.9,Shortness of breath,Type2Diabetes
+PAT-000010,52,17.5,125,114,190,223,1,0,11.3,,Type2Diabetes
+PAT-000011,42,26.4,151,80,73,317,0,1,11,Chest pain,Cardiovascular
+PAT-000012,57,29.3,149,100,231,210,1,1,2.3,Chest pain,Type2Diabetes
+PAT-000013,51,36.6,188,94,222,263,0,0,4.8,Frequent urination,Type2Diabetes
+PAT-000014,80,38.2,109,103,242,155,1,0,5.6,None,Type2Diabetes
+PAT-000015,39,20.9,112,116,94,214,0,0,8,None,Hypertension
+PAT-000016,46,38.5,139,103,105,245,0,0,9.2,Frequent urination,Healthy
+PAT-000017,21,21.1,149,70,186,242,0,0,6.9,None,Type2Diabetes
+PAT-000018,18,32.5,151,83,132,251,0,0,2.6,,Hypertension
+PAT-000019,50,38.8,141,107,123,255,0,1,5.3,Frequent urination,Hypertension
+PAT-000020,64,33.3,111,91,251,178,0,1,7.8,None,Type2Diabetes
+PAT-000021,68,27,165,96,79,182,1,0,2,Fatigue,Hypertension
+PAT-000022,80,20.5,160,111,172,,0,0,10.2,Fatigue,Type2Diabetes
+PAT-000023,74,31.2,110,60,210,268,0,0,0.5,None,Type2Diabetes
+PAT-000024,35,38.1,166,110,145,229,0,1,8.5,Shortness of breath,Type2Diabetes
+PAT-000025,75,35.5,171,95,121,245,0,0,8,Chest pain,Hypertension
+PAT-000026,58,25,117,61,238,165,0,1,11.8,Chest pain,Type2Diabetes
+PAT-000027,56,23.2,170,90,154,158,1,1,1.2,None,Type2Diabetes
+PAT-000028,69,37.8,112,82,123,287,1,0,0.1,Shortness of breath,Healthy
+PAT-000029,18,22.9,112,103,162,141,1,0,5.4,Shortness of breath,Type2Diabetes
+PAT-000030,50,29.8,159,63,195,200,0,0,11,Shortness of breath,Type2Diabetes
+PAT-000031,30,34.9,91,105,107,170,0,1,4,,Cardiovascular
+PAT-000032,26,25.9,154,102,111,229,0,0,6.1,,Hypertension
+PAT-000033,51,41.1,182,84,150,218,1,0,12,,Type2Diabetes
+PAT-000034,25,36,152,94,100,259,0,0,3,Frequent urination,Healthy
+PAT-000035,23,19.5,164,68,191,224,0,0,1.2,Fatigue,Type2Diabetes
+PAT-000036,66,22.7,125,94,139,258,0,0,6.2,None,Healthy
+PAT-000037,42,37.3,102,114,142,124,1,1,7.5,Shortness of breath,Type2Diabetes
+PAT-000038,82,27.1,175,83,249,162,0,0,6.4,Fatigue,Type2Diabetes
+PAT-000039,55,30.1,147,109,125,241,0,0,2,Persistent cough,Hypertension
+PAT-000040,83,41.7,133,87,146,186,0,0,0.7,None,Type2Diabetes
+PAT-000041,22,33,143,70,267,187,0,1,0.2,Fatigue,Type2Diabetes
+PAT-000042,46,35.4,171,114,260,175,0,0,5.8,None,Type2Diabetes
+PAT-000043,23,26.2,100,84,70,189,0,0,5.7,Fatigue,Hypertension
+PAT-000044,21,36.3,90,109,270,279,0,0,5.7,Fatigue,Type2Diabetes
+PAT-000045,48,29.5,114,69,217,253,0,1,1.2,Persistent cough,Type2Diabetes
+PAT-000046,31,36.9,124,96,221,170,1,0,10.5,Shortness of breath,Type2Diabetes
+PAT-000047,35,20.2,136,107,142,315,0,0,11.4,Shortness of breath,Type2Diabetes
+PAT-000048,63,20.6,107,62,192,163,0,0,0.2,None,Type2Diabetes
+PAT-000049,71,17.1,90,113,132,158,1,1,11.9,None,Hypertension
+PAT-000050,71,34.2,181,100,147,203,0,1,3.3,Fatigue,Type2Diabetes
+PAT-000051,52,30.4,153,67,109,238,1,0,3.2,Chest pain,Hypertension
+PAT-000052,54,19.1,187,71,225,275,0,1,0.7,,Type2Diabetes
+PAT-000053,69,35.9,177,70,178,229,1,1,5.1,,Type2Diabetes
+PAT-000054,69,23.6,139,79,106,156,1,1,10.7,,Healthy
+PAT-000055,29,32.2,164,98,135,269,0,0,10.7,Persistent cough,Hypertension
+PAT-000056,60,33.4,133,65,111,217,0,0,8.4,Shortness of breath,Healthy
+PAT-000057,46,20.3,164,60,279,158,0,0,9.6,Chest pain,Type2Diabetes
+PAT-000058,39,22.1,142,87,263,125,0,0,4.7,,Type2Diabetes
+PAT-000059,72,35.2,188,102,147,234,1,0,1.2,Fatigue,Type2Diabetes
+PAT-000060,30,34.7,121,110,82,304,0,1,7.3,Persistent cough,Healthy
+PAT-000061,69,29.6,100,87,125,140,0,0,0.2,Shortness of breath,Healthy
+PAT-000062,47,31.7,121,115,132,281,1,1,11.2,None,Hypertension
+PAT-000063,75,24.9,161,97,99,147,0,0,9.5,Frequent urination,Hypertension
+PAT-000064,42,39.4,178,67,202,280,0,0,8.3,Fatigue,Type2Diabetes
+PAT-000065,73,36.5,107,85,138,177,0,0,1,None,Hypertension
+PAT-000066,32,23.6,186,72,102,131,0,0,11.8,Persistent cough,Respiratory
+PAT-000067,82,34.4,147,119,267,164,0,1,9.5,Chest pain,Type2Diabetes
+PAT-000068,40,26.5,132,85,210,249,1,0,10.1,Frequent urination,Type2Diabetes
+PAT-000069,63,35.7,174,85,72,173,0,1,8.4,Fatigue,Hypertension
+PAT-000070,55,21.9,137,82,190,,0,1,6.1,None,Type2Diabetes
+PAT-000071,18,22.5,187,97,271,294,1,1,5.1,Shortness of breath,Respiratory
+PAT-000072,58,29.4,187,75,163,280,0,0,11.6,,Type2Diabetes
+PAT-000073,25,20.3,117,63,108,202,0,0,6.4,None,Hypertension
+PAT-000074,38,27.2,154,78,127,290,0,0,11.8,Chest pain,Healthy
+PAT-000075,22,22.3,133,106,85,196,0,1,5,None,Respiratory
+PAT-000076,80,34.9,112,93,217,213,0,0,9.3,Fatigue,Type2Diabetes
+PAT-000077,28,34,96,115,197,146,0,1,5.2,Chest pain,Type2Diabetes
+PAT-000078,43,27.5,124,93,267,210,0,0,0.5,None,Type2Diabetes
+PAT-000079,61,33,117,62,157,219,0,1,6.4,Chest pain,Healthy
+PAT-000080,77,18.7,163,111,255,240,0,0,4,Fatigue,Type2Diabetes
+PAT-000081,74,18.1,108,101,262,316,0,1,5.1,Shortness of breath,Type2Diabetes
+PAT-000082,67,38.6,156,84,77,305,0,0,6.4,,Hypertension
+PAT-000083,55,40.3,125,120,253,235,1,1,3.5,Frequent urination,Type2Diabetes
+PAT-000084,64,38.6,186,98,110,206,0,0,6,None,Hypertension
+PAT-000085,65,30.2,116,103,161,,0,1,1.3,Persistent cough,Type2Diabetes
+PAT-000086,60,20,156,102,169,213,0,0,2.4,Persistent cough,Type2Diabetes
+PAT-000087,66,16.4,141,102,94,240,0,0,10.9,None,Hypertension
+PAT-000088,75,25.2,141,119,89,182,0,0,2.7,Fatigue,Hypertension
+PAT-000089,73,19.9,116,94,78,162,0,0,5.2,Chest pain,Hypertension
+PAT-000090,41,27.9,108,76,146,148,0,1,3.5,,Type2Diabetes
+PAT-000091,48,29.6,127,97,106,313,0,1,0.9,,Hypertension
+PAT-000092,71,22.7,92,112,71,268,1,0,4.7,Persistent cough,Hypertension
+PAT-000093,46,20.9,111,88,228,207,0,1,2.9,Fatigue,Type2Diabetes
+PAT-000094,76,35.5,143,96,157,251,0,0,6.5,Chest pain,Type2Diabetes
+PAT-000095,18,18.6,143,61,275,250,0,0,6.4,None,Type2Diabetes
+PAT-000096,33,38.1,142,67,116,217,1,0,10.1,None,Hypertension
+PAT-000097,38,27.1,187,90,90,173,0,0,2.9,Persistent cough,Healthy
+PAT-000098,53,18.6,126,101,262,290,0,1,1.3,Chest pain,Hypertension
+PAT-000099,28,27.8,175,113,126,269,0,0,2.7,Fatigue,Hypertension
+PAT-000100,78,26.5,122,64,280,218,0,1,0.2,,Type2Diabetes
+PAT-000101,39,33.4,138,74,214,227,0,0,7.1,Persistent cough,Type2Diabetes
+PAT-000102,55,19.4,178,102,207,313,0,0,10.4,None,Type2Diabetes
+PAT-000103,18,38.6,132,81,149,155,0,1,0.2,,Type2Diabetes
+PAT-000104,21,28.6,107,65,164,266,0,0,2.6,Shortness of breath,Type2Diabetes
+PAT-000105,41,38.3,107,99,77,303,1,0,11.1,,Healthy
+PAT-000106,62,25.6,180,119,159,302,0,1,8.6,Fatigue,Type2Diabetes
+PAT-000107,64,38.3,144,98,125,253,0,0,5.1,None,Hypertension
+PAT-000108,69,16.4,172,103,274,168,0,0,1.5,Persistent cough,Type2Diabetes
+PAT-000109,60,24.3,100,88,277,192,1,0,5.3,Frequent urination,Type2Diabetes
+PAT-000110,69,26.4,147,95,199,161,0,0,4.1,Shortness of breath,Type2Diabetes
+PAT-000111,66,25.8,157,101,93,218,0,0,0.5,Chest pain,Hypertension
+PAT-000112,75,25.4,145,62,226,301,0,0,1.9,Frequent urination,Type2Diabetes
+PAT-000113,72,21.7,162,99,162,292,0,0,3.9,Chest pain,Type2Diabetes
+PAT-000114,21,38.9,174,111,181,198,1,0,11.9,,Type2Diabetes
+PAT-000115,30,20.6,121,76,225,146,0,0,5.3,Chest pain,Type2Diabetes
+PAT-000116,35,39.8,135,62,112,285,0,1,4.4,Persistent cough,Healthy
+PAT-000117,45,24.4,138,68,85,195,0,0,7,Chest pain,Healthy
+PAT-000118,58,26.5,150,88,279,234,0,0,9.7,Shortness of breath,Type2Diabetes
+PAT-000119,47,19,103,61,85,252,0,1,0.1,Frequent urination,Hypertension
+PAT-000120,42,19.7,183,72,247,,0,1,10.2,Fatigue,Type2Diabetes
+PAT-000121,65,27.4,144,79,261,141,0,1,11.4,Frequent urination,Type2Diabetes
+PAT-000122,85,24.6,102,99,100,143,0,1,0.4,Frequent urination,Hypertension
+PAT-000123,59,41.7,137,72,131,195,0,0,8.7,Chest pain,Healthy
+PAT-000124,38,20.2,188,93,197,275,0,0,7.7,Frequent urination,Type2Diabetes
+PAT-000125,42,37.4,124,77,228,194,0,0,10.7,Chest pain,Type2Diabetes
+PAT-000126,32,31.5,176,118,209,244,0,0,5.4,Fatigue,Type2Diabetes
+PAT-000127,58,30.6,101,75,212,132,0,0,1.3,Shortness of breath,Type2Diabetes
+PAT-000128,54,23.1,170,73,100,298,0,0,9.8,,Healthy
+PAT-000129,85,35.2,147,112,110,298,0,0,7.7,Frequent urination,Hypertension
+PAT-000130,49,33.8,190,120,123,310,0,0,8.5,Persistent cough,Healthy
+PAT-000131,84,28.2,188,98,253,306,0,0,6.9,Chest pain,Type2Diabetes
+PAT-000132,51,34.5,93,101,133,239,0,0,10.4,None,Hypertension
+PAT-000133,45,25.1,106,74,242,,0,0,6.5,Chest pain,Other
+PAT-000134,20,21.2,143,92,140,,0,0,3.1,Persistent cough,Hypertension
+PAT-000135,75,32.1,99,73,137,284,0,1,10.9,Persistent cough,Hypertension
+PAT-000136,85,40.3,133,98,271,235,0,0,4.4,Chest pain,Type2Diabetes
+PAT-000137,26,32.7,154,114,277,142,0,1,7.5,,Type2Diabetes
+PAT-000138,58,17.7,110,84,188,199,1,0,3.2,Shortness of breath,Type2Diabetes
+PAT-000139,61,26.1,133,117,144,278,0,1,1.3,Persistent cough,Type2Diabetes
+PAT-000140,34,33.5,113,92,242,169,0,1,9.5,Persistent cough,Type2Diabetes
+PAT-000141,19,20.4,156,66,185,219,0,0,6.1,Frequent urination,Type2Diabetes
+PAT-000142,59,27.2,124,120,260,302,0,0,6.3,,Type2Diabetes
+PAT-000143,84,38.1,124,116,188,297,1,0,5.3,Frequent urination,Type2Diabetes
+PAT-000144,31,37.7,123,68,72,289,0,0,2.6,Fatigue,Hypertension
+PAT-000145,85,29.2,177,119,238,206,0,1,6.6,Fatigue,Type2Diabetes
+PAT-000146,79,38.2,162,95,234,311,0,1,9.8,Shortness of breath,Type2Diabetes
+PAT-000147,60,31.7,182,108,74,298,1,1,10.6,,Hypertension
+PAT-000148,68,19.4,140,92,256,233,0,0,6.6,Fatigue,Type2Diabetes
+PAT-000149,33,37.1,177,96,138,184,0,1,1,Persistent cough,Hypertension
+PAT-000150,63,27,153,118,235,258,0,0,5,None,Type2Diabetes
+PAT-000151,54,40.1,128,65,269,310,1,1,11.7,Frequent urination,Type2Diabetes
+PAT-000152,60,21.1,185,63,114,302,0,1,5,Chest pain,Other
+PAT-000153,34,20.7,143,76,189,257,1,0,0.6,Fatigue,Type2Diabetes
+PAT-000154,19,23.5,118,62,141,154,0,1,0.3,Persistent cough,Type2Diabetes
+PAT-000155,30,28.9,101,80,183,168,0,0,6.1,Fatigue,Type2Diabetes
+PAT-000156,24,31.8,181,97,79,199,0,1,11.8,Chest pain,Hypertension
+PAT-000157,27,27,174,119,209,215,0,0,11.8,Chest pain,Type2Diabetes
+PAT-000158,63,33.2,168,112,205,185,1,0,9.9,Shortness of breath,Type2Diabetes
+PAT-000159,81,34.3,114,65,226,287,1,1,9,Shortness of breath,Type2Diabetes
+PAT-000160,67,36.3,106,84,100,182,0,1,5.9,Shortness of breath,Respiratory
+PAT-000161,30,38.8,127,62,79,209,1,0,1.1,,Hypertension
+PAT-000162,63,25.8,122,95,117,213,1,0,8.7,Persistent cough,Hypertension
+PAT-000163,42,37.3,100,96,242,155,0,1,1.5,,Type2Diabetes
+PAT-000164,32,36.2,102,93,219,309,0,0,6.9,,Type2Diabetes
+PAT-000165,23,24.9,163,94,166,125,0,1,10.3,Chest pain,Type2Diabetes
+PAT-000166,30,40.1,160,97,118,227,0,1,3.4,None,Healthy
+PAT-000167,51,40.7,125,78,266,249,0,0,6.5,Frequent urination,Type2Diabetes
+PAT-000168,84,35.6,169,70,252,201,0,0,3.9,Chest pain,Type2Diabetes
+PAT-000169,30,21.2,170,109,149,139,0,0,11.1,,Type2Diabetes
+PAT-000170,38,27.5,158,83,110,228,0,1,9.4,None,Hypertension
+PAT-000171,71,40.6,175,84,95,263,0,0,3.3,Chest pain,Hypertension
+PAT-000172,29,27.2,114,93,224,139,0,1,2.4,Chest pain,Type2Diabetes
+PAT-000173,82,17,170,97,216,134,0,1,1.3,Chest pain,Type2Diabetes
+PAT-000174,28,37.5,142,64,230,231,0,0,2.5,None,Type2Diabetes
+PAT-000175,27,23.3,103,113,119,242,1,0,6.8,Persistent cough,Hypertension
+PAT-000176,83,38.5,187,79,132,304,1,0,2.8,Persistent cough,Healthy
+PAT-000177,81,40.8,151,83,127,236,0,1,2.8,Shortness of breath,Hypertension
+PAT-000178,69,18.2,125,94,70,299,0,0,2.3,None,Hypertension
+PAT-000179,66,32.2,133,99,270,168,0,0,4.9,Shortness of breath,Type2Diabetes
+PAT-000180,64,33.6,162,102,225,206,0,1,1.4,Shortness of breath,Type2Diabetes
+PAT-000181,27,26.8,122,110,83,320,0,1,4.9,Persistent cough,Hypertension
+PAT-000182,26,17.8,101,117,150,125,0,0,5.5,Shortness of breath,Type2Diabetes
+PAT-000183,37,24.4,149,82,276,120,1,1,0.1,Chest pain,Type2Diabetes
+PAT-000184,48,24.2,189,111,72,183,0,0,5.3,,Hypertension
+PAT-000185,47,17.4,135,81,86,151,0,0,7.7,,Hypertension
+PAT-000186,54,39.5,144,96,86,224,0,0,5.7,Frequent urination,Hypertension
+PAT-000187,66,41.7,147,80,220,158,1,1,7.7,Shortness of breath,Type2Diabetes
+PAT-000188,31,34.7,133,64,85,245,0,1,6.8,Persistent cough,Healthy
+PAT-000189,48,21.9,105,60,136,316,0,0,10.4,,Healthy
+PAT-000190,82,18.9,178,118,181,,0,0,4.2,Frequent urination,Type2Diabetes
+PAT-000191,24,34.6,122,60,185,166,0,0,1.3,Chest pain,Type2Diabetes
+PAT-000192,66,16.8,119,78,160,274,0,0,8.1,Fatigue,Type2Diabetes
+PAT-000193,51,30.3,115,103,103,133,0,0,4.3,Chest pain,Hypertension
+PAT-000194,57,27.1,124,60,108,181,0,0,5,None,Hypertension
+PAT-000195,79,38.7,152,110,266,252,0,1,0.9,Chest pain,Type2Diabetes
+PAT-000196,21,23.4,97,115,270,217,0,0,0.7,Persistent cough,Type2Diabetes
+PAT-000197,70,23.3,112,95,191,251,1,0,6.8,Shortness of breath,Type2Diabetes
+PAT-000198,55,32.4,96,75,196,125,0,0,6.2,None,Type2Diabetes
+PAT-000199,55,25.3,104,105,185,193,0,0,8.6,Chest pain,Type2Diabetes
+PAT-000200,48,41.9,189,110,236,128,0,0,4,Frequent urination,Type2Diabetes
+PAT-000201,61,23.7,94,66,236,158,1,1,0,,Type2Diabetes
+PAT-000202,21,33.3,151,82,123,190,0,1,5.3,,Healthy
+PAT-000203,30,40.4,97,82,233,180,0,0,4,Fatigue,Type2Diabetes
+PAT-000204,64,26.4,137,106,208,241,0,1,4.8,Fatigue,Type2Diabetes
+PAT-000205,59,35.3,185,116,233,312,0,0,9.6,Shortness of breath,Type2Diabetes
+PAT-000206,81,18.8,108,99,235,195,1,1,5.1,Persistent cough,Type2Diabetes
+PAT-000207,22,34,155,98,195,153,1,0,6.8,None,Type2Diabetes
+PAT-000208,69,39.3,110,92,74,177,0,0,9.7,Fatigue,Healthy
+PAT-000209,84,36.8,182,96,91,196,0,0,1.4,Fatigue,Healthy
+PAT-000210,73,18,93,115,175,192,0,0,4,None,Type2Diabetes
+PAT-000211,26,25.8,145,75,80,211,0,0,4.2,Frequent urination,Hypertension
+PAT-000212,30,24.6,129,93,259,259,1,0,9.3,Persistent cough,Type2Diabetes
+PAT-000213,79,41.4,102,81,226,271,0,1,10.3,None,Type2Diabetes
+PAT-000214,26,19.6,114,92,151,242,1,0,1.7,Fatigue,Type2Diabetes
+PAT-000215,29,35.2,92,113,194,175,0,0,8.4,Shortness of breath,Type2Diabetes
+PAT-000216,19,20.1,115,111,279,229,1,0,2.6,Shortness of breath,Type2Diabetes
+PAT-000217,28,38,176,90,153,132,1,0,3.2,Persistent cough,Type2Diabetes
+PAT-000218,53,32.8,103,73,233,247,1,0,2.5,,Type2Diabetes
+PAT-000219,82,33.3,110,113,178,272,0,0,8.7,Persistent cough,Type2Diabetes
+PAT-000220,36,20,104,106,95,159,0,0,11.9,Chest pain,Hypertension
+PAT-000221,60,25.4,144,93,242,193,1,0,4.4,Shortness of breath,Type2Diabetes
+PAT-000222,83,18.4,91,84,258,151,0,0,11.8,None,Type2Diabetes
+PAT-000223,55,39.4,170,112,222,181,0,1,7.3,Frequent urination,Type2Diabetes
+PAT-000224,67,32.1,112,95,83,200,0,0,5.4,,Hypertension
+PAT-000225,19,34.4,102,92,110,288,0,0,11.7,Fatigue,Hypertension
+PAT-000226,33,25.4,144,79,181,124,0,1,8,Persistent cough,Type2Diabetes
+PAT-000227,21,39.5,128,88,261,278,1,1,5.3,Persistent cough,Type2Diabetes
+PAT-000228,73,19.3,185,98,233,210,1,0,0.8,Fatigue,Type2Diabetes
+PAT-000229,22,17.6,114,80,218,212,0,1,6.5,,Type2Diabetes
+PAT-000230,31,27.9,168,116,121,294,0,0,2.6,Frequent urination,Hypertension
+PAT-000231,38,20.8,132,82,147,205,0,0,10.3,Frequent urination,Type2Diabetes
+PAT-000232,79,20.9,106,95,156,231,0,0,11.4,Shortness of breath,Type2Diabetes
+PAT-000233,73,27.9,128,70,230,175,0,1,4.8,Chest pain,Type2Diabetes
+PAT-000234,31,28.9,181,105,90,125,0,1,10,Fatigue,Hypertension
+PAT-000235,59,29.6,94,77,113,144,1,1,6.4,Fatigue,Hypertension
+PAT-000236,38,20.7,144,111,127,251,0,1,7.7,Fatigue,Healthy
+PAT-000237,45,21.1,145,100,194,,1,1,10,Shortness of breath,Type2Diabetes
+PAT-000238,79,34.9,140,67,153,172,0,1,7,Persistent cough,Type2Diabetes
+PAT-000239,23,18.6,181,99,224,195,0,1,2.5,Chest pain,Type2Diabetes
+PAT-000240,31,19.5,165,85,202,153,1,0,9,,Type2Diabetes
+PAT-000241,57,29.4,133,75,254,,0,0,3.4,Frequent urination,Cardiovascular
+PAT-000242,81,17.8,167,106,271,192,0,0,3.4,None,Cardiovascular
+PAT-000243,84,25.6,190,113,154,252,0,1,10.6,Chest pain,Type2Diabetes
+PAT-000244,32,31,99,97,73,210,1,1,10.3,Shortness of breath,Healthy
+PAT-000245,75,23.3,137,105,241,242,0,0,5.1,,Type2Diabetes
+PAT-000246,48,36.4,90,112,242,127,1,0,5.9,Persistent cough,Type2Diabetes
+PAT-000247,47,31.2,180,74,138,233,0,1,7,Frequent urination,Healthy
+PAT-000248,78,16.4,97,89,182,225,0,1,3.1,None,Type2Diabetes
+PAT-000249,62,41.4,156,92,156,229,1,1,11.7,Shortness of breath,Type2Diabetes
+PAT-000250,84,18.3,105,78,79,,0,0,9.4,Shortness of breath,Hypertension
+PAT-000251,65,34.5,124,72,263,231,0,0,0.6,Chest pain,Type2Diabetes
+PAT-000252,82,32.5,111,78,125,272,0,0,11.8,,Hypertension
+PAT-000253,43,29,92,92,99,279,0,0,11.3,Persistent cough,Healthy
+PAT-000254,82,36.7,145,112,148,194,0,1,8.7,,Type2Diabetes
+PAT-000255,85,27.6,151,77,92,207,0,1,7.8,Frequent urination,Hypertension
+PAT-000256,40,17.3,177,120,238,159,0,1,0.7,Chest pain,Type2Diabetes
+PAT-000257,74,35.6,174,118,152,166,1,1,8.5,Frequent urination,Type2Diabetes
+PAT-000258,85,38.9,123,64,195,242,0,0,0.4,Shortness of breath,Type2Diabetes
+PAT-000259,82,31.3,162,109,257,315,0,0,9.2,Chest pain,Type2Diabetes
+PAT-000260,19,28,169,115,271,133,1,0,9.3,Fatigue,Type2Diabetes
+PAT-000261,24,23.8,108,79,211,292,0,0,2.8,Persistent cough,Type2Diabetes
+PAT-000262,71,24.2,149,104,75,255,0,0,8.9,Persistent cough,Cardiovascular
+PAT-000263,20,35.8,142,119,231,126,0,0,8.4,Persistent cough,Type2Diabetes
+PAT-000264,23,23.4,126,114,151,305,0,1,3,None,Type2Diabetes
+PAT-000265,54,34.9,133,74,98,165,0,1,4.2,Persistent cough,Hypertension
+PAT-000266,60,35.4,181,87,239,,1,0,3.2,,Type2Diabetes
+PAT-000267,57,32.3,174,63,229,199,0,0,11.5,Shortness of breath,Type2Diabetes
+PAT-000268,47,36.5,161,86,142,187,1,0,10,Fatigue,Type2Diabetes
+PAT-000269,44,35.2,105,60,159,291,0,0,8,Chest pain,Type2Diabetes
+PAT-000270,80,22.4,162,63,256,260,1,0,5.7,Fatigue,Type2Diabetes
+PAT-000271,80,40.6,155,74,245,206,0,1,9.6,,Type2Diabetes
+PAT-000272,23,36.6,118,79,91,171,0,1,0.4,Chest pain,Other
+PAT-000273,37,33.9,147,94,252,266,0,1,6.1,None,Type2Diabetes
+PAT-000274,35,36.9,157,81,121,288,0,0,0,Fatigue,Hypertension
+PAT-000275,63,29.8,126,86,220,146,1,0,2.4,Frequent urination,Type2Diabetes
+PAT-000276,62,31.1,180,114,259,,1,1,7.1,Chest pain,Type2Diabetes
+PAT-000277,59,24.8,168,113,171,212,1,1,5.7,Chest pain,Type2Diabetes
+PAT-000278,44,20.6,143,92,94,310,1,1,1.8,Frequent urination,Healthy
+PAT-000279,33,35.9,149,68,141,125,1,0,6.5,Chest pain,Type2Diabetes
+PAT-000280,21,30.8,127,111,109,275,0,1,11.9,,Hypertension
+PAT-000281,51,40.8,188,120,232,152,0,1,1.6,Fatigue,Type2Diabetes
+PAT-000282,41,29.6,113,107,227,282,0,0,1.8,,Type2Diabetes
+PAT-000283,44,24.9,110,91,96,208,0,0,3,Shortness of breath,Cardiovascular
+PAT-000284,18,31.4,98,97,173,160,0,1,9.7,Persistent cough,Type2Diabetes
+PAT-000285,57,27.4,90,72,177,130,0,0,0.1,Persistent cough,Type2Diabetes
+PAT-000286,51,23.5,160,81,118,166,0,1,3.5,None,Hypertension
+PAT-000287,21,21.7,130,78,194,,0,0,5.8,Frequent urination,Type2Diabetes
+PAT-000288,32,22.2,92,100,153,137,0,1,10.2,Shortness of breath,Type2Diabetes
+PAT-000289,80,28.8,155,100,219,312,1,1,9.2,,Type2Diabetes
+PAT-000290,63,35.8,188,68,184,251,0,0,2.5,,Type2Diabetes
+PAT-000291,34,31.4,144,82,138,157,0,0,5,Persistent cough,Healthy
+PAT-000292,73,22.7,166,73,176,203,0,0,10.7,Persistent cough,Type2Diabetes
+PAT-000293,85,21.8,110,77,125,245,1,1,1.6,Fatigue,Hypertension
+PAT-000294,73,41.9,104,101,211,238,0,0,4.4,Shortness of breath,Type2Diabetes
+PAT-000295,21,40.3,170,94,262,295,1,1,1.6,,Type2Diabetes
+PAT-000296,75,35.9,164,113,273,196,0,1,4.6,Persistent cough,Type2Diabetes
+PAT-000297,22,33,107,108,145,285,0,0,8.5,Fatigue,Type2Diabetes
+PAT-000298,39,22.3,123,96,83,303,1,0,10,None,Other
+PAT-000299,70,34.8,175,72,238,313,0,1,10.3,None,Type2Diabetes
+PAT-000300,65,16.5,125,83,71,161,0,0,9.3,Fatigue,Hypertension
+PAT-000301,38,33.6,172,112,219,291,0,0,7.9,Fatigue,Type2Diabetes
+PAT-000302,30,18.5,141,77,135,225,0,1,8,Fatigue,Hypertension
+PAT-000303,33,31.4,188,117,247,255,0,0,8.2,None,Type2Diabetes
+PAT-000304,76,34.4,157,114,224,201,0,0,10.4,None,Type2Diabetes
+PAT-000305,49,30.6,99,88,229,190,1,0,0.2,Chest pain,Type2Diabetes
+PAT-000306,60,36.5,180,82,257,298,0,0,2.8,Shortness of breath,Type2Diabetes
+PAT-000307,43,30.3,127,110,70,186,0,0,0.7,None,Healthy
+PAT-000308,77,29,91,81,202,218,0,0,2.3,Fatigue,Type2Diabetes
+PAT-000309,35,23.1,150,73,230,124,0,0,5.7,Fatigue,Type2Diabetes
+PAT-000310,31,22,124,112,221,142,0,0,7.7,Chest pain,Type2Diabetes
+PAT-000311,30,16.3,157,82,215,201,0,0,3.7,,Type2Diabetes
+PAT-000312,78,41.8,138,86,200,146,1,0,2.3,Shortness of breath,Type2Diabetes
+PAT-000313,58,32.5,172,104,101,152,0,1,3.9,Shortness of breath,Hypertension
+PAT-000314,75,24.9,165,81,223,262,1,0,7.9,Shortness of breath,Type2Diabetes
+PAT-000315,73,38.4,178,79,79,143,0,0,10,Shortness of breath,Healthy
+PAT-000316,83,21.3,135,86,168,304,0,1,4.7,,Type2Diabetes
+PAT-000317,25,31.3,150,85,243,253,0,0,11.5,Persistent cough,Type2Diabetes
+PAT-000318,29,17.2,128,119,142,172,1,0,3.4,None,Type2Diabetes
+PAT-000319,32,16.4,152,65,237,146,0,1,7.6,Frequent urination,Type2Diabetes
+PAT-000320,46,38.9,116,81,197,252,1,0,2.2,None,Type2Diabetes
+PAT-000321,29,34.6,157,66,96,229,1,0,10.2,None,Healthy
+PAT-000322,80,24.7,112,72,106,187,1,0,11.7,Shortness of breath,Hypertension
+PAT-000323,29,23.8,152,98,222,307,0,1,8.4,Shortness of breath,Type2Diabetes
+PAT-000324,54,37,103,103,212,209,0,0,9.5,Persistent cough,Type2Diabetes
+PAT-000325,48,36.2,168,72,205,230,0,0,6.8,Frequent urination,Type2Diabetes
+PAT-000326,61,38,112,109,252,272,0,0,5,Persistent cough,Type2Diabetes
+PAT-000327,82,21.3,101,109,142,215,0,0,6.6,Fatigue,Other
+PAT-000328,44,35.3,110,75,239,154,0,1,6.3,Shortness of breath,Type2Diabetes
+PAT-000329,63,39.1,153,70,72,239,0,1,11.8,Persistent cough,Hypertension
+PAT-000330,21,26.4,153,117,108,280,0,0,0.4,Frequent urination,Hypertension
+PAT-000331,78,34.3,113,111,144,230,0,0,10.9,Fatigue,Type2Diabetes
+PAT-000332,57,23.8,95,119,184,205,0,0,6,Chest pain,Type2Diabetes
+PAT-000333,34,40.4,190,61,183,220,0,0,7.2,Frequent urination,Type2Diabetes
+PAT-000334,23,41.7,170,90,114,241,0,1,4.8,Persistent cough,Hypertension
+PAT-000335,79,29,181,94,169,291,0,0,10.9,Shortness of breath,Type2Diabetes
+PAT-000336,28,41.8,127,98,231,171,1,1,9.3,Persistent cough,Type2Diabetes
+PAT-000337,52,39.7,170,116,188,285,0,0,3.2,None,Type2Diabetes
+PAT-000338,36,38.1,96,93,238,308,0,0,2.2,,Type2Diabetes
+PAT-000339,61,34.2,117,95,119,215,1,0,3.4,,Hypertension
+PAT-000340,20,39.9,185,67,143,315,1,0,11.8,Persistent cough,Type2Diabetes
+PAT-000341,43,26.2,180,116,273,268,0,0,3.8,Fatigue,Type2Diabetes
+PAT-000342,77,22.5,158,110,268,264,0,1,7.9,Shortness of breath,Type2Diabetes
+PAT-000343,77,25.1,161,81,169,210,0,1,6.5,Persistent cough,Type2Diabetes
+PAT-000344,42,38.3,172,105,182,246,0,1,1.6,Shortness of breath,Type2Diabetes
+PAT-000345,21,19.5,182,105,201,230,1,1,6.5,Frequent urination,Type2Diabetes
+PAT-000346,66,30.7,121,119,198,165,0,0,3.7,Shortness of breath,Type2Diabetes
+PAT-000347,65,36,94,80,264,245,0,0,5.3,Frequent urination,Type2Diabetes
+PAT-000348,37,29.8,101,77,196,248,1,0,10,None,Type2Diabetes
+PAT-000349,41,18.8,104,67,251,276,0,0,11.2,Shortness of breath,Type2Diabetes
+PAT-000350,44,38.7,91,85,266,260,0,0,1.6,Fatigue,Respiratory
+PAT-000351,19,19.4,91,100,250,276,0,0,7.4,Shortness of breath,Type2Diabetes
+PAT-000352,32,19,103,74,180,315,1,1,0.6,Shortness of breath,Type2Diabetes
+PAT-000353,72,36.2,149,90,148,239,0,0,2,Frequent urination,Type2Diabetes
+PAT-000354,68,18.8,177,74,176,313,1,1,8.7,Fatigue,Type2Diabetes
+PAT-000355,65,24.2,136,89,280,309,0,1,0.1,Shortness of breath,Type2Diabetes
+PAT-000356,81,33.6,184,70,102,122,0,0,8,Shortness of breath,Type2Diabetes
+PAT-000357,19,31.1,138,62,110,304,1,0,9.1,Fatigue,Hypertension
+PAT-000358,66,41.7,159,90,261,192,0,0,8,Frequent urination,Type2Diabetes
+PAT-000359,61,22.1,160,90,95,148,0,0,3.6,Persistent cough,Hypertension
+PAT-000360,67,18.8,122,81,238,157,0,0,10.3,None,Type2Diabetes
+PAT-000361,79,33.2,160,86,109,262,0,0,8.4,Frequent urination,Hypertension
+PAT-000362,25,24.8,126,85,178,,1,0,8.4,Shortness of breath,Type2Diabetes
+PAT-000363,35,28.3,104,74,79,220,1,0,6.9,Fatigue,Hypertension
+PAT-000364,79,17.1,188,109,260,,0,0,6.1,Persistent cough,Type2Diabetes
+PAT-000365,23,34.2,127,99,150,152,0,0,3.6,Persistent cough,Type2Diabetes
+PAT-000366,79,18.1,187,91,279,241,0,0,6.5,Shortness of breath,Type2Diabetes
+PAT-000367,45,31.3,113,107,279,308,0,0,4.4,Persistent cough,Cardiovascular
+PAT-000368,40,16.3,128,82,206,172,0,1,5.6,Shortness of breath,Type2Diabetes
+PAT-000369,70,29.1,112,74,223,215,0,0,7.3,Chest pain,Type2Diabetes
+PAT-000370,27,28.1,190,104,254,313,0,0,4.6,Frequent urination,Type2Diabetes
+PAT-000371,63,35.6,105,67,254,206,0,0,7.4,Frequent urination,Type2Diabetes
+PAT-000372,69,29.2,167,84,186,149,0,0,0.8,,Type2Diabetes
+PAT-000373,24,26.5,103,119,250,238,0,0,9.4,,Type2Diabetes
+PAT-000374,52,37.4,105,78,172,139,0,0,8.9,Chest pain,Type2Diabetes
+PAT-000375,42,38.9,141,91,156,170,1,0,3.7,None,Type2Diabetes
+PAT-000376,81,25.8,136,63,261,268,0,0,2.8,Chest pain,Type2Diabetes
+PAT-000377,38,40.6,143,80,189,280,0,1,0.9,Fatigue,Type2Diabetes
+PAT-000378,72,37.1,115,90,250,290,0,1,8.1,Fatigue,Other
+PAT-000379,56,33,116,66,238,197,0,0,5.6,Fatigue,Type2Diabetes
+PAT-000380,51,21.4,140,117,104,283,0,0,2.6,,Hypertension
+PAT-000381,80,22.5,175,120,186,191,0,0,11.5,Chest pain,Type2Diabetes
+PAT-000382,20,29.6,168,77,126,209,0,0,3.5,Frequent urination,Hypertension
+PAT-000383,83,36.1,101,120,106,156,1,0,7.5,Shortness of breath,Hypertension
+PAT-000384,67,28,169,93,226,184,1,0,9.6,Fatigue,Type2Diabetes
+PAT-000385,28,19.7,186,72,162,289,1,0,3.5,Chest pain,Type2Diabetes
+PAT-000386,82,40.6,157,76,175,267,0,0,7.7,Frequent urination,Type2Diabetes
+PAT-000387,46,17.1,95,60,206,231,0,0,2.2,Frequent urination,Type2Diabetes
+PAT-000388,52,26.3,149,100,237,200,1,0,4.9,None,Type2Diabetes
+PAT-000389,45,39.6,95,120,139,299,0,1,3.3,Fatigue,Hypertension
+PAT-000390,53,32.3,133,100,148,134,0,0,5.3,Shortness of breath,Type2Diabetes
+PAT-000391,30,39.5,135,120,142,269,1,1,2,Persistent cough,Type2Diabetes
+PAT-000392,40,40,169,66,186,308,0,0,9.8,Chest pain,Type2Diabetes
+PAT-000393,58,36.1,188,108,205,159,0,1,4.9,,Type2Diabetes
+PAT-000394,75,41.9,121,66,90,242,0,0,6,Fatigue,Other
+PAT-000395,42,39.4,101,62,261,172,0,0,0.8,Fatigue,Type2Diabetes
+PAT-000396,57,22.2,139,102,115,298,0,0,2.4,Persistent cough,Hypertension
+PAT-000397,18,38.9,140,102,206,303,1,0,4.3,,Type2Diabetes
+PAT-000398,25,28.8,130,112,275,311,0,1,5.6,None,Type2Diabetes
+PAT-000399,55,16.5,94,69,250,309,0,0,0.2,Persistent cough,Type2Diabetes
+PAT-000400,34,34.5,95,65,215,262,0,1,11.8,Fatigue,Type2Diabetes
+PAT-000401,29,16.5,108,98,71,255,1,0,8.6,None,Hypertension
+PAT-000402,78,20.7,163,62,239,288,0,0,1.8,None,Type2Diabetes
+PAT-000403,73,35.7,138,84,266,242,0,0,11.3,Shortness of breath,Type2Diabetes
+PAT-000404,80,33.6,113,84,218,287,0,1,5.6,Fatigue,Type2Diabetes
+PAT-000405,69,18.8,174,78,226,226,0,1,7,Chest pain,Type2Diabetes
+PAT-000406,40,36.4,90,107,240,301,0,1,1.3,Chest pain,Type2Diabetes
+PAT-000407,31,25.1,162,106,271,163,0,1,5.6,None,Type2Diabetes
+PAT-000408,57,28.7,160,74,279,312,0,0,2.9,Shortness of breath,Type2Diabetes
+PAT-000409,65,36,111,70,276,287,0,0,2,,Cardiovascular
+PAT-000410,51,20.2,135,77,107,286,0,0,11.2,None,Hypertension
+PAT-000411,76,18.7,190,76,102,202,0,1,1.9,Chest pain,Hypertension
+PAT-000412,32,29.1,148,84,239,276,0,1,5.9,Frequent urination,Type2Diabetes
+PAT-000413,63,40.8,182,83,177,153,0,1,9.4,None,Type2Diabetes
+PAT-000414,31,37.6,100,66,188,248,0,0,8,,Type2Diabetes
+PAT-000415,31,17.2,164,114,204,302,1,0,11.8,,Other
+PAT-000416,41,37.2,185,111,83,174,0,0,9.2,Chest pain,Respiratory
+PAT-000417,48,41.7,181,111,102,252,0,1,3.1,Fatigue,Hypertension
+PAT-000418,62,29.7,174,103,195,173,1,1,9.7,,Type2Diabetes
+PAT-000419,78,30.4,146,86,72,121,0,0,6.3,None,Hypertension
+PAT-000420,23,19.2,186,63,94,182,0,0,11.8,,Healthy
+PAT-000421,22,30.8,168,73,160,126,0,1,8.7,None,Type2Diabetes
+PAT-000422,42,36.5,108,66,225,183,0,0,0.8,Persistent cough,Type2Diabetes
+PAT-000423,18,36,100,113,184,287,0,0,7.3,Frequent urination,Type2Diabetes
+PAT-000424,33,28.2,163,91,245,,1,0,1.3,Chest pain,Type2Diabetes
+PAT-000425,64,28.4,149,118,262,244,0,0,9.2,None,Type2Diabetes
+PAT-000426,82,22.4,174,65,205,219,1,1,2.1,Chest pain,Type2Diabetes
+PAT-000427,83,32.9,178,73,150,205,0,0,7.3,,Type2Diabetes
+PAT-000428,61,41.8,100,113,239,,0,0,8.7,Persistent cough,Type2Diabetes
+PAT-000429,32,20.8,121,78,259,316,1,0,2.1,,Type2Diabetes
+PAT-000430,47,31.5,102,118,140,304,0,0,2.8,Chest pain,Respiratory
+PAT-000431,81,28.9,190,91,122,123,0,0,8.7,Fatigue,Healthy
+PAT-000432,22,21.5,119,113,202,151,1,1,1.5,,Type2Diabetes
+PAT-000433,61,21.5,158,108,252,217,0,0,1.6,,Type2Diabetes
+PAT-000434,49,23.2,134,61,171,209,0,1,3,Shortness of breath,Type2Diabetes
+PAT-000435,48,26.6,182,66,85,181,1,0,4.9,,Healthy
+PAT-000436,66,38.5,96,64,116,264,0,1,1.7,None,Other
+PAT-000437,81,17.1,128,91,224,207,0,0,1.1,Shortness of breath,Type2Diabetes
+PAT-000438,35,22.4,95,109,274,283,0,0,5.5,None,Type2Diabetes
+PAT-000439,45,35,150,76,93,256,1,0,8.5,Fatigue,Healthy
+PAT-000440,84,39.4,149,101,197,189,0,1,5.7,Frequent urination,Type2Diabetes
+PAT-000441,20,32.4,100,63,201,292,0,1,0,Frequent urination,Type2Diabetes
+PAT-000442,21,17.4,95,108,163,202,0,0,0.2,Chest pain,Type2Diabetes
+PAT-000443,53,30.1,171,104,115,205,0,0,4.4,None,Healthy
+PAT-000444,75,23.1,100,105,163,167,1,0,9,,Type2Diabetes
+PAT-000445,70,28.7,104,105,171,182,0,0,5.3,Shortness of breath,Type2Diabetes
+PAT-000446,19,19,183,70,165,172,0,0,0.1,Frequent urination,Type2Diabetes
+PAT-000447,73,17.3,115,92,104,196,0,0,0.4,Fatigue,Hypertension
+PAT-000448,60,33,186,100,272,232,0,0,6.8,Frequent urination,Type2Diabetes
+PAT-000449,72,21.8,166,83,70,172,1,0,10.6,,Healthy
+PAT-000450,48,23.8,113,95,184,216,0,1,3.7,,Type2Diabetes
+PAT-000451,23,39.1,141,80,204,242,0,0,3.7,Persistent cough,Type2Diabetes
+PAT-000452,36,19.4,116,115,137,234,0,0,8.4,Fatigue,Hypertension
+PAT-000453,28,16.1,94,113,152,144,0,0,9,Persistent cough,Type2Diabetes
+PAT-000454,79,41.3,90,88,92,304,0,1,2.8,Persistent cough,Hypertension
+PAT-000455,60,33.2,125,85,81,261,0,0,5.7,Shortness of breath,Hypertension
+PAT-000456,49,25.5,128,108,226,271,0,0,6.2,Fatigue,Type2Diabetes
+PAT-000457,85,21.7,175,99,266,201,0,1,2.3,Chest pain,Type2Diabetes
+PAT-000458,66,40.3,95,66,217,,1,0,3.2,,Type2Diabetes
+PAT-000459,56,32,156,86,227,177,0,0,9.4,Chest pain,Type2Diabetes
+PAT-000460,48,36.3,127,76,196,279,1,0,2.3,Chest pain,Type2Diabetes
+PAT-000461,45,35.3,170,66,170,254,0,0,6.5,None,Type2Diabetes
+PAT-000462,62,20.6,170,93,106,157,1,0,1.6,Fatigue,Hypertension
+PAT-000463,53,21.1,153,66,215,258,0,1,11.1,Chest pain,Type2Diabetes
+PAT-000464,77,20.9,186,79,129,132,0,0,1.9,,Healthy
+PAT-000465,41,36.9,182,119,116,236,0,0,6.3,Persistent cough,Hypertension
+PAT-000466,83,19.8,124,120,240,203,0,1,1.5,Shortness of breath,Type2Diabetes
+PAT-000467,43,41.4,184,118,183,286,0,0,0.6,Fatigue,Type2Diabetes
+PAT-000468,70,41.7,171,92,154,299,0,0,6.9,None,Type2Diabetes
+PAT-000469,38,39.4,96,115,144,220,0,0,2.4,Frequent urination,Type2Diabetes
+PAT-000470,23,26.7,154,97,72,284,1,0,11.8,Shortness of breath,Hypertension
+PAT-000471,73,36.7,124,94,206,143,1,0,9,Persistent cough,Hypertension
+PAT-000472,76,27.3,173,81,257,174,0,0,8.8,Persistent cough,Type2Diabetes
+PAT-000473,51,23.9,136,61,265,128,0,1,0.8,Fatigue,Other
+PAT-000474,43,23.7,160,116,109,173,0,0,11.6,Persistent cough,Cardiovascular
+PAT-000475,66,26.5,157,110,79,156,0,0,10.5,None,Hypertension
+PAT-000476,72,28.1,122,114,91,317,0,1,5.8,Frequent urination,Hypertension
+PAT-000477,83,36.3,145,68,237,152,1,0,7.2,,Type2Diabetes
+PAT-000478,73,18.8,120,109,211,181,0,0,0.8,Fatigue,Hypertension
+PAT-000479,28,25.7,117,103,259,301,0,1,5.4,Chest pain,Type2Diabetes
+PAT-000480,65,29.5,124,93,241,177,0,1,5.8,,Type2Diabetes
+PAT-000481,72,31.5,163,70,169,148,0,1,5.6,,Type2Diabetes
+PAT-000482,74,40.7,156,114,162,191,1,1,2.7,Frequent urination,Type2Diabetes
+PAT-000483,66,34.5,171,103,81,127,0,0,6.3,None,Hypertension
+PAT-000484,24,22.5,115,103,116,294,1,0,3.3,,Hypertension
+PAT-000485,62,36.4,166,97,251,165,1,0,1,Shortness of breath,Type2Diabetes
+PAT-000486,85,21.7,110,70,235,310,0,0,5.7,Frequent urination,Type2Diabetes
+PAT-000487,67,20.4,91,91,126,211,0,0,0.9,None,Healthy
+PAT-000488,59,20.3,167,100,132,123,0,0,11.4,Persistent cough,Hypertension
+PAT-000489,43,22.6,170,107,234,146,0,1,6.8,Chest pain,Type2Diabetes
+PAT-000490,54,40.3,129,62,180,129,0,0,4.7,Frequent urination,Type2Diabetes
+PAT-000491,52,30,187,85,157,235,1,1,5.9,Chest pain,Type2Diabetes
+PAT-000492,18,26.4,90,84,214,196,0,1,7.1,,Type2Diabetes
+PAT-000493,61,40.4,122,67,86,212,0,1,4,Chest pain,Healthy
+PAT-000494,38,31.5,141,101,157,200,0,1,0.2,Frequent urination,Type2Diabetes
+PAT-000495,51,32.2,166,65,104,182,1,0,11.3,Fatigue,Hypertension
+PAT-000496,32,39.8,159,109,279,224,0,0,7.6,None,Type2Diabetes
+PAT-000497,20,34.9,188,82,104,301,1,0,5.3,Chest pain,Cardiovascular
+PAT-000498,52,41.5,126,72,198,227,0,1,7.7,Shortness of breath,Type2Diabetes
+PAT-000499,18,35.9,139,64,144,246,0,0,6.6,Shortness of breath,Type2Diabetes
+PAT-000500,65,38.6,171,71,233,190,1,1,3.4,Persistent cough,Type2Diabetes
+PAT-000501,21,26.2,175,97,152,150,0,1,9.3,Fatigue,Type2Diabetes
+PAT-000502,41,26.5,147,73,148,156,0,0,0.9,Frequent urination,Type2Diabetes
+PAT-000503,19,27.2,127,72,122,270,1,0,8.3,Fatigue,Hypertension
+PAT-000504,47,35.2,120,108,235,205,1,0,6.5,Chest pain,Type2Diabetes
+PAT-000505,55,28.6,106,71,156,260,0,0,11.3,Fatigue,Type2Diabetes
+PAT-000506,83,22.1,133,65,195,161,0,0,7.4,Fatigue,Type2Diabetes
+PAT-000507,56,39,105,65,188,224,0,0,10,Shortness of breath,Type2Diabetes
+PAT-000508,75,19.1,91,75,206,144,1,0,2.3,Shortness of breath,Type2Diabetes
+PAT-000509,46,18.2,103,88,247,266,0,1,6.3,Persistent cough,Type2Diabetes
+PAT-000510,49,38.1,115,88,217,233,0,1,5.2,Shortness of breath,Type2Diabetes
+PAT-000511,20,25.3,91,119,83,301,1,0,6.7,Frequent urination,Healthy
+PAT-000512,57,37.7,152,117,203,181,1,0,11.2,Shortness of breath,Type2Diabetes
+PAT-000513,44,38.6,115,84,84,180,0,0,5.6,Persistent cough,Healthy
+PAT-000514,51,18.3,135,81,261,250,0,0,3.2,Shortness of breath,Type2Diabetes
+PAT-000515,60,32.2,136,119,230,295,0,0,8.6,Fatigue,Type2Diabetes
+PAT-000516,23,25,110,103,125,288,0,0,11.8,Shortness of breath,Healthy
+PAT-000517,78,16.5,173,63,191,234,1,1,5.2,Chest pain,Other
+PAT-000518,47,36.6,106,110,143,219,0,0,7.9,Frequent urination,Other
+PAT-000519,28,34.9,171,79,177,130,0,0,10.8,Persistent cough,Type2Diabetes
+PAT-000520,76,24.6,119,80,276,290,0,1,0.1,Shortness of breath,Type2Diabetes
+PAT-000521,63,33.4,135,67,179,153,1,1,7.2,Persistent cough,Type2Diabetes
+PAT-000522,52,26.7,126,112,87,177,0,0,6.8,,Hypertension
+PAT-000523,62,26.8,99,97,163,241,0,0,7.4,Frequent urination,Type2Diabetes
+PAT-000524,42,41.2,126,94,170,258,0,0,5.4,Persistent cough,Type2Diabetes
+PAT-000525,69,29,94,81,90,,0,0,5.6,,Healthy
+PAT-000526,56,41.3,149,97,195,232,0,1,0.3,,Type2Diabetes
+PAT-000527,18,21.3,95,84,275,196,1,0,11.8,Chest pain,Healthy
+PAT-000528,32,24.5,139,94,198,169,0,1,8.6,Frequent urination,Type2Diabetes
+PAT-000529,21,35.4,112,97,158,269,0,1,7.9,,Type2Diabetes
+PAT-000530,23,37.1,120,102,95,316,1,1,6,Shortness of breath,Cardiovascular
+PAT-000531,54,38.9,132,60,167,295,0,0,11.9,None,Type2Diabetes
+PAT-000532,30,41.7,163,108,225,120,1,1,2.5,Frequent urination,Hypertension
+PAT-000533,48,38,108,79,167,208,1,0,0.6,Persistent cough,Type2Diabetes
+PAT-000534,24,25.4,92,67,229,155,0,0,4.5,None,Type2Diabetes
+PAT-000535,78,21.9,98,77,278,320,1,0,5.1,Chest pain,Type2Diabetes
+PAT-000536,78,41.7,156,90,143,255,0,0,6.1,Frequent urination,Type2Diabetes
+PAT-000537,30,20.9,164,105,223,269,1,0,1.3,Chest pain,Type2Diabetes
+PAT-000538,69,41.5,117,97,175,,0,0,3.7,Fatigue,Type2Diabetes
+PAT-000539,60,21.7,182,82,84,186,0,1,2.4,Shortness of breath,Hypertension
+PAT-000540,45,39.4,135,101,133,272,0,0,6.5,Shortness of breath,Hypertension
+PAT-000541,20,32,112,82,213,279,0,0,1.8,Shortness of breath,Type2Diabetes
+PAT-000542,27,16.9,164,62,141,127,0,0,1.3,Persistent cough,Type2Diabetes
+PAT-000543,57,29.7,119,82,196,313,0,1,0.4,Persistent cough,Type2Diabetes
+PAT-000544,45,19,160,63,232,299,0,0,3,Fatigue,Type2Diabetes
+PAT-000545,82,32.6,115,104,195,256,0,0,4.3,Shortness of breath,Type2Diabetes
+PAT-000546,60,24.5,182,104,108,171,0,0,1.8,Shortness of breath,Healthy
+PAT-000547,78,26.7,167,84,263,236,1,0,1.5,Persistent cough,Type2Diabetes
+PAT-000548,21,37.4,189,70,203,163,0,1,0.6,,Type2Diabetes
+PAT-000549,41,36.8,168,87,141,312,0,1,7.3,Shortness of breath,Type2Diabetes
+PAT-000550,78,36.7,127,73,190,,1,0,1.2,Chest pain,Type2Diabetes
+PAT-000551,85,33.2,164,113,168,223,0,1,10.5,Shortness of breath,Type2Diabetes
+PAT-000552,24,24,123,66,164,210,1,0,9.9,Fatigue,Type2Diabetes
+PAT-000553,85,24.2,178,63,278,227,1,1,3.3,Chest pain,Type2Diabetes
+PAT-000554,67,28.1,182,108,93,220,1,1,10.8,None,Hypertension
+PAT-000555,56,37,184,98,145,221,0,1,7.4,Frequent urination,Type2Diabetes
+PAT-000556,24,36,124,91,231,293,0,0,6.7,,Respiratory
+PAT-000557,18,39.5,100,96,278,190,0,1,6.4,None,Cardiovascular
+PAT-000558,67,22.8,135,109,158,197,1,1,7.4,Frequent urination,Type2Diabetes
+PAT-000559,64,39.2,172,115,258,259,0,0,9.7,None,Cardiovascular
+PAT-000560,47,27.5,171,92,169,213,0,0,1.8,Fatigue,Type2Diabetes
+PAT-000561,39,17.2,114,100,166,141,0,0,11.6,Shortness of breath,Type2Diabetes
+PAT-000562,32,36.2,110,64,183,214,1,0,11.7,None,Type2Diabetes
+PAT-000563,62,23,101,80,244,264,0,1,6.1,Fatigue,Type2Diabetes
+PAT-000564,57,37.3,135,60,169,181,0,0,3.3,Shortness of breath,Type2Diabetes
+PAT-000565,25,39.9,129,84,264,225,0,0,7.7,Shortness of breath,Type2Diabetes
+PAT-000566,75,35.2,131,106,191,283,0,0,6,Frequent urination,Type2Diabetes
+PAT-000567,58,35.1,142,69,135,230,1,1,0.4,,Hypertension
+PAT-000568,42,20.6,181,74,208,129,0,1,2.7,Persistent cough,Type2Diabetes
+PAT-000569,26,30.7,173,87,246,205,0,0,3,None,Type2Diabetes
+PAT-000570,42,36.5,108,61,114,294,0,0,8.4,Chest pain,Other
+PAT-000571,40,34.4,117,111,199,175,1,0,1.5,,Cardiovascular
+PAT-000572,34,31.5,170,74,230,161,1,1,0.9,Persistent cough,Type2Diabetes
+PAT-000573,58,29,189,63,241,220,0,0,8.5,,Type2Diabetes
+PAT-000574,31,16.4,92,68,71,278,0,0,1.9,Fatigue,Hypertension
+PAT-000575,21,19.8,97,102,190,170,0,1,1.5,None,Type2Diabetes
+PAT-000576,77,30.5,161,98,183,127,1,0,2.5,None,Type2Diabetes
+PAT-000577,44,23.7,182,96,139,180,0,0,7.4,Shortness of breath,Hypertension
+PAT-000578,55,22.4,183,78,126,318,0,0,2.4,None,Healthy
+PAT-000579,30,33.1,190,111,113,193,0,0,9.4,,Healthy
+PAT-000580,53,28.8,140,94,248,126,0,0,9.3,,Type2Diabetes
+PAT-000581,45,21.2,182,111,276,178,1,1,7.8,Persistent cough,Type2Diabetes
+PAT-000582,42,17.3,102,95,97,300,0,1,8.6,Shortness of breath,Hypertension
+PAT-000583,72,41.8,92,98,154,159,0,0,1,Fatigue,Type2Diabetes
+PAT-000584,69,36.5,179,75,75,207,0,1,2.9,None,Healthy
+PAT-000585,49,19.8,141,118,106,316,0,0,0.3,Chest pain,Hypertension
+PAT-000586,78,32.9,109,116,251,310,0,0,4.1,Fatigue,Type2Diabetes
+PAT-000587,79,34.1,134,106,198,204,0,0,3,Frequent urination,Type2Diabetes
+PAT-000588,27,23.9,137,74,278,256,1,1,9.6,Shortness of breath,Type2Diabetes
+PAT-000589,21,25.5,161,61,102,303,0,1,4.2,Persistent cough,Respiratory
+PAT-000590,72,31.2,121,95,136,292,0,0,10.2,Frequent urination,Respiratory
+PAT-000591,70,28.3,90,101,214,134,1,0,7.6,,Type2Diabetes
+PAT-000592,21,40.2,105,72,145,,0,1,4.4,Frequent urination,Type2Diabetes
+PAT-000593,24,37.4,101,115,78,259,0,0,6.5,,Hypertension
+PAT-000594,33,32.1,159,91,189,218,0,1,4.9,Frequent urination,Type2Diabetes
+PAT-000595,44,41.9,105,65,98,134,0,0,1.2,Persistent cough,Hypertension
+PAT-000596,41,36.3,123,78,127,288,0,0,3.1,None,Hypertension
+PAT-000597,29,19.6,155,100,76,137,1,0,6.5,Shortness of breath,Hypertension
+PAT-000598,47,22.3,128,120,269,238,0,1,12,Shortness of breath,Type2Diabetes
+PAT-000599,77,28.4,166,86,109,190,0,0,7.3,Chest pain,Hypertension
+PAT-000600,22,16.4,149,87,123,245,0,1,8.3,Shortness of breath,Hypertension
+PAT-000601,19,21.4,110,109,151,,0,1,6,,Type2Diabetes
+PAT-000602,47,22.7,96,67,171,296,0,0,2.9,,Type2Diabetes
+PAT-000603,79,21.4,185,100,264,300,0,0,0.8,Shortness of breath,Type2Diabetes
+PAT-000604,50,39.3,160,66,142,241,0,0,2.5,Fatigue,Type2Diabetes
+PAT-000605,69,27.5,99,87,266,220,0,0,11.2,Frequent urination,Type2Diabetes
+PAT-000606,24,38.2,134,99,260,182,1,1,0.4,Chest pain,Type2Diabetes
+PAT-000607,23,22.4,127,86,158,183,0,0,1.3,None,Type2Diabetes
+PAT-000608,28,40.9,97,115,83,183,0,0,5.7,Frequent urination,Healthy
+PAT-000609,78,21.3,139,104,92,,0,1,11.1,None,Hypertension
+PAT-000610,56,31.5,92,115,103,200,0,0,0.7,Shortness of breath,Hypertension
+PAT-000611,42,32,164,98,159,148,0,0,11.9,Shortness of breath,Type2Diabetes
+PAT-000612,32,18.9,186,91,211,190,1,0,4.7,Persistent cough,Type2Diabetes
+PAT-000613,44,25.2,189,83,160,139,0,0,3.4,None,Type2Diabetes
+PAT-000614,70,20.8,179,111,235,174,0,0,4.7,Persistent cough,Type2Diabetes
+PAT-000615,44,23.1,187,117,135,168,0,0,1.4,,Healthy
+PAT-000616,75,27.3,106,101,180,233,0,0,9.1,,Type2Diabetes
+PAT-000617,48,21.9,176,97,263,276,0,0,3.9,,Type2Diabetes
+PAT-000618,52,30,135,103,97,306,1,1,5.5,None,Hypertension
+PAT-000619,56,37.6,95,100,73,,0,0,2.4,None,Hypertension
+PAT-000620,84,20.7,93,62,207,226,0,1,2.9,Chest pain,Type2Diabetes
+PAT-000621,24,20.5,137,65,142,125,0,1,8.4,None,Type2Diabetes
+PAT-000622,78,21.7,189,71,231,250,1,0,0.2,None,Type2Diabetes
+PAT-000623,55,22.7,131,67,249,159,0,0,8.1,,Type2Diabetes
+PAT-000624,73,23.3,189,65,249,247,0,1,3.3,Shortness of breath,Type2Diabetes
+PAT-000625,39,17.9,187,111,270,,0,1,8.2,None,Type2Diabetes
+PAT-000626,21,41,92,89,266,262,0,0,7,Shortness of breath,Type2Diabetes
+PAT-000627,20,22.6,178,98,180,273,0,1,0.8,Fatigue,Type2Diabetes
+PAT-000628,47,30.4,122,85,115,147,0,0,3.8,Shortness of breath,Hypertension
+PAT-000629,35,29,124,91,74,247,1,0,6.3,Persistent cough,Hypertension
+PAT-000630,60,17.4,92,62,173,122,0,0,4.7,Shortness of breath,Type2Diabetes
+PAT-000631,54,31.1,101,89,131,305,1,0,7,,Type2Diabetes
+PAT-000632,74,30.9,183,67,80,241,0,0,5.3,Chest pain,Hypertension
+PAT-000633,32,18.9,117,70,85,183,0,0,5.5,Persistent cough,Hypertension
+PAT-000634,78,20.6,113,71,133,279,0,0,9.3,None,Healthy
+PAT-000635,35,29.3,154,63,274,224,0,1,9.4,None,Type2Diabetes
+PAT-000636,42,31.4,119,96,118,,0,0,7.8,Persistent cough,Healthy
+PAT-000637,42,32.8,153,105,159,188,0,1,7.4,Shortness of breath,Type2Diabetes
+PAT-000638,62,38.6,117,67,180,298,0,0,2.2,,Type2Diabetes
+PAT-000639,46,17.2,121,68,184,247,0,1,10.5,None,Type2Diabetes
+PAT-000640,77,29.1,156,82,192,275,0,1,9.4,Shortness of breath,Type2Diabetes
+PAT-000641,67,23.1,177,70,173,127,0,0,5.9,None,Type2Diabetes
+PAT-000642,64,30.3,124,88,245,172,0,0,11.1,Fatigue,Type2Diabetes
+PAT-000643,26,40.3,184,107,81,163,0,0,10.6,Fatigue,Healthy
+PAT-000644,18,23.2,98,75,143,170,0,0,5.8,Shortness of breath,Cardiovascular
+PAT-000645,67,33.4,164,107,278,252,0,1,0.7,Frequent urination,Type2Diabetes
+PAT-000646,55,34.5,178,100,92,208,0,0,0.3,Chest pain,Healthy
+PAT-000647,78,18.6,149,78,178,214,0,0,11.1,Shortness of breath,Other
+PAT-000648,31,16.6,95,92,184,218,1,0,8.5,None,Type2Diabetes
+PAT-000649,32,37.6,171,105,199,178,0,0,11.8,Fatigue,Type2Diabetes
+PAT-000650,64,17.7,188,100,121,147,0,0,3.9,Chest pain,Hypertension
+PAT-000651,20,36.6,161,81,190,158,0,0,9.5,,Type2Diabetes
+PAT-000652,46,32.6,94,74,171,284,0,0,6.6,None,Type2Diabetes
+PAT-000653,62,38.2,143,101,259,158,1,1,3,Chest pain,Type2Diabetes
+PAT-000654,33,37.6,174,78,137,131,1,1,11.5,Persistent cough,Healthy
+PAT-000655,31,27.5,146,64,77,309,0,1,11.8,Persistent cough,Hypertension
+PAT-000656,79,24.9,100,96,254,200,0,0,5.5,Persistent cough,Type2Diabetes
+PAT-000657,62,30.9,112,97,83,133,1,0,8.6,Shortness of breath,Healthy
+PAT-000658,35,37.1,143,89,216,201,0,0,0.9,Shortness of breath,Type2Diabetes
+PAT-000659,35,23.6,165,99,199,153,0,0,11.7,Frequent urination,Type2Diabetes
+PAT-000660,67,41.7,96,107,248,124,1,0,7.7,Chest pain,Type2Diabetes
+PAT-000661,56,36.8,177,66,84,132,0,1,5.1,Fatigue,Hypertension
+PAT-000662,59,23.2,130,60,74,229,0,0,8.4,Persistent cough,Hypertension
+PAT-000663,84,20.5,184,114,78,285,0,1,7,Persistent cough,Hypertension
+PAT-000664,58,22.8,143,103,184,292,1,0,11.5,Persistent cough,Type2Diabetes
+PAT-000665,40,40.7,150,115,193,315,0,0,10.6,None,Type2Diabetes
+PAT-000666,45,16.8,92,91,102,314,0,1,7.5,None,Hypertension
+PAT-000667,18,22.1,140,108,193,189,0,0,5.3,None,Type2Diabetes
+PAT-000668,54,29.8,99,79,277,182,0,1,2.6,Shortness of breath,Type2Diabetes
+PAT-000669,75,32.2,177,78,254,301,0,1,1.3,None,Type2Diabetes
+PAT-000670,26,35.7,140,115,234,214,0,0,9.1,Shortness of breath,Type2Diabetes
+PAT-000671,85,32.3,171,87,152,317,0,0,11.8,Fatigue,Hypertension
+PAT-000672,18,32.3,110,79,85,,0,1,5.4,None,Healthy
+PAT-000673,59,19.3,109,108,253,171,0,0,10.7,,Type2Diabetes
+PAT-000674,77,26.7,110,101,141,302,0,0,11.4,Shortness of breath,Type2Diabetes
+PAT-000675,59,39.3,151,62,171,,0,0,0.7,Frequent urination,Type2Diabetes
+PAT-000676,68,31.5,119,112,232,228,0,1,11.9,Chest pain,Type2Diabetes
+PAT-000677,85,27.4,180,103,82,287,1,0,6,Frequent urination,Healthy
+PAT-000678,60,33.5,184,77,277,231,0,0,4.4,,Type2Diabetes
+PAT-000679,50,37.6,153,80,112,305,0,0,9.3,None,Healthy
+PAT-000680,19,26.9,120,80,110,139,0,1,10.6,,Hypertension
+PAT-000681,49,22.5,171,64,100,144,0,1,11.8,Shortness of breath,Hypertension
+PAT-000682,58,38.9,97,104,83,201,0,0,10.8,None,Hypertension
+PAT-000683,45,41.5,129,65,227,219,0,0,6.6,Persistent cough,Type2Diabetes
+PAT-000684,21,16.5,109,120,277,180,0,0,6.3,Shortness of breath,Type2Diabetes
+PAT-000685,33,19.5,124,93,130,320,0,0,7.9,Persistent cough,Hypertension
+PAT-000686,18,24.8,167,89,89,159,0,1,7.6,Persistent cough,Hypertension
+PAT-000687,69,33.4,174,113,103,316,1,1,1.5,,Hypertension
+PAT-000688,54,28.2,143,86,115,310,0,0,10.5,Frequent urination,Healthy
+PAT-000689,80,26.7,139,63,95,177,0,0,0.2,Frequent urination,Hypertension
+PAT-000690,83,36.2,92,79,127,184,0,0,3.7,Persistent cough,Hypertension
+PAT-000691,83,16.2,142,103,204,215,0,0,10.8,None,Type2Diabetes
+PAT-000692,57,29.6,111,107,230,,0,1,3,Chest pain,Type2Diabetes
+PAT-000693,34,32.7,121,111,111,251,0,1,4.7,None,Healthy
+PAT-000694,69,33.5,137,65,86,235,0,0,3.4,Fatigue,Healthy
+PAT-000695,33,30.1,184,60,143,270,0,1,3,Frequent urination,Type2Diabetes
+PAT-000696,56,17.2,103,73,277,266,0,1,8.2,Shortness of breath,Type2Diabetes
+PAT-000697,75,29.7,141,118,189,292,0,1,0.8,,Type2Diabetes
+PAT-000698,36,30.6,190,119,249,237,0,0,8.9,Persistent cough,Type2Diabetes
+PAT-000699,70,38.6,109,104,266,157,0,0,1,Chest pain,Type2Diabetes
+PAT-000700,57,25.2,92,90,178,,1,0,3.6,Chest pain,Type2Diabetes
+PAT-000701,72,37.1,180,112,120,131,0,1,7.3,Shortness of breath,Healthy
+PAT-000702,26,32.1,161,78,144,224,0,0,1.4,Frequent urination,Type2Diabetes
+PAT-000703,28,38.7,142,65,154,268,0,0,10.3,Frequent urination,Type2Diabetes
+PAT-000704,76,31,117,76,265,266,0,0,1.4,Persistent cough,Type2Diabetes
+PAT-000705,31,24.9,96,71,168,221,0,0,5.8,Fatigue,Type2Diabetes
+PAT-000706,29,20,104,83,128,259,0,0,2.5,Frequent urination,Hypertension
+PAT-000707,21,37.6,164,119,87,137,0,0,8.6,None,Hypertension
+PAT-000708,59,34.2,114,102,184,126,0,0,11.6,,Type2Diabetes
+PAT-000709,61,31.6,134,105,179,152,0,1,3.3,Frequent urination,Type2Diabetes
+PAT-000710,43,38.7,103,82,274,260,0,0,1.4,Shortness of breath,Type2Diabetes
+PAT-000711,40,36.6,160,118,138,209,1,1,5.1,Persistent cough,Hypertension
+PAT-000712,69,21.2,138,120,200,189,0,0,7,Fatigue,Cardiovascular
+PAT-000713,25,41.4,95,78,147,197,0,1,0.4,Persistent cough,Type2Diabetes
+PAT-000714,82,36.4,172,78,202,199,0,0,6.4,Shortness of breath,Type2Diabetes
+PAT-000715,57,20.3,113,72,111,245,1,0,3,Fatigue,Healthy
+PAT-000716,77,18.6,163,67,215,125,0,0,4.1,None,Healthy
+PAT-000717,41,28.9,103,68,85,314,0,0,5.3,Frequent urination,Healthy
+PAT-000718,50,22.6,184,75,269,270,0,0,9.8,Frequent urination,Type2Diabetes
+PAT-000719,35,39.7,144,118,214,214,0,0,10.5,None,Type2Diabetes
+PAT-000720,53,19.3,179,79,130,238,1,1,3.7,Chest pain,Hypertension
+PAT-000721,66,40.4,132,119,267,314,1,1,10,Persistent cough,Type2Diabetes
+PAT-000722,18,33.2,170,103,278,,0,0,8.3,Shortness of breath,Type2Diabetes
+PAT-000723,49,36.5,135,66,196,125,0,1,1.9,Frequent urination,Type2Diabetes
+PAT-000724,27,17.5,103,88,86,308,0,0,8,None,Hypertension
+PAT-000725,25,36.7,164,80,270,287,0,0,7,Chest pain,Type2Diabetes
+PAT-000726,36,17.8,174,118,188,160,0,0,0.8,Fatigue,Type2Diabetes
+PAT-000727,23,28,165,93,235,279,0,0,1.8,Chest pain,Type2Diabetes
+PAT-000728,83,37.4,163,92,201,,0,0,10.8,,Type2Diabetes
+PAT-000729,26,35.9,112,99,112,274,0,0,5.8,Persistent cough,Healthy
+PAT-000730,38,37.4,148,66,265,191,0,1,1.1,Persistent cough,Type2Diabetes
+PAT-000731,30,26.6,153,81,167,215,0,0,9.2,Frequent urination,Type2Diabetes
+PAT-000732,59,40.9,157,86,73,228,0,1,1.3,Persistent cough,Hypertension
+PAT-000733,22,40,158,118,231,175,0,1,4.8,None,Type2Diabetes
+PAT-000734,63,19,146,97,163,242,1,1,3.3,Shortness of breath,Type2Diabetes
+PAT-000735,23,21.8,121,102,75,240,0,0,3,Fatigue,Cardiovascular
+PAT-000736,67,28.8,118,76,95,242,1,1,4.3,Shortness of breath,Hypertension
+PAT-000737,26,29.5,146,76,262,147,0,0,0.4,Shortness of breath,Type2Diabetes
+PAT-000738,60,24.6,123,113,166,286,0,0,0.5,None,Type2Diabetes
+PAT-000739,68,29.8,159,96,117,123,0,0,3.7,Shortness of breath,Hypertension
+PAT-000740,28,27.8,122,117,145,239,0,0,7.5,,Type2Diabetes
+PAT-000741,36,26.9,166,118,219,311,0,1,5.9,Fatigue,Type2Diabetes
+PAT-000742,83,34.6,116,87,241,137,0,0,5.8,Fatigue,Type2Diabetes
+PAT-000743,81,30.3,137,89,137,299,0,0,0.1,Persistent cough,Hypertension
+PAT-000744,47,24.1,93,77,145,128,0,0,1.1,Chest pain,Type2Diabetes
+PAT-000745,21,25.5,186,62,207,,0,0,7,Fatigue,Type2Diabetes
+PAT-000746,78,21.7,130,76,149,,0,0,10.7,Frequent urination,Type2Diabetes
+PAT-000747,62,17.9,128,115,253,122,0,1,7.8,Shortness of breath,Type2Diabetes
+PAT-000748,68,29.9,140,103,226,226,0,0,4.2,Frequent urination,Type2Diabetes
+PAT-000749,64,34.5,91,68,255,127,0,1,8.7,Persistent cough,Type2Diabetes
+PAT-000750,78,41.3,185,68,271,223,0,0,9.1,Frequent urination,Type2Diabetes
+PAT-000751,49,25.2,161,88,272,155,0,0,6.8,Frequent urination,Type2Diabetes
+PAT-000752,33,19.9,175,81,215,132,0,0,6.8,Chest pain,Type2Diabetes
+PAT-000753,45,19.4,122,92,234,,0,1,2.3,Frequent urination,Type2Diabetes
+PAT-000754,24,41.6,103,112,109,266,0,0,6.5,Persistent cough,Hypertension
+PAT-000755,69,37.4,137,74,254,286,1,0,0.5,None,Type2Diabetes
+PAT-000756,68,26.5,151,94,250,166,1,1,6,Shortness of breath,Type2Diabetes
+PAT-000757,52,39,90,110,161,188,1,0,10.3,Persistent cough,Type2Diabetes
+PAT-000758,61,20,95,108,105,234,0,0,1.6,None,Healthy
+PAT-000759,79,41.6,174,94,185,205,1,0,3,Frequent urination,Type2Diabetes
+PAT-000760,43,39.1,122,75,81,206,0,0,1.2,Frequent urination,Hypertension
+PAT-000761,60,19.8,146,68,275,233,0,0,10.7,Frequent urination,Type2Diabetes
+PAT-000762,53,31.4,90,78,176,156,0,1,4.8,Frequent urination,Type2Diabetes
+PAT-000763,65,18.6,171,68,109,233,1,1,3.5,Persistent cough,Hypertension
+PAT-000764,68,34.8,99,98,150,309,1,0,11.7,Chest pain,Type2Diabetes
+PAT-000765,36,17.4,144,60,137,275,1,0,3,Persistent cough,Hypertension
+PAT-000766,85,24.1,91,108,89,125,1,0,6.3,Fatigue,Hypertension
+PAT-000767,78,18.3,151,103,251,315,0,0,3.4,Frequent urination,Type2Diabetes
+PAT-000768,46,37.4,91,89,101,259,0,0,10.7,Fatigue,Healthy
+PAT-000769,80,35.6,139,109,70,140,0,0,0.5,,Hypertension
+PAT-000770,18,18.8,136,115,277,179,0,0,0.8,Chest pain,Type2Diabetes
+PAT-000771,62,21.7,127,78,220,120,0,0,10.7,,Type2Diabetes
+PAT-000772,40,18.2,155,74,99,281,0,0,0.3,Shortness of breath,Respiratory
+PAT-000773,64,39.5,92,85,279,286,0,0,8.9,Chest pain,Type2Diabetes
+PAT-000774,71,16.5,188,60,195,246,1,0,2.4,Persistent cough,Other
+PAT-000775,76,33.2,151,71,199,241,0,0,10.9,Fatigue,Type2Diabetes
+PAT-000776,18,24.2,129,108,264,184,0,0,3.3,Chest pain,Type2Diabetes
+PAT-000777,22,25.9,162,73,179,205,0,0,2.1,None,Type2Diabetes
+PAT-000778,21,17,158,90,153,169,0,1,7.2,Chest pain,Healthy
+PAT-000779,20,17.1,140,118,258,176,0,1,9.3,Shortness of breath,Type2Diabetes
+PAT-000780,41,24.6,172,101,117,199,1,0,0.7,Shortness of breath,Healthy
+PAT-000781,80,30.8,190,72,127,190,0,0,10.4,Chest pain,Healthy
+PAT-000782,69,38.5,190,79,217,252,0,0,1.2,Chest pain,Type2Diabetes
+PAT-000783,70,20.2,106,63,204,183,0,0,0.6,Fatigue,Type2Diabetes
+PAT-000784,59,36.9,95,66,219,222,0,0,3.1,Chest pain,Type2Diabetes
+PAT-000785,40,19.6,103,73,217,121,0,0,10.6,Chest pain,Type2Diabetes
+PAT-000786,28,27.6,169,102,145,211,0,1,7.6,Frequent urination,Type2Diabetes
+PAT-000787,61,27.8,137,89,77,242,0,0,6.3,Shortness of breath,Hypertension
+PAT-000788,43,18.5,149,100,209,270,1,0,5.3,Shortness of breath,Type2Diabetes
+PAT-000789,31,37.7,185,68,131,247,0,0,10.3,Frequent urination,Hypertension
+PAT-000790,75,27.9,115,84,147,261,0,1,10.3,Frequent urination,Type2Diabetes
+PAT-000791,25,19.3,144,81,88,255,1,1,9.9,Chest pain,Hypertension
+PAT-000792,69,20.2,178,60,84,,0,1,6.1,None,Healthy
+PAT-000793,66,29.5,110,78,112,214,0,0,10.8,Shortness of breath,Hypertension
+PAT-000794,31,25.4,102,82,148,218,0,0,0.2,Fatigue,Type2Diabetes
+PAT-000795,49,19.8,109,97,217,201,1,0,2.2,Frequent urination,Other
+PAT-000796,41,27.8,141,87,214,249,0,0,2.7,None,Type2Diabetes
+PAT-000797,18,33.5,131,102,96,154,1,0,6.5,Frequent urination,Hypertension
+PAT-000798,55,37.1,171,91,134,230,0,0,1.1,Frequent urination,Hypertension
+PAT-000799,63,35.6,171,88,258,227,0,1,6.5,Chest pain,Type2Diabetes
+PAT-000800,59,35.8,90,75,222,163,1,1,0.5,Fatigue,Type2Diabetes
+PAT-000801,40,34.2,109,73,71,173,0,0,5.3,Frequent urination,Hypertension
+PAT-000802,31,41.1,115,89,125,146,1,0,6.4,None,Healthy
+PAT-000803,73,16.3,101,110,148,272,0,1,11.8,Shortness of breath,Type2Diabetes
+PAT-000804,51,20.5,165,105,245,314,0,0,3.1,None,Type2Diabetes
+PAT-000805,68,40.1,111,85,144,159,0,0,2.9,Fatigue,Type2Diabetes
+PAT-000806,41,17.6,105,92,169,193,1,1,4.6,Frequent urination,Type2Diabetes
+PAT-000807,49,40.5,109,109,248,248,0,1,4.4,Shortness of breath,Type2Diabetes
+PAT-000808,74,23.6,173,110,208,131,0,1,11.6,None,Type2Diabetes
+PAT-000809,50,28.7,184,99,253,182,0,0,5.2,Fatigue,Other
+PAT-000810,69,38,180,94,198,197,0,1,2.6,None,Type2Diabetes
+PAT-000811,77,32.7,148,70,128,196,0,1,7.9,Shortness of breath,Hypertension
+PAT-000812,26,36.2,174,83,246,272,0,0,6.1,Shortness of breath,Type2Diabetes
+PAT-000813,28,33.2,95,99,94,309,1,0,7.5,Fatigue,Hypertension
+PAT-000814,84,33.3,134,92,185,187,0,1,10.6,Frequent urination,Type2Diabetes
+PAT-000815,22,22.8,90,61,188,268,0,0,10.8,,Type2Diabetes
+PAT-000816,59,35.9,161,111,167,274,0,1,8.6,None,Type2Diabetes
+PAT-000817,54,28.1,114,112,217,250,0,0,9.4,None,Type2Diabetes
+PAT-000818,55,18.2,113,61,217,142,0,1,2,Chest pain,Type2Diabetes
+PAT-000819,71,21.3,155,66,188,268,0,0,1.6,Fatigue,Type2Diabetes
+PAT-000820,21,33.6,111,108,136,152,1,0,5.8,Persistent cough,Healthy
+PAT-000821,46,20.3,182,93,153,127,0,1,3.4,Chest pain,Type2Diabetes
+PAT-000822,63,41.8,91,93,237,127,0,0,0.9,Frequent urination,Type2Diabetes
+PAT-000823,78,34.6,142,114,173,153,0,0,8.2,Persistent cough,Type2Diabetes
+PAT-000824,39,16.5,190,105,121,123,0,0,3.4,Fatigue,Hypertension
+PAT-000825,55,21.4,189,110,259,120,0,1,4.3,Shortness of breath,Type2Diabetes
+PAT-000826,21,21.9,170,98,78,236,0,0,5.1,None,Healthy
+PAT-000827,84,21,104,87,264,210,0,0,1.6,None,Type2Diabetes
+PAT-000828,30,16.2,180,111,244,284,1,1,1.8,Frequent urination,Type2Diabetes
+PAT-000829,36,28.9,156,88,215,271,0,0,9.2,Persistent cough,Type2Diabetes
+PAT-000830,80,36.8,107,79,108,172,0,1,10.2,Chest pain,Hypertension
+PAT-000831,71,23.2,147,78,138,316,0,1,8.2,,Hypertension
+PAT-000832,73,41.3,155,102,71,284,1,0,5.6,Persistent cough,Hypertension
+PAT-000833,77,26.2,157,66,197,317,1,1,9.2,,Type2Diabetes
+PAT-000834,54,38.6,109,112,78,298,0,0,3,Chest pain,Healthy
+PAT-000835,57,32.4,110,87,193,150,0,0,1.6,Fatigue,Type2Diabetes
+PAT-000836,50,38.5,169,60,232,136,0,0,10.1,Chest pain,Type2Diabetes
+PAT-000837,46,30.4,95,95,162,300,0,0,6.7,None,Type2Diabetes
+PAT-000838,72,31.8,133,72,219,182,1,1,10.7,Frequent urination,Type2Diabetes
+PAT-000839,48,26.7,140,84,126,186,0,0,4.4,Persistent cough,Hypertension
+PAT-000840,77,18.9,177,96,191,209,0,0,11,Chest pain,Type2Diabetes
+PAT-000841,32,34.5,116,105,184,219,0,0,1.5,Fatigue,Type2Diabetes
+PAT-000842,64,31.5,137,68,124,295,0,0,2.1,Fatigue,Hypertension
+PAT-000843,65,32.8,136,97,145,208,0,1,7.1,None,Type2Diabetes
+PAT-000844,23,35.8,128,85,263,288,1,1,7.3,Persistent cough,Type2Diabetes
+PAT-000845,71,18.7,147,85,163,148,0,0,3.6,None,Type2Diabetes
+PAT-000846,55,20.6,107,73,208,284,1,1,8.3,Persistent cough,Type2Diabetes
+PAT-000847,18,29.7,93,68,195,180,0,0,1.1,Persistent cough,Type2Diabetes
+PAT-000848,82,23,186,117,111,,0,0,9.1,Shortness of breath,Hypertension
+PAT-000849,69,30.5,144,69,77,198,1,1,7.7,Frequent urination,Hypertension
+PAT-000850,40,38.7,146,98,102,178,0,0,1.3,Fatigue,Healthy
+PAT-000851,43,27.3,171,75,183,243,0,0,1,Frequent urination,Type2Diabetes
+PAT-000852,79,39.2,91,97,167,250,1,0,11.4,Chest pain,Type2Diabetes
+PAT-000853,53,21.4,139,74,72,249,1,1,6,Chest pain,Healthy
+PAT-000854,44,22.1,133,101,159,241,1,0,10.1,Frequent urination,Type2Diabetes
+PAT-000855,59,24,108,109,173,312,0,0,4.9,Frequent urination,Type2Diabetes
+PAT-000856,41,34.4,139,102,109,291,0,0,3.4,Frequent urination,Cardiovascular
+PAT-000857,64,17.8,96,66,98,193,1,0,5.4,Persistent cough,Healthy
+PAT-000858,85,29,126,73,263,134,0,1,1.9,Shortness of breath,Type2Diabetes
+PAT-000859,51,40.9,183,62,101,254,0,0,6.9,Shortness of breath,Other
+PAT-000860,18,41.1,165,68,243,228,0,0,11.5,None,Type2Diabetes
+PAT-000861,22,41.3,181,112,180,298,0,0,8.3,,Cardiovascular
+PAT-000862,60,22.1,127,61,268,205,0,0,4.9,Persistent cough,Type2Diabetes
+PAT-000863,82,33.6,187,115,209,151,0,0,7.6,None,Type2Diabetes
+PAT-000864,29,16.8,94,78,192,213,0,0,10.1,,Type2Diabetes
+PAT-000865,82,31.1,150,109,78,,1,0,8.4,None,Hypertension
+PAT-000866,57,26.6,166,65,172,201,0,0,5.5,,Type2Diabetes
+PAT-000867,47,23.2,172,83,77,161,0,0,2.6,Persistent cough,Hypertension
+PAT-000868,80,35.7,181,66,170,292,0,0,6.3,Persistent cough,Type2Diabetes
+PAT-000869,68,21.4,95,106,243,224,1,1,1.3,Persistent cough,Type2Diabetes
+PAT-000870,76,39.4,115,108,154,241,0,0,4.7,Frequent urination,Type2Diabetes
+PAT-000871,60,38.5,131,102,265,271,1,0,7.9,Shortness of breath,Type2Diabetes
+PAT-000872,78,39.4,163,94,268,294,0,1,5.5,Fatigue,Type2Diabetes
+PAT-000873,58,17.1,132,101,104,274,0,0,3.8,,Healthy
+PAT-000874,34,28,139,85,196,243,0,0,4.3,Persistent cough,Type2Diabetes
+PAT-000875,57,41.1,118,62,273,236,0,0,10.2,Persistent cough,Type2Diabetes
+PAT-000876,19,39.8,102,91,208,308,0,0,9.7,Shortness of breath,Type2Diabetes
+PAT-000877,32,40.5,108,76,152,157,0,0,2.7,Shortness of breath,Type2Diabetes
+PAT-000878,69,34.1,188,76,104,306,0,0,3.9,Chest pain,Hypertension
+PAT-000879,26,17.7,161,113,86,251,1,0,4.7,Shortness of breath,Hypertension
+PAT-000880,42,28.4,108,97,217,179,1,1,2.4,,Type2Diabetes
+PAT-000881,80,24.6,188,70,82,188,0,0,1.1,Fatigue,Hypertension
+PAT-000882,54,30.8,175,79,193,286,1,0,2.9,,Type2Diabetes
+PAT-000883,73,18.4,110,77,81,138,0,0,8.7,Chest pain,Healthy
+PAT-000884,19,40.5,125,82,134,259,0,1,1.8,,Hypertension
+PAT-000885,82,18,101,118,174,161,1,0,5.7,Chest pain,Type2Diabetes
+PAT-000886,40,33.6,153,63,75,296,0,0,1.9,Chest pain,Hypertension
+PAT-000887,73,22.1,165,92,206,260,0,1,9.2,Frequent urination,Type2Diabetes
+PAT-000888,28,22.3,190,76,123,282,0,0,9.2,Persistent cough,Healthy
+PAT-000889,72,29.8,149,83,245,306,0,0,3.2,None,Type2Diabetes
+PAT-000890,24,40.7,117,89,136,197,0,1,10,Fatigue,Healthy

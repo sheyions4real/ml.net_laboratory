@@ -1,0 +1,851 @@
+CustomerId,TenureMonths,MonthlyCharges,TotalCharges,ContractType,PaymentMethod,InternetService,OnlineSecurity,TechSupport,StreamingTV,SeniorCitizen,Partner,Dependents,NumSupportTickets,LastContactDate,IsChurned
+CUST-00001,26,61.83,1425.86,Two year,Bank transfer,Fiber optic,No internet service,No internet service,No,0,1,1,12,2024-06-08,0
+CUST-00002,57,58.08,3399.91,Two year,Electronic check,Fiber optic,Yes,No internet service,Yes,0,1,0,7,2025-06-12,1
+CUST-00003,7,92.49,557.6,Month-to-month,Credit card,Fiber optic,No internet service,Yes,No,0,1,1,8,2025-05-26,1
+CUST-00004,63,90.87,5021.46,Month-to-month,Electronic check,DSL,No internet service,No internet service,Yes,0,0,0,3,2024-02-27,1
+CUST-00005,59,73.06,4544.42,One year,Bank transfer,None,No,No internet service,Yes,0,0,1,1,2024-07-26,0
+CUST-00006,62,57.55,3797.29,One year,Electronic check,DSL,Yes,No internet service,Yes,0,1,1,0,2025-03-29,0
+CUST-00007,10,36.84,338.1,Month-to-month,Electronic check,None,No internet service,Yes,Yes,0,1,0,3,2024-07-18,1
+CUST-00008,26,94.07,2752.8,One year,Electronic check,DSL,No,Yes,Yes,0,1,0,3,2023-01-21,0
+CUST-00009,22,58.44,1288.46,One year,Credit card,DSL,No internet service,Yes,Yes,1,1,0,6,2025-11-19,0
+CUST-00010,60,104.1,6788.4,Two year,Credit card,None,Yes,No internet service,Yes,0,0,1,12,2023-07-17,0
+CUST-00011,71,110.98,7374.1,Two year,Credit card,DSL,No,Yes,Yes,0,0,0,3,2023-07-28,0
+CUST-00012,53,93.29,4707.85,Month-to-month,Electronic check,None,No,No internet service,Yes,0,0,0,11,2024-01-24,1
+CUST-00013,14,46.32,622.35,One year,Mailed check,Fiber optic,No internet service,No internet service,No,1,1,1,0,2025-03-18,0
+CUST-00014,44,45.2,1877.49,One year,Bank transfer,Fiber optic,Yes,Yes,Yes,0,1,1,6,2024-05-15,0
+CUST-00015,27,39.37,1162.77,Month-to-month,Bank transfer,DSL,No internet service,Yes,Yes,0,1,1,11,2025-12-14,1
+CUST-00016,72,78.91,5068.5,Two year,Credit card,None,No,No internet service,Yes,0,1,1,9,2024-02-06,1
+CUST-00017,11,42.84,420.37,Month-to-month,Mailed check,DSL,No,Yes,Yes,0,0,0,1,2023-03-08,0
+CUST-00018,27,96.48,2959.92,Month-to-month,Bank transfer,Fiber optic,No internet service,Yes,No,0,1,1,5,2024-01-20,1
+CUST-00019,19,98.13,1602.87,Month-to-month,Credit card,Fiber optic,Yes,Yes,No,0,0,0,7,2025-06-22,1
+CUST-00020,21,42.31,764.09,Two year,Bank transfer,None,Yes,No internet service,No,1,1,1,9,2025-08-09,0
+CUST-00021,20,66.16,1212.28,Two year,Electronic check,DSL,Yes,No,No,1,1,1,11,2023-12-08,0
+CUST-00022,7,49.22,338.13,One year,Mailed check,Fiber optic,No internet service,No internet service,No,1,0,0,11,2025-11-11,0
+CUST-00023,41,25.17,881,Month-to-month,Electronic check,DSL,No,No internet service,Yes,0,0,0,8,2024-10-16,0
+CUST-00024,65,27.91,1670.57,One year,Mailed check,DSL,No,Yes,Yes,0,0,0,1,2024-02-20,0
+CUST-00025,67,27.73,2114.96,Two year,Bank transfer,DSL,No internet service,No internet service,No,1,1,1,10,2025-12-02,0
+CUST-00026,49,53.57,2925.44,One year,Bank transfer,DSL,No internet service,Yes,No,0,0,0,8,2024-05-12,0
+CUST-00027,28,38.42,1160.77,One year,Credit card,DSL,Yes,No internet service,Yes,0,1,0,12,2025-07-01,0
+CUST-00028,29,93.48,2474.01,One year,Bank transfer,Fiber optic,No,Yes,Yes,0,0,1,2,2025-06-02,0
+CUST-00029,62,85.44,6090.52,One year,Credit card,DSL,Yes,No internet service,Yes,0,0,0,11,2025-07-05,1
+CUST-00030,49,40.67,2161.32,One year,Electronic check,Fiber optic,No internet service,No,No,0,1,0,4,2024-02-23,0
+CUST-00031,60,67.89,3557.27,Two year,Electronic check,None,Yes,No internet service,No,0,0,0,6,2024-11-05,1
+CUST-00032,6,47.3,306.5,Month-to-month,Bank transfer,None,Yes,No internet service,No,0,1,1,2,2024-09-09,0
+CUST-00033,62,38.58,2638.11,One year,Bank transfer,DSL,No internet service,No internet service,Yes,1,1,0,9,2023-06-21,0
+CUST-00034,46,33.37,1536.63,Month-to-month,Electronic check,None,Yes,No,Yes,0,0,0,9,2024-05-03,1
+CUST-00035,7,115.25,777.51,Month-to-month,Credit card,Fiber optic,No internet service,Yes,Yes,0,0,1,3,2025-05-01,1
+CUST-00036,69,112.6,8195.58,One year,Electronic check,DSL,Yes,No,No,1,0,0,7,2023-12-31,1
+CUST-00037,47,91.2,3778.29,One year,Bank transfer,None,No,No,No,0,1,0,10,2025-05-20,0
+CUST-00038,67,89.06,5301.44,Two year,Credit card,None,No,Yes,Yes,1,0,0,9,2023-07-11,0
+CUST-00039,21,59.64,1219.38,Two year,Electronic check,Fiber optic,Yes,No internet service,Yes,0,0,0,1,2023-10-11,0
+CUST-00040,14,29.44,377.48,One year,Mailed check,None,No internet service,Yes,No,0,1,0,2,2025-05-02,0
+CUST-00041,17,43.39,782.8,One year,Credit card,DSL,No internet service,No internet service,Yes,0,1,0,8,2025-08-15,1
+CUST-00042,60,113.54,6714.6,Two year,Bank transfer,None,No,No internet service,No,0,1,1,2,2023-03-24,0
+CUST-00043,43,68.93,2806.32,Two year,Bank transfer,Fiber optic,No,No internet service,Yes,0,1,0,12,2025-07-26,1
+CUST-00044,32,49.03,1752.75,Two year,Credit card,Fiber optic,No internet service,No internet service,No,0,1,1,7,2025-10-16,0
+CUST-00045,26,30.84,888.76,Month-to-month,Electronic check,DSL,No,Yes,No,0,0,1,10,2024-12-28,0
+CUST-00046,26,36.83,1096.62,Two year,Electronic check,DSL,Yes,No internet service,Yes,0,1,0,11,2024-06-10,1
+CUST-00047,50,97.26,4873.11,Two year,Mailed check,Fiber optic,No,No internet service,Yes,0,0,1,4,2024-11-27,0
+CUST-00048,2,114.86,240.59,Two year,Electronic check,None,No internet service,Yes,No,0,0,0,12,2024-10-16,1
+CUST-00049,30,71.27,2423.19,Two year,Electronic check,Fiber optic,Yes,No,No,0,0,0,0,2024-02-24,1
+CUST-00050,29,67.28,1733.7,One year,Credit card,Fiber optic,No,No internet service,No,0,1,0,6,2023-04-20,0
+CUST-00051,38,30.43,1224.79,One year,Credit card,Fiber optic,No internet service,No internet service,No,0,0,0,1,2024-11-04,0
+CUST-00052,48,65.21,,Month-to-month,Credit card,Fiber optic,No internet service,Yes,Yes,0,0,0,2,2023-02-03,0
+CUST-00053,44,118.21,4455.31,One year,Credit card,None,No,No,Yes,0,1,0,7,2024-09-27,1
+CUST-00054,66,69.66,4104.86,Month-to-month,Electronic check,DSL,Yes,No,Yes,0,0,0,10,2024-01-05,1
+CUST-00055,22,87.29,2203.26,Month-to-month,Bank transfer,None,Yes,No internet service,No,0,1,0,6,2024-11-02,1
+CUST-00056,56,118.36,6275.42,Month-to-month,Electronic check,DSL,No,Yes,Yes,1,1,1,9,2025-05-27,1
+CUST-00057,24,77.59,2134,One year,Mailed check,None,No internet service,Yes,No,0,0,0,12,2023-01-03,1
+CUST-00058,52,93.53,4725.36,Two year,Bank transfer,DSL,No,No internet service,Yes,0,0,1,0,2023-07-11,0
+CUST-00059,59,58.72,3023.86,Two year,Credit card,Fiber optic,Yes,No,No,1,1,0,8,2025-05-10,0
+CUST-00060,47,90.21,4477.46,Month-to-month,Electronic check,None,No internet service,No,No,0,0,0,7,2025-06-05,1
+CUST-00061,33,30.4,1053.36,Month-to-month,Mailed check,DSL,No internet service,Yes,Yes,0,0,1,8,2023-04-09,0
+CUST-00062,60,68.72,4652.32,One year,Bank transfer,Fiber optic,No internet service,No internet service,No,1,1,1,8,2023-05-09,0
+CUST-00063,6,50.41,317.77,Month-to-month,Credit card,None,Yes,No internet service,No,0,1,1,4,2023-04-08,1
+CUST-00064,9,96.43,740.65,Two year,Credit card,DSL,No,No internet service,Yes,0,1,0,3,2025-11-21,1
+CUST-00065,55,70.31,3842,Month-to-month,Electronic check,None,No,Yes,Yes,0,0,0,2,2025-06-07,0
+CUST-00066,41,57.04,1988.39,Month-to-month,Bank transfer,Fiber optic,No internet service,Yes,Yes,0,1,0,3,2024-02-05,1
+CUST-00067,50,29.2,1450.5,Two year,Electronic check,Fiber optic,Yes,No internet service,No,0,0,0,3,2023-04-22,0
+CUST-00068,19,116.73,1970.29,One year,Bank transfer,Fiber optic,No internet service,No internet service,Yes,0,1,1,5,2023-02-28,1
+CUST-00069,15,58.73,892.39,Two year,Electronic check,None,Yes,No internet service,No,0,0,1,11,2025-12-23,0
+CUST-00070,45,77.12,3160.4,Two year,Electronic check,None,No,No internet service,No,0,0,0,11,2023-07-30,0
+CUST-00071,47,49.06,2492.27,One year,Electronic check,Fiber optic,Yes,No internet service,Yes,0,1,0,7,2023-06-12,0
+CUST-00072,49,71.36,3774.68,One year,Electronic check,Fiber optic,No,Yes,No,0,0,0,5,2024-01-11,1
+CUST-00073,30,47.6,1408.68,Two year,Electronic check,DSL,Yes,No internet service,Yes,0,0,0,6,2025-10-02,0
+CUST-00074,19,53.39,1103.04,Month-to-month,Mailed check,Fiber optic,No internet service,No internet service,Yes,0,0,0,11,2024-05-09,1
+CUST-00075,14,111.56,1610.45,One year,Electronic check,DSL,No internet service,No internet service,No,0,1,1,10,2025-08-12,0
+CUST-00076,63,39.69,2631.06,One year,Bank transfer,Fiber optic,No internet service,No internet service,Yes,0,0,0,11,2025-03-08,0
+CUST-00077,63,98.2,6658.8,Two year,Bank transfer,None,No internet service,No internet service,Yes,1,0,0,12,2025-10-14,0
+CUST-00078,9,60.67,603.62,Two year,Electronic check,None,No,Yes,Yes,0,1,0,0,2024-06-17,0
+CUST-00079,25,62.85,1640.7,Two year,Bank transfer,DSL,Yes,No internet service,Yes,0,1,0,4,2023-10-14,0
+CUST-00080,42,85.06,3619.83,Month-to-month,Bank transfer,None,No internet service,No internet service,No,0,0,0,6,2023-08-04,0
+CUST-00081,14,71.01,970.77,One year,Bank transfer,Fiber optic,No,No,Yes,0,0,1,0,2024-03-10,0
+CUST-00082,15,118.92,1517.02,Month-to-month,Credit card,Fiber optic,Yes,Yes,No,0,1,1,10,2025-07-12,1
+CUST-00083,2,53.14,118.66,Two year,Mailed check,DSL,Yes,No internet service,Yes,0,1,0,10,2023-08-14,0
+CUST-00084,43,84.96,4088.12,One year,Mailed check,Fiber optic,Yes,No internet service,Yes,0,0,1,9,2024-07-12,1
+CUST-00085,71,119.74,9762.94,One year,Bank transfer,DSL,No internet service,Yes,No,0,1,0,4,2025-08-26,0
+CUST-00086,9,30.89,296.05,One year,Electronic check,Fiber optic,Yes,No,Yes,1,1,0,6,2024-10-30,0
+CUST-00087,66,45.74,2770.16,Month-to-month,Bank transfer,Fiber optic,No,No,Yes,0,0,1,11,2025-04-25,1
+CUST-00088,61,100.81,6353.19,Month-to-month,Bank transfer,None,No internet service,No,No,0,0,1,3,2025-02-09,0
+CUST-00089,26,92.83,2204.69,Two year,Bank transfer,DSL,No internet service,No,Yes,0,1,1,6,2024-11-07,0
+CUST-00090,21,50.41,1140.31,One year,Mailed check,None,Yes,No,Yes,0,0,0,2,2025-12-20,0
+CUST-00091,40,78.69,3183.22,Month-to-month,Mailed check,DSL,Yes,No,Yes,0,0,0,4,2023-02-04,0
+CUST-00092,40,67,2595.14,Month-to-month,Electronic check,None,Yes,Yes,No,0,0,1,12,2023-11-16,1
+CUST-00093,58,62.08,3230.67,One year,Credit card,None,No,No,Yes,0,0,1,7,2024-08-30,0
+CUST-00094,31,95.42,3252.09,Two year,Credit card,DSL,No internet service,No internet service,Yes,0,1,1,10,2024-11-08,0
+CUST-00095,71,98.74,,One year,Credit card,Fiber optic,Yes,No internet service,Yes,0,1,0,3,2023-03-07,0
+CUST-00096,55,102.52,5834.67,Two year,Bank transfer,DSL,No,No,No,0,0,0,12,2025-09-26,0
+CUST-00097,33,37.24,1058.76,Month-to-month,Bank transfer,None,Yes,No internet service,No,0,0,0,2,2023-12-07,0
+CUST-00098,16,81.56,1375.77,One year,Mailed check,DSL,No,No,Yes,0,1,0,1,2025-04-07,0
+CUST-00099,55,57.89,3037.26,Two year,Mailed check,Fiber optic,No internet service,No internet service,No,0,0,1,10,2023-09-21,0
+CUST-00100,39,25.55,948.13,One year,Mailed check,DSL,Yes,No internet service,Yes,0,0,0,11,2024-02-21,0
+CUST-00101,71,56.36,3783.75,One year,Electronic check,None,No,No,Yes,0,0,0,2,2025-05-21,0
+CUST-00102,64,57.23,3492.01,One year,Mailed check,DSL,No,No,Yes,0,0,1,11,2023-04-04,0
+CUST-00103,54,93.51,5094.77,Two year,Mailed check,Fiber optic,No internet service,No internet service,Yes,1,0,0,3,2024-06-14,0
+CUST-00104,9,57.86,586.15,One year,Mailed check,Fiber optic,Yes,No internet service,No,0,1,0,8,2024-05-13,0
+CUST-00105,6,85.18,446.24,One year,Bank transfer,None,Yes,No,No,1,0,0,6,2025-07-22,1
+CUST-00106,16,29.13,422.31,Two year,Credit card,DSL,Yes,Yes,No,0,1,0,9,2024-07-14,0
+CUST-00107,18,30.43,531.98,One year,Credit card,None,No,No internet service,Yes,0,0,1,4,2025-04-26,0
+CUST-00108,43,57.98,2238.89,Two year,Credit card,Fiber optic,Yes,Yes,No,0,0,0,6,2023-06-03,1
+CUST-00109,29,101.13,2705.28,Two year,Mailed check,DSL,Yes,Yes,Yes,0,0,0,0,2024-12-10,0
+CUST-00110,64,115.22,7068.66,Two year,Credit card,Fiber optic,No,Yes,No,0,0,1,3,2023-09-13,0
+CUST-00111,71,77.65,5532.29,Two year,Mailed check,None,No internet service,No,Yes,0,0,1,1,2024-12-18,0
+CUST-00112,56,50.14,3059.81,Two year,Bank transfer,Fiber optic,No,No internet service,No,1,1,1,9,2023-07-05,0
+CUST-00113,71,102.46,6712.07,One year,Mailed check,None,No internet service,Yes,Yes,0,0,0,4,2025-05-15,1
+CUST-00114,26,51.95,1346.83,Month-to-month,Bank transfer,None,No internet service,Yes,Yes,0,0,0,0,2023-12-08,1
+CUST-00115,62,67.04,4707.76,Two year,Mailed check,DSL,No internet service,No,No,1,0,1,11,2024-02-15,0
+CUST-00116,9,116.4,983.25,Two year,Bank transfer,None,No internet service,No internet service,No,0,0,1,0,2025-05-21,0
+CUST-00117,36,39.18,1438.45,Month-to-month,Mailed check,Fiber optic,No internet service,No,No,0,0,0,4,2024-01-27,0
+CUST-00118,46,83.39,3366.25,Two year,Credit card,Fiber optic,Yes,No internet service,No,0,0,1,0,2023-06-15,0
+CUST-00119,10,59.56,577.34,Month-to-month,Mailed check,DSL,Yes,No internet service,No,0,1,0,9,2025-10-14,1
+CUST-00120,19,106.86,1869.25,Month-to-month,Electronic check,Fiber optic,No,No,No,1,0,0,6,2024-12-15,0
+CUST-00121,25,29.27,752.26,One year,Bank transfer,None,No,Yes,No,0,0,1,7,2023-07-22,0
+CUST-00122,65,57.8,3847.21,Month-to-month,Credit card,Fiber optic,No,No,No,0,1,1,12,2024-03-07,0
+CUST-00123,6,97.77,572.92,One year,Credit card,Fiber optic,No,No internet service,No,0,0,0,10,2024-12-29,1
+CUST-00124,67,86.42,6639.51,Two year,Electronic check,DSL,No,No,Yes,0,0,0,11,2024-01-22,0
+CUST-00125,64,99.97,5785.16,Month-to-month,Electronic check,Fiber optic,No internet service,No,Yes,0,0,1,4,2024-07-22,1
+CUST-00126,15,113.14,1691,Month-to-month,Mailed check,None,No internet service,No,Yes,0,1,0,7,2024-04-25,1
+CUST-00127,66,39.86,2524.88,Month-to-month,Credit card,None,No,No internet service,Yes,0,0,0,12,2023-03-16,1
+CUST-00128,56,95.59,6126.99,One year,Credit card,DSL,Yes,No,No,0,1,1,1,2024-04-28,0
+CUST-00129,29,62.84,1767.93,Two year,Credit card,DSL,Yes,No internet service,No,0,1,0,4,2024-08-20,0
+CUST-00130,54,81.83,,One year,Credit card,DSL,No internet service,Yes,No,0,1,0,1,2025-02-28,0
+CUST-00131,29,30.55,913.13,One year,Electronic check,None,No internet service,No internet service,No,0,1,0,4,2024-04-23,0
+CUST-00132,67,116.28,8273.85,One year,Mailed check,DSL,Yes,No internet service,Yes,0,0,1,8,2024-10-07,1
+CUST-00133,14,44.13,565.71,Month-to-month,Bank transfer,None,No internet service,Yes,Yes,0,1,0,2,2024-11-09,0
+CUST-00134,30,102.34,2752.27,Month-to-month,Credit card,None,No,Yes,Yes,0,0,0,1,2023-06-19,0
+CUST-00135,35,38.09,1364.6,Two year,Bank transfer,Fiber optic,Yes,Yes,Yes,0,1,0,1,2025-02-27,1
+CUST-00136,51,108.73,6076.45,Two year,Credit card,DSL,No,No,No,0,1,1,11,2023-08-16,0
+CUST-00137,25,53.25,1361.09,Two year,Mailed check,None,No internet service,Yes,No,0,0,0,0,2024-06-12,0
+CUST-00138,29,38.49,1054.79,Month-to-month,Bank transfer,Fiber optic,Yes,No,No,0,0,0,5,2023-12-14,0
+CUST-00139,21,26.21,632.91,One year,Mailed check,DSL,No internet service,No,No,1,1,0,10,2023-08-14,1
+CUST-00140,11,97.04,1121.68,Two year,Credit card,Fiber optic,Yes,No internet service,Yes,0,0,1,3,2024-04-29,0
+CUST-00141,20,26.56,567.02,Month-to-month,Credit card,Fiber optic,No internet service,No,Yes,0,0,1,12,2025-12-27,0
+CUST-00142,15,38.43,595.66,Two year,Bank transfer,None,No,No,No,0,0,0,3,2023-05-08,0
+CUST-00143,55,44.11,2664.43,Two year,Credit card,DSL,No internet service,No,No,0,1,0,7,2025-08-29,1
+CUST-00144,12,31.8,377.7,One year,Mailed check,DSL,Yes,No internet service,No,0,0,0,10,2025-08-10,1
+CUST-00145,2,57.77,123.93,Month-to-month,Bank transfer,Fiber optic,No,No internet service,No,0,1,1,2,2023-04-15,1
+CUST-00146,32,61.75,1979.83,One year,Electronic check,Fiber optic,No internet service,Yes,Yes,0,0,0,9,2024-12-25,0
+CUST-00147,3,87.64,233.18,Two year,Electronic check,Fiber optic,Yes,Yes,Yes,0,1,1,7,2023-12-31,1
+CUST-00148,28,75.86,,Two year,Mailed check,DSL,No,No,Yes,0,1,1,12,2023-05-12,1
+CUST-00149,37,42.88,1620.58,Two year,Bank transfer,None,No internet service,Yes,No,0,1,0,3,2024-09-17,0
+CUST-00150,6,117.27,804.43,Month-to-month,Mailed check,DSL,Yes,No,Yes,0,0,0,1,2025-07-12,0
+CUST-00151,25,91.4,1963.22,Two year,Bank transfer,Fiber optic,No internet service,Yes,No,0,0,0,9,2024-02-26,0
+CUST-00152,29,106.14,3049.98,Month-to-month,Credit card,DSL,No internet service,No,Yes,0,0,1,8,2023-10-05,1
+CUST-00153,18,29.95,517.65,One year,Credit card,None,No internet service,No,Yes,0,1,0,0,2023-10-25,0
+CUST-00154,10,115.14,1220.45,Month-to-month,Bank transfer,Fiber optic,No,No,Yes,1,0,0,4,2025-08-23,0
+CUST-00155,18,116.04,1807.27,Two year,Bank transfer,Fiber optic,No,Yes,No,0,0,1,1,2023-04-20,1
+CUST-00156,3,78.36,264.4,Two year,Mailed check,DSL,No,Yes,Yes,0,1,0,11,2025-11-06,0
+CUST-00157,31,56.47,1615.96,Month-to-month,Bank transfer,DSL,No,Yes,No,0,0,0,0,2023-07-16,1
+CUST-00158,31,88,2802.03,Month-to-month,Bank transfer,Fiber optic,No,No,No,0,1,0,1,2025-03-18,0
+CUST-00159,66,113.95,,Two year,Credit card,Fiber optic,No internet service,No internet service,Yes,0,1,0,4,2025-06-02,0
+CUST-00160,49,70.71,3098.95,One year,Bank transfer,Fiber optic,No internet service,No internet service,No,1,0,0,2,2023-07-15,0
+CUST-00161,1,42.07,36.38,Two year,Electronic check,DSL,Yes,No internet service,No,0,0,1,1,2023-04-23,1
+CUST-00162,38,57.73,2379.41,Two year,Mailed check,Fiber optic,Yes,Yes,Yes,1,0,1,6,2025-01-22,1
+CUST-00163,52,105.7,5431.47,Two year,Electronic check,None,Yes,No,Yes,1,1,1,11,2025-12-16,1
+CUST-00164,41,36.84,1343.22,One year,Bank transfer,DSL,Yes,Yes,Yes,1,0,0,6,2025-05-24,0
+CUST-00165,20,64.47,,One year,Mailed check,None,No,No,No,0,0,0,3,2025-09-01,0
+CUST-00166,61,48.93,2900.02,Two year,Electronic check,DSL,No,Yes,No,0,1,0,8,2025-11-12,1
+CUST-00167,24,54.41,1296.05,One year,Credit card,DSL,Yes,No,No,0,1,1,12,2025-06-13,1
+CUST-00168,69,37.95,2995.88,One year,Electronic check,DSL,No,No internet service,No,0,0,1,5,2025-04-01,1
+CUST-00169,54,75.86,4489.08,Month-to-month,Bank transfer,DSL,No internet service,No internet service,No,0,1,0,10,2024-03-03,0
+CUST-00170,40,33.96,1233.35,Two year,Mailed check,DSL,No,Yes,No,0,1,0,7,2023-06-06,0
+CUST-00171,32,28.54,1011.67,One year,Credit card,None,No internet service,No,Yes,0,1,0,9,2023-05-18,1
+CUST-00172,41,85.37,3829.99,Month-to-month,Bank transfer,None,Yes,Yes,No,0,1,1,4,2025-03-13,1
+CUST-00173,60,105.65,6137.75,Month-to-month,Credit card,Fiber optic,No,No,Yes,0,1,1,4,2023-05-24,1
+CUST-00174,62,50.14,3411.63,One year,Bank transfer,Fiber optic,Yes,No,No,0,1,1,9,2024-07-04,1
+CUST-00175,10,61.66,535.2,Month-to-month,Electronic check,DSL,No internet service,No,Yes,1,0,1,6,2023-02-13,1
+CUST-00176,37,38.68,1606.53,Month-to-month,Mailed check,Fiber optic,No,Yes,No,0,1,1,3,2025-07-24,0
+CUST-00177,4,53.87,236.55,Month-to-month,Bank transfer,DSL,No,No internet service,No,0,1,0,2,2024-01-02,1
+CUST-00178,6,81.96,457.84,One year,Credit card,None,Yes,Yes,Yes,0,0,1,5,2024-02-27,1
+CUST-00179,72,108.8,7632.24,One year,Electronic check,None,No,Yes,No,0,0,0,8,2025-12-29,0
+CUST-00180,47,40.53,2082.49,Two year,Mailed check,DSL,No internet service,Yes,Yes,1,1,1,7,2024-03-08,0
+CUST-00181,70,100.25,7307.55,One year,Bank transfer,Fiber optic,Yes,Yes,No,0,0,0,5,2023-08-05,1
+CUST-00182,35,43.08,1296.7,One year,Bank transfer,Fiber optic,No internet service,Yes,Yes,0,0,1,12,2025-10-18,1
+CUST-00183,33,102.1,3735.54,Two year,Bank transfer,DSL,No internet service,Yes,No,0,1,0,11,2024-03-09,1
+CUST-00184,46,36.73,1791.25,Two year,Mailed check,DSL,No internet service,No internet service,No,0,1,0,8,2023-05-18,0
+CUST-00185,9,116.38,908.69,One year,Bank transfer,DSL,Yes,Yes,Yes,0,0,1,8,2023-12-24,0
+CUST-00186,5,110.69,503.86,Two year,Electronic check,Fiber optic,Yes,Yes,No,0,0,0,3,2025-06-20,0
+CUST-00187,57,33.71,1763.46,One year,Electronic check,Fiber optic,No internet service,No,No,1,0,1,6,2023-09-28,0
+CUST-00188,43,56.42,2653.08,Month-to-month,Bank transfer,Fiber optic,No,No,Yes,0,1,0,4,2025-01-25,1
+CUST-00189,32,29.56,834.88,Month-to-month,Credit card,DSL,No,Yes,No,0,1,1,7,2024-09-04,0
+CUST-00190,20,78.41,1638.26,Two year,Electronic check,DSL,No internet service,No internet service,Yes,0,0,1,5,2024-06-08,0
+CUST-00191,16,60.7,,Two year,Mailed check,None,Yes,Yes,No,1,1,1,11,2023-12-01,0
+CUST-00192,62,56.25,3565.63,Two year,Credit card,DSL,No,No,Yes,1,1,0,4,2023-04-14,0
+CUST-00193,66,56.77,3664.1,One year,Mailed check,DSL,No internet service,No internet service,Yes,0,0,0,7,2023-04-09,0
+CUST-00194,12,81.59,1121.94,Two year,Electronic check,Fiber optic,No,No,No,0,0,0,2,2023-09-25,0
+CUST-00195,6,79.11,541.43,One year,Credit card,DSL,No internet service,No,No,1,1,0,5,2023-12-13,0
+CUST-00196,27,76.38,2326.87,One year,Bank transfer,DSL,Yes,No internet service,No,0,1,0,0,2023-12-08,0
+CUST-00197,24,46.98,1226.55,Month-to-month,Mailed check,DSL,No,No,Yes,0,1,0,10,2023-01-14,1
+CUST-00198,55,113.16,5904.82,Two year,Credit card,Fiber optic,No,No internet service,Yes,0,0,1,2,2024-07-19,0
+CUST-00199,58,65.05,4219.29,Two year,Credit card,DSL,No,No,Yes,0,0,0,6,2024-11-23,0
+CUST-00200,2,31.59,56.87,One year,Electronic check,Fiber optic,Yes,No,No,0,1,0,12,2023-09-23,0
+CUST-00201,34,38.37,1479.26,Month-to-month,Credit card,Fiber optic,No internet service,No internet service,No,0,0,0,1,2023-07-01,1
+CUST-00202,53,64.83,3677.4,One year,Bank transfer,None,No internet service,No,No,0,1,0,2,2024-07-01,0
+CUST-00203,17,96.93,1892.88,Two year,Bank transfer,DSL,No internet service,No,Yes,0,0,0,9,2025-08-02,0
+CUST-00204,68,25.93,1579.23,Two year,Electronic check,Fiber optic,No internet service,No,Yes,0,1,1,3,2024-09-15,0
+CUST-00205,71,98.1,6267.15,Month-to-month,Mailed check,DSL,No internet service,No,Yes,0,1,0,4,2023-12-12,1
+CUST-00206,48,65.03,2856.7,Month-to-month,Bank transfer,Fiber optic,Yes,No,Yes,0,1,0,6,2025-07-08,1
+CUST-00207,2,81.15,140.19,One year,Bank transfer,None,No,No internet service,Yes,0,0,0,9,2025-01-21,1
+CUST-00208,59,86.49,4768.98,Two year,Mailed check,None,No,No internet service,Yes,0,0,1,9,2023-03-20,0
+CUST-00209,20,94.66,1975.55,Month-to-month,Credit card,Fiber optic,No internet service,No,Yes,1,0,0,11,2025-09-04,0
+CUST-00210,61,89.9,5670.63,Month-to-month,Bank transfer,None,No,Yes,Yes,0,0,0,12,2024-08-11,0
+CUST-00211,22,58.63,1353.22,Month-to-month,Credit card,None,No internet service,No,Yes,0,1,0,12,2024-12-16,1
+CUST-00212,22,71.5,1424.61,One year,Credit card,Fiber optic,Yes,No internet service,No,0,1,0,12,2023-02-04,0
+CUST-00213,23,46.4,1036.91,Month-to-month,Mailed check,Fiber optic,No internet service,No,No,0,1,0,8,2025-11-15,1
+CUST-00214,23,54.27,1410.84,One year,Bank transfer,None,No,No,Yes,0,0,1,10,2025-04-09,0
+CUST-00215,32,109.61,3271.49,One year,Bank transfer,None,Yes,No internet service,Yes,0,1,0,7,2025-02-12,0
+CUST-00216,65,87.77,6086.13,Two year,Electronic check,DSL,No internet service,Yes,Yes,0,1,0,8,2024-07-16,0
+CUST-00217,51,40.94,1856.26,Two year,Credit card,None,Yes,Yes,Yes,0,0,1,9,2023-07-20,0
+CUST-00218,37,92.5,3352.67,Two year,Electronic check,None,No internet service,No internet service,No,0,0,0,10,2025-09-23,0
+CUST-00219,36,98.16,3493.13,Two year,Electronic check,DSL,No,Yes,No,0,1,1,5,2023-05-01,0
+CUST-00220,34,60.95,1872.37,Two year,Mailed check,None,No,Yes,Yes,0,0,1,9,2025-09-01,0
+CUST-00221,63,42.29,2654.07,Month-to-month,Electronic check,DSL,Yes,Yes,Yes,0,1,1,1,2023-04-25,1
+CUST-00222,34,56.44,2148.74,Two year,Electronic check,None,No,Yes,Yes,1,0,1,10,2025-03-06,0
+CUST-00223,29,31.21,786.83,Month-to-month,Credit card,None,No,No internet service,No,0,1,0,4,2023-01-10,1
+CUST-00224,14,100.17,1242.26,One year,Credit card,DSL,No internet service,No internet service,Yes,0,1,1,1,2024-03-05,0
+CUST-00225,1,110.83,107.66,Month-to-month,Credit card,DSL,No,No internet service,Yes,0,0,0,2,2025-02-12,0
+CUST-00226,39,100.03,3963.35,Two year,Electronic check,Fiber optic,No internet service,No,Yes,1,0,0,6,2023-04-02,0
+CUST-00227,22,40.29,892.46,Two year,Bank transfer,DSL,Yes,Yes,No,1,0,1,7,2023-06-18,0
+CUST-00228,70,115.28,6993.24,Two year,Mailed check,None,Yes,No,Yes,0,1,1,9,2025-07-02,1
+CUST-00229,67,102.08,7129.59,One year,Electronic check,None,No,Yes,No,0,1,0,3,2025-03-25,0
+CUST-00230,32,103.97,3448.69,One year,Mailed check,Fiber optic,No internet service,No internet service,Yes,1,1,0,12,2024-12-10,0
+CUST-00231,11,67.38,636.06,One year,Electronic check,Fiber optic,No internet service,No internet service,No,0,0,0,11,2025-10-22,0
+CUST-00232,51,78.63,3532.82,One year,Credit card,None,No,No,Yes,0,1,0,8,2023-05-17,1
+CUST-00233,19,74.35,1229.74,One year,Mailed check,DSL,No internet service,No internet service,Yes,0,0,1,6,2025-03-01,1
+CUST-00234,58,48.23,3030.97,Two year,Bank transfer,None,No,Yes,No,1,1,1,9,2024-04-10,1
+CUST-00235,72,111.22,6848.52,Month-to-month,Mailed check,Fiber optic,Yes,No internet service,No,0,0,1,4,2024-11-28,0
+CUST-00236,22,53.94,1165.85,Month-to-month,Mailed check,None,No,No internet service,No,0,0,0,9,2023-02-15,0
+CUST-00237,14,85.04,1050.36,One year,Mailed check,None,No,No internet service,Yes,0,0,0,3,2024-07-17,0
+CUST-00238,37,32.03,1096.89,Two year,Credit card,None,No,No internet service,Yes,0,0,0,11,2024-02-26,1
+CUST-00239,45,115.26,4886.98,Two year,Mailed check,None,Yes,Yes,Yes,0,0,0,11,2025-02-25,0
+CUST-00240,60,60.23,3878.25,Month-to-month,Credit card,None,Yes,No internet service,Yes,0,0,0,5,2024-09-19,0
+CUST-00241,33,104.71,3486.42,Month-to-month,Electronic check,None,No internet service,No,Yes,0,1,1,1,2025-01-22,1
+CUST-00242,68,83.51,5098.42,One year,Electronic check,Fiber optic,No internet service,No,Yes,0,1,0,7,2023-07-13,0
+CUST-00243,43,29.07,1207.31,Two year,Bank transfer,DSL,Yes,Yes,Yes,0,0,0,2,2023-10-09,0
+CUST-00244,40,26.19,1087.94,Two year,Credit card,DSL,No internet service,No internet service,No,0,0,0,0,2024-09-19,0
+CUST-00245,59,75.06,4985.15,Two year,Credit card,DSL,No,Yes,Yes,1,1,0,8,2025-07-23,1
+CUST-00246,3,102.94,309.7,One year,Electronic check,None,No internet service,No internet service,Yes,0,1,1,6,2024-03-20,0
+CUST-00247,46,99.12,3985.17,Month-to-month,Mailed check,DSL,Yes,No internet service,No,0,0,0,9,2023-08-21,1
+CUST-00248,1,65.31,62.23,Month-to-month,Mailed check,Fiber optic,No internet service,No internet service,No,0,0,0,11,2023-08-04,0
+CUST-00249,68,27.8,2077.94,One year,Mailed check,DSL,No internet service,No internet service,Yes,0,1,0,12,2024-01-22,0
+CUST-00250,65,119.59,8870.56,Month-to-month,Credit card,None,No internet service,No,Yes,0,0,1,11,2025-07-16,0
+CUST-00251,46,29.97,1563.07,One year,Electronic check,DSL,No,No,Yes,0,1,0,8,2023-10-27,0
+CUST-00252,67,109.68,,Month-to-month,Electronic check,None,Yes,No internet service,No,0,0,0,0,2024-06-15,1
+CUST-00253,15,116.15,1772.54,Two year,Credit card,None,Yes,Yes,No,0,0,1,11,2025-05-27,1
+CUST-00254,51,78.98,4304.74,Two year,Credit card,None,Yes,No,Yes,0,0,1,10,2023-09-09,1
+CUST-00255,65,117.76,8206.89,Two year,Electronic check,None,No internet service,No,Yes,0,0,1,1,2023-11-27,1
+CUST-00256,48,47.53,2191.37,Month-to-month,Credit card,DSL,No,No,No,0,0,0,7,2025-10-29,1
+CUST-00257,34,110.58,3731.05,One year,Credit card,Fiber optic,Yes,No internet service,Yes,1,1,0,11,2025-05-09,0
+CUST-00258,31,72.68,2465.45,Two year,Credit card,None,Yes,No,No,0,1,1,4,2025-07-01,0
+CUST-00259,18,106.8,2114.18,One year,Mailed check,Fiber optic,Yes,No,Yes,0,0,1,4,2023-01-14,0
+CUST-00260,46,53.78,2584.44,Two year,Bank transfer,None,Yes,Yes,Yes,1,1,0,7,2025-03-10,0
+CUST-00261,27,36.27,977.76,Month-to-month,Credit card,Fiber optic,No,No,Yes,0,0,1,1,2024-08-09,1
+CUST-00262,24,46.33,1099.99,Two year,Bank transfer,DSL,Yes,No,Yes,0,1,1,5,2024-10-17,1
+CUST-00263,25,92.67,2177.61,Month-to-month,Mailed check,DSL,No,Yes,No,0,0,0,0,2025-11-09,0
+CUST-00264,48,99.11,5016.83,One year,Credit card,DSL,No internet service,Yes,No,0,1,0,3,2024-02-06,0
+CUST-00265,42,56.27,2516.93,Month-to-month,Bank transfer,None,No,No internet service,No,0,1,1,1,2024-09-09,1
+CUST-00266,50,77.33,3368.44,Month-to-month,Mailed check,DSL,No,Yes,No,0,1,0,3,2025-05-03,1
+CUST-00267,7,43.32,344.7,Two year,Mailed check,None,Yes,Yes,No,0,0,0,7,2023-12-01,0
+CUST-00268,43,112.68,4953.7,Month-to-month,Bank transfer,DSL,Yes,No internet service,Yes,0,1,1,7,2023-03-08,1
+CUST-00269,43,26.24,1228.91,Month-to-month,Mailed check,Fiber optic,Yes,Yes,No,0,0,0,4,2023-11-27,0
+CUST-00270,9,37.38,323.95,Two year,Bank transfer,DSL,Yes,No internet service,Yes,1,0,0,5,2023-12-14,1
+CUST-00271,27,95.28,2761.66,One year,Bank transfer,DSL,No internet service,No,No,0,0,0,12,2024-03-13,0
+CUST-00272,13,92.48,1163.91,Two year,Electronic check,None,Yes,No,Yes,0,0,1,3,2024-01-23,0
+CUST-00273,48,112.57,5056.34,Two year,Credit card,DSL,Yes,Yes,Yes,0,1,1,4,2023-09-16,1
+CUST-00274,68,102.52,7361.21,Two year,Credit card,None,No,No internet service,No,0,0,0,3,2024-04-28,1
+CUST-00275,48,26.09,1369.81,Month-to-month,Mailed check,DSL,No internet service,Yes,No,1,0,0,12,2025-07-10,1
+CUST-00276,2,73.24,167.97,One year,Credit card,Fiber optic,No internet service,No,Yes,0,0,1,2,2025-09-16,0
+CUST-00277,61,79.91,4707.33,Two year,Electronic check,Fiber optic,No internet service,Yes,Yes,1,0,0,6,2025-04-29,1
+CUST-00278,37,57.32,2189.06,One year,Bank transfer,None,No,Yes,Yes,0,1,0,4,2024-05-06,1
+CUST-00279,64,119.25,6515.4,One year,Electronic check,None,No internet service,No internet service,No,0,1,0,3,2025-02-14,0
+CUST-00280,60,117.38,7047.29,Month-to-month,Electronic check,Fiber optic,Yes,No,Yes,0,1,0,10,2025-08-24,1
+CUST-00281,62,41.79,2971.42,Month-to-month,Mailed check,Fiber optic,Yes,Yes,Yes,0,0,0,3,2023-09-13,0
+CUST-00282,15,78.17,1044.99,Two year,Bank transfer,DSL,Yes,No internet service,Yes,0,1,0,4,2023-04-04,0
+CUST-00283,47,95.34,4001.54,One year,Bank transfer,None,No internet service,No,Yes,0,0,1,8,2025-05-18,0
+CUST-00284,38,70.15,2871.67,Month-to-month,Electronic check,None,No internet service,No,Yes,0,1,0,12,2024-11-29,1
+CUST-00285,2,63.42,141.11,Month-to-month,Electronic check,None,Yes,No,No,1,1,1,11,2024-03-02,0
+CUST-00286,69,32.2,2070.55,Two year,Bank transfer,None,No,No internet service,Yes,0,0,0,6,2025-03-05,0
+CUST-00287,8,49.48,382.73,Month-to-month,Credit card,Fiber optic,Yes,No internet service,No,1,1,0,0,2024-04-28,1
+CUST-00288,4,104.07,464.72,One year,Mailed check,Fiber optic,Yes,No,No,0,1,0,2,2023-07-09,0
+CUST-00289,11,40.64,418.2,Month-to-month,Bank transfer,None,No,No internet service,No,0,1,0,8,2024-06-07,0
+CUST-00290,54,95.69,4712.35,One year,Bank transfer,None,Yes,No internet service,No,0,0,0,1,2024-12-17,0
+CUST-00291,18,101.51,1993.61,Month-to-month,Bank transfer,None,No internet service,No,Yes,0,0,1,3,2025-08-20,1
+CUST-00292,40,74.72,3053.12,Month-to-month,Credit card,None,Yes,No,No,0,1,0,2,2025-01-05,0
+CUST-00293,27,108.39,3193.57,Month-to-month,Credit card,DSL,No,No internet service,Yes,0,0,1,4,2025-08-02,1
+CUST-00294,57,69.85,3509.95,One year,Mailed check,DSL,No internet service,No,Yes,1,0,1,12,2023-03-14,0
+CUST-00295,23,30.35,773.06,One year,Credit card,None,Yes,Yes,Yes,0,0,0,1,2023-08-10,0
+CUST-00296,71,91.28,7084.59,Two year,Electronic check,Fiber optic,Yes,No,Yes,0,0,0,2,2025-03-30,1
+CUST-00297,30,42.39,1443.73,One year,Credit card,None,No,No internet service,Yes,0,0,0,3,2024-06-30,0
+CUST-00298,45,60.12,2797.46,Two year,Credit card,None,No,Yes,No,0,1,1,12,2025-03-21,1
+CUST-00299,32,80.85,2925.24,Month-to-month,Mailed check,None,Yes,No internet service,Yes,0,1,1,10,2023-02-16,0
+CUST-00300,64,32.48,2299.71,Two year,Credit card,Fiber optic,No internet service,No,Yes,0,1,0,7,2024-02-05,0
+CUST-00301,1,61.68,57.32,One year,Credit card,None,No internet service,No,No,0,0,0,10,2024-06-30,1
+CUST-00302,43,114.01,4718.34,Month-to-month,Electronic check,None,No,No internet service,Yes,0,0,1,6,2023-12-04,1
+CUST-00303,12,42.08,551.64,Two year,Bank transfer,None,No internet service,No,No,0,1,0,5,2023-04-16,0
+CUST-00304,67,113.1,8518.71,Two year,Credit card,None,No,No internet service,Yes,0,0,0,7,2024-08-21,1
+CUST-00305,5,96.53,426.56,Two year,Mailed check,None,No,No internet service,Yes,0,0,1,2,2023-04-19,0
+CUST-00306,15,69.42,1118.24,Two year,Mailed check,DSL,No internet service,No internet service,Yes,0,1,1,4,2024-05-23,1
+CUST-00307,53,111.49,5485.49,Month-to-month,Bank transfer,Fiber optic,Yes,No internet service,No,0,0,0,12,2025-11-23,1
+CUST-00308,28,86.23,2290.42,Two year,Electronic check,Fiber optic,Yes,No,Yes,0,1,1,2,2024-03-14,0
+CUST-00309,31,40.34,1343.41,Two year,Mailed check,None,No internet service,Yes,No,0,1,0,1,2024-01-05,0
+CUST-00310,8,39.81,358.5,One year,Mailed check,Fiber optic,No,Yes,No,0,0,0,3,2023-10-10,0
+CUST-00311,29,99.47,2488.87,Two year,Electronic check,DSL,No,No internet service,Yes,0,0,1,3,2025-01-24,1
+CUST-00312,58,57.9,3365.7,Two year,Bank transfer,None,No internet service,No,Yes,0,0,0,3,2024-12-31,0
+CUST-00313,13,101.7,1496.08,One year,Electronic check,DSL,No,Yes,Yes,0,1,1,0,2025-09-02,1
+CUST-00314,26,116.49,2766.29,Two year,Bank transfer,None,No,Yes,No,0,0,0,2,2024-01-29,0
+CUST-00315,65,54.99,3086.39,One year,Bank transfer,DSL,No,No internet service,Yes,0,1,0,10,2025-07-17,1
+CUST-00316,70,39.51,2367.07,One year,Mailed check,DSL,Yes,No internet service,Yes,0,1,0,7,2025-06-28,0
+CUST-00317,72,106.28,8469.02,Two year,Electronic check,DSL,Yes,No,No,0,0,1,3,2024-07-28,0
+CUST-00318,48,27.56,1355.06,Month-to-month,Credit card,Fiber optic,No internet service,No,Yes,1,0,0,10,2024-12-14,1
+CUST-00319,8,70.09,579.11,One year,Bank transfer,None,No,No,No,1,0,1,4,2023-02-04,1
+CUST-00320,16,52.81,852.65,One year,Electronic check,None,Yes,Yes,No,0,1,1,10,2023-02-01,0
+CUST-00321,36,90.14,3131.42,Month-to-month,Bank transfer,DSL,Yes,No,No,1,0,0,3,2023-09-02,0
+CUST-00322,71,84.38,5671.06,Two year,Electronic check,None,Yes,No internet service,No,0,0,0,4,2024-03-09,0
+CUST-00323,32,74.37,2178.43,One year,Bank transfer,DSL,No internet service,No,Yes,0,0,1,12,2024-09-27,1
+CUST-00324,65,63.35,3928.09,Two year,Mailed check,Fiber optic,No,Yes,Yes,1,1,0,3,2025-07-08,0
+CUST-00325,62,83.69,4782.01,One year,Credit card,None,No,No,Yes,0,0,0,8,2025-05-21,1
+CUST-00326,18,44.17,799.1,One year,Bank transfer,DSL,No,Yes,No,0,1,1,11,2025-12-27,1
+CUST-00327,62,112.56,6477.92,Two year,Credit card,Fiber optic,No,No internet service,Yes,0,1,1,8,2025-03-04,1
+CUST-00328,10,56.42,581.53,Two year,Electronic check,Fiber optic,Yes,No internet service,Yes,0,0,1,11,2023-09-16,1
+CUST-00329,28,100.41,2411.87,Two year,Electronic check,DSL,Yes,No internet service,Yes,0,0,0,0,2025-06-25,0
+CUST-00330,24,59.38,1289.98,Two year,Bank transfer,Fiber optic,No,Yes,No,0,0,0,8,2025-08-22,0
+CUST-00331,71,119.81,9417.26,Two year,Bank transfer,None,No internet service,No,Yes,0,1,0,1,2024-06-16,0
+CUST-00332,32,35.27,1276.3,One year,Credit card,None,No internet service,No,No,0,0,0,7,2025-08-24,0
+CUST-00333,36,57.08,2008.38,One year,Bank transfer,DSL,Yes,No,Yes,0,0,0,12,2024-12-21,0
+CUST-00334,12,113.99,1254.67,Two year,Credit card,None,No,No internet service,No,0,1,0,7,2024-10-02,0
+CUST-00335,7,92.71,703.92,Month-to-month,Electronic check,Fiber optic,Yes,Yes,Yes,0,0,1,1,2025-01-03,1
+CUST-00336,5,65.45,362.33,Two year,Bank transfer,DSL,Yes,No internet service,No,0,1,0,4,2024-12-01,1
+CUST-00337,48,53.21,2819.65,Month-to-month,Bank transfer,DSL,No,No internet service,Yes,0,0,0,6,2023-07-14,1
+CUST-00338,14,99.04,1214.74,Two year,Electronic check,Fiber optic,No internet service,Yes,No,0,1,0,10,2023-08-05,1
+CUST-00339,17,27.46,486.99,Two year,Bank transfer,Fiber optic,Yes,No,No,0,0,1,0,2023-02-21,1
+CUST-00340,55,77.79,3927.74,Two year,Credit card,None,No internet service,Yes,Yes,0,0,0,3,2025-10-15,0
+CUST-00341,26,78.57,2136.37,One year,Electronic check,Fiber optic,No internet service,No,No,0,1,1,3,2024-02-26,0
+CUST-00342,59,57.98,3361.88,Month-to-month,Bank transfer,None,No internet service,No internet service,Yes,0,1,1,7,2023-03-19,0
+CUST-00343,27,77.49,2236.04,One year,Mailed check,None,No,No internet service,No,0,1,1,12,2023-07-14,0
+CUST-00344,49,34.12,1666.1,Two year,Mailed check,None,No,Yes,Yes,0,1,0,6,2025-05-20,1
+CUST-00345,41,88.68,3091.35,One year,Electronic check,DSL,No,No,No,0,0,1,11,2023-10-05,0
+CUST-00346,61,78.7,4800.05,One year,Bank transfer,None,Yes,Yes,Yes,0,0,0,8,2024-09-20,1
+CUST-00347,18,44.26,856.21,One year,Credit card,DSL,No,No internet service,No,0,1,0,5,2023-05-04,1
+CUST-00348,9,104.05,1049.87,One year,Electronic check,DSL,Yes,No,Yes,0,1,0,7,2024-06-01,0
+CUST-00349,14,118.17,1516.04,One year,Credit card,None,Yes,No internet service,Yes,1,0,0,9,2023-06-30,0
+CUST-00350,58,48.46,2689.63,Two year,Bank transfer,DSL,No internet service,No internet service,Yes,1,0,0,1,2023-08-26,1
+CUST-00351,4,90.49,353.57,Two year,Bank transfer,None,Yes,Yes,No,0,0,0,6,2024-12-06,0
+CUST-00352,68,114.14,8194.94,Month-to-month,Electronic check,None,Yes,Yes,Yes,0,1,1,7,2024-03-14,1
+CUST-00353,66,48.33,3343.34,Two year,Credit card,Fiber optic,Yes,Yes,Yes,0,0,1,0,2024-05-05,1
+CUST-00354,45,88.3,3691.78,One year,Electronic check,None,No,No internet service,No,0,0,0,11,2024-04-09,1
+CUST-00355,22,117.71,2643.42,Two year,Electronic check,Fiber optic,Yes,No,No,0,1,0,0,2024-09-06,0
+CUST-00356,63,79.52,4977.52,Two year,Credit card,DSL,No internet service,No internet service,Yes,0,0,0,12,2025-03-11,1
+CUST-00357,33,69.97,2451.56,Month-to-month,Bank transfer,DSL,No,Yes,No,1,0,1,9,2024-11-21,0
+CUST-00358,27,49.16,1313.52,One year,Mailed check,Fiber optic,No internet service,Yes,Yes,0,0,1,9,2025-01-27,1
+CUST-00359,63,36.1,2126.2,Month-to-month,Electronic check,Fiber optic,Yes,Yes,Yes,0,0,0,6,2023-05-23,1
+CUST-00360,44,38.75,1629.83,One year,Credit card,Fiber optic,Yes,No internet service,No,0,1,1,1,2023-04-28,0
+CUST-00361,8,106.69,798.91,Month-to-month,Electronic check,DSL,Yes,No,No,0,1,0,11,2024-10-28,1
+CUST-00362,5,116.66,639.66,Month-to-month,Credit card,DSL,No internet service,No,No,0,0,1,12,2023-02-26,1
+CUST-00363,38,86.65,3041.25,One year,Mailed check,Fiber optic,Yes,No internet service,No,0,1,0,7,2024-03-20,0
+CUST-00364,53,48.66,2419.37,Month-to-month,Electronic check,None,No internet service,Yes,No,0,0,0,12,2025-06-10,1
+CUST-00365,54,46.98,2661.72,Month-to-month,Electronic check,None,No internet service,No,No,1,0,0,0,2024-01-17,1
+CUST-00366,34,100.55,2980.02,One year,Electronic check,DSL,No,No internet service,Yes,0,1,1,8,2025-05-19,1
+CUST-00367,25,67.21,1715.07,Two year,Electronic check,DSL,No,Yes,Yes,1,0,1,10,2024-09-28,0
+CUST-00368,51,114.52,6113.1,Month-to-month,Bank transfer,DSL,No internet service,No internet service,No,0,0,0,0,2024-11-07,1
+CUST-00369,28,55.1,1574.5,Two year,Bank transfer,None,No internet service,Yes,No,1,0,0,5,2025-06-25,0
+CUST-00370,22,53.47,1063.6,One year,Electronic check,Fiber optic,No internet service,No internet service,No,1,0,0,5,2024-01-28,0
+CUST-00371,59,90.76,5072.1,One year,Bank transfer,None,Yes,No,No,0,1,0,11,2023-12-04,1
+CUST-00372,58,97.68,5619.65,Month-to-month,Bank transfer,Fiber optic,Yes,No internet service,No,0,1,1,11,2024-12-03,0
+CUST-00373,20,59.31,1318.5,One year,Mailed check,None,No internet service,No,Yes,0,0,1,4,2025-06-12,0
+CUST-00374,45,47.02,2006.39,Two year,Electronic check,DSL,Yes,No internet service,Yes,0,0,1,5,2025-03-24,1
+CUST-00375,70,29.96,2224.49,One year,Bank transfer,None,No internet service,No internet service,Yes,0,1,0,4,2024-07-02,0
+CUST-00376,57,114.61,5893.65,Month-to-month,Mailed check,None,Yes,Yes,No,0,1,0,12,2023-10-05,0
+CUST-00377,67,77.08,5118.53,Month-to-month,Credit card,Fiber optic,No,No,No,1,1,0,8,2023-07-22,1
+CUST-00378,70,95.51,7403.77,Two year,Credit card,Fiber optic,Yes,No internet service,Yes,0,1,0,9,2023-10-20,1
+CUST-00379,4,53.67,184.61,One year,Bank transfer,DSL,Yes,Yes,Yes,0,1,0,11,2023-02-18,1
+CUST-00380,24,29.16,720.21,One year,Electronic check,Fiber optic,No internet service,Yes,No,0,0,1,12,2023-04-18,0
+CUST-00381,14,99.24,1356.26,Month-to-month,Electronic check,DSL,No internet service,Yes,Yes,1,0,0,9,2024-06-07,1
+CUST-00382,20,33.39,614.38,One year,Mailed check,None,Yes,Yes,No,1,1,0,1,2025-09-17,0
+CUST-00383,53,81.58,4663.9,Month-to-month,Bank transfer,DSL,No internet service,Yes,No,0,0,0,7,2025-12-20,1
+CUST-00384,22,64.47,1593.3,Month-to-month,Bank transfer,Fiber optic,No internet service,No internet service,Yes,0,0,0,6,2023-03-07,1
+CUST-00385,58,75,3839.79,Month-to-month,Mailed check,DSL,No internet service,Yes,No,0,1,1,6,2024-07-13,1
+CUST-00386,48,73.24,3387.19,One year,Electronic check,DSL,Yes,No,No,0,1,1,3,2024-04-17,1
+CUST-00387,62,119.69,7416.31,Month-to-month,Mailed check,Fiber optic,No internet service,No internet service,No,0,0,1,9,2024-04-05,1
+CUST-00388,67,84.57,5827.26,Two year,Bank transfer,Fiber optic,No internet service,No internet service,No,0,1,1,2,2025-05-09,0
+CUST-00389,33,105.76,3964.88,Two year,Credit card,None,No internet service,No,Yes,0,0,1,7,2023-11-09,1
+CUST-00390,46,115.86,4971.64,One year,Electronic check,None,No,No internet service,No,0,0,0,0,2024-08-26,0
+CUST-00391,58,82.54,4092.85,Two year,Electronic check,None,Yes,No,Yes,0,0,1,8,2023-08-16,0
+CUST-00392,69,75.39,5381.21,Month-to-month,Credit card,DSL,No internet service,No internet service,Yes,1,0,1,11,2025-02-15,1
+CUST-00393,10,62.52,,One year,Credit card,DSL,No,No internet service,Yes,0,1,0,2,2023-02-24,0
+CUST-00394,29,75.37,2163.4,One year,Bank transfer,DSL,No,No,Yes,1,0,0,9,2025-02-02,0
+CUST-00395,61,34.84,2111.59,Month-to-month,Bank transfer,DSL,No,No,No,0,0,0,0,2025-02-28,1
+CUST-00396,39,47.09,2021.43,Two year,Credit card,Fiber optic,No,No internet service,Yes,0,1,0,8,2024-06-10,0
+CUST-00397,56,111.85,7104.4,Month-to-month,Bank transfer,None,No internet service,No,Yes,0,1,0,12,2023-06-13,1
+CUST-00398,47,91,3814.38,Two year,Credit card,None,No,No,Yes,1,1,1,8,2024-09-20,0
+CUST-00399,7,109.8,819.64,One year,Mailed check,Fiber optic,No,Yes,Yes,0,1,0,7,2024-04-07,0
+CUST-00400,49,118.66,5243.76,Month-to-month,Mailed check,None,No internet service,Yes,No,0,1,0,2,2024-10-06,1
+CUST-00401,5,46.74,222.79,Month-to-month,Bank transfer,Fiber optic,Yes,No,No,0,0,0,1,2025-04-20,1
+CUST-00402,2,70.88,148.95,Month-to-month,Credit card,Fiber optic,No,No internet service,No,0,0,1,4,2024-09-27,0
+CUST-00403,60,54.15,3335.38,Two year,Bank transfer,DSL,No,Yes,Yes,0,1,1,7,2023-07-09,0
+CUST-00404,62,94.61,6069.32,One year,Bank transfer,Fiber optic,No,No,Yes,0,0,1,0,2024-09-07,0
+CUST-00405,21,91.17,1628.5,One year,Mailed check,DSL,Yes,Yes,Yes,0,0,1,12,2025-02-20,0
+CUST-00406,18,97.89,1950.38,Month-to-month,Bank transfer,Fiber optic,No,No,Yes,0,1,0,8,2024-11-30,1
+CUST-00407,52,69.59,3587.26,One year,Mailed check,Fiber optic,Yes,No,Yes,0,1,1,9,2024-03-02,0
+CUST-00408,30,64.46,1792.39,Two year,Mailed check,Fiber optic,Yes,Yes,Yes,1,1,0,11,2025-04-08,0
+CUST-00409,31,107.42,3200.88,One year,Electronic check,None,Yes,No internet service,Yes,0,1,1,0,2025-04-01,1
+CUST-00410,66,79.23,5707.55,Two year,Electronic check,DSL,No,Yes,No,1,0,1,8,2025-10-31,0
+CUST-00411,13,60.21,767.36,One year,Credit card,Fiber optic,Yes,No internet service,No,0,0,0,6,2023-11-30,0
+CUST-00412,30,67.49,2327.66,One year,Electronic check,None,No internet service,Yes,No,0,0,0,10,2025-10-01,0
+CUST-00413,17,74.35,1080.7,Month-to-month,Electronic check,DSL,No internet service,No,No,1,1,1,6,2025-04-14,0
+CUST-00414,44,58.08,2559.53,Month-to-month,Bank transfer,None,No internet service,No internet service,No,0,0,1,3,2023-09-13,0
+CUST-00415,14,39.43,611.88,One year,Mailed check,DSL,No internet service,Yes,No,0,0,0,7,2024-10-24,0
+CUST-00416,71,30.53,2343.25,Two year,Mailed check,None,No,Yes,Yes,0,0,0,2,2024-09-18,0
+CUST-00417,16,81.82,1225.57,Month-to-month,Mailed check,Fiber optic,No,Yes,Yes,1,0,0,8,2024-08-29,1
+CUST-00418,46,98.87,3935.2,Month-to-month,Mailed check,None,No internet service,No internet service,Yes,0,1,0,12,2023-02-17,0
+CUST-00419,68,104.54,6211.34,Two year,Mailed check,None,Yes,No internet service,Yes,0,1,0,9,2024-09-23,1
+CUST-00420,44,96.57,3760.21,Two year,Electronic check,DSL,Yes,No,No,0,1,0,1,2024-04-24,0
+CUST-00421,72,113.87,8118.36,Two year,Bank transfer,None,Yes,No,No,0,1,0,1,2025-08-07,0
+CUST-00422,4,82.25,371.92,Two year,Bank transfer,None,No,No,No,0,1,0,0,2024-09-27,1
+CUST-00423,67,48.14,3585.02,Month-to-month,Credit card,None,No internet service,Yes,No,0,0,0,2,2024-09-06,0
+CUST-00424,48,78.74,3631.03,Two year,Electronic check,Fiber optic,No internet service,No internet service,Yes,0,1,0,10,2023-09-02,0
+CUST-00425,21,57.76,1181.45,Two year,Credit card,None,No,Yes,Yes,0,1,1,9,2024-11-23,0
+CUST-00426,1,29.59,27.46,One year,Mailed check,None,No internet service,Yes,No,0,1,0,8,2025-06-16,0
+CUST-00427,3,58.34,180.19,Two year,Bank transfer,Fiber optic,No internet service,No,No,0,0,0,0,2025-08-24,1
+CUST-00428,52,99.52,5348.86,Month-to-month,Bank transfer,DSL,No,No internet service,Yes,0,1,1,10,2024-11-24,1
+CUST-00429,53,81.29,4877.18,One year,Bank transfer,DSL,Yes,No,Yes,0,1,0,10,2023-04-02,1
+CUST-00430,47,71.32,3834.01,Two year,Bank transfer,DSL,No internet service,No,No,1,1,0,9,2025-09-07,1
+CUST-00431,43,72.14,3214.74,Two year,Mailed check,None,Yes,No,No,0,1,1,1,2023-12-04,0
+CUST-00432,43,80.34,3883.05,Month-to-month,Mailed check,DSL,Yes,No internet service,No,0,1,0,12,2025-08-16,1
+CUST-00433,72,74.39,4555.33,Two year,Electronic check,Fiber optic,Yes,Yes,No,0,1,1,6,2023-02-15,0
+CUST-00434,64,74.98,4198.71,One year,Bank transfer,DSL,Yes,Yes,No,0,1,0,7,2024-05-20,0
+CUST-00435,42,76.72,3270.88,Two year,Electronic check,None,No,No internet service,Yes,0,1,0,1,2024-10-30,0
+CUST-00436,64,26.57,1701.05,Two year,Credit card,DSL,No internet service,No,No,0,1,1,9,2024-03-14,0
+CUST-00437,39,98.48,3418.75,Two year,Electronic check,None,Yes,No internet service,Yes,0,0,1,4,2023-12-30,0
+CUST-00438,22,82.46,1751.08,Month-to-month,Mailed check,None,Yes,Yes,No,0,1,0,12,2024-01-15,1
+CUST-00439,13,35.6,403.97,One year,Mailed check,DSL,No,No internet service,Yes,0,1,0,4,2023-10-19,0
+CUST-00440,27,73.16,1860.54,Month-to-month,Credit card,DSL,Yes,No internet service,Yes,0,1,0,10,2023-07-12,0
+CUST-00441,8,25.62,211.61,Two year,Electronic check,Fiber optic,No,No internet service,Yes,0,0,0,0,2023-04-15,1
+CUST-00442,58,118.9,,Two year,Mailed check,Fiber optic,No internet service,Yes,Yes,0,0,0,6,2025-08-22,1
+CUST-00443,17,59.39,989.29,One year,Mailed check,None,No internet service,No,No,0,1,1,6,2024-08-17,0
+CUST-00444,34,77.31,2976.48,One year,Credit card,DSL,No,No internet service,Yes,0,0,0,3,2023-12-22,0
+CUST-00445,70,66.29,4973.96,Two year,Electronic check,DSL,No,No internet service,No,0,1,0,4,2025-10-09,0
+CUST-00446,32,92.48,2692.48,Two year,Electronic check,DSL,Yes,No internet service,No,1,0,1,0,2025-12-09,1
+CUST-00447,43,86.42,3488.02,Two year,Bank transfer,DSL,Yes,Yes,No,0,0,0,10,2023-08-30,0
+CUST-00448,22,96.05,2418.52,One year,Credit card,Fiber optic,Yes,No,Yes,0,1,0,4,2024-09-01,0
+CUST-00449,66,53.59,3744.7,Month-to-month,Bank transfer,Fiber optic,No internet service,No internet service,Yes,0,0,0,8,2023-12-15,1
+CUST-00450,49,53.71,2826.19,One year,Mailed check,Fiber optic,No,No internet service,No,0,0,1,0,2024-07-26,0
+CUST-00451,59,90.31,5636.09,Two year,Electronic check,None,Yes,Yes,Yes,0,0,0,7,2025-02-20,0
+CUST-00452,17,64.86,1145.39,Month-to-month,Electronic check,Fiber optic,No internet service,Yes,Yes,0,1,1,11,2025-08-16,1
+CUST-00453,33,73.34,2354.72,Month-to-month,Credit card,Fiber optic,No,No,Yes,0,0,1,8,2024-11-25,0
+CUST-00454,50,104.23,4711.68,Month-to-month,Credit card,None,Yes,No,Yes,0,0,0,10,2024-12-08,0
+CUST-00455,37,50.23,2076.34,Month-to-month,Mailed check,None,Yes,No internet service,No,0,0,1,6,2025-01-26,0
+CUST-00456,40,54.71,2088.21,Month-to-month,Electronic check,DSL,No,Yes,Yes,0,0,0,2,2025-10-11,0
+CUST-00457,41,61.08,,Two year,Credit card,None,No,No internet service,Yes,0,0,0,7,2024-02-07,1
+CUST-00458,71,110.96,7868.81,Two year,Mailed check,DSL,No,No,Yes,0,1,0,6,2025-08-04,0
+CUST-00459,50,84.53,4479.68,Month-to-month,Bank transfer,None,No,No,Yes,0,1,0,6,2024-02-19,1
+CUST-00460,3,37.33,112.18,Two year,Credit card,None,Yes,Yes,Yes,0,0,0,2,2025-12-20,1
+CUST-00461,16,83.1,1476.58,One year,Credit card,None,No,Yes,Yes,0,1,0,6,2023-11-19,1
+CUST-00462,64,55.1,3280.25,Two year,Electronic check,DSL,No,Yes,No,0,0,1,4,2024-04-01,0
+CUST-00463,48,119.47,5032.61,Month-to-month,Credit card,DSL,No internet service,Yes,Yes,0,1,0,1,2023-06-26,0
+CUST-00464,51,107.99,5458.89,One year,Mailed check,DSL,No,Yes,No,0,0,1,0,2024-04-10,0
+CUST-00465,38,92.07,,Two year,Bank transfer,DSL,No internet service,No internet service,Yes,0,0,1,5,2025-07-23,0
+CUST-00466,69,67,4679.08,One year,Mailed check,None,Yes,No,No,0,0,0,11,2023-09-01,0
+CUST-00467,35,50.94,1540.51,One year,Mailed check,Fiber optic,No,No internet service,Yes,0,0,1,0,2023-01-10,0
+CUST-00468,45,45.93,2265.23,Month-to-month,Mailed check,Fiber optic,No internet service,Yes,No,0,0,0,7,2024-11-25,0
+CUST-00469,14,55.87,800.1,One year,Credit card,None,No,No internet service,Yes,0,0,1,11,2025-09-29,0
+CUST-00470,17,72.8,1305.23,Two year,Mailed check,DSL,Yes,Yes,Yes,0,1,0,10,2023-12-13,0
+CUST-00471,41,70.08,2654.06,Two year,Credit card,DSL,No,Yes,No,1,1,0,7,2024-03-17,1
+CUST-00472,59,99.1,5672.14,Two year,Bank transfer,None,Yes,Yes,No,0,0,0,6,2023-10-15,0
+CUST-00473,67,115.08,7948.97,Two year,Electronic check,None,No,No,Yes,1,1,1,5,2025-09-12,0
+CUST-00474,17,100.73,1562.05,Month-to-month,Electronic check,Fiber optic,Yes,No internet service,No,0,0,0,10,2023-04-05,1
+CUST-00475,70,64.29,3853.93,Month-to-month,Bank transfer,Fiber optic,No internet service,No,Yes,0,1,1,4,2023-01-24,0
+CUST-00476,22,39.1,862.58,Month-to-month,Electronic check,Fiber optic,Yes,Yes,Yes,0,0,0,6,2025-02-25,0
+CUST-00477,30,32.85,1124.28,One year,Credit card,None,No internet service,Yes,Yes,0,0,0,7,2025-11-16,0
+CUST-00478,23,54.15,1192.51,One year,Electronic check,DSL,No,No internet service,No,0,1,0,11,2023-02-18,1
+CUST-00479,65,85.47,5830.64,One year,Mailed check,Fiber optic,No,No,No,0,1,0,0,2023-02-22,0
+CUST-00480,4,54.35,218.55,One year,Mailed check,DSL,Yes,No,Yes,0,1,1,9,2025-03-18,1
+CUST-00481,29,66.07,1982.64,Month-to-month,Electronic check,DSL,No,No internet service,Yes,1,0,0,11,2024-01-20,1
+CUST-00482,16,27.03,495.59,One year,Credit card,Fiber optic,No internet service,Yes,No,0,0,0,11,2024-04-23,1
+CUST-00483,8,116.12,934.43,Two year,Mailed check,Fiber optic,No internet service,No,Yes,0,1,0,9,2025-03-07,0
+CUST-00484,14,75.29,915.16,One year,Bank transfer,Fiber optic,No,No,Yes,0,0,0,5,2023-03-07,0
+CUST-00485,72,76.17,5011.79,Two year,Mailed check,None,Yes,No,Yes,0,0,0,11,2025-06-19,1
+CUST-00486,34,30.92,1202.97,Month-to-month,Mailed check,DSL,Yes,No internet service,No,0,0,0,3,2025-06-06,0
+CUST-00487,24,100.42,2366.89,One year,Electronic check,Fiber optic,No,No internet service,Yes,0,1,1,3,2023-03-27,0
+CUST-00488,35,74.71,2556.35,One year,Mailed check,DSL,No,No,Yes,0,0,0,10,2025-08-30,1
+CUST-00489,27,60.3,1531.08,One year,Credit card,None,No,No internet service,No,0,0,0,9,2024-07-26,0
+CUST-00490,27,53.5,1452.93,Month-to-month,Bank transfer,Fiber optic,Yes,Yes,No,0,1,0,3,2023-03-11,0
+CUST-00491,46,93.3,4565.87,Month-to-month,Mailed check,None,No internet service,No internet service,No,0,1,0,0,2025-02-12,1
+CUST-00492,53,83.69,4105.4,Two year,Bank transfer,DSL,No,No internet service,No,0,0,1,2,2023-09-16,0
+CUST-00493,44,52.09,2356.08,Month-to-month,Bank transfer,None,Yes,No internet service,No,1,0,1,11,2025-03-09,0
+CUST-00494,7,28.4,185.56,Two year,Electronic check,None,Yes,No internet service,No,0,0,1,2,2025-01-11,0
+CUST-00495,7,119.76,884.48,Two year,Credit card,None,Yes,No,No,0,0,0,0,2024-10-12,0
+CUST-00496,54,87.56,4696.37,Month-to-month,Mailed check,DSL,No,No internet service,Yes,0,1,1,11,2023-11-16,1
+CUST-00497,26,73.83,1821.53,Two year,Credit card,Fiber optic,No,No,Yes,0,0,1,4,2025-10-28,0
+CUST-00498,50,105.04,5815.95,Two year,Credit card,Fiber optic,No,No internet service,Yes,0,1,1,0,2025-09-20,0
+CUST-00499,22,35.32,764.34,Two year,Bank transfer,Fiber optic,No internet service,No,Yes,1,0,1,1,2023-06-28,0
+CUST-00500,24,53.9,1439.96,One year,Mailed check,Fiber optic,Yes,No,Yes,1,1,0,11,2024-11-17,1
+CUST-00501,15,102.31,1704.94,Month-to-month,Mailed check,DSL,Yes,No internet service,No,1,1,1,7,2023-05-09,1
+CUST-00502,28,54.55,1338.73,Two year,Bank transfer,None,Yes,Yes,No,1,0,1,9,2024-12-29,1
+CUST-00503,8,111.13,833.01,Month-to-month,Mailed check,Fiber optic,No,No internet service,Yes,0,1,1,6,2023-10-10,1
+CUST-00504,17,59.23,1026.58,Month-to-month,Mailed check,Fiber optic,Yes,No,No,0,0,1,8,2024-12-25,1
+CUST-00505,63,95.62,6808.9,Month-to-month,Mailed check,Fiber optic,No internet service,No internet service,No,0,1,1,1,2023-07-17,0
+CUST-00506,71,67.66,5230.85,Month-to-month,Bank transfer,DSL,Yes,No internet service,No,0,1,1,7,2024-09-20,0
+CUST-00507,7,94.17,674.32,Two year,Credit card,Fiber optic,Yes,No internet service,Yes,1,1,0,0,2023-10-10,1
+CUST-00508,47,40.11,2005.8,Month-to-month,Electronic check,DSL,No,No internet service,Yes,0,1,0,7,2024-04-12,1
+CUST-00509,16,66.26,1128.44,Two year,Mailed check,DSL,No,Yes,No,0,1,0,8,2024-02-19,0
+CUST-00510,56,37.27,,One year,Electronic check,None,No internet service,Yes,No,0,0,1,8,2025-05-11,0
+CUST-00511,23,77.71,1754.28,Two year,Credit card,None,Yes,Yes,Yes,0,1,1,1,2025-05-21,0
+CUST-00512,42,64.88,2848.22,Month-to-month,Electronic check,Fiber optic,Yes,No internet service,No,0,0,0,4,2024-10-06,0
+CUST-00513,64,89.78,,Month-to-month,Electronic check,None,Yes,Yes,No,0,1,1,11,2024-01-13,0
+CUST-00514,44,91.98,3820.53,Month-to-month,Electronic check,None,Yes,Yes,No,1,1,1,8,2023-02-06,0
+CUST-00515,62,66.21,3938.49,Month-to-month,Mailed check,DSL,No,Yes,Yes,0,0,0,2,2025-04-14,1
+CUST-00516,68,61.48,4376.34,Month-to-month,Electronic check,DSL,No internet service,No,No,1,0,0,2,2023-06-12,0
+CUST-00517,57,84.21,5180.75,Month-to-month,Bank transfer,Fiber optic,Yes,No internet service,No,1,0,0,2,2024-08-04,1
+CUST-00518,47,50.26,2091.93,Month-to-month,Electronic check,DSL,No internet service,No internet service,Yes,0,1,0,10,2025-04-15,1
+CUST-00519,16,103.64,1604.61,Month-to-month,Mailed check,None,No internet service,Yes,Yes,0,1,0,9,2024-01-30,1
+CUST-00520,9,106.6,880.31,One year,Bank transfer,Fiber optic,Yes,Yes,Yes,0,1,1,12,2023-09-24,0
+CUST-00521,32,44.26,,One year,Bank transfer,DSL,Yes,Yes,Yes,1,0,1,9,2024-04-30,0
+CUST-00522,3,31.6,80.82,One year,Electronic check,DSL,No,Yes,No,0,1,1,11,2023-11-23,1
+CUST-00523,72,117.09,9493.78,One year,Bank transfer,None,Yes,Yes,Yes,0,1,1,6,2023-10-26,1
+CUST-00524,10,62.11,679.89,One year,Bank transfer,None,No internet service,No internet service,No,0,0,1,7,2024-11-01,1
+CUST-00525,25,80.16,2165.83,Month-to-month,Bank transfer,None,No internet service,Yes,Yes,0,0,0,0,2025-09-05,0
+CUST-00526,25,76.43,1811.95,Two year,Bank transfer,Fiber optic,No,Yes,Yes,0,1,0,4,2023-05-04,0
+CUST-00527,54,36.25,1783.36,One year,Electronic check,DSL,No internet service,Yes,Yes,1,0,0,12,2024-07-15,1
+CUST-00528,39,74.12,2520.83,Two year,Credit card,DSL,No,No internet service,No,0,1,0,5,2023-08-08,1
+CUST-00529,56,54.62,,Month-to-month,Bank transfer,Fiber optic,No,No internet service,Yes,1,0,0,7,2024-04-14,1
+CUST-00530,56,49.66,2994.55,Two year,Bank transfer,DSL,No internet service,Yes,Yes,0,0,0,7,2024-09-17,0
+CUST-00531,55,94.78,4857.56,One year,Mailed check,Fiber optic,Yes,No internet service,No,0,0,0,7,2024-06-19,1
+CUST-00532,3,113.27,360.88,Month-to-month,Mailed check,Fiber optic,No,Yes,Yes,0,0,1,7,2025-05-13,1
+CUST-00533,25,109.14,3021.53,Two year,Mailed check,None,No internet service,No,No,0,1,1,3,2024-11-28,1
+CUST-00534,21,73.12,1749.76,Month-to-month,Credit card,Fiber optic,No internet service,No internet service,Yes,1,0,1,4,2023-09-16,0
+CUST-00535,27,119.12,2762.78,Two year,Credit card,None,No internet service,No,No,0,0,1,3,2024-09-12,0
+CUST-00536,66,99.07,7414.08,One year,Credit card,DSL,No internet service,No,Yes,1,0,0,12,2024-11-23,0
+CUST-00537,56,99.45,4741.33,Month-to-month,Electronic check,None,No internet service,Yes,No,0,0,0,12,2023-04-03,1
+CUST-00538,13,114.12,1592.83,One year,Bank transfer,None,No internet service,Yes,No,0,1,0,11,2024-12-21,1
+CUST-00539,32,41.92,1357.8,One year,Mailed check,None,No internet service,No internet service,No,0,1,0,6,2023-01-26,0
+CUST-00540,72,69.92,4993.05,Month-to-month,Bank transfer,Fiber optic,No,Yes,Yes,0,0,1,11,2023-10-09,1
+CUST-00541,68,93.36,6574.82,One year,Credit card,DSL,No internet service,No internet service,No,0,1,0,9,2025-10-17,1
+CUST-00542,50,67.8,3172.11,Two year,Bank transfer,None,Yes,No,No,0,0,0,0,2023-06-10,0
+CUST-00543,72,91.08,7332.5,One year,Credit card,None,Yes,Yes,No,0,1,0,5,2025-08-17,0
+CUST-00544,26,77.12,2259.36,Two year,Mailed check,DSL,No,No internet service,No,0,0,0,1,2024-06-14,0
+CUST-00545,27,61.83,1786.19,Month-to-month,Bank transfer,Fiber optic,No internet service,Yes,Yes,0,1,0,11,2024-04-22,1
+CUST-00546,65,35.62,2262.78,One year,Credit card,Fiber optic,No internet service,No internet service,No,0,1,0,7,2025-08-06,0
+CUST-00547,44,88.97,4396.75,Two year,Bank transfer,None,No internet service,No internet service,Yes,0,0,0,6,2025-06-15,0
+CUST-00548,48,76.82,,Month-to-month,Mailed check,Fiber optic,No,Yes,Yes,0,0,1,1,2023-05-26,1
+CUST-00549,70,60.46,4130.71,One year,Bank transfer,Fiber optic,No internet service,No,Yes,0,1,0,2,2024-06-12,0
+CUST-00550,6,42.22,242.29,Month-to-month,Mailed check,Fiber optic,No internet service,No internet service,No,0,1,1,2,2023-07-17,1
+CUST-00551,28,108.97,3265.76,One year,Bank transfer,DSL,No internet service,No,Yes,0,1,1,4,2025-09-17,0
+CUST-00552,21,57.53,1211.11,One year,Credit card,DSL,Yes,Yes,Yes,0,1,1,11,2024-03-16,0
+CUST-00553,43,82.88,3662.17,One year,Electronic check,Fiber optic,Yes,No,No,0,0,1,11,2023-08-30,0
+CUST-00554,70,65.89,4547.42,Two year,Bank transfer,DSL,Yes,No,Yes,0,1,0,10,2024-08-22,0
+CUST-00555,68,87.64,5867.85,Month-to-month,Credit card,DSL,No,Yes,No,0,1,0,2,2023-06-01,0
+CUST-00556,49,99.79,5268.26,One year,Mailed check,Fiber optic,No internet service,No internet service,Yes,0,1,0,10,2023-04-20,1
+CUST-00557,34,49.63,1495.59,Month-to-month,Electronic check,None,No internet service,Yes,Yes,0,1,1,10,2024-08-16,1
+CUST-00558,15,59.11,868.63,One year,Bank transfer,DSL,Yes,Yes,No,0,1,0,0,2023-04-20,0
+CUST-00559,29,77.08,2003.73,Month-to-month,Electronic check,None,No internet service,No internet service,Yes,0,1,0,10,2025-01-27,0
+CUST-00560,29,104.48,3473.79,Month-to-month,Credit card,Fiber optic,Yes,No internet service,Yes,1,1,1,4,2025-11-26,1
+CUST-00561,35,57.56,2196.7,Month-to-month,Mailed check,Fiber optic,No internet service,No,Yes,0,1,1,1,2024-11-27,0
+CUST-00562,37,98.63,4010.64,One year,Electronic check,Fiber optic,No,No internet service,Yes,0,1,0,8,2024-10-29,0
+CUST-00563,61,111.7,6192.44,Two year,Mailed check,None,No internet service,No internet service,Yes,0,1,0,7,2024-10-13,0
+CUST-00564,18,92.48,1872.75,One year,Bank transfer,None,No,No internet service,Yes,1,1,1,9,2024-09-23,0
+CUST-00565,25,36.44,864.39,One year,Electronic check,DSL,Yes,Yes,No,0,1,0,3,2024-09-16,0
+CUST-00566,28,104.66,2552.71,One year,Credit card,DSL,Yes,No internet service,Yes,0,1,0,2,2024-01-20,0
+CUST-00567,40,59.02,2321.08,Month-to-month,Mailed check,Fiber optic,No,Yes,Yes,1,1,0,2,2024-11-10,0
+CUST-00568,7,26.52,181.38,Month-to-month,Credit card,DSL,Yes,Yes,Yes,0,0,0,0,2025-06-22,1
+CUST-00569,38,53.67,1913.18,One year,Credit card,DSL,No internet service,No,No,0,1,1,0,2024-12-29,0
+CUST-00570,71,32.73,2529.69,Month-to-month,Mailed check,DSL,No,No,No,1,1,0,1,2025-08-17,0
+CUST-00571,16,106.85,,One year,Credit card,Fiber optic,No internet service,No,No,1,0,1,7,2025-02-24,0
+CUST-00572,22,41.22,861.93,Two year,Bank transfer,Fiber optic,No,No internet service,Yes,0,0,1,5,2024-11-17,1
+CUST-00573,55,108.37,6489.7,Month-to-month,Mailed check,Fiber optic,No internet service,No,Yes,0,0,0,12,2025-03-02,0
+CUST-00574,20,78.62,1339.47,Month-to-month,Credit card,None,No,No internet service,Yes,1,1,0,6,2023-11-16,1
+CUST-00575,17,104.77,1716.18,Two year,Bank transfer,None,No,No internet service,Yes,0,1,1,4,2023-04-01,0
+CUST-00576,3,114.22,325.37,Month-to-month,Electronic check,DSL,Yes,No,Yes,0,1,0,2,2024-08-27,1
+CUST-00577,6,66.2,359.2,One year,Bank transfer,None,Yes,No,No,0,0,1,4,2025-06-26,1
+CUST-00578,9,87.36,736.19,Two year,Electronic check,DSL,Yes,No internet service,No,0,1,1,8,2023-04-05,1
+CUST-00579,28,74.92,2248.33,Two year,Bank transfer,Fiber optic,Yes,Yes,No,0,0,0,9,2024-02-18,0
+CUST-00580,36,111.25,3431.6,Month-to-month,Electronic check,DSL,No internet service,No internet service,Yes,0,0,0,1,2025-04-02,0
+CUST-00581,7,39.4,292.55,Two year,Credit card,None,No internet service,No internet service,No,1,0,1,2,2024-03-02,0
+CUST-00582,6,118.83,703.55,Two year,Mailed check,None,Yes,No internet service,Yes,0,1,1,0,2023-02-22,1
+CUST-00583,58,86.58,5248.33,Two year,Mailed check,None,No,No,Yes,0,1,0,11,2024-08-26,1
+CUST-00584,19,62.08,1113.14,One year,Credit card,None,No,Yes,Yes,0,1,1,11,2023-02-23,1
+CUST-00585,57,31.08,1533.35,One year,Mailed check,None,No,No internet service,No,0,0,0,1,2025-08-03,0
+CUST-00586,55,73.99,3642.54,Month-to-month,Mailed check,None,No,No,No,0,1,0,7,2023-10-07,1
+CUST-00587,47,73.58,2954.08,Two year,Credit card,None,No,No internet service,No,0,0,1,7,2024-02-21,0
+CUST-00588,52,74.61,3347.52,One year,Bank transfer,None,No internet service,Yes,Yes,0,0,1,4,2024-10-10,0
+CUST-00589,16,106.35,1834.6,Two year,Mailed check,DSL,No internet service,Yes,No,0,1,0,9,2023-01-23,1
+CUST-00590,46,73.64,3825.14,Two year,Bank transfer,DSL,Yes,No,No,0,0,1,3,2023-03-23,0
+CUST-00591,6,40.81,227.05,Two year,Bank transfer,Fiber optic,No,No,No,1,0,1,1,2023-06-11,1
+CUST-00592,5,104.68,571.52,Month-to-month,Bank transfer,None,Yes,Yes,No,0,0,1,10,2023-11-09,1
+CUST-00593,15,66.77,1101.71,One year,Electronic check,Fiber optic,No internet service,No,Yes,0,1,0,6,2023-02-20,0
+CUST-00594,37,31.09,1290.05,Month-to-month,Credit card,DSL,Yes,No,Yes,0,1,0,8,2024-12-31,0
+CUST-00595,30,26.43,898.16,One year,Mailed check,Fiber optic,Yes,Yes,No,0,1,1,8,2024-02-05,0
+CUST-00596,18,71.21,1130.68,Month-to-month,Electronic check,DSL,No internet service,No,Yes,0,0,0,5,2024-07-26,1
+CUST-00597,54,28.31,1499.46,One year,Credit card,DSL,No internet service,No,Yes,0,0,0,9,2023-04-03,0
+CUST-00598,34,41.83,1390.59,Month-to-month,Mailed check,DSL,No,No internet service,Yes,0,0,0,11,2024-04-23,1
+CUST-00599,66,37.04,2786.17,One year,Electronic check,DSL,Yes,No internet service,No,1,1,0,3,2025-09-04,1
+CUST-00600,23,93.35,2037.31,One year,Electronic check,DSL,Yes,No,No,0,1,0,6,2025-04-06,1
+CUST-00601,35,74.47,2772.09,Two year,Credit card,DSL,Yes,Yes,Yes,0,1,0,7,2024-11-06,0
+CUST-00602,14,73.34,993.17,Two year,Mailed check,DSL,No internet service,No,Yes,0,0,1,6,2025-03-15,1
+CUST-00603,38,32.87,1431.76,Two year,Electronic check,DSL,Yes,No internet service,Yes,0,1,0,2,2025-07-21,0
+CUST-00604,1,110.01,97.42,Two year,Mailed check,DSL,No internet service,No,Yes,0,1,0,10,2025-05-11,1
+CUST-00605,21,89.93,2160.43,Two year,Electronic check,Fiber optic,No,No,No,1,1,0,2,2024-06-29,0
+CUST-00606,52,81.99,3738.06,One year,Bank transfer,Fiber optic,No internet service,No internet service,No,0,0,0,10,2024-06-05,0
+CUST-00607,58,85.12,5506.16,Month-to-month,Mailed check,Fiber optic,No internet service,No internet service,Yes,1,0,0,6,2023-01-12,1
+CUST-00608,65,70.41,4989.37,Month-to-month,Bank transfer,None,No,No internet service,Yes,0,0,0,9,2024-09-02,1
+CUST-00609,45,95.63,4840.59,Two year,Credit card,DSL,Yes,Yes,No,0,1,1,4,2024-01-09,1
+CUST-00610,7,113.55,809.82,Two year,Electronic check,None,Yes,No,No,1,1,1,10,2023-09-14,1
+CUST-00611,40,103.46,4049.47,One year,Electronic check,Fiber optic,No internet service,Yes,Yes,0,1,0,12,2023-08-20,0
+CUST-00612,64,109.44,7045.21,Two year,Electronic check,DSL,No,No internet service,No,0,1,1,10,2025-09-10,0
+CUST-00613,25,108.45,2608.33,Two year,Mailed check,Fiber optic,Yes,No internet service,Yes,0,0,0,10,2025-08-24,0
+CUST-00614,61,96.4,6635.1,Month-to-month,Credit card,Fiber optic,Yes,No,Yes,1,0,0,0,2023-09-17,0
+CUST-00615,42,53.37,1991.93,One year,Bank transfer,Fiber optic,Yes,No,Yes,0,1,0,6,2024-04-17,0
+CUST-00616,4,96.12,436.75,Month-to-month,Electronic check,None,No,Yes,No,0,0,0,12,2024-02-11,0
+CUST-00617,64,44.44,2876.06,Month-to-month,Electronic check,DSL,No internet service,No internet service,Yes,0,1,1,9,2025-11-17,1
+CUST-00618,45,51.87,2319.69,One year,Credit card,None,Yes,Yes,No,0,0,0,1,2023-04-09,0
+CUST-00619,28,44.96,1245.59,Two year,Bank transfer,DSL,Yes,No,No,0,1,1,12,2025-01-31,1
+CUST-00620,55,68.98,3294.88,Two year,Electronic check,DSL,Yes,No,No,0,1,1,0,2023-07-09,0
+CUST-00621,44,27.63,1067.6,Month-to-month,Bank transfer,Fiber optic,No,Yes,Yes,0,0,0,7,2024-05-31,0
+CUST-00622,63,110.73,6153.51,Month-to-month,Mailed check,Fiber optic,No,Yes,Yes,0,0,0,11,2024-07-01,1
+CUST-00623,43,103.75,4419.59,Two year,Electronic check,Fiber optic,Yes,Yes,Yes,0,0,1,9,2024-12-06,0
+CUST-00624,29,104.45,3037.39,Two year,Bank transfer,None,Yes,Yes,No,0,0,1,9,2023-08-09,1
+CUST-00625,12,30.33,358.59,Two year,Mailed check,None,No,No,No,0,0,0,3,2024-08-16,0
+CUST-00626,45,85.45,3304.02,Month-to-month,Mailed check,DSL,No,No,Yes,0,0,1,4,2023-12-05,1
+CUST-00627,1,46.65,39.71,One year,Bank transfer,DSL,No,No internet service,No,0,0,1,12,2024-07-14,0
+CUST-00628,8,30.92,214.28,Two year,Mailed check,DSL,No,No internet service,Yes,0,1,0,6,2025-02-13,0
+CUST-00629,50,60.16,2691.15,One year,Mailed check,Fiber optic,Yes,Yes,No,0,0,0,10,2025-06-08,1
+CUST-00630,17,68.92,1005.64,One year,Credit card,DSL,No,No internet service,Yes,0,1,0,8,2023-05-05,0
+CUST-00631,7,82.87,657.43,Two year,Bank transfer,None,No internet service,No internet service,Yes,0,0,0,1,2024-10-01,1
+CUST-00632,39,91.37,3180.52,One year,Credit card,Fiber optic,Yes,Yes,No,0,1,0,3,2023-04-21,0
+CUST-00633,28,50.21,1378.27,Month-to-month,Electronic check,None,No,No internet service,No,0,0,1,2,2024-08-13,1
+CUST-00634,61,76.18,4547.43,Two year,Mailed check,Fiber optic,Yes,Yes,Yes,0,0,1,7,2024-08-14,1
+CUST-00635,45,39.51,1584.73,One year,Bank transfer,None,No,No,Yes,0,0,1,9,2023-03-07,0
+CUST-00636,69,118.3,7734.97,Month-to-month,Bank transfer,DSL,Yes,No,No,0,1,0,11,2024-11-27,0
+CUST-00637,13,42.82,526.57,Month-to-month,Credit card,DSL,No internet service,No,Yes,0,0,0,2,2024-08-19,0
+CUST-00638,53,64.54,2941.84,Two year,Mailed check,None,Yes,Yes,No,0,0,0,10,2023-06-22,1
+CUST-00639,40,119.2,4550.74,Two year,Credit card,None,No internet service,Yes,No,0,0,0,1,2025-11-19,0
+CUST-00640,65,96.94,6140.84,Two year,Electronic check,Fiber optic,No,No internet service,No,0,0,0,7,2025-03-25,1
+CUST-00641,26,69.61,2003.81,One year,Credit card,None,Yes,No,Yes,1,1,0,10,2023-10-21,1
+CUST-00642,45,87.36,4223.62,One year,Credit card,Fiber optic,No internet service,Yes,Yes,0,1,0,9,2023-12-03,1
+CUST-00643,71,79.08,5431.11,One year,Mailed check,Fiber optic,No internet service,Yes,No,0,1,0,10,2024-11-10,0
+CUST-00644,55,27.76,1613.84,Month-to-month,Bank transfer,None,No internet service,No internet service,Yes,0,1,0,4,2024-08-25,1
+CUST-00645,38,55.5,2234.01,Month-to-month,Mailed check,DSL,No,No,No,0,1,1,8,2024-08-08,0
+CUST-00646,44,76.14,3429.77,Two year,Electronic check,None,No internet service,No,Yes,0,1,1,1,2025-10-06,1
+CUST-00647,25,116.59,3337.02,Month-to-month,Electronic check,Fiber optic,No,No,Yes,0,1,0,5,2024-07-08,1
+CUST-00648,63,99.25,6405.56,Month-to-month,Bank transfer,None,No internet service,No,Yes,1,1,1,4,2025-09-23,1
+CUST-00649,27,113.45,2687.54,Month-to-month,Mailed check,None,Yes,Yes,Yes,0,1,0,1,2025-05-25,1
+CUST-00650,19,45.9,910.7,One year,Credit card,None,Yes,No,Yes,0,1,1,7,2025-06-23,1
+CUST-00651,4,86.74,317.97,Two year,Mailed check,None,No internet service,No,Yes,0,0,0,1,2023-11-02,0
+CUST-00652,21,35.99,705.77,One year,Electronic check,Fiber optic,No internet service,No,No,1,1,1,2,2023-02-05,0
+CUST-00653,65,64.27,4491.06,Two year,Electronic check,DSL,No,No internet service,No,0,0,0,12,2024-05-30,0
+CUST-00654,52,104.3,4733.48,Two year,Electronic check,Fiber optic,No internet service,Yes,Yes,0,1,0,3,2023-02-08,0
+CUST-00655,28,25.95,823.1,Two year,Credit card,None,No internet service,No,Yes,1,0,1,0,2024-05-16,0
+CUST-00656,25,58.36,1473.2,Month-to-month,Credit card,None,Yes,No,Yes,0,1,1,6,2024-12-06,0
+CUST-00657,9,56.71,550.84,One year,Credit card,Fiber optic,No internet service,No,Yes,0,0,0,6,2025-05-21,1
+CUST-00658,4,97.62,391.87,Month-to-month,Bank transfer,Fiber optic,No internet service,No internet service,Yes,0,1,0,12,2024-09-22,1
+CUST-00659,47,54.99,,Two year,Electronic check,DSL,No internet service,No,No,0,0,0,2,2024-01-13,1
+CUST-00660,26,103.57,2531.41,One year,Credit card,Fiber optic,No internet service,Yes,Yes,0,1,0,0,2025-12-15,0
+CUST-00661,13,30.86,350.71,One year,Electronic check,Fiber optic,Yes,No,No,0,1,1,10,2024-10-17,0
+CUST-00662,58,47.73,2941.32,Two year,Mailed check,Fiber optic,No internet service,Yes,No,0,0,0,2,2025-02-01,0
+CUST-00663,11,45.25,456.02,Two year,Electronic check,DSL,No,Yes,No,1,0,0,0,2025-05-17,0
+CUST-00664,25,46.17,1002.23,One year,Credit card,DSL,No,No,Yes,0,1,0,11,2024-01-27,1
+CUST-00665,1,82.65,86.09,Two year,Credit card,None,No,No,No,0,1,0,10,2025-07-18,1
+CUST-00666,13,55.19,651.04,Month-to-month,Bank transfer,DSL,No,No internet service,No,0,1,1,2,2024-08-21,0
+CUST-00667,54,116.69,6794.08,Month-to-month,Mailed check,None,Yes,No internet service,No,0,0,1,9,2025-07-15,0
+CUST-00668,38,112.98,3916.46,One year,Bank transfer,None,No,Yes,Yes,0,0,0,6,2024-07-13,0
+CUST-00669,72,33.9,2148.28,Month-to-month,Electronic check,DSL,No,No,Yes,0,0,1,9,2024-08-18,1
+CUST-00670,52,91.05,4422.02,Two year,Credit card,Fiber optic,No internet service,Yes,Yes,0,0,1,4,2023-10-17,0
+CUST-00671,7,119.61,897.22,One year,Mailed check,DSL,Yes,No,Yes,0,0,1,9,2023-02-20,0
+CUST-00672,8,108.56,980.5,One year,Electronic check,DSL,Yes,No,No,1,0,0,7,2025-09-10,1
+CUST-00673,56,105.45,5431.3,One year,Mailed check,DSL,Yes,Yes,No,0,0,1,5,2024-02-01,1
+CUST-00674,13,49.38,661.55,One year,Electronic check,Fiber optic,No internet service,Yes,Yes,0,0,1,8,2024-11-12,0
+CUST-00675,4,73.02,289.95,Month-to-month,Credit card,Fiber optic,No internet service,No,Yes,0,1,1,1,2024-04-17,1
+CUST-00676,55,58.57,3043.92,One year,Credit card,DSL,No,No,No,1,0,0,4,2025-10-10,1
+CUST-00677,12,116.88,1349.86,Month-to-month,Credit card,DSL,No,No,Yes,0,1,0,8,2024-07-09,0
+CUST-00678,12,92.14,1133.75,One year,Credit card,DSL,No internet service,Yes,No,0,1,1,3,2025-01-15,1
+CUST-00679,13,33.33,454.43,Month-to-month,Bank transfer,DSL,No internet service,No internet service,No,0,1,0,10,2025-05-16,1
+CUST-00680,26,50.5,1205.32,Month-to-month,Credit card,Fiber optic,No,No,No,0,0,1,9,2025-01-25,0
+CUST-00681,52,50.24,2686.16,Two year,Electronic check,None,No,No,Yes,0,0,1,12,2024-12-30,0
+CUST-00682,57,100.48,6290.11,Month-to-month,Electronic check,DSL,No,Yes,Yes,1,0,0,1,2023-12-05,0
+CUST-00683,14,37.2,547.7,One year,Bank transfer,DSL,No,Yes,No,0,0,0,2,2023-08-09,0
+CUST-00684,35,89.2,3261.31,One year,Credit card,DSL,No,No internet service,Yes,1,0,0,4,2023-03-02,1
+CUST-00685,47,43.46,1978.44,One year,Mailed check,DSL,No internet service,No internet service,No,0,0,0,5,2023-03-26,0
+CUST-00686,35,111.57,3944.62,Two year,Mailed check,DSL,Yes,No internet service,No,0,0,1,12,2025-10-16,1
+CUST-00687,32,101.16,3653.03,Two year,Credit card,None,No internet service,Yes,Yes,0,1,0,0,2023-12-26,0
+CUST-00688,52,60.4,3389.55,One year,Electronic check,None,No,No,Yes,0,0,0,1,2024-03-04,0
+CUST-00689,63,109.71,7598.44,Month-to-month,Electronic check,None,Yes,No,No,1,0,1,11,2023-12-23,1
+CUST-00690,10,81.84,705.57,One year,Mailed check,Fiber optic,No,No,No,0,0,1,3,2024-02-09,1
+CUST-00691,54,49.15,3001.44,Two year,Bank transfer,Fiber optic,No internet service,No,No,0,0,0,7,2025-06-20,1
+CUST-00692,34,100.98,3287.4,One year,Credit card,Fiber optic,Yes,No,No,1,0,0,4,2023-08-29,0
+CUST-00693,15,104.19,1646.83,One year,Credit card,DSL,Yes,Yes,No,0,1,0,7,2024-04-24,1
+CUST-00694,42,99.52,4376.11,Two year,Electronic check,Fiber optic,No internet service,No internet service,No,1,0,1,10,2025-07-16,0
+CUST-00695,12,76.23,,Two year,Electronic check,DSL,No,No,Yes,1,0,1,11,2025-02-23,1
+CUST-00696,6,95.27,549.82,Two year,Bank transfer,None,Yes,Yes,Yes,1,1,0,8,2025-08-07,1
+CUST-00697,37,28.34,1184.56,Two year,Bank transfer,None,No internet service,No,Yes,0,0,1,9,2023-09-02,1
+CUST-00698,52,98.56,4515.33,Month-to-month,Mailed check,Fiber optic,Yes,No internet service,Yes,0,1,0,11,2023-08-30,1
+CUST-00699,35,34.07,1280.89,One year,Mailed check,DSL,No internet service,No internet service,No,1,1,0,1,2023-04-18,0
+CUST-00700,13,47.14,600.39,One year,Credit card,DSL,No internet service,No internet service,Yes,0,0,1,12,2025-03-28,0
+CUST-00701,8,25.72,208.2,One year,Electronic check,Fiber optic,Yes,No internet service,Yes,0,1,1,2,2023-11-03,1
+CUST-00702,31,59.1,1632.07,Two year,Credit card,None,No internet service,Yes,Yes,0,0,0,6,2023-02-04,1
+CUST-00703,51,49.48,2327.61,One year,Electronic check,None,Yes,No,Yes,0,1,1,12,2023-11-15,1
+CUST-00704,45,63.86,,One year,Mailed check,DSL,Yes,No internet service,No,1,0,1,1,2025-03-26,1
+CUST-00705,53,41.67,2477.37,Month-to-month,Bank transfer,DSL,No,No internet service,Yes,0,1,1,4,2025-04-26,0
+CUST-00706,25,61.2,1520.97,One year,Credit card,DSL,No internet service,Yes,Yes,0,1,0,3,2024-12-16,0
+CUST-00707,30,67.84,1887.21,Month-to-month,Mailed check,Fiber optic,No,No internet service,Yes,0,0,0,9,2023-04-18,1
+CUST-00708,72,98.87,6202.94,Month-to-month,Bank transfer,DSL,Yes,No,Yes,0,1,0,6,2025-04-28,1
+CUST-00709,47,84.49,4329.51,Month-to-month,Bank transfer,DSL,No,No internet service,Yes,0,0,1,7,2024-02-15,0
+CUST-00710,63,54.94,3027.24,Two year,Electronic check,DSL,Yes,No internet service,No,0,0,0,4,2024-04-27,0
+CUST-00711,43,27.4,1085.03,Month-to-month,Mailed check,None,No,Yes,Yes,0,0,0,4,2025-08-12,0
+CUST-00712,8,72.06,550.5,One year,Credit card,DSL,No,No internet service,Yes,0,0,0,3,2025-05-06,0
+CUST-00713,18,96.49,1746.09,One year,Credit card,DSL,No,Yes,No,0,1,1,10,2023-09-03,0
+CUST-00714,62,31.06,2052.95,Month-to-month,Electronic check,DSL,No,No,No,0,1,1,3,2023-11-23,0
+CUST-00715,51,48.56,2783.5,Two year,Credit card,Fiber optic,No,No internet service,Yes,0,0,1,6,2024-10-13,1
+CUST-00716,12,49.77,681.75,Two year,Bank transfer,DSL,No,No,Yes,0,1,1,10,2023-08-02,0
+CUST-00717,70,68.01,5088.61,Month-to-month,Electronic check,None,No internet service,No internet service,Yes,0,1,1,9,2024-11-02,1
+CUST-00718,21,65.16,1328.53,Two year,Electronic check,Fiber optic,No internet service,No internet service,Yes,0,0,1,4,2023-12-16,0
+CUST-00719,40,106.29,3642.28,One year,Mailed check,DSL,No internet service,No,Yes,0,0,0,2,2024-12-02,0
+CUST-00720,22,69.71,1486.03,Two year,Mailed check,DSL,Yes,No internet service,No,1,0,1,6,2025-11-28,0
+CUST-00721,55,84.01,5089.36,Month-to-month,Credit card,None,No internet service,No,No,0,0,0,2,2024-11-04,1
+CUST-00722,48,46.82,2158.75,Two year,Mailed check,DSL,No internet service,Yes,No,0,0,1,11,2025-08-23,0
+CUST-00723,50,53.99,2928.45,Two year,Credit card,DSL,No,No internet service,Yes,0,0,1,10,2023-01-19,1
+CUST-00724,17,95.22,1615.5,One year,Electronic check,None,No,No,No,0,0,1,8,2023-09-17,0
+CUST-00725,9,35.84,303.73,Two year,Electronic check,None,No,Yes,No,0,0,0,6,2024-04-03,1
+CUST-00726,23,67.82,1382.1,Month-to-month,Credit card,DSL,Yes,Yes,No,1,1,1,10,2024-12-17,1
+CUST-00727,21,102.48,2404.74,One year,Mailed check,None,No internet service,No,Yes,0,1,0,1,2025-03-09,0
+CUST-00728,63,26.15,1847.32,Month-to-month,Mailed check,DSL,Yes,Yes,Yes,0,0,0,2,2025-01-28,0
+CUST-00729,56,111.13,6537.03,Two year,Electronic check,DSL,Yes,No,No,0,1,0,3,2023-07-27,0
+CUST-00730,53,82.72,4080.3,Month-to-month,Credit card,Fiber optic,No,No internet service,Yes,1,0,1,10,2025-04-12,0
+CUST-00731,28,58.81,1704.04,One year,Mailed check,Fiber optic,No internet service,No,Yes,1,0,0,3,2025-04-07,0
+CUST-00732,2,34.83,68.93,Two year,Mailed check,Fiber optic,Yes,No internet service,No,1,0,1,0,2024-04-03,1
+CUST-00733,50,39.88,2089.74,One year,Electronic check,Fiber optic,No,Yes,Yes,1,0,0,5,2023-08-14,0
+CUST-00734,65,82.9,4772.51,One year,Bank transfer,Fiber optic,Yes,Yes,Yes,0,1,0,12,2024-12-25,1
+CUST-00735,3,114.07,304.47,Month-to-month,Bank transfer,DSL,Yes,Yes,No,0,1,0,1,2024-03-07,1
+CUST-00736,65,88.9,,Month-to-month,Electronic check,DSL,Yes,Yes,Yes,0,0,0,2,2025-05-10,0
+CUST-00737,29,43.31,1281.57,One year,Credit card,None,Yes,No,Yes,0,1,0,5,2024-11-26,0
+CUST-00738,38,27.75,1203.59,Month-to-month,Bank transfer,None,Yes,No internet service,Yes,0,0,1,12,2023-02-15,1
+CUST-00739,18,112.84,2182.17,Month-to-month,Mailed check,Fiber optic,Yes,Yes,Yes,1,0,0,0,2024-05-15,1
+CUST-00740,57,83.5,4471.49,Two year,Bank transfer,None,No,No,Yes,0,1,0,2,2024-10-17,1
+CUST-00741,62,38.31,2233.42,Two year,Mailed check,Fiber optic,No,No internet service,Yes,0,0,1,6,2024-07-17,0
+CUST-00742,19,36.42,741.38,Two year,Mailed check,Fiber optic,No,No,Yes,0,0,0,10,2023-07-22,1
+CUST-00743,20,79.37,1778.6,Month-to-month,Mailed check,Fiber optic,Yes,Yes,Yes,0,0,0,12,2025-11-01,1
+CUST-00744,26,58.35,1408.77,Two year,Mailed check,Fiber optic,No,No,Yes,1,0,1,7,2025-05-14,0
+CUST-00745,9,108.45,1110.7,One year,Bank transfer,None,No,No,Yes,0,0,0,11,2023-06-18,0
+CUST-00746,36,107.98,3914.36,Two year,Electronic check,None,Yes,No,No,0,0,1,9,2025-06-03,0
+CUST-00747,64,67.03,3899.05,One year,Electronic check,None,No,Yes,Yes,0,0,1,1,2025-07-11,0
+CUST-00748,59,97.63,6025.94,One year,Mailed check,DSL,No,No,No,0,1,0,2,2025-09-25,0
+CUST-00749,16,51.77,766.88,Two year,Credit card,DSL,Yes,Yes,No,0,1,0,10,2025-02-02,0
+CUST-00750,19,28.33,577.5,Two year,Mailed check,None,Yes,Yes,No,0,1,0,11,2025-11-17,1
+CUST-00751,48,63.15,3445.3,Month-to-month,Credit card,None,No,No,Yes,0,0,0,1,2024-03-23,0
+CUST-00752,54,106.69,6368.12,One year,Mailed check,None,Yes,No internet service,No,0,1,0,2,2025-05-11,0
+CUST-00753,20,68.83,1386.66,Month-to-month,Electronic check,Fiber optic,No internet service,Yes,Yes,0,1,0,6,2023-06-10,0
+CUST-00754,69,105.74,6407.12,One year,Electronic check,Fiber optic,No,No internet service,No,0,0,0,10,2023-11-23,0
+CUST-00755,56,26.91,1501.64,Month-to-month,Mailed check,None,No internet service,Yes,No,0,0,0,3,2025-06-29,0
+CUST-00756,14,63.73,825.89,One year,Electronic check,DSL,No,Yes,Yes,1,0,0,12,2025-07-07,0
+CUST-00757,47,98.27,,Month-to-month,Bank transfer,None,Yes,Yes,No,0,1,0,0,2025-08-25,1
+CUST-00758,28,39.19,1060.71,Two year,Bank transfer,DSL,No internet service,Yes,Yes,0,0,0,0,2023-02-11,0
+CUST-00759,3,108.63,309.55,Month-to-month,Credit card,None,No internet service,No internet service,No,0,0,0,7,2025-11-13,1
+CUST-00760,24,95.1,2542.88,Two year,Electronic check,Fiber optic,Yes,No internet service,No,0,1,0,6,2025-03-19,1
+CUST-00761,14,41.39,540.34,Two year,Bank transfer,Fiber optic,No,No,Yes,1,1,0,0,2025-11-29,0
+CUST-00762,30,49.19,1301.42,Two year,Mailed check,DSL,No,Yes,No,0,1,0,7,2025-03-07,1
+CUST-00763,12,47.17,646.59,One year,Bank transfer,Fiber optic,No,No internet service,Yes,0,0,0,11,2025-01-18,0
+CUST-00764,14,93.16,1232.99,Month-to-month,Credit card,Fiber optic,No,Yes,Yes,0,1,0,11,2025-01-19,1
+CUST-00765,19,100.15,1820.39,Month-to-month,Mailed check,Fiber optic,No,Yes,Yes,0,0,1,9,2025-07-07,0
+CUST-00766,61,98.96,5182.84,Two year,Credit card,None,Yes,No internet service,Yes,0,1,0,4,2023-12-03,0
+CUST-00767,58,41.45,2420.52,Two year,Mailed check,DSL,Yes,No internet service,Yes,0,0,0,8,2024-09-17,0
+CUST-00768,7,98.71,769.51,Month-to-month,Credit card,DSL,No,Yes,Yes,0,0,1,6,2024-03-18,0
+CUST-00769,1,45.27,40.87,One year,Mailed check,DSL,No,Yes,Yes,0,0,0,8,2024-08-04,1
+CUST-00770,46,35.36,1848.35,Month-to-month,Bank transfer,Fiber optic,No,No,No,0,1,0,8,2023-11-16,1
+CUST-00771,49,111.05,5612.4,One year,Electronic check,DSL,Yes,No internet service,Yes,0,1,1,6,2024-04-17,1
+CUST-00772,24,50.85,1172.1,Two year,Bank transfer,DSL,Yes,Yes,No,0,0,1,0,2023-01-30,0
+CUST-00773,26,34.96,846.69,Two year,Bank transfer,Fiber optic,Yes,No internet service,Yes,0,0,0,7,2024-09-30,0
+CUST-00774,10,37.32,378.39,Two year,Bank transfer,None,No,No,No,0,0,1,2,2025-02-01,0
+CUST-00775,27,29.47,727.1,One year,Credit card,DSL,No,Yes,No,0,1,1,11,2024-11-13,0
+CUST-00776,71,90.9,5615.12,Month-to-month,Electronic check,DSL,Yes,No,No,0,1,1,4,2025-08-11,0
+CUST-00777,29,81.25,2473.85,Month-to-month,Mailed check,Fiber optic,No,No,Yes,0,0,0,11,2023-11-06,1
+CUST-00778,30,68.29,2056.22,Two year,Bank transfer,Fiber optic,Yes,No,No,0,0,0,3,2023-07-12,1
+CUST-00779,19,79.86,1454.86,Month-to-month,Mailed check,None,No,No,Yes,0,1,0,5,2023-05-02,1
+CUST-00780,6,75.62,423.68,Two year,Bank transfer,Fiber optic,Yes,No,Yes,0,0,0,3,2025-07-17,0
+CUST-00781,26,26.61,786.44,Month-to-month,Mailed check,Fiber optic,Yes,No,No,0,0,1,1,2024-01-12,1
+CUST-00782,43,115.77,4645.45,Two year,Bank transfer,DSL,No internet service,Yes,Yes,1,0,0,2,2025-08-31,1
+CUST-00783,25,92.34,2134.73,One year,Mailed check,None,No,No,Yes,0,0,0,0,2024-01-21,0
+CUST-00784,14,70.17,873.84,One year,Electronic check,None,Yes,No internet service,No,0,0,0,12,2025-05-23,1
+CUST-00785,11,42.51,503.04,Two year,Bank transfer,None,Yes,No,Yes,0,1,0,5,2025-05-29,1
+CUST-00786,21,102.71,2028.51,Two year,Credit card,None,No,No internet service,Yes,0,1,0,5,2025-07-29,1
+CUST-00787,68,60.84,4042,Two year,Mailed check,None,Yes,No internet service,Yes,1,0,1,1,2023-01-18,1
+CUST-00788,42,83.97,3278.79,Two year,Electronic check,Fiber optic,Yes,No internet service,Yes,0,0,0,12,2025-12-29,1
+CUST-00789,34,55.22,1728.13,Two year,Bank transfer,None,No,No,Yes,0,0,1,11,2025-07-15,0
+CUST-00790,56,98.53,6160.79,Two year,Mailed check,None,Yes,No internet service,No,0,1,0,4,2025-12-21,1
+CUST-00791,20,107.91,2358.43,Month-to-month,Bank transfer,Fiber optic,Yes,Yes,No,0,1,0,10,2025-06-09,1
+CUST-00792,36,68.29,2160.96,Month-to-month,Electronic check,None,No internet service,Yes,Yes,0,0,0,2,2024-09-03,0
+CUST-00793,72,54.85,4362.43,Month-to-month,Electronic check,Fiber optic,Yes,No internet service,No,0,1,1,2,2023-10-04,0
+CUST-00794,45,119.23,6135.69,Two year,Bank transfer,None,No,No internet service,Yes,1,1,0,0,2023-07-07,0
+CUST-00795,52,27.21,1466.05,Two year,Credit card,Fiber optic,Yes,No internet service,No,0,1,1,0,2024-03-16,0
+CUST-00796,48,90.4,4256.9,Month-to-month,Electronic check,Fiber optic,Yes,No,Yes,0,1,0,8,2023-01-09,0
+CUST-00797,19,74.52,1538.81,Two year,Mailed check,Fiber optic,No internet service,No,No,0,1,0,10,2025-08-16,1
+CUST-00798,3,79.84,215.47,Month-to-month,Bank transfer,DSL,Yes,Yes,No,0,1,0,8,2024-03-24,1
+CUST-00799,70,35.67,2315.31,One year,Credit card,Fiber optic,No internet service,Yes,No,1,0,1,5,2025-10-05,0
+CUST-00800,36,84.24,3363.9,One year,Mailed check,None,No internet service,Yes,No,0,0,1,2,2024-05-04,0
+CUST-00801,23,79.09,1610.39,Two year,Electronic check,DSL,No,No,Yes,0,0,0,11,2025-12-15,1
+CUST-00802,33,80.66,2607.95,One year,Credit card,None,No,Yes,Yes,0,1,0,9,2023-01-23,1
+CUST-00803,70,78.01,6141.54,Month-to-month,Electronic check,None,No,No internet service,Yes,0,0,0,1,2025-12-29,1
+CUST-00804,53,86.71,4660.31,One year,Mailed check,None,No,No internet service,Yes,0,1,0,3,2024-04-15,1
+CUST-00805,41,92.56,3876.91,Month-to-month,Electronic check,DSL,No,No internet service,No,1,0,0,3,2024-08-16,1
+CUST-00806,30,46.09,1373.67,Month-to-month,Mailed check,Fiber optic,No internet service,Yes,Yes,0,0,1,7,2024-07-31,0
+CUST-00807,53,62.75,3010.32,One year,Electronic check,Fiber optic,No,No internet service,No,0,1,0,5,2024-10-02,0
+CUST-00808,14,113.35,1604.83,Month-to-month,Credit card,DSL,Yes,No internet service,No,0,0,1,8,2025-08-06,1
+CUST-00809,11,50.5,554.32,Month-to-month,Electronic check,Fiber optic,No,No,Yes,0,1,0,4,2024-07-16,1
+CUST-00810,46,97.09,4602.26,Two year,Mailed check,Fiber optic,Yes,No internet service,No,0,0,0,12,2023-11-16,0
+CUST-00811,5,89.97,506.95,Month-to-month,Bank transfer,Fiber optic,No internet service,Yes,Yes,0,0,1,11,2023-09-04,1
+CUST-00812,20,81.58,1463.16,Two year,Bank transfer,None,No internet service,Yes,Yes,0,0,1,2,2023-06-01,0
+CUST-00813,44,111.56,4566.12,Month-to-month,Bank transfer,Fiber optic,Yes,No internet service,No,0,0,0,0,2023-03-04,0
+CUST-00814,10,109.98,958.77,Month-to-month,Mailed check,Fiber optic,No internet service,No internet service,No,1,1,1,9,2025-10-15,1
+CUST-00815,48,84.77,4452.76,Two year,Electronic check,Fiber optic,No,No,No,0,0,0,4,2024-05-29,0
+CUST-00816,56,100.64,5042.59,One year,Mailed check,None,Yes,No internet service,Yes,0,1,0,4,2023-04-26,0
+CUST-00817,26,84.82,2003.75,Two year,Bank transfer,None,No,No internet service,Yes,0,0,0,5,2024-03-15,0
+CUST-00818,38,26.14,1053.09,Two year,Electronic check,Fiber optic,No,No internet service,Yes,0,1,1,7,2025-09-06,1
+CUST-00819,23,109.03,2810.37,Two year,Credit card,None,No,No,No,1,1,0,12,2025-12-14,1
+CUST-00820,50,97.2,4168.86,One year,Bank transfer,DSL,No,Yes,No,0,0,1,10,2024-06-01,1
+CUST-00821,6,78.38,465.06,Two year,Bank transfer,DSL,No internet service,Yes,Yes,1,0,1,4,2023-06-28,0
+CUST-00822,36,92.19,2944.87,Two year,Electronic check,Fiber optic,Yes,Yes,No,0,0,0,12,2023-05-03,1
+CUST-00823,30,71.04,,One year,Mailed check,None,No,No,No,0,0,0,0,2024-01-31,0
+CUST-00824,56,90.32,4385.39,Month-to-month,Credit card,None,Yes,No internet service,Yes,1,0,0,3,2023-09-23,1
+CUST-00825,60,28.49,1917.95,Two year,Mailed check,DSL,Yes,No,No,0,0,0,5,2023-04-22,1
+CUST-00826,57,56.84,3389.12,Two year,Credit card,Fiber optic,No,No internet service,No,0,0,0,8,2025-04-16,1
+CUST-00827,25,114.51,2952.77,Two year,Credit card,None,No internet service,No internet service,No,0,1,1,10,2025-02-26,1
+CUST-00828,62,93.76,6242.44,One year,Credit card,Fiber optic,Yes,Yes,Yes,0,1,1,2,2023-02-02,0
+CUST-00829,13,88.79,1106.22,Two year,Bank transfer,DSL,No,No internet service,Yes,0,1,0,5,2023-09-25,1
+CUST-00830,68,43.93,2637.4,Two year,Credit card,DSL,No internet service,Yes,Yes,0,0,0,1,2024-04-22,0
+CUST-00831,51,117.43,6006.97,Two year,Mailed check,Fiber optic,No,No internet service,Yes,1,0,1,12,2025-06-04,0
+CUST-00832,45,40.27,1705.33,One year,Electronic check,Fiber optic,Yes,No internet service,Yes,0,0,0,12,2023-11-28,1
+CUST-00833,52,115.52,6721.39,Month-to-month,Electronic check,None,Yes,No,Yes,0,1,1,2,2025-04-23,1
+CUST-00834,46,115.1,4961.2,Two year,Bank transfer,DSL,Yes,Yes,Yes,0,1,0,7,2023-02-27,1
+CUST-00835,2,45.53,97.05,One year,Electronic check,None,No,No,Yes,0,0,0,10,2023-05-23,1
+CUST-00836,33,68.79,2170.53,Month-to-month,Mailed check,DSL,No,No internet service,Yes,0,1,0,4,2024-07-26,0
+CUST-00837,4,71.23,325.14,Month-to-month,Bank transfer,DSL,No,No,Yes,0,0,0,3,2024-09-28,1
+CUST-00838,69,79.58,5144.8,Two year,Electronic check,None,Yes,No internet service,No,0,0,1,0,2023-05-15,0
+CUST-00839,64,31.32,2283.81,One year,Bank transfer,None,No,No,No,0,1,1,10,2025-12-29,1
+CUST-00840,37,64.9,2119.44,Two year,Electronic check,DSL,No internet service,No,Yes,0,0,1,1,2024-11-29,0
+CUST-00841,44,48.41,2160.06,Two year,Electronic check,Fiber optic,Yes,No,Yes,1,1,1,0,2024-10-14,0
+CUST-00842,6,75.28,465.19,One year,Credit card,None,No,No,No,0,1,0,11,2023-12-29,0
+CUST-00843,47,91.54,4799.73,Two year,Bank transfer,DSL,Yes,No,Yes,0,1,0,8,2025-09-02,0
+CUST-00844,33,29.86,896.44,Month-to-month,Electronic check,None,Yes,No internet service,Yes,0,0,1,4,2023-11-28,1
+CUST-00845,56,113.97,5818.43,Two year,Bank transfer,DSL,No,No,No,0,0,1,9,2025-02-26,0
+CUST-00846,30,27.75,829.65,Two year,Credit card,None,No,No internet service,Yes,0,1,0,2,2024-07-03,1
+CUST-00847,30,114.7,3772.56,Month-to-month,Mailed check,DSL,No,Yes,Yes,0,0,0,8,2025-07-30,1
+CUST-00848,68,74.87,5784.16,One year,Mailed check,None,No internet service,No,No,0,1,0,0,2025-06-04,0
+CUST-00849,51,93.64,5440.27,Two year,Mailed check,DSL,No internet service,No,No,0,1,0,12,2025-01-24,0
+CUST-00850,47,56.59,3033.38,Two year,Mailed check,None,No,No internet service,Yes,0,1,0,0,2025-12-05,1

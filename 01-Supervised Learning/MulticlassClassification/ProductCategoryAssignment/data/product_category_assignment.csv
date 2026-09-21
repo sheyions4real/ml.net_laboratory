@@ -1,0 +1,621 @@
+ProductId,ProductName,Brand,WeightKg,Price,Color,Material,IsSeasonal,ReviewCount,AverageRating,Description,ProductCategory
+PRD-000001,Trail Running Shoes,PureGlow,9.19,228.75,Green,Synthetic,0,366,5,,Toys
+PRD-000002,Building Block Set 500pc,PeakFit,8.58,868.75,White,Synthetic,0,1444,4.7,Energy efficient smart lighting for home automation,Beauty
+PRD-000003,Vitamin C Serum 30ml,BrightHome,13.83,866.2,Blue,Metal,0,757,4.6,Comfortable everyday wear made from organic cotton,Sports
+PRD-000004,Smart LED Bulb 4-Pack,NovaTech,0.71,351.06,Black,Metal,0,1902,3.9,Energy efficient smart lighting for home automation,Clothing
+PRD-000005,Trail Running Shoes,NovaTech,6.72,855.38,Blue,,1,1663,3.6,Comfortable everyday wear made from organic cotton,Toys
+PRD-000006,Organic Cotton Tee,BrightHome,17.44,194.07,Blue,Cotton,0,336,2.6,Energy efficient smart lighting for home automation,Electronics
+PRD-000007,Smart LED Bulb 4-Pack,UrbanWear,20.03,364.78,Black,Cotton,0,1160,3,Energy efficient smart lighting for home automation,Clothing
+PRD-000008,Trail Running Shoes,PlayCraft,17.75,437.47,Blue,Metal,0,970,4.6,Energy efficient smart lighting for home automation,Books
+PRD-000009,Building Block Set 500pc,NovaTech,1.01,205.78,Red,Glass,0,2367,3.2,,Books
+PRD-000010,Vitamin C Serum 30ml,NovaTech,16.75,454.97,,Wood,0,1327,4,High performance wireless audio with noise cancellation,Toys
+PRD-000011,Vitamin C Serum 30ml,GreenLeaf,4.65,358.97,Red,Metal,1,1176,4.3,High performance wireless audio with noise cancellation,Clothing
+PRD-000012,Vitamin C Serum 30ml,PureGlow,20.11,449.15,Green,Synthetic,0,1996,4.8,,Beauty
+PRD-000013,Building Block Set 500pc,PureGlow,7.48,209.53,Green,,1,2154,2.6,,Clothing
+PRD-000014,Pro Wireless Headphones,BrightHome,14.98,694.12,Black,Synthetic,0,1720,3.4,High performance wireless audio with noise cancellation,Toys
+PRD-000015,All-Weather Floor Mats,BrightHome,20.74,752.87,Blue,Cotton,0,1614,3.3,Comfortable everyday wear made from organic cotton,Clothing
+PRD-000016,All-Weather Floor Mats,PeakFit,11.71,85.24,Blue,Glass,1,1917,3.8,Comfortable everyday wear made from organic cotton,HomeGarden
+PRD-000017,Trail Running Shoes,PureGlow,5.13,609.46,White,Plastic,1,523,4.9,High performance wireless audio with noise cancellation,Automotive
+PRD-000018,Pro Wireless Headphones,GreenLeaf,10.74,530.61,Red,Plastic,1,437,3.2,Comfortable everyday wear made from organic cotton,Electronics
+PRD-000019,Pro Wireless Headphones,AutoShield,5.46,171.46,Red,Wood,0,1495,3.4,High performance wireless audio with noise cancellation,Beauty
+PRD-000020,Trail Running Shoes,UrbanWear,21.98,211.24,Blue,Synthetic,1,86,4.2,,Clothing
+PRD-000021,Pro Wireless Headphones,NovaTech,16.8,242.35,Green,Synthetic,1,1988,2.6,,Toys
+PRD-000022,Data Science Handbook,NovaTech,0.65,697.52,Blue,Glass,1,641,4,,Beauty
+PRD-000023,Smart LED Bulb 4-Pack,NovaTech,13.11,683.45,White,Synthetic,0,257,2.5,,Clothing
+PRD-000024,Organic Cotton Tee,UrbanWear,11.11,175.25,Green,Cotton,1,2330,4.6,,Toys
+PRD-000025,Data Science Handbook,PureGlow,14.67,439.03,White,Wood,0,754,3.5,High performance wireless audio with noise cancellation,Electronics
+PRD-000026,Pro Wireless Headphones,UrbanWear,17.7,291.1,Red,Plastic,0,543,3.4,High performance wireless audio with noise cancellation,Clothing
+PRD-000027,Data Science Handbook,UrbanWear,18.63,426.07,,Cotton,1,2005,3,,HomeGarden
+PRD-000028,Building Block Set 500pc,UrbanWear,17.67,568.35,Red,Plastic,0,2177,4.9,Energy efficient smart lighting for home automation,Sports
+PRD-000029,Trail Running Shoes,UrbanWear,6.81,846.72,Green,Synthetic,1,327,4.5,Comfortable everyday wear made from organic cotton,Books
+PRD-000030,Trail Running Shoes,PeakFit,21.47,172.87,,Synthetic,0,813,3.4,,HomeGarden
+PRD-000031,Vitamin C Serum 30ml,PlayCraft,11.26,807.66,Blue,Glass,1,278,3.9,,Books
+PRD-000032,Smart LED Bulb 4-Pack,PureGlow,4.92,520.67,,Glass,0,1495,4,Energy efficient smart lighting for home automation,Sports
+PRD-000033,Data Science Handbook,AutoShield,2.74,570.9,Red,Metal,0,1627,3.6,,HomeGarden
+PRD-000034,Vitamin C Serum 30ml,NovaTech,1.98,140.6,White,Glass,0,563,4.1,High performance wireless audio with noise cancellation,Automotive
+PRD-000035,Trail Running Shoes,GreenLeaf,16.42,370.14,White,Metal,1,262,4.2,Comfortable everyday wear made from organic cotton,HomeGarden
+PRD-000036,Trail Running Shoes,BrightHome,3.36,244.51,,Metal,0,1230,4.8,Comfortable everyday wear made from organic cotton,HomeGarden
+PRD-000037,Trail Running Shoes,NovaTech,24.84,151.91,White,Glass,0,1050,4.2,Energy efficient smart lighting for home automation,HomeGarden
+PRD-000038,Smart LED Bulb 4-Pack,NovaTech,19.03,828.06,Black,Synthetic,0,2160,2.6,Energy efficient smart lighting for home automation,Books
+PRD-000039,Building Block Set 500pc,AutoShield,23.24,782.18,Black,Synthetic,0,869,4,,Toys
+PRD-000040,Smart LED Bulb 4-Pack,AutoShield,5.16,311.47,,Glass,0,427,3,High performance wireless audio with noise cancellation,Sports
+PRD-000041,Data Science Handbook,AutoShield,2.15,181.61,Red,Wood,1,166,3.7,Comfortable everyday wear made from organic cotton,Electronics
+PRD-000042,Trail Running Shoes,PeakFit,21.85,215.4,Green,Glass,1,2327,4.3,Comfortable everyday wear made from organic cotton,Automotive
+PRD-000043,Pro Wireless Headphones,UrbanWear,18.21,341.4,Blue,Glass,1,2104,3.4,High performance wireless audio with noise cancellation,Automotive
+PRD-000044,Smart LED Bulb 4-Pack,UrbanWear,6.81,415.24,Green,Synthetic,1,2423,4.8,Energy efficient smart lighting for home automation,Beauty
+PRD-000045,Vitamin C Serum 30ml,PlayCraft,8.54,27.16,Multi,Synthetic,0,1622,4.2,Energy efficient smart lighting for home automation,HomeGarden
+PRD-000046,Building Block Set 500pc,PeakFit,1.51,692.6,White,Glass,0,1018,3.8,High performance wireless audio with noise cancellation,Sports
+PRD-000047,All-Weather Floor Mats,BrightHome,3.93,238.84,Blue,Metal,1,635,3.5,,Toys
+PRD-000048,Data Science Handbook,PureGlow,13.44,139.32,Multi,Glass,1,2413,2.5,High performance wireless audio with noise cancellation,Toys
+PRD-000049,Trail Running Shoes,GreenLeaf,0.26,312.24,Black,Cotton,0,1837,4.9,High performance wireless audio with noise cancellation,Clothing
+PRD-000050,Data Science Handbook,AutoShield,3.93,890.86,Black,,0,1043,4.7,High performance wireless audio with noise cancellation,Books
+PRD-000051,Smart LED Bulb 4-Pack,BrightHome,1.34,49.39,,Plastic,0,1171,3.3,High performance wireless audio with noise cancellation,HomeGarden
+PRD-000052,Building Block Set 500pc,PureGlow,4.42,116.34,Multi,Metal,0,2166,2.6,High performance wireless audio with noise cancellation,HomeGarden
+PRD-000053,Pro Wireless Headphones,GreenLeaf,17.05,274.84,Multi,Wood,0,739,4.4,Comfortable everyday wear made from organic cotton,HomeGarden
+PRD-000054,Organic Cotton Tee,PlayCraft,8.59,894.61,,Metal,0,2051,4.1,Comfortable everyday wear made from organic cotton,Toys
+PRD-000055,Smart LED Bulb 4-Pack,GreenLeaf,0.88,114.71,Black,Wood,0,388,3.1,,Toys
+PRD-000056,Data Science Handbook,PeakFit,21.46,172.06,,Cotton,0,1244,3.2,Energy efficient smart lighting for home automation,Automotive
+PRD-000057,Pro Wireless Headphones,PureGlow,12.51,211.55,Green,Cotton,0,1680,4.9,,Sports
+PRD-000058,Trail Running Shoes,GreenLeaf,16.44,496.64,Blue,Wood,0,2394,3.7,Comfortable everyday wear made from organic cotton,Sports
+PRD-000059,Pro Wireless Headphones,GreenLeaf,10.72,20.17,Multi,Metal,0,977,4.2,,Automotive
+PRD-000060,Data Science Handbook,AutoShield,15.6,686.03,Black,Plastic,0,27,3.3,High performance wireless audio with noise cancellation,Automotive
+PRD-000061,Organic Cotton Tee,BrightHome,23.75,282.8,White,Synthetic,1,1969,4.1,,Electronics
+PRD-000062,Smart LED Bulb 4-Pack,UrbanWear,23.83,864.14,White,Glass,0,1298,3.1,Energy efficient smart lighting for home automation,Sports
+PRD-000063,Data Science Handbook,BrightHome,12.99,258.49,White,Synthetic,0,2485,3.6,Energy efficient smart lighting for home automation,Toys
+PRD-000064,Data Science Handbook,PlayCraft,4.87,102.45,Green,Synthetic,1,172,2.8,Energy efficient smart lighting for home automation,Automotive
+PRD-000065,Trail Running Shoes,BrightHome,7.67,785.66,Red,Wood,1,1904,4.3,,Sports
+PRD-000066,Trail Running Shoes,PureGlow,17.62,519.64,,Cotton,0,1747,2.8,,Books
+PRD-000067,Building Block Set 500pc,PeakFit,6.04,234.41,Multi,,1,1130,2.5,High performance wireless audio with noise cancellation,Books
+PRD-000068,Smart LED Bulb 4-Pack,AutoShield,5.88,216.5,Black,Wood,0,284,4,Energy efficient smart lighting for home automation,Toys
+PRD-000069,All-Weather Floor Mats,PeakFit,7.6,747.14,Black,Glass,0,2237,3.1,Comfortable everyday wear made from organic cotton,Toys
+PRD-000070,Smart LED Bulb 4-Pack,AutoShield,16.96,535.22,Multi,,1,567,4,,Clothing
+PRD-000071,Pro Wireless Headphones,PlayCraft,18.23,307.91,Blue,Wood,1,2273,4.3,,Beauty
+PRD-000072,Organic Cotton Tee,PlayCraft,9.06,127.07,Red,,0,143,3.2,Comfortable everyday wear made from organic cotton,Clothing
+PRD-000073,Pro Wireless Headphones,UrbanWear,15.66,396.01,White,Synthetic,0,496,4.6,High performance wireless audio with noise cancellation,Toys
+PRD-000074,Trail Running Shoes,GreenLeaf,4.28,323.83,Multi,Plastic,0,1943,2.8,,Sports
+PRD-000075,Building Block Set 500pc,AutoShield,13.8,251.73,Red,Metal,0,2475,4,,Toys
+PRD-000076,Building Block Set 500pc,PlayCraft,0.4,206.92,Red,Glass,0,1394,3,,Automotive
+PRD-000077,Trail Running Shoes,PureGlow,3.99,782.64,,Synthetic,0,676,3.9,Comfortable everyday wear made from organic cotton,Electronics
+PRD-000078,Building Block Set 500pc,AutoShield,8.58,450.56,White,Synthetic,0,254,3.1,Comfortable everyday wear made from organic cotton,Books
+PRD-000079,Smart LED Bulb 4-Pack,AutoShield,7.49,17.91,Black,Wood,1,1006,2.8,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000080,Data Science Handbook,AutoShield,11.4,461.08,Black,Cotton,1,1446,4.9,,Beauty
+PRD-000081,All-Weather Floor Mats,UrbanWear,17.38,171.38,White,Metal,0,809,2.8,Comfortable everyday wear made from organic cotton,Electronics
+PRD-000082,Pro Wireless Headphones,NovaTech,10.4,551.04,Green,Wood,1,1273,4,,Books
+PRD-000083,Data Science Handbook,PureGlow,15.95,810.98,Multi,Metal,1,1358,4,,Clothing
+PRD-000084,Vitamin C Serum 30ml,PureGlow,5.37,755.26,,Synthetic,0,2173,2.7,Energy efficient smart lighting for home automation,Toys
+PRD-000085,Organic Cotton Tee,PlayCraft,3.05,791.58,Red,Synthetic,0,1136,2.8,High performance wireless audio with noise cancellation,Beauty
+PRD-000086,Data Science Handbook,NovaTech,3.69,120.92,Red,Cotton,0,344,3.3,Energy efficient smart lighting for home automation,Electronics
+PRD-000087,Vitamin C Serum 30ml,PeakFit,0.14,498.75,White,Metal,1,2092,3.7,Comfortable everyday wear made from organic cotton,HomeGarden
+PRD-000088,Organic Cotton Tee,PureGlow,1.86,455.97,White,,0,2450,3.1,Energy efficient smart lighting for home automation,Books
+PRD-000089,Vitamin C Serum 30ml,PeakFit,22.15,638.14,,Metal,0,1497,4.1,High performance wireless audio with noise cancellation,Books
+PRD-000090,Vitamin C Serum 30ml,PeakFit,14.11,133.25,Red,Metal,1,211,3.1,Energy efficient smart lighting for home automation,Sports
+PRD-000091,Building Block Set 500pc,NovaTech,24.44,310.6,Blue,Synthetic,0,240,4.6,Energy efficient smart lighting for home automation,Electronics
+PRD-000092,Trail Running Shoes,UrbanWear,0.63,290.6,Blue,Glass,0,861,4.4,,Beauty
+PRD-000093,All-Weather Floor Mats,PureGlow,2.97,799.25,,Metal,0,738,4.5,Energy efficient smart lighting for home automation,Automotive
+PRD-000094,All-Weather Floor Mats,AutoShield,8.5,10.46,Red,Glass,0,930,4.8,High performance wireless audio with noise cancellation,Beauty
+PRD-000095,Pro Wireless Headphones,PeakFit,21.93,419.37,Multi,Glass,0,1032,3,Energy efficient smart lighting for home automation,Beauty
+PRD-000096,Vitamin C Serum 30ml,GreenLeaf,8.15,655.81,Blue,Wood,1,1429,2.6,Energy efficient smart lighting for home automation,Toys
+PRD-000097,All-Weather Floor Mats,UrbanWear,6.55,595.13,Green,Plastic,0,1205,2.5,,Beauty
+PRD-000098,Data Science Handbook,PeakFit,8.21,298.04,Blue,Plastic,0,215,2.7,Energy efficient smart lighting for home automation,Electronics
+PRD-000099,Smart LED Bulb 4-Pack,AutoShield,5.07,581.33,Green,Plastic,1,2320,3.3,Energy efficient smart lighting for home automation,Sports
+PRD-000100,Vitamin C Serum 30ml,BrightHome,9.51,210.31,Blue,Glass,1,383,4.6,,Books
+PRD-000101,All-Weather Floor Mats,NovaTech,21.89,753.42,White,Metal,1,1338,2.7,Energy efficient smart lighting for home automation,Automotive
+PRD-000102,Pro Wireless Headphones,AutoShield,20.75,565.48,Black,Synthetic,0,1321,2.8,Energy efficient smart lighting for home automation,Toys
+PRD-000103,Vitamin C Serum 30ml,NovaTech,6.16,264.66,,Cotton,0,2143,2.6,,Electronics
+PRD-000104,Organic Cotton Tee,PureGlow,11.2,351.51,Green,Glass,0,2177,4.4,Comfortable everyday wear made from organic cotton,Toys
+PRD-000105,Vitamin C Serum 30ml,GreenLeaf,1.78,239.07,White,Plastic,0,387,3.9,,Clothing
+PRD-000106,Smart LED Bulb 4-Pack,GreenLeaf,5.01,336.77,Blue,Glass,0,2186,3.3,High performance wireless audio with noise cancellation,Electronics
+PRD-000107,Vitamin C Serum 30ml,GreenLeaf,23.82,489.81,Green,Glass,1,1513,4.8,High performance wireless audio with noise cancellation,Toys
+PRD-000108,Smart LED Bulb 4-Pack,PlayCraft,5.2,540.12,Red,Wood,1,1685,4.3,Energy efficient smart lighting for home automation,Electronics
+PRD-000109,All-Weather Floor Mats,UrbanWear,24.15,856.05,Multi,Plastic,0,816,3.5,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000110,Trail Running Shoes,AutoShield,21.7,674.71,Multi,Metal,1,235,2.7,Comfortable everyday wear made from organic cotton,Books
+PRD-000111,All-Weather Floor Mats,GreenLeaf,10.12,724.41,,Synthetic,0,1728,3.9,,Clothing
+PRD-000112,Data Science Handbook,PlayCraft,21.3,309.52,Blue,Glass,0,975,3.1,Energy efficient smart lighting for home automation,Books
+PRD-000113,Building Block Set 500pc,GreenLeaf,5.76,184.07,White,Synthetic,1,2483,3.2,Energy efficient smart lighting for home automation,Sports
+PRD-000114,Vitamin C Serum 30ml,GreenLeaf,22.23,797.18,Black,Metal,0,2249,3,Comfortable everyday wear made from organic cotton,Sports
+PRD-000115,Vitamin C Serum 30ml,BrightHome,10.61,62.4,Blue,Wood,1,1460,3,High performance wireless audio with noise cancellation,Clothing
+PRD-000116,Pro Wireless Headphones,PeakFit,16.87,57.69,White,Cotton,0,761,3.1,High performance wireless audio with noise cancellation,Beauty
+PRD-000117,Pro Wireless Headphones,GreenLeaf,10.85,240.11,Green,Cotton,0,1525,2.9,Energy efficient smart lighting for home automation,Electronics
+PRD-000118,Data Science Handbook,PureGlow,3.99,212.07,,Wood,1,764,3,Energy efficient smart lighting for home automation,Books
+PRD-000119,Organic Cotton Tee,UrbanWear,6.94,898.09,Red,Synthetic,0,1351,3.9,,Beauty
+PRD-000120,Smart LED Bulb 4-Pack,PlayCraft,10.97,752.45,,Plastic,0,2310,3.5,Energy efficient smart lighting for home automation,Electronics
+PRD-000121,Smart LED Bulb 4-Pack,BrightHome,16.1,184.54,Black,Wood,0,1822,3.7,,Beauty
+PRD-000122,Building Block Set 500pc,UrbanWear,19.4,171.92,Black,Cotton,1,1370,4.5,Energy efficient smart lighting for home automation,Sports
+PRD-000123,Trail Running Shoes,AutoShield,3.95,693.13,Multi,Metal,0,2304,4.1,Comfortable everyday wear made from organic cotton,Sports
+PRD-000124,Vitamin C Serum 30ml,NovaTech,11.31,669.13,Multi,Synthetic,1,1193,4,Energy efficient smart lighting for home automation,HomeGarden
+PRD-000125,Pro Wireless Headphones,NovaTech,18.23,509.52,Red,Plastic,0,2079,3,Comfortable everyday wear made from organic cotton,HomeGarden
+PRD-000126,Data Science Handbook,PeakFit,18.5,628.17,Blue,Cotton,0,1626,4.3,,Electronics
+PRD-000127,Trail Running Shoes,BrightHome,5.4,131.01,Blue,Metal,0,1875,2.8,Comfortable everyday wear made from organic cotton,Books
+PRD-000128,Trail Running Shoes,PlayCraft,5.13,134.37,,Plastic,0,669,3.6,Comfortable everyday wear made from organic cotton,Electronics
+PRD-000129,Building Block Set 500pc,BrightHome,17.63,740.43,Blue,Wood,1,2233,2.9,Comfortable everyday wear made from organic cotton,Automotive
+PRD-000130,Data Science Handbook,BrightHome,20.15,214.63,Multi,,1,179,3.9,High performance wireless audio with noise cancellation,Toys
+PRD-000131,All-Weather Floor Mats,BrightHome,3.39,882.9,Blue,Plastic,0,640,3.1,High performance wireless audio with noise cancellation,Toys
+PRD-000132,Smart LED Bulb 4-Pack,NovaTech,19.67,365.99,Red,Metal,1,2244,3.3,High performance wireless audio with noise cancellation,Clothing
+PRD-000133,Trail Running Shoes,PureGlow,7.76,89.1,Black,Synthetic,0,2450,2.8,,Toys
+PRD-000134,Organic Cotton Tee,BrightHome,16.27,496.36,Black,Wood,0,1463,3,High performance wireless audio with noise cancellation,Sports
+PRD-000135,Data Science Handbook,PureGlow,23.33,545.76,Multi,Metal,0,1694,3.5,,Automotive
+PRD-000136,Pro Wireless Headphones,GreenLeaf,16.55,313.6,Blue,Plastic,0,1218,5,Comfortable everyday wear made from organic cotton,Automotive
+PRD-000137,Data Science Handbook,UrbanWear,8.89,623.04,Green,Synthetic,1,1595,3.5,,Books
+PRD-000138,Smart LED Bulb 4-Pack,PeakFit,11.36,641.18,Multi,Glass,0,1760,3.6,Energy efficient smart lighting for home automation,HomeGarden
+PRD-000139,Data Science Handbook,PureGlow,1.62,802.15,Red,Synthetic,0,345,4,Energy efficient smart lighting for home automation,Electronics
+PRD-000140,Building Block Set 500pc,BrightHome,12.89,316.07,White,Wood,0,1558,3.8,Comfortable everyday wear made from organic cotton,Toys
+PRD-000141,All-Weather Floor Mats,UrbanWear,12.55,464.01,White,Wood,0,1286,3.8,,Clothing
+PRD-000142,Trail Running Shoes,BrightHome,4.29,36.62,,Plastic,0,912,3.9,Energy efficient smart lighting for home automation,Electronics
+PRD-000143,Trail Running Shoes,PeakFit,4.44,642.9,Multi,Wood,1,905,3.9,Comfortable everyday wear made from organic cotton,Toys
+PRD-000144,Smart LED Bulb 4-Pack,NovaTech,2.71,308.89,Blue,Synthetic,1,1539,4.7,Comfortable everyday wear made from organic cotton,Sports
+PRD-000145,Organic Cotton Tee,UrbanWear,14.48,188.05,White,Wood,0,1455,3.9,High performance wireless audio with noise cancellation,Electronics
+PRD-000146,Data Science Handbook,GreenLeaf,17.34,30.49,Green,Glass,0,663,3.5,Energy efficient smart lighting for home automation,Automotive
+PRD-000147,Data Science Handbook,NovaTech,14.06,588.16,White,Wood,1,723,4.6,,Automotive
+PRD-000148,Smart LED Bulb 4-Pack,NovaTech,15.17,550.11,Black,Metal,0,2171,2.7,,Toys
+PRD-000149,Vitamin C Serum 30ml,PlayCraft,7.21,763.94,White,Synthetic,0,622,4.8,High performance wireless audio with noise cancellation,Electronics
+PRD-000150,Vitamin C Serum 30ml,PureGlow,13.29,79.72,White,Plastic,0,768,4.9,Energy efficient smart lighting for home automation,Electronics
+PRD-000151,Pro Wireless Headphones,AutoShield,10.29,329.13,Multi,Glass,0,168,3.3,High performance wireless audio with noise cancellation,Electronics
+PRD-000152,Building Block Set 500pc,AutoShield,20.98,880.33,Multi,Cotton,1,500,3.5,High performance wireless audio with noise cancellation,Sports
+PRD-000153,All-Weather Floor Mats,PlayCraft,22.17,8.94,Green,Synthetic,0,1041,4,Comfortable everyday wear made from organic cotton,Automotive
+PRD-000154,Trail Running Shoes,NovaTech,18.16,152.81,Green,Synthetic,0,168,3.9,Energy efficient smart lighting for home automation,Electronics
+PRD-000155,Organic Cotton Tee,GreenLeaf,15.3,462.2,Red,Glass,1,1722,4.2,Comfortable everyday wear made from organic cotton,Automotive
+PRD-000156,Organic Cotton Tee,NovaTech,3.5,655.92,White,Cotton,0,2362,3,Energy efficient smart lighting for home automation,Toys
+PRD-000157,Organic Cotton Tee,GreenLeaf,20.96,386.18,Black,Plastic,0,968,4.8,Comfortable everyday wear made from organic cotton,Toys
+PRD-000158,Trail Running Shoes,PlayCraft,22.1,432.59,Green,Plastic,0,1510,4.9,,Books
+PRD-000159,Trail Running Shoes,GreenLeaf,9.79,409.98,,Glass,0,2139,2.9,High performance wireless audio with noise cancellation,HomeGarden
+PRD-000160,All-Weather Floor Mats,UrbanWear,13.58,188.34,Multi,Wood,0,644,2.6,Energy efficient smart lighting for home automation,Clothing
+PRD-000161,Trail Running Shoes,NovaTech,16.3,723.3,Black,Plastic,0,1833,3.2,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000162,Smart LED Bulb 4-Pack,UrbanWear,5.16,529.89,White,Wood,1,764,3.1,High performance wireless audio with noise cancellation,Automotive
+PRD-000163,All-Weather Floor Mats,BrightHome,19.75,5.35,Green,Glass,0,1749,3.8,Energy efficient smart lighting for home automation,Toys
+PRD-000164,Data Science Handbook,AutoShield,8.38,134.96,White,Cotton,0,683,4.8,High performance wireless audio with noise cancellation,HomeGarden
+PRD-000165,Building Block Set 500pc,PeakFit,14.43,515.11,Black,Wood,1,2427,2.6,,Toys
+PRD-000166,Pro Wireless Headphones,PureGlow,12.75,291.56,Multi,Wood,0,105,2.5,High performance wireless audio with noise cancellation,Electronics
+PRD-000167,All-Weather Floor Mats,PeakFit,16.56,238.73,Red,Glass,1,1167,3.3,High performance wireless audio with noise cancellation,HomeGarden
+PRD-000168,Data Science Handbook,PlayCraft,24.53,633.62,Multi,Wood,0,1222,3.3,High performance wireless audio with noise cancellation,Beauty
+PRD-000169,Data Science Handbook,AutoShield,9.27,305.96,White,Metal,0,1540,3.6,High performance wireless audio with noise cancellation,Sports
+PRD-000170,Organic Cotton Tee,BrightHome,11.07,304.31,Green,Glass,0,934,2.7,Energy efficient smart lighting for home automation,Beauty
+PRD-000171,Organic Cotton Tee,PureGlow,8.07,36.56,Red,Wood,0,2235,3,,Electronics
+PRD-000172,Trail Running Shoes,GreenLeaf,23.83,798.55,Green,Plastic,0,597,4.7,,Automotive
+PRD-000173,Data Science Handbook,BrightHome,7.26,21.3,Red,Metal,0,1569,4.6,High performance wireless audio with noise cancellation,Books
+PRD-000174,Building Block Set 500pc,PlayCraft,4.82,847.34,Black,Glass,0,1549,4.6,Comfortable everyday wear made from organic cotton,Books
+PRD-000175,Smart LED Bulb 4-Pack,NovaTech,20.99,616.66,Red,Glass,0,1846,3.7,Energy efficient smart lighting for home automation,Beauty
+PRD-000176,Vitamin C Serum 30ml,NovaTech,8.85,463.14,,Metal,0,1920,4.7,Energy efficient smart lighting for home automation,Books
+PRD-000177,Vitamin C Serum 30ml,NovaTech,22.56,700.77,Green,Cotton,0,1956,3.2,Energy efficient smart lighting for home automation,Toys
+PRD-000178,Smart LED Bulb 4-Pack,NovaTech,23.28,352.23,White,Metal,0,424,3.4,High performance wireless audio with noise cancellation,Clothing
+PRD-000179,Smart LED Bulb 4-Pack,PlayCraft,21.15,612.32,Green,Cotton,1,2361,4.9,,Beauty
+PRD-000180,Building Block Set 500pc,PureGlow,11.61,322.29,Blue,Plastic,1,1401,5,Comfortable everyday wear made from organic cotton,HomeGarden
+PRD-000181,Trail Running Shoes,NovaTech,11.93,759.68,,Metal,1,999,3.1,High performance wireless audio with noise cancellation,Sports
+PRD-000182,Vitamin C Serum 30ml,BrightHome,22.89,20.98,Green,Synthetic,0,2058,4.5,High performance wireless audio with noise cancellation,Beauty
+PRD-000183,Trail Running Shoes,PlayCraft,13.63,839.72,Blue,Glass,1,1218,2.9,Energy efficient smart lighting for home automation,Toys
+PRD-000184,Data Science Handbook,NovaTech,8.38,210.5,,Plastic,1,2044,3.8,High performance wireless audio with noise cancellation,Electronics
+PRD-000185,Smart LED Bulb 4-Pack,UrbanWear,19.86,362.95,Green,Metal,0,700,3.8,Comfortable everyday wear made from organic cotton,Toys
+PRD-000186,Building Block Set 500pc,UrbanWear,8.75,804.28,Black,,0,1383,2.9,Energy efficient smart lighting for home automation,Toys
+PRD-000187,Trail Running Shoes,PlayCraft,8.62,146.37,Red,Synthetic,1,1875,2.6,,Sports
+PRD-000188,Pro Wireless Headphones,NovaTech,19.54,42.77,Multi,Plastic,1,230,3.5,High performance wireless audio with noise cancellation,Books
+PRD-000189,Trail Running Shoes,PureGlow,0.67,837.49,Multi,Plastic,1,2062,4.6,Comfortable everyday wear made from organic cotton,Automotive
+PRD-000190,Data Science Handbook,PeakFit,20.17,807.65,,Wood,0,2364,4.9,Energy efficient smart lighting for home automation,Books
+PRD-000191,Data Science Handbook,BrightHome,5.37,428.43,Multi,Synthetic,0,1498,3.2,,Beauty
+PRD-000192,Smart LED Bulb 4-Pack,PeakFit,18.61,824.96,Blue,Glass,0,416,2.6,Energy efficient smart lighting for home automation,Books
+PRD-000193,All-Weather Floor Mats,PlayCraft,5.35,392.03,White,Cotton,1,1619,2.8,Energy efficient smart lighting for home automation,Sports
+PRD-000194,Organic Cotton Tee,PureGlow,18.08,574.69,Red,Plastic,0,1317,4.6,,Clothing
+PRD-000195,Pro Wireless Headphones,NovaTech,0.41,493.05,Red,,1,2262,3.2,,Electronics
+PRD-000196,Smart LED Bulb 4-Pack,UrbanWear,22.1,87.94,Green,Metal,0,2449,4.6,Energy efficient smart lighting for home automation,HomeGarden
+PRD-000197,Vitamin C Serum 30ml,PeakFit,19.83,682.12,Green,Cotton,1,2486,2.8,Comfortable everyday wear made from organic cotton,Toys
+PRD-000198,Data Science Handbook,UrbanWear,22.52,792.08,,Wood,1,834,3.3,,Automotive
+PRD-000199,Building Block Set 500pc,PeakFit,11.3,364.4,Multi,Plastic,1,646,3.9,Comfortable everyday wear made from organic cotton,Clothing
+PRD-000200,Vitamin C Serum 30ml,PureGlow,21.37,544.83,Blue,Plastic,0,2147,3.3,,Beauty
+PRD-000201,Smart LED Bulb 4-Pack,AutoShield,0.32,62,Blue,Cotton,0,1826,4.3,High performance wireless audio with noise cancellation,Clothing
+PRD-000202,Building Block Set 500pc,PureGlow,9.31,227.32,White,Plastic,0,1922,2.9,Energy efficient smart lighting for home automation,Clothing
+PRD-000203,Pro Wireless Headphones,BrightHome,24.74,169.96,Multi,Glass,1,1531,3.6,Comfortable everyday wear made from organic cotton,Books
+PRD-000204,All-Weather Floor Mats,PlayCraft,2.9,162.03,White,Glass,0,1713,3,,Automotive
+PRD-000205,Building Block Set 500pc,PureGlow,21.5,64.34,,Wood,1,2424,3.1,Comfortable everyday wear made from organic cotton,Sports
+PRD-000206,Pro Wireless Headphones,PlayCraft,21.95,247.02,Blue,Glass,0,1982,4.6,Comfortable everyday wear made from organic cotton,Sports
+PRD-000207,Building Block Set 500pc,PeakFit,16.36,521.91,Red,Metal,1,516,3.5,Comfortable everyday wear made from organic cotton,Electronics
+PRD-000208,Pro Wireless Headphones,AutoShield,11.81,772.01,Blue,Metal,0,1166,3.4,High performance wireless audio with noise cancellation,HomeGarden
+PRD-000209,All-Weather Floor Mats,NovaTech,7.07,148.42,Green,Wood,0,582,4.9,Energy efficient smart lighting for home automation,Automotive
+PRD-000210,Building Block Set 500pc,PeakFit,23.98,685.54,Blue,Cotton,0,305,2.8,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000211,Pro Wireless Headphones,GreenLeaf,16.39,751.39,Green,Synthetic,1,1453,2.7,Energy efficient smart lighting for home automation,Books
+PRD-000212,Smart LED Bulb 4-Pack,NovaTech,13.7,189.54,Red,Plastic,0,179,3.7,,Clothing
+PRD-000213,Smart LED Bulb 4-Pack,BrightHome,24.13,723.33,White,Plastic,0,2375,3.6,Comfortable everyday wear made from organic cotton,Clothing
+PRD-000214,Pro Wireless Headphones,BrightHome,11.98,127.88,Blue,Synthetic,1,2040,3.9,,Beauty
+PRD-000215,All-Weather Floor Mats,PeakFit,14.15,600.69,Multi,Synthetic,0,385,2.7,Comfortable everyday wear made from organic cotton,Electronics
+PRD-000216,All-Weather Floor Mats,NovaTech,9.44,438.36,Multi,Cotton,0,751,3.3,Comfortable everyday wear made from organic cotton,Electronics
+PRD-000217,All-Weather Floor Mats,UrbanWear,22.87,706.08,Red,Plastic,0,1280,4.1,High performance wireless audio with noise cancellation,Books
+PRD-000218,Building Block Set 500pc,UrbanWear,20.88,242.79,Multi,Cotton,1,779,4.4,High performance wireless audio with noise cancellation,Electronics
+PRD-000219,All-Weather Floor Mats,GreenLeaf,11.88,734.83,Green,Cotton,1,1279,4.2,High performance wireless audio with noise cancellation,Sports
+PRD-000220,All-Weather Floor Mats,PureGlow,2.86,263.88,White,Cotton,0,1459,3.1,,Automotive
+PRD-000221,Data Science Handbook,AutoShield,16.26,758.54,Red,Synthetic,0,166,3.4,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000222,Trail Running Shoes,PureGlow,18.21,29.06,,Synthetic,0,759,4.1,,Toys
+PRD-000223,Smart LED Bulb 4-Pack,UrbanWear,8.92,221.02,,Glass,1,1712,2.8,Energy efficient smart lighting for home automation,Automotive
+PRD-000224,Smart LED Bulb 4-Pack,GreenLeaf,24.93,737.73,Blue,Metal,0,1864,4.8,High performance wireless audio with noise cancellation,Clothing
+PRD-000225,Smart LED Bulb 4-Pack,UrbanWear,24.83,682.58,White,Cotton,0,366,3.6,Comfortable everyday wear made from organic cotton,Automotive
+PRD-000226,Data Science Handbook,UrbanWear,19.54,270.39,Red,Cotton,0,1319,3.4,High performance wireless audio with noise cancellation,Toys
+PRD-000227,Smart LED Bulb 4-Pack,AutoShield,20.85,832.82,Multi,Cotton,0,1748,4.2,High performance wireless audio with noise cancellation,Clothing
+PRD-000228,Data Science Handbook,GreenLeaf,21.86,21.61,Red,Glass,0,1946,4.9,,Toys
+PRD-000229,All-Weather Floor Mats,PeakFit,2.72,727.09,Red,Wood,1,725,4.6,High performance wireless audio with noise cancellation,Beauty
+PRD-000230,Trail Running Shoes,PlayCraft,14.54,818.88,Green,Wood,0,1769,4.4,Energy efficient smart lighting for home automation,Automotive
+PRD-000231,Building Block Set 500pc,GreenLeaf,3.14,90.37,Multi,Plastic,0,2084,4.2,Comfortable everyday wear made from organic cotton,Sports
+PRD-000232,Trail Running Shoes,AutoShield,10.18,668.11,Multi,Metal,0,959,3.2,Comfortable everyday wear made from organic cotton,Automotive
+PRD-000233,Smart LED Bulb 4-Pack,PlayCraft,1.79,394.47,,Metal,1,294,4.2,Energy efficient smart lighting for home automation,Automotive
+PRD-000234,Building Block Set 500pc,PlayCraft,8.56,686.25,Multi,Synthetic,0,1882,5,Comfortable everyday wear made from organic cotton,Toys
+PRD-000235,Vitamin C Serum 30ml,AutoShield,6.39,198.15,White,Metal,0,115,3.4,Comfortable everyday wear made from organic cotton,Clothing
+PRD-000236,Vitamin C Serum 30ml,GreenLeaf,12.89,670.01,Green,Metal,0,1193,3.7,Comfortable everyday wear made from organic cotton,Sports
+PRD-000237,Trail Running Shoes,BrightHome,17.33,48.74,Black,Metal,1,885,2.8,High performance wireless audio with noise cancellation,Clothing
+PRD-000238,Building Block Set 500pc,UrbanWear,8.56,854.93,Red,,0,1652,2.5,,Clothing
+PRD-000239,Data Science Handbook,GreenLeaf,24.79,497.32,White,Glass,0,2128,3.5,,HomeGarden
+PRD-000240,Smart LED Bulb 4-Pack,PureGlow,8.66,130.05,Multi,Synthetic,0,1816,3.9,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000241,Smart LED Bulb 4-Pack,AutoShield,2.38,354.65,Black,Cotton,1,2410,2.7,Comfortable everyday wear made from organic cotton,Automotive
+PRD-000242,Trail Running Shoes,NovaTech,16.34,584.18,Red,Synthetic,1,369,4.9,Comfortable everyday wear made from organic cotton,Electronics
+PRD-000243,Building Block Set 500pc,PlayCraft,12.75,630.17,,Plastic,0,315,4,,Electronics
+PRD-000244,Smart LED Bulb 4-Pack,AutoShield,24.09,228.66,Green,Wood,0,332,3,High performance wireless audio with noise cancellation,HomeGarden
+PRD-000245,Trail Running Shoes,AutoShield,3.94,555.78,White,Glass,0,1609,4.7,Comfortable everyday wear made from organic cotton,HomeGarden
+PRD-000246,Data Science Handbook,PeakFit,13.04,570.64,White,Glass,0,1358,3.1,Energy efficient smart lighting for home automation,Beauty
+PRD-000247,Vitamin C Serum 30ml,AutoShield,21.43,557.08,White,Synthetic,1,2282,4.3,Comfortable everyday wear made from organic cotton,HomeGarden
+PRD-000248,Organic Cotton Tee,PureGlow,14.57,636.47,Blue,Plastic,0,1271,3.6,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000249,Trail Running Shoes,UrbanWear,24.03,322.66,Blue,,0,550,4.1,,Sports
+PRD-000250,Building Block Set 500pc,UrbanWear,18.91,708.62,Red,Wood,0,645,3.6,High performance wireless audio with noise cancellation,Sports
+PRD-000251,Data Science Handbook,PureGlow,23.58,840.58,Blue,Metal,1,1236,3.8,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000252,Smart LED Bulb 4-Pack,PlayCraft,10.54,244.57,Multi,Synthetic,0,953,3.4,Energy efficient smart lighting for home automation,Sports
+PRD-000253,Trail Running Shoes,BrightHome,13.32,115.56,,Plastic,0,1660,3.7,,Electronics
+PRD-000254,Pro Wireless Headphones,PeakFit,6.03,573.67,,Wood,0,1899,2.7,Comfortable everyday wear made from organic cotton,Toys
+PRD-000255,Smart LED Bulb 4-Pack,PeakFit,16.72,305.76,,Synthetic,0,2366,4.2,,Automotive
+PRD-000256,Vitamin C Serum 30ml,GreenLeaf,5.75,284.02,Black,Glass,0,2456,4.3,,Toys
+PRD-000257,Organic Cotton Tee,GreenLeaf,2.62,878.86,Black,Wood,0,2241,4.6,Energy efficient smart lighting for home automation,Books
+PRD-000258,Organic Cotton Tee,GreenLeaf,14.74,888.74,Blue,Cotton,0,1006,4,Energy efficient smart lighting for home automation,Books
+PRD-000259,Smart LED Bulb 4-Pack,AutoShield,14.78,21.64,Green,,1,1187,3.5,High performance wireless audio with noise cancellation,Electronics
+PRD-000260,All-Weather Floor Mats,AutoShield,15.88,118.11,Multi,Cotton,1,35,4.7,Comfortable everyday wear made from organic cotton,Sports
+PRD-000261,Organic Cotton Tee,UrbanWear,10.89,301.74,,Cotton,1,534,3.9,Energy efficient smart lighting for home automation,Clothing
+PRD-000262,Vitamin C Serum 30ml,PeakFit,16.47,224.35,Black,Wood,1,1808,2.9,Comfortable everyday wear made from organic cotton,Electronics
+PRD-000263,Data Science Handbook,PeakFit,14.44,83.24,Red,Cotton,0,2192,4.1,,Sports
+PRD-000264,Trail Running Shoes,UrbanWear,17.57,607.02,Multi,Glass,0,874,2.9,,Clothing
+PRD-000265,All-Weather Floor Mats,PureGlow,10.33,742.5,Blue,Cotton,1,1330,4.8,,Books
+PRD-000266,Data Science Handbook,NovaTech,19.6,296.28,Red,Synthetic,1,1079,3,Energy efficient smart lighting for home automation,Toys
+PRD-000267,Building Block Set 500pc,UrbanWear,17.69,48.99,White,Plastic,0,2177,3.2,High performance wireless audio with noise cancellation,Beauty
+PRD-000268,Organic Cotton Tee,AutoShield,20.83,882.19,Blue,,0,1682,3.8,,Sports
+PRD-000269,Trail Running Shoes,PlayCraft,1.06,506.24,White,Metal,0,1817,3.2,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000270,Data Science Handbook,NovaTech,14.58,837.61,Green,Metal,0,135,4.3,High performance wireless audio with noise cancellation,Beauty
+PRD-000271,Data Science Handbook,PureGlow,23.87,109.36,Multi,Cotton,0,371,3.5,,Books
+PRD-000272,Smart LED Bulb 4-Pack,GreenLeaf,23.27,462.27,Green,Cotton,0,702,2.9,High performance wireless audio with noise cancellation,Toys
+PRD-000273,Data Science Handbook,NovaTech,17.05,262.12,Blue,Wood,0,1865,3.3,Energy efficient smart lighting for home automation,Toys
+PRD-000274,Vitamin C Serum 30ml,BrightHome,13,833.17,Red,Glass,1,2424,5,Comfortable everyday wear made from organic cotton,Electronics
+PRD-000275,Organic Cotton Tee,GreenLeaf,14.2,129.76,Green,Synthetic,0,810,4.5,Energy efficient smart lighting for home automation,Books
+PRD-000276,Data Science Handbook,BrightHome,3.45,801.1,White,Glass,0,1179,4.8,,Books
+PRD-000277,Trail Running Shoes,NovaTech,11.57,421.27,Red,Plastic,1,940,3.3,High performance wireless audio with noise cancellation,Toys
+PRD-000278,Data Science Handbook,PeakFit,22.21,865.98,White,Plastic,0,1164,3.8,Comfortable everyday wear made from organic cotton,Sports
+PRD-000279,Data Science Handbook,PeakFit,3.31,370.14,White,Synthetic,0,694,2.7,High performance wireless audio with noise cancellation,Automotive
+PRD-000280,Data Science Handbook,PeakFit,16.4,425.1,Black,Metal,1,1988,4.2,Comfortable everyday wear made from organic cotton,Clothing
+PRD-000281,Trail Running Shoes,NovaTech,15.28,800.02,Red,Metal,0,1704,3.4,Energy efficient smart lighting for home automation,Electronics
+PRD-000282,Data Science Handbook,PlayCraft,4.69,389.93,Black,Wood,0,1286,3.6,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000283,All-Weather Floor Mats,BrightHome,2.7,317.68,,Metal,1,1902,3.8,High performance wireless audio with noise cancellation,Beauty
+PRD-000284,All-Weather Floor Mats,BrightHome,8.35,880.43,Multi,Synthetic,0,209,3.4,Comfortable everyday wear made from organic cotton,Electronics
+PRD-000285,Organic Cotton Tee,PureGlow,8.72,676.81,Black,Wood,1,711,4.7,Comfortable everyday wear made from organic cotton,Toys
+PRD-000286,Trail Running Shoes,PureGlow,10.99,782.29,White,Plastic,0,1671,5,,Beauty
+PRD-000287,Vitamin C Serum 30ml,GreenLeaf,2.81,91.68,,Glass,0,2372,3.9,,Clothing
+PRD-000288,All-Weather Floor Mats,BrightHome,0.89,194.02,Black,Plastic,0,301,2.9,,Sports
+PRD-000289,Building Block Set 500pc,GreenLeaf,17.35,263.68,,Wood,0,327,2.8,High performance wireless audio with noise cancellation,Books
+PRD-000290,Data Science Handbook,NovaTech,7.59,622.26,,Glass,0,1460,2.6,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000291,Pro Wireless Headphones,GreenLeaf,23.36,770.33,Black,Metal,0,320,2.9,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000292,Data Science Handbook,NovaTech,12.83,147.68,Green,Wood,0,1602,3.8,High performance wireless audio with noise cancellation,Books
+PRD-000293,Building Block Set 500pc,NovaTech,1,83.65,Multi,Synthetic,1,1382,3.8,High performance wireless audio with noise cancellation,Beauty
+PRD-000294,All-Weather Floor Mats,PeakFit,18.9,374.08,Multi,Synthetic,0,532,3.8,Comfortable everyday wear made from organic cotton,Electronics
+PRD-000295,Smart LED Bulb 4-Pack,UrbanWear,23.11,189.27,Red,Metal,1,381,2.5,Energy efficient smart lighting for home automation,Toys
+PRD-000296,Smart LED Bulb 4-Pack,PlayCraft,5.64,142.83,Red,Cotton,1,2192,3.5,,Books
+PRD-000297,Data Science Handbook,NovaTech,24.12,151.66,Red,Wood,0,1024,3.1,High performance wireless audio with noise cancellation,Clothing
+PRD-000298,Building Block Set 500pc,GreenLeaf,7.13,153.38,Red,Synthetic,0,1936,3.5,High performance wireless audio with noise cancellation,Automotive
+PRD-000299,Pro Wireless Headphones,PureGlow,23.46,886.09,Multi,Cotton,0,1917,4.2,Comfortable everyday wear made from organic cotton,Automotive
+PRD-000300,Trail Running Shoes,PureGlow,4.88,429.02,Blue,Synthetic,1,1130,4.4,High performance wireless audio with noise cancellation,Electronics
+PRD-000301,All-Weather Floor Mats,PlayCraft,8.69,721.41,Green,Cotton,0,2447,4.8,Energy efficient smart lighting for home automation,Clothing
+PRD-000302,Organic Cotton Tee,PeakFit,21.62,351.16,White,Cotton,0,1176,4,High performance wireless audio with noise cancellation,Automotive
+PRD-000303,Pro Wireless Headphones,GreenLeaf,4.59,109.25,Blue,Wood,0,1248,2.6,,Automotive
+PRD-000304,Organic Cotton Tee,NovaTech,9.75,90.28,Black,Wood,1,1647,4.4,,Sports
+PRD-000305,Organic Cotton Tee,NovaTech,21.45,629.72,Multi,Synthetic,1,796,2.6,High performance wireless audio with noise cancellation,Clothing
+PRD-000306,Pro Wireless Headphones,PeakFit,6.79,635.03,Multi,Synthetic,0,2281,2.9,Energy efficient smart lighting for home automation,Sports
+PRD-000307,Organic Cotton Tee,NovaTech,6.64,417.45,Blue,Synthetic,0,2131,4.5,High performance wireless audio with noise cancellation,Sports
+PRD-000308,Vitamin C Serum 30ml,PeakFit,1.81,69.33,Green,Wood,0,304,4.3,,Clothing
+PRD-000309,Smart LED Bulb 4-Pack,GreenLeaf,3.05,334.68,White,Cotton,0,324,2.6,,Toys
+PRD-000310,Data Science Handbook,PlayCraft,9.76,558.22,Black,Plastic,0,2174,3.4,Comfortable everyday wear made from organic cotton,Sports
+PRD-000311,Smart LED Bulb 4-Pack,PlayCraft,23.97,305.25,,Cotton,0,1506,3.6,Comfortable everyday wear made from organic cotton,Electronics
+PRD-000312,Trail Running Shoes,BrightHome,6.43,572.26,Blue,Metal,0,764,2.8,,Automotive
+PRD-000313,Organic Cotton Tee,PlayCraft,0.09,304.3,Green,Glass,0,2242,3.6,,HomeGarden
+PRD-000314,Smart LED Bulb 4-Pack,GreenLeaf,2.28,443.85,,Cotton,0,381,4.7,Energy efficient smart lighting for home automation,Clothing
+PRD-000315,Pro Wireless Headphones,GreenLeaf,18.62,363.38,Multi,Synthetic,0,807,2.6,,Beauty
+PRD-000316,Organic Cotton Tee,PlayCraft,24.46,201.16,,Cotton,1,816,3,,Clothing
+PRD-000317,Trail Running Shoes,BrightHome,13.21,256.12,White,Glass,0,890,2.7,High performance wireless audio with noise cancellation,Automotive
+PRD-000318,Organic Cotton Tee,NovaTech,18.44,341.85,White,Cotton,0,1576,3.7,High performance wireless audio with noise cancellation,Books
+PRD-000319,Smart LED Bulb 4-Pack,NovaTech,15.93,705.02,Multi,Glass,0,1404,4.6,Comfortable everyday wear made from organic cotton,Books
+PRD-000320,Pro Wireless Headphones,BrightHome,15.14,554.12,Multi,Plastic,1,2338,2.7,High performance wireless audio with noise cancellation,Sports
+PRD-000321,Trail Running Shoes,GreenLeaf,10.41,155.11,,Wood,0,1670,2.5,Energy efficient smart lighting for home automation,Beauty
+PRD-000322,Organic Cotton Tee,PureGlow,9.42,440.6,Blue,Plastic,1,2263,4,Comfortable everyday wear made from organic cotton,Sports
+PRD-000323,Building Block Set 500pc,PureGlow,13.26,614.4,,Glass,1,1197,3.1,,HomeGarden
+PRD-000324,Data Science Handbook,GreenLeaf,5.08,686.24,Multi,Metal,0,553,3.2,High performance wireless audio with noise cancellation,Toys
+PRD-000325,Data Science Handbook,NovaTech,0.18,481.8,Red,Wood,0,2050,3.3,Energy efficient smart lighting for home automation,Beauty
+PRD-000326,Organic Cotton Tee,AutoShield,0.98,755.36,Black,Wood,0,1677,5,Energy efficient smart lighting for home automation,Sports
+PRD-000327,Data Science Handbook,NovaTech,13.19,663.04,,Plastic,0,642,3.2,,Automotive
+PRD-000328,Data Science Handbook,UrbanWear,15.13,465.07,Black,Cotton,0,1694,4.5,,Clothing
+PRD-000329,Building Block Set 500pc,AutoShield,7.83,740.44,Multi,Metal,0,1007,3.9,,Books
+PRD-000330,Vitamin C Serum 30ml,PeakFit,20.55,333.82,Black,Synthetic,0,2231,3.5,,Sports
+PRD-000331,Organic Cotton Tee,AutoShield,22.26,426.42,White,Metal,0,1167,2.6,Comfortable everyday wear made from organic cotton,HomeGarden
+PRD-000332,Trail Running Shoes,GreenLeaf,3.47,107.6,Red,Plastic,0,242,3.7,Comfortable everyday wear made from organic cotton,Clothing
+PRD-000333,Trail Running Shoes,GreenLeaf,13.74,146.83,Black,Cotton,0,1828,3.6,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000334,Organic Cotton Tee,UrbanWear,1.93,848.19,Multi,Plastic,0,1707,4.1,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000335,Pro Wireless Headphones,AutoShield,14.68,74.23,,,1,148,3.4,High performance wireless audio with noise cancellation,Beauty
+PRD-000336,Data Science Handbook,PeakFit,5.67,298.48,Red,Metal,0,1384,4.1,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000337,Trail Running Shoes,UrbanWear,8.43,176.76,Multi,Wood,0,2465,4.9,Energy efficient smart lighting for home automation,Clothing
+PRD-000338,Trail Running Shoes,PeakFit,23.14,693.14,,Glass,1,2370,4.4,High performance wireless audio with noise cancellation,Books
+PRD-000339,All-Weather Floor Mats,AutoShield,12.86,753.69,Blue,Cotton,0,2439,4.3,Comfortable everyday wear made from organic cotton,Automotive
+PRD-000340,Vitamin C Serum 30ml,NovaTech,5.73,329.41,Multi,Plastic,0,1254,4.1,,Beauty
+PRD-000341,Smart LED Bulb 4-Pack,NovaTech,16.46,569.81,White,Cotton,1,2148,4.3,,Books
+PRD-000342,Vitamin C Serum 30ml,PureGlow,22.7,477.45,,Wood,0,1050,3.9,High performance wireless audio with noise cancellation,Automotive
+PRD-000343,Vitamin C Serum 30ml,PlayCraft,17.45,532.1,Multi,Glass,0,103,4.6,Energy efficient smart lighting for home automation,Books
+PRD-000344,Building Block Set 500pc,UrbanWear,7.2,489.18,Multi,Plastic,1,190,3.3,Comfortable everyday wear made from organic cotton,Books
+PRD-000345,Vitamin C Serum 30ml,UrbanWear,8.58,681.66,Multi,Wood,1,723,2.5,Energy efficient smart lighting for home automation,Toys
+PRD-000346,Organic Cotton Tee,PlayCraft,3.34,492.67,Green,,1,218,3.4,,Sports
+PRD-000347,Pro Wireless Headphones,PureGlow,19.78,379.88,White,Metal,1,1951,5,High performance wireless audio with noise cancellation,Electronics
+PRD-000348,All-Weather Floor Mats,PureGlow,6.32,265.48,White,Metal,0,551,3.9,Comfortable everyday wear made from organic cotton,Electronics
+PRD-000349,Trail Running Shoes,PeakFit,20.13,79.6,,Synthetic,0,1860,2.6,Energy efficient smart lighting for home automation,Clothing
+PRD-000350,Trail Running Shoes,BrightHome,10.65,228.3,White,Metal,0,332,3.3,Energy efficient smart lighting for home automation,Books
+PRD-000351,Organic Cotton Tee,PlayCraft,21.51,45.73,Green,Wood,1,2167,3.3,High performance wireless audio with noise cancellation,Sports
+PRD-000352,Vitamin C Serum 30ml,PlayCraft,18.69,819.9,Blue,Glass,1,307,5,,HomeGarden
+PRD-000353,Vitamin C Serum 30ml,UrbanWear,4.67,744.72,Red,Cotton,1,331,3.5,Energy efficient smart lighting for home automation,Electronics
+PRD-000354,All-Weather Floor Mats,PureGlow,15.19,485.69,Multi,Cotton,0,2421,3.9,Comfortable everyday wear made from organic cotton,Automotive
+PRD-000355,Trail Running Shoes,BrightHome,16.3,329.13,White,Plastic,0,888,3.2,Energy efficient smart lighting for home automation,Automotive
+PRD-000356,Smart LED Bulb 4-Pack,PeakFit,10.8,466.83,Multi,Wood,1,1802,4.6,Energy efficient smart lighting for home automation,HomeGarden
+PRD-000357,Organic Cotton Tee,GreenLeaf,4.57,46.36,Black,Plastic,0,1831,4.3,Energy efficient smart lighting for home automation,Clothing
+PRD-000358,Vitamin C Serum 30ml,UrbanWear,1.67,479.47,Blue,Wood,0,1380,3.6,Comfortable everyday wear made from organic cotton,Electronics
+PRD-000359,Pro Wireless Headphones,PlayCraft,12.85,672.52,Black,Cotton,0,2494,4.3,Comfortable everyday wear made from organic cotton,HomeGarden
+PRD-000360,Data Science Handbook,UrbanWear,4.38,706.16,Red,Synthetic,0,1145,3.4,,Beauty
+PRD-000361,Organic Cotton Tee,GreenLeaf,22.2,339.93,,,0,509,4.6,High performance wireless audio with noise cancellation,Beauty
+PRD-000362,Pro Wireless Headphones,PureGlow,13.18,663.93,Multi,Cotton,0,886,2.7,Comfortable everyday wear made from organic cotton,Sports
+PRD-000363,Smart LED Bulb 4-Pack,NovaTech,9.91,853.37,Multi,Cotton,0,2008,3.8,Comfortable everyday wear made from organic cotton,Automotive
+PRD-000364,Trail Running Shoes,AutoShield,0.2,474.1,Green,Cotton,0,2394,3.8,Comfortable everyday wear made from organic cotton,Clothing
+PRD-000365,Pro Wireless Headphones,AutoShield,23.98,32.72,Blue,Glass,0,895,2.7,High performance wireless audio with noise cancellation,Electronics
+PRD-000366,Trail Running Shoes,PureGlow,13.03,733.21,Green,Cotton,1,571,4.6,,Clothing
+PRD-000367,All-Weather Floor Mats,PureGlow,10.45,37.67,Blue,Cotton,1,694,4.7,High performance wireless audio with noise cancellation,Toys
+PRD-000368,Organic Cotton Tee,UrbanWear,14.43,755.8,,Wood,0,1398,3.5,Energy efficient smart lighting for home automation,Toys
+PRD-000369,All-Weather Floor Mats,UrbanWear,7.53,152.94,Black,Cotton,1,1128,4.1,High performance wireless audio with noise cancellation,Toys
+PRD-000370,Trail Running Shoes,PeakFit,18.34,501.49,,Wood,0,400,4.1,Comfortable everyday wear made from organic cotton,Toys
+PRD-000371,Vitamin C Serum 30ml,GreenLeaf,12.19,647.14,Green,Plastic,0,1701,4.6,Energy efficient smart lighting for home automation,Books
+PRD-000372,Smart LED Bulb 4-Pack,NovaTech,7.2,619.13,Green,Metal,0,499,4.4,,Automotive
+PRD-000373,Building Block Set 500pc,BrightHome,12.09,841.07,,Wood,1,61,3.9,High performance wireless audio with noise cancellation,Automotive
+PRD-000374,Vitamin C Serum 30ml,BrightHome,22.77,214.87,Multi,Metal,0,991,4.2,,Books
+PRD-000375,Vitamin C Serum 30ml,PlayCraft,8.14,82.62,Green,Glass,1,203,3.8,High performance wireless audio with noise cancellation,Toys
+PRD-000376,Data Science Handbook,GreenLeaf,23.19,185.35,Red,Glass,1,1717,2.9,High performance wireless audio with noise cancellation,Beauty
+PRD-000377,Vitamin C Serum 30ml,NovaTech,18.02,163.64,White,Glass,1,2440,2.7,High performance wireless audio with noise cancellation,Beauty
+PRD-000378,Smart LED Bulb 4-Pack,NovaTech,19.75,888.16,Red,Glass,1,1052,2.7,High performance wireless audio with noise cancellation,Clothing
+PRD-000379,Organic Cotton Tee,PureGlow,23.56,256,Red,,1,2492,2.8,Comfortable everyday wear made from organic cotton,Books
+PRD-000380,All-Weather Floor Mats,NovaTech,13.64,858.78,Blue,Glass,0,1417,3.4,,Books
+PRD-000381,Data Science Handbook,PeakFit,3.19,619.53,Multi,Glass,0,1525,4.7,Comfortable everyday wear made from organic cotton,Automotive
+PRD-000382,Organic Cotton Tee,PureGlow,24.15,344.25,Black,Metal,0,3,3.6,Comfortable everyday wear made from organic cotton,Books
+PRD-000383,Building Block Set 500pc,GreenLeaf,1.15,298.26,Black,Synthetic,0,923,2.6,High performance wireless audio with noise cancellation,Books
+PRD-000384,Pro Wireless Headphones,UrbanWear,23.34,647.47,,Metal,0,1427,3.1,High performance wireless audio with noise cancellation,Automotive
+PRD-000385,Vitamin C Serum 30ml,PeakFit,9.9,295.84,Red,Cotton,1,668,3,Comfortable everyday wear made from organic cotton,Sports
+PRD-000386,Organic Cotton Tee,UrbanWear,1.71,138.66,Multi,Synthetic,0,1601,4.8,High performance wireless audio with noise cancellation,Sports
+PRD-000387,Organic Cotton Tee,BrightHome,16.02,619.02,,Glass,0,644,3.5,Energy efficient smart lighting for home automation,Books
+PRD-000388,Building Block Set 500pc,NovaTech,10.78,576.3,White,Glass,1,539,2.7,,Beauty
+PRD-000389,Smart LED Bulb 4-Pack,PlayCraft,12.27,334.03,Green,Cotton,0,882,3.7,Energy efficient smart lighting for home automation,Toys
+PRD-000390,Smart LED Bulb 4-Pack,PureGlow,0.89,252.71,Blue,Cotton,0,1561,4.2,High performance wireless audio with noise cancellation,Beauty
+PRD-000391,Pro Wireless Headphones,PureGlow,13.57,553.72,Green,Wood,1,348,4.1,,Automotive
+PRD-000392,All-Weather Floor Mats,NovaTech,11.55,466.65,Multi,Glass,0,785,3.7,Energy efficient smart lighting for home automation,Clothing
+PRD-000393,Vitamin C Serum 30ml,BrightHome,19.85,434.74,Red,Metal,0,1946,4.9,Comfortable everyday wear made from organic cotton,Toys
+PRD-000394,Building Block Set 500pc,AutoShield,24.76,657.43,Green,Plastic,0,997,4.3,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000395,Trail Running Shoes,NovaTech,20.79,546.77,Blue,Glass,1,1882,3.5,High performance wireless audio with noise cancellation,Toys
+PRD-000396,Vitamin C Serum 30ml,PeakFit,21.13,298.03,White,Wood,1,120,4.6,High performance wireless audio with noise cancellation,Clothing
+PRD-000397,Building Block Set 500pc,UrbanWear,9.47,606.43,Black,Plastic,0,369,4.1,Energy efficient smart lighting for home automation,Automotive
+PRD-000398,Smart LED Bulb 4-Pack,AutoShield,19.63,138.69,Blue,,1,1906,3.5,Comfortable everyday wear made from organic cotton,Clothing
+PRD-000399,Building Block Set 500pc,BrightHome,23.49,259.74,,Plastic,0,2424,4.2,High performance wireless audio with noise cancellation,Clothing
+PRD-000400,All-Weather Floor Mats,PeakFit,9.56,227.1,Green,Synthetic,0,235,3.3,Energy efficient smart lighting for home automation,Toys
+PRD-000401,All-Weather Floor Mats,GreenLeaf,0.59,443.75,White,Glass,0,25,2.5,Energy efficient smart lighting for home automation,Sports
+PRD-000402,Trail Running Shoes,BrightHome,11.49,25.83,Red,Cotton,1,526,3.4,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000403,Pro Wireless Headphones,NovaTech,24.68,496.61,Red,Plastic,0,566,3.1,Energy efficient smart lighting for home automation,Beauty
+PRD-000404,Organic Cotton Tee,NovaTech,11.39,481.9,Black,Plastic,1,2274,3.6,High performance wireless audio with noise cancellation,Clothing
+PRD-000405,Building Block Set 500pc,PlayCraft,13.35,573.49,Blue,Plastic,1,2245,4.8,Energy efficient smart lighting for home automation,Automotive
+PRD-000406,Organic Cotton Tee,AutoShield,0.65,399.65,Blue,Metal,1,2430,4.9,,Automotive
+PRD-000407,Trail Running Shoes,UrbanWear,15.55,682.03,,,0,1254,4.3,Comfortable everyday wear made from organic cotton,Sports
+PRD-000408,Organic Cotton Tee,PlayCraft,23.71,770.68,Green,Plastic,0,1556,4.8,Comfortable everyday wear made from organic cotton,Sports
+PRD-000409,Pro Wireless Headphones,BrightHome,1.36,391.13,Green,Synthetic,0,677,3.7,Energy efficient smart lighting for home automation,Clothing
+PRD-000410,Data Science Handbook,AutoShield,23.3,545.95,Black,Plastic,0,2071,3.1,Comfortable everyday wear made from organic cotton,Automotive
+PRD-000411,Data Science Handbook,UrbanWear,22.79,162.42,Blue,Synthetic,0,1362,3.6,,Electronics
+PRD-000412,Data Science Handbook,AutoShield,3.13,476.17,Blue,Wood,1,1748,4.3,,HomeGarden
+PRD-000413,Building Block Set 500pc,UrbanWear,23.68,196.33,Blue,Glass,0,1523,4.9,Energy efficient smart lighting for home automation,Beauty
+PRD-000414,Building Block Set 500pc,BrightHome,0.54,16.41,Green,Synthetic,1,298,4.4,,Books
+PRD-000415,Building Block Set 500pc,GreenLeaf,11.23,32.76,Red,Wood,1,1560,4.3,Comfortable everyday wear made from organic cotton,HomeGarden
+PRD-000416,Vitamin C Serum 30ml,GreenLeaf,8.9,699.81,Multi,Cotton,0,6,2.6,,Beauty
+PRD-000417,All-Weather Floor Mats,UrbanWear,15.4,799.96,Black,Plastic,0,2072,3.8,High performance wireless audio with noise cancellation,Sports
+PRD-000418,Vitamin C Serum 30ml,UrbanWear,9.97,84.26,Multi,Synthetic,0,1803,3.5,,Beauty
+PRD-000419,Trail Running Shoes,GreenLeaf,7.32,74.77,Green,Glass,0,704,3.2,Energy efficient smart lighting for home automation,HomeGarden
+PRD-000420,Data Science Handbook,GreenLeaf,6.58,349.49,Black,Plastic,0,130,3.4,Comfortable everyday wear made from organic cotton,Books
+PRD-000421,All-Weather Floor Mats,PlayCraft,1.99,807.24,Red,Wood,0,1023,3.1,Comfortable everyday wear made from organic cotton,Books
+PRD-000422,All-Weather Floor Mats,PureGlow,7.39,150.24,,Wood,0,1610,2.7,High performance wireless audio with noise cancellation,Beauty
+PRD-000423,Organic Cotton Tee,AutoShield,21.54,623.57,Multi,Glass,1,861,2.5,High performance wireless audio with noise cancellation,Automotive
+PRD-000424,Vitamin C Serum 30ml,AutoShield,15.52,688.45,White,,0,1660,4.1,High performance wireless audio with noise cancellation,Toys
+PRD-000425,All-Weather Floor Mats,UrbanWear,11.84,404.45,Green,Cotton,0,2463,3,Energy efficient smart lighting for home automation,Electronics
+PRD-000426,All-Weather Floor Mats,PlayCraft,14.75,342.72,,Synthetic,0,900,2.8,Energy efficient smart lighting for home automation,Books
+PRD-000427,Pro Wireless Headphones,PureGlow,11.38,175.93,White,Cotton,0,1977,3.4,,Electronics
+PRD-000428,Smart LED Bulb 4-Pack,GreenLeaf,10.85,789.09,Multi,Wood,0,1626,3.6,Energy efficient smart lighting for home automation,Clothing
+PRD-000429,Smart LED Bulb 4-Pack,BrightHome,1.22,861,White,Glass,0,846,3.2,,Automotive
+PRD-000430,Building Block Set 500pc,PlayCraft,15.67,133.1,Green,Synthetic,0,302,3,High performance wireless audio with noise cancellation,Automotive
+PRD-000431,Building Block Set 500pc,BrightHome,5.52,544.06,White,Synthetic,0,1685,3.9,,Toys
+PRD-000432,Building Block Set 500pc,BrightHome,22.94,347.66,Black,Cotton,0,573,3.9,High performance wireless audio with noise cancellation,Beauty
+PRD-000433,Trail Running Shoes,GreenLeaf,6.68,631.97,Red,Synthetic,0,1045,3.4,Energy efficient smart lighting for home automation,Electronics
+PRD-000434,All-Weather Floor Mats,UrbanWear,13.86,562.98,White,Glass,0,1656,2.5,High performance wireless audio with noise cancellation,Beauty
+PRD-000435,Building Block Set 500pc,AutoShield,21.67,84.53,Blue,Cotton,0,2060,4.6,Energy efficient smart lighting for home automation,Sports
+PRD-000436,Pro Wireless Headphones,PeakFit,5.3,656.14,Black,Wood,0,149,3.6,Comfortable everyday wear made from organic cotton,Books
+PRD-000437,Vitamin C Serum 30ml,PureGlow,17.88,648.42,Black,Wood,0,1589,3.5,,Sports
+PRD-000438,Data Science Handbook,PureGlow,18.04,474.28,Green,Metal,0,1336,2.9,Energy efficient smart lighting for home automation,HomeGarden
+PRD-000439,Vitamin C Serum 30ml,AutoShield,12.27,215.26,Blue,Wood,0,1038,3,High performance wireless audio with noise cancellation,HomeGarden
+PRD-000440,Building Block Set 500pc,BrightHome,3.7,24.66,Red,Wood,1,111,3.1,High performance wireless audio with noise cancellation,Electronics
+PRD-000441,Smart LED Bulb 4-Pack,PureGlow,10.06,626.5,Black,,0,531,4,,Toys
+PRD-000442,Data Science Handbook,GreenLeaf,17.91,435.87,,Wood,0,1768,5,,HomeGarden
+PRD-000443,Pro Wireless Headphones,PeakFit,15.52,385.7,White,Metal,1,986,4.9,Energy efficient smart lighting for home automation,Electronics
+PRD-000444,Building Block Set 500pc,BrightHome,21.75,45.09,Blue,Plastic,0,2274,2.6,High performance wireless audio with noise cancellation,Books
+PRD-000445,Vitamin C Serum 30ml,BrightHome,2.39,333.34,Red,Wood,0,252,4.5,Energy efficient smart lighting for home automation,Beauty
+PRD-000446,Smart LED Bulb 4-Pack,AutoShield,14.2,316.57,Black,Cotton,0,974,2.7,Energy efficient smart lighting for home automation,Electronics
+PRD-000447,Organic Cotton Tee,PlayCraft,10.33,47.71,Blue,Synthetic,0,1436,3.6,High performance wireless audio with noise cancellation,HomeGarden
+PRD-000448,Smart LED Bulb 4-Pack,PeakFit,21.43,634.42,White,Cotton,1,2177,4.7,Energy efficient smart lighting for home automation,Clothing
+PRD-000449,Vitamin C Serum 30ml,PureGlow,22.43,792.42,White,Synthetic,0,1782,3.5,Comfortable everyday wear made from organic cotton,Toys
+PRD-000450,All-Weather Floor Mats,PureGlow,14.62,240.4,White,Glass,1,1772,3.9,Energy efficient smart lighting for home automation,Electronics
+PRD-000451,Trail Running Shoes,PlayCraft,18.58,864.1,Blue,Cotton,1,1018,3.4,High performance wireless audio with noise cancellation,Toys
+PRD-000452,Smart LED Bulb 4-Pack,AutoShield,24.16,797.02,Multi,Glass,0,132,3.6,Comfortable everyday wear made from organic cotton,Books
+PRD-000453,Vitamin C Serum 30ml,GreenLeaf,5.06,764.6,Blue,Cotton,0,738,2.9,High performance wireless audio with noise cancellation,Toys
+PRD-000454,All-Weather Floor Mats,AutoShield,6.74,316.98,Red,Cotton,0,364,4.4,,Sports
+PRD-000455,Pro Wireless Headphones,NovaTech,5.11,333.89,Blue,,0,1996,2.7,Comfortable everyday wear made from organic cotton,Books
+PRD-000456,Trail Running Shoes,UrbanWear,21.53,352.35,Multi,,0,214,3.3,,Electronics
+PRD-000457,Building Block Set 500pc,PlayCraft,8.77,479.67,Red,Metal,1,1795,3.6,,Automotive
+PRD-000458,Vitamin C Serum 30ml,NovaTech,20.62,59.02,Blue,Synthetic,0,2464,2.8,Energy efficient smart lighting for home automation,Beauty
+PRD-000459,Pro Wireless Headphones,AutoShield,23.07,547.89,Multi,Synthetic,1,1334,3.2,Energy efficient smart lighting for home automation,HomeGarden
+PRD-000460,Data Science Handbook,NovaTech,14.22,64.26,,Metal,0,1251,3.9,Energy efficient smart lighting for home automation,Toys
+PRD-000461,Building Block Set 500pc,PureGlow,3.04,209.63,,Wood,0,1749,3.6,Energy efficient smart lighting for home automation,Automotive
+PRD-000462,Trail Running Shoes,GreenLeaf,24.65,303.91,Red,Plastic,0,1303,3.4,,Sports
+PRD-000463,Vitamin C Serum 30ml,BrightHome,9.39,770.1,Blue,Glass,1,1622,4,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000464,Data Science Handbook,PlayCraft,11.99,82.83,Red,Glass,0,1527,4.3,Energy efficient smart lighting for home automation,Clothing
+PRD-000465,All-Weather Floor Mats,GreenLeaf,9.68,457.77,Multi,Glass,0,1093,4.6,,Electronics
+PRD-000466,Data Science Handbook,GreenLeaf,4.19,782.64,Green,Wood,0,2104,3.8,Comfortable everyday wear made from organic cotton,Clothing
+PRD-000467,Trail Running Shoes,PureGlow,0.77,588.74,Red,Wood,0,841,4.8,High performance wireless audio with noise cancellation,Clothing
+PRD-000468,Vitamin C Serum 30ml,BrightHome,1.71,148.81,White,Plastic,0,1136,4.5,,Clothing
+PRD-000469,Vitamin C Serum 30ml,PlayCraft,12.14,113.23,Blue,Glass,0,1737,4.4,Comfortable everyday wear made from organic cotton,HomeGarden
+PRD-000470,Vitamin C Serum 30ml,PeakFit,14.82,60,Green,Cotton,0,903,4.4,,Toys
+PRD-000471,Smart LED Bulb 4-Pack,GreenLeaf,7.14,864.91,,Cotton,0,1549,2.7,Energy efficient smart lighting for home automation,Sports
+PRD-000472,Pro Wireless Headphones,BrightHome,12.4,806.75,Blue,,1,623,4.6,Comfortable everyday wear made from organic cotton,Books
+PRD-000473,Vitamin C Serum 30ml,NovaTech,20.21,43.72,Red,Synthetic,0,2272,3.6,Energy efficient smart lighting for home automation,Toys
+PRD-000474,Organic Cotton Tee,PlayCraft,24.96,686.3,Multi,Cotton,0,859,4.9,Energy efficient smart lighting for home automation,Books
+PRD-000475,Building Block Set 500pc,AutoShield,15.79,732.22,Blue,Cotton,0,1417,5,High performance wireless audio with noise cancellation,HomeGarden
+PRD-000476,Smart LED Bulb 4-Pack,UrbanWear,23.89,276.65,Green,Glass,1,1663,3.7,Energy efficient smart lighting for home automation,Sports
+PRD-000477,Data Science Handbook,PeakFit,9.06,329.61,White,Glass,0,1136,4.6,High performance wireless audio with noise cancellation,Toys
+PRD-000478,Building Block Set 500pc,AutoShield,16.35,329.41,Black,Metal,1,793,3.1,,HomeGarden
+PRD-000479,Vitamin C Serum 30ml,GreenLeaf,1.53,150.71,Multi,Metal,0,2398,2.9,High performance wireless audio with noise cancellation,HomeGarden
+PRD-000480,Smart LED Bulb 4-Pack,UrbanWear,0.7,317.55,Green,Metal,0,2127,2.6,Comfortable everyday wear made from organic cotton,Sports
+PRD-000481,Organic Cotton Tee,PlayCraft,14.66,341.04,Red,Plastic,1,119,3.2,,HomeGarden
+PRD-000482,Pro Wireless Headphones,UrbanWear,18.44,816.21,,Glass,1,1523,5,High performance wireless audio with noise cancellation,Toys
+PRD-000483,Smart LED Bulb 4-Pack,GreenLeaf,12.07,369.16,Black,Metal,0,361,3.3,High performance wireless audio with noise cancellation,Toys
+PRD-000484,Building Block Set 500pc,GreenLeaf,19.95,295.65,Red,Wood,1,305,2.8,Comfortable everyday wear made from organic cotton,Toys
+PRD-000485,All-Weather Floor Mats,PeakFit,22,186.88,,Plastic,1,2241,4.4,Comfortable everyday wear made from organic cotton,Electronics
+PRD-000486,Data Science Handbook,BrightHome,6.83,119.99,White,Cotton,1,114,3.9,High performance wireless audio with noise cancellation,Automotive
+PRD-000487,Organic Cotton Tee,PlayCraft,12.27,416.37,Blue,Metal,1,123,3.7,High performance wireless audio with noise cancellation,Electronics
+PRD-000488,Organic Cotton Tee,AutoShield,13.24,246.59,Blue,,1,495,2.8,Energy efficient smart lighting for home automation,Books
+PRD-000489,Smart LED Bulb 4-Pack,PeakFit,23.13,468.23,Blue,Metal,1,169,3.3,Energy efficient smart lighting for home automation,Electronics
+PRD-000490,Smart LED Bulb 4-Pack,AutoShield,19.4,486.96,Blue,Metal,0,606,4.4,Comfortable everyday wear made from organic cotton,HomeGarden
+PRD-000491,Building Block Set 500pc,PureGlow,11.29,72.89,White,Metal,1,172,4.1,High performance wireless audio with noise cancellation,Electronics
+PRD-000492,Pro Wireless Headphones,GreenLeaf,1.69,319.97,Green,Cotton,0,1177,4.9,Energy efficient smart lighting for home automation,Sports
+PRD-000493,All-Weather Floor Mats,AutoShield,22.6,447.71,,Synthetic,0,1792,2.9,,Sports
+PRD-000494,Vitamin C Serum 30ml,PureGlow,5.79,660.34,Green,Plastic,1,1727,3.4,Comfortable everyday wear made from organic cotton,Automotive
+PRD-000495,Vitamin C Serum 30ml,PlayCraft,4.64,684.46,Green,Plastic,1,2131,4.9,,Automotive
+PRD-000496,All-Weather Floor Mats,BrightHome,18.14,115.28,Multi,,0,904,4.9,High performance wireless audio with noise cancellation,Beauty
+PRD-000497,Data Science Handbook,PureGlow,2.27,611.86,Red,Metal,1,1417,4.7,Energy efficient smart lighting for home automation,Clothing
+PRD-000498,Organic Cotton Tee,BrightHome,13.06,426.96,,,0,1257,2.9,Comfortable everyday wear made from organic cotton,Clothing
+PRD-000499,Pro Wireless Headphones,NovaTech,6.38,836.98,Red,Wood,1,1666,4.5,,Clothing
+PRD-000500,Data Science Handbook,GreenLeaf,17.78,187.68,Green,Metal,0,2282,4.4,High performance wireless audio with noise cancellation,Books
+PRD-000501,Organic Cotton Tee,NovaTech,14.97,10.69,Red,,1,427,4.4,High performance wireless audio with noise cancellation,Toys
+PRD-000502,Vitamin C Serum 30ml,GreenLeaf,8.44,398.69,Green,Cotton,0,1422,4,Energy efficient smart lighting for home automation,Beauty
+PRD-000503,Building Block Set 500pc,PureGlow,15.13,230.5,Green,Plastic,0,770,3.4,Energy efficient smart lighting for home automation,Electronics
+PRD-000504,Building Block Set 500pc,AutoShield,21.99,532.94,Red,Wood,0,814,3.9,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000505,All-Weather Floor Mats,PureGlow,9.76,595.91,Black,Metal,1,1678,3.7,High performance wireless audio with noise cancellation,Electronics
+PRD-000506,Building Block Set 500pc,NovaTech,23.36,91.46,Blue,Synthetic,0,1806,3.5,,Sports
+PRD-000507,Smart LED Bulb 4-Pack,AutoShield,20.15,449.8,Black,,1,1250,2.9,Energy efficient smart lighting for home automation,Automotive
+PRD-000508,Trail Running Shoes,AutoShield,21.5,728.44,Red,Cotton,1,92,3.3,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000509,Vitamin C Serum 30ml,PureGlow,14.16,334.06,Black,,0,1104,2.9,Comfortable everyday wear made from organic cotton,Sports
+PRD-000510,All-Weather Floor Mats,PlayCraft,8.69,182.3,Blue,Glass,1,1972,3.9,High performance wireless audio with noise cancellation,Electronics
+PRD-000511,Vitamin C Serum 30ml,UrbanWear,20.39,219.68,Red,Cotton,0,1597,3.1,Energy efficient smart lighting for home automation,Books
+PRD-000512,Data Science Handbook,AutoShield,21.53,31.79,Black,Wood,0,2147,3.7,Energy efficient smart lighting for home automation,HomeGarden
+PRD-000513,Vitamin C Serum 30ml,PureGlow,24.19,843.74,Blue,,0,354,5,,Clothing
+PRD-000514,Vitamin C Serum 30ml,BrightHome,2.77,888.9,Green,Wood,1,1905,3.5,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000515,Organic Cotton Tee,AutoShield,10.11,407.5,Multi,Glass,0,399,4,High performance wireless audio with noise cancellation,Clothing
+PRD-000516,Trail Running Shoes,BrightHome,10.35,803.43,Green,Wood,0,2232,3.1,Energy efficient smart lighting for home automation,Electronics
+PRD-000517,Vitamin C Serum 30ml,NovaTech,21.33,85.36,,Glass,1,671,4.4,Comfortable everyday wear made from organic cotton,Books
+PRD-000518,Trail Running Shoes,BrightHome,23.12,78.45,Multi,Synthetic,1,477,3.4,Comfortable everyday wear made from organic cotton,Toys
+PRD-000519,Building Block Set 500pc,BrightHome,0.63,583,Multi,Synthetic,0,1990,3.1,,Sports
+PRD-000520,Trail Running Shoes,PeakFit,4.76,486.1,Red,Glass,1,2394,4.2,Energy efficient smart lighting for home automation,HomeGarden
+PRD-000521,Pro Wireless Headphones,NovaTech,11.27,510.53,Black,Plastic,0,1877,4.3,Energy efficient smart lighting for home automation,Clothing
+PRD-000522,All-Weather Floor Mats,BrightHome,13.45,843.3,Blue,Cotton,0,2475,4.2,,Automotive
+PRD-000523,Organic Cotton Tee,GreenLeaf,20.56,28.55,Black,Synthetic,1,1241,4.2,Energy efficient smart lighting for home automation,Beauty
+PRD-000524,Smart LED Bulb 4-Pack,PeakFit,20.96,47.94,,Wood,0,1675,4.6,Comfortable everyday wear made from organic cotton,Books
+PRD-000525,Smart LED Bulb 4-Pack,BrightHome,0.64,717,Multi,Synthetic,1,2419,4.5,High performance wireless audio with noise cancellation,Clothing
+PRD-000526,Pro Wireless Headphones,NovaTech,3.15,360.21,Black,Glass,1,150,4.4,High performance wireless audio with noise cancellation,Electronics
+PRD-000527,Pro Wireless Headphones,BrightHome,21.91,560.94,Blue,Cotton,0,269,4.2,High performance wireless audio with noise cancellation,Automotive
+PRD-000528,Trail Running Shoes,GreenLeaf,20.44,381.32,Red,Cotton,1,1088,5,,Automotive
+PRD-000529,Organic Cotton Tee,NovaTech,10.11,136.95,Black,Plastic,0,1217,4.5,,HomeGarden
+PRD-000530,Building Block Set 500pc,NovaTech,10.88,379.28,,Synthetic,0,2075,4.7,Energy efficient smart lighting for home automation,Automotive
+PRD-000531,Building Block Set 500pc,PureGlow,13.87,147.38,Red,Glass,0,81,4.5,Energy efficient smart lighting for home automation,Books
+PRD-000532,Building Block Set 500pc,PureGlow,1.8,213.89,Blue,Metal,0,567,4.2,Comfortable everyday wear made from organic cotton,Toys
+PRD-000533,Data Science Handbook,PeakFit,11.45,583.58,Green,Wood,1,1984,4.9,Comfortable everyday wear made from organic cotton,Clothing
+PRD-000534,Trail Running Shoes,GreenLeaf,17.03,767.18,Black,Plastic,0,1649,4.9,,Clothing
+PRD-000535,Organic Cotton Tee,UrbanWear,12.05,32.18,Blue,Glass,1,827,4.4,Energy efficient smart lighting for home automation,Books
+PRD-000536,Pro Wireless Headphones,NovaTech,14.09,246.87,White,Synthetic,0,918,3.5,Comfortable everyday wear made from organic cotton,HomeGarden
+PRD-000537,Organic Cotton Tee,BrightHome,20.25,669.18,Red,Metal,1,1342,5,High performance wireless audio with noise cancellation,Automotive
+PRD-000538,Building Block Set 500pc,PeakFit,9.35,450.9,,Wood,0,1345,3.3,Comfortable everyday wear made from organic cotton,HomeGarden
+PRD-000539,Trail Running Shoes,NovaTech,6.13,676.43,Black,Cotton,1,1801,4.4,High performance wireless audio with noise cancellation,HomeGarden
+PRD-000540,Smart LED Bulb 4-Pack,PureGlow,16.54,358.23,Red,Wood,0,2419,3.7,Energy efficient smart lighting for home automation,Electronics
+PRD-000541,Data Science Handbook,UrbanWear,7.62,480.56,White,Wood,1,2492,2.7,Comfortable everyday wear made from organic cotton,Toys
+PRD-000542,All-Weather Floor Mats,BrightHome,9.82,873.19,Multi,Plastic,0,1184,4.3,Energy efficient smart lighting for home automation,Toys
+PRD-000543,Trail Running Shoes,PureGlow,15.64,330.31,,Metal,1,1860,4.3,Energy efficient smart lighting for home automation,Beauty
+PRD-000544,Pro Wireless Headphones,GreenLeaf,21.52,820.45,Red,Cotton,0,216,3.4,,Automotive
+PRD-000545,Trail Running Shoes,BrightHome,4.22,96.85,Red,,0,2098,4.7,High performance wireless audio with noise cancellation,Beauty
+PRD-000546,Pro Wireless Headphones,AutoShield,18.71,648.59,White,Cotton,1,1227,2.8,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000547,All-Weather Floor Mats,AutoShield,5.1,195.83,Multi,Wood,1,1617,2.5,,Clothing
+PRD-000548,Pro Wireless Headphones,PureGlow,17.23,134.12,Green,Plastic,1,320,3.7,Energy efficient smart lighting for home automation,Sports
+PRD-000549,Data Science Handbook,GreenLeaf,7.68,274.01,White,Glass,1,2224,3.5,Comfortable everyday wear made from organic cotton,HomeGarden
+PRD-000550,Organic Cotton Tee,PlayCraft,8.63,187.26,Green,Synthetic,0,54,3.8,High performance wireless audio with noise cancellation,Toys
+PRD-000551,All-Weather Floor Mats,GreenLeaf,24.25,249.21,,,0,1530,3.3,Comfortable everyday wear made from organic cotton,Automotive
+PRD-000552,Building Block Set 500pc,AutoShield,19.47,289.88,Green,Metal,1,2323,3.5,,Electronics
+PRD-000553,Data Science Handbook,UrbanWear,13.35,545.74,Black,Plastic,0,1744,4.1,Energy efficient smart lighting for home automation,Sports
+PRD-000554,Smart LED Bulb 4-Pack,PeakFit,23.4,313,,Cotton,0,262,4.1,Energy efficient smart lighting for home automation,Toys
+PRD-000555,Organic Cotton Tee,PlayCraft,22.39,381.69,Blue,,1,2382,4.2,Comfortable everyday wear made from organic cotton,Toys
+PRD-000556,Smart LED Bulb 4-Pack,UrbanWear,20.31,207.09,Red,Glass,0,1725,4.4,,Books
+PRD-000557,Building Block Set 500pc,PeakFit,5.4,762.07,Multi,Cotton,0,701,3.1,Comfortable everyday wear made from organic cotton,Toys
+PRD-000558,Smart LED Bulb 4-Pack,PeakFit,2.62,439.27,Blue,Glass,0,660,3.1,Energy efficient smart lighting for home automation,Clothing
+PRD-000559,Organic Cotton Tee,NovaTech,7.93,23.94,,Glass,0,812,4.7,,Beauty
+PRD-000560,Data Science Handbook,PlayCraft,11.01,788.76,,Wood,0,983,3.3,,HomeGarden
+PRD-000561,Pro Wireless Headphones,BrightHome,24.72,274.8,Green,Wood,0,1848,3.6,Comfortable everyday wear made from organic cotton,HomeGarden
+PRD-000562,Data Science Handbook,PlayCraft,17.21,24.86,White,,0,67,4.7,High performance wireless audio with noise cancellation,Clothing
+PRD-000563,Building Block Set 500pc,GreenLeaf,5.73,230.07,Blue,Plastic,0,454,3.9,Energy efficient smart lighting for home automation,Books
+PRD-000564,Smart LED Bulb 4-Pack,BrightHome,16.48,567.5,Green,Plastic,1,1595,4.8,Energy efficient smart lighting for home automation,Electronics
+PRD-000565,Smart LED Bulb 4-Pack,PlayCraft,22.96,362.09,Black,Glass,0,421,3.1,Energy efficient smart lighting for home automation,Books
+PRD-000566,Smart LED Bulb 4-Pack,UrbanWear,23.64,750.8,White,Cotton,1,1954,3.8,High performance wireless audio with noise cancellation,Beauty
+PRD-000567,Data Science Handbook,PeakFit,5.25,176.11,Green,Cotton,0,1039,4.5,Energy efficient smart lighting for home automation,HomeGarden
+PRD-000568,Pro Wireless Headphones,PeakFit,8.83,635.25,Green,Wood,0,1203,3.7,,Books
+PRD-000569,Organic Cotton Tee,PeakFit,4.13,6.15,,Plastic,0,898,3.6,High performance wireless audio with noise cancellation,Electronics
+PRD-000570,Organic Cotton Tee,GreenLeaf,17.32,87.17,Green,Metal,0,1151,4.2,Comfortable everyday wear made from organic cotton,Toys
+PRD-000571,Organic Cotton Tee,GreenLeaf,23.75,348.66,Red,Synthetic,0,376,3.1,Comfortable everyday wear made from organic cotton,Clothing
+PRD-000572,Organic Cotton Tee,UrbanWear,13.33,290.71,Multi,Metal,0,1422,3.9,,Automotive
+PRD-000573,Trail Running Shoes,PeakFit,12.52,875.3,Red,Cotton,0,1669,4.9,Energy efficient smart lighting for home automation,Electronics
+PRD-000574,Data Science Handbook,BrightHome,11.68,473.29,White,Wood,0,825,4.1,Energy efficient smart lighting for home automation,Sports
+PRD-000575,Data Science Handbook,NovaTech,3.54,313.41,Multi,Cotton,0,124,4.1,Energy efficient smart lighting for home automation,HomeGarden
+PRD-000576,Smart LED Bulb 4-Pack,PlayCraft,4.04,599.62,Blue,Plastic,0,815,3.8,High performance wireless audio with noise cancellation,HomeGarden
+PRD-000577,Pro Wireless Headphones,NovaTech,2.05,615.16,Red,Wood,0,1893,3.8,,Clothing
+PRD-000578,Organic Cotton Tee,AutoShield,1.95,204.48,Blue,Synthetic,0,1405,2.8,Energy efficient smart lighting for home automation,HomeGarden
+PRD-000579,Pro Wireless Headphones,PeakFit,3.43,723.59,White,Cotton,0,114,4.3,High performance wireless audio with noise cancellation,Clothing
+PRD-000580,Vitamin C Serum 30ml,PlayCraft,13.77,106.92,Blue,Glass,0,648,3.9,,Sports
+PRD-000581,All-Weather Floor Mats,UrbanWear,19.65,397.88,,Metal,0,744,3.1,Comfortable everyday wear made from organic cotton,Beauty
+PRD-000582,Smart LED Bulb 4-Pack,PureGlow,6.74,125.73,White,Cotton,1,441,4.7,,HomeGarden
+PRD-000583,Data Science Handbook,GreenLeaf,4.99,653.34,Blue,Wood,0,1488,4,,Books
+PRD-000584,Trail Running Shoes,UrbanWear,24.27,571.14,Multi,Metal,0,453,4.4,Energy efficient smart lighting for home automation,Toys
+PRD-000585,All-Weather Floor Mats,PureGlow,6.63,21.28,White,Wood,1,1856,3.3,High performance wireless audio with noise cancellation,Beauty
+PRD-000586,Smart LED Bulb 4-Pack,GreenLeaf,12.07,450.36,Black,Cotton,0,2045,3.4,Energy efficient smart lighting for home automation,HomeGarden
+PRD-000587,Pro Wireless Headphones,BrightHome,10.06,192.72,,Synthetic,1,1125,2.9,,Electronics
+PRD-000588,Pro Wireless Headphones,UrbanWear,5.98,531.32,Green,Plastic,0,1964,3.5,High performance wireless audio with noise cancellation,Electronics
+PRD-000589,Building Block Set 500pc,UrbanWear,12.48,35.11,Red,Plastic,1,2262,2.7,Energy efficient smart lighting for home automation,Beauty
+PRD-000590,Building Block Set 500pc,AutoShield,22.28,447.17,Black,Metal,0,1545,4.4,Energy efficient smart lighting for home automation,Clothing
+PRD-000591,Building Block Set 500pc,PeakFit,22.04,221.71,Multi,,0,1275,3.2,High performance wireless audio with noise cancellation,Sports
+PRD-000592,Pro Wireless Headphones,UrbanWear,10.51,75.85,Red,Synthetic,0,2347,2.8,High performance wireless audio with noise cancellation,Clothing
+PRD-000593,Organic Cotton Tee,UrbanWear,13.23,420.39,,Plastic,1,376,4.8,High performance wireless audio with noise cancellation,HomeGarden
+PRD-000594,Trail Running Shoes,UrbanWear,10.28,688.4,,Plastic,0,1289,4.4,Comfortable everyday wear made from organic cotton,Automotive
+PRD-000595,Building Block Set 500pc,GreenLeaf,2.58,270.63,Multi,Metal,0,979,3.9,Energy efficient smart lighting for home automation,Automotive
+PRD-000596,Vitamin C Serum 30ml,GreenLeaf,16,506.75,White,Plastic,0,1832,5,Energy efficient smart lighting for home automation,Clothing
+PRD-000597,Trail Running Shoes,NovaTech,12.33,878.69,Blue,Wood,0,1617,3,High performance wireless audio with noise cancellation,Automotive
+PRD-000598,Trail Running Shoes,UrbanWear,15.21,700.81,White,Synthetic,0,1103,4.9,,Sports
+PRD-000599,Smart LED Bulb 4-Pack,NovaTech,1.11,762.21,Black,Glass,0,2272,4.1,High performance wireless audio with noise cancellation,Books
+PRD-000600,Building Block Set 500pc,PlayCraft,24.54,626.3,Green,Metal,1,1137,3.8,,Clothing
+PRD-000601,Trail Running Shoes,BrightHome,16.05,221.13,Black,Glass,1,357,3.1,High performance wireless audio with noise cancellation,Clothing
+PRD-000602,Pro Wireless Headphones,AutoShield,11.38,687.22,White,Synthetic,0,1373,4.5,,Electronics
+PRD-000603,Organic Cotton Tee,PlayCraft,8.7,151,Red,Metal,0,1363,4.6,,Automotive
+PRD-000604,Smart LED Bulb 4-Pack,PureGlow,0.57,692.42,Blue,Wood,0,2335,4.3,Comfortable everyday wear made from organic cotton,HomeGarden
+PRD-000605,Smart LED Bulb 4-Pack,PlayCraft,11.74,163.61,Red,Wood,0,2365,3.1,,Books
+PRD-000606,Building Block Set 500pc,PureGlow,1.74,809.67,Blue,Synthetic,0,2319,4.2,,Clothing
+PRD-000607,All-Weather Floor Mats,PeakFit,22.58,627.92,Blue,Glass,0,535,3.4,,Sports
+PRD-000608,Smart LED Bulb 4-Pack,BrightHome,4.56,338.25,White,Glass,0,951,2.8,High performance wireless audio with noise cancellation,Beauty
+PRD-000609,Vitamin C Serum 30ml,PureGlow,7.63,5.7,Black,Metal,0,2497,3.2,,Electronics
+PRD-000610,Pro Wireless Headphones,PeakFit,22.37,801.83,Red,Metal,0,1571,4.1,Comfortable everyday wear made from organic cotton,Clothing
+PRD-000611,All-Weather Floor Mats,PureGlow,19.51,781.64,Green,Synthetic,0,1290,3.1,Energy efficient smart lighting for home automation,Clothing
+PRD-000612,Vitamin C Serum 30ml,GreenLeaf,1.16,412.24,Multi,Cotton,0,653,4.5,Comfortable everyday wear made from organic cotton,Books
+PRD-000613,Building Block Set 500pc,UrbanWear,3.48,746.86,Red,Glass,1,1237,3.8,High performance wireless audio with noise cancellation,Beauty
+PRD-000614,Smart LED Bulb 4-Pack,NovaTech,16.79,341.42,Black,Wood,0,2119,4.4,High performance wireless audio with noise cancellation,Toys
+PRD-000615,Pro Wireless Headphones,UrbanWear,22.93,235.6,White,Metal,0,2499,3.4,Energy efficient smart lighting for home automation,Electronics
+PRD-000616,Pro Wireless Headphones,PlayCraft,16.83,323.76,Black,Metal,0,1056,3.5,Energy efficient smart lighting for home automation,Beauty
+PRD-000617,Building Block Set 500pc,UrbanWear,13.05,159.93,Multi,Plastic,0,477,4.7,Comfortable everyday wear made from organic cotton,Toys
+PRD-000618,Pro Wireless Headphones,NovaTech,15.24,140.59,Blue,Cotton,1,510,4.8,High performance wireless audio with noise cancellation,Electronics
+PRD-000619,Organic Cotton Tee,NovaTech,15.17,537.38,,Synthetic,0,2154,4.4,Comfortable everyday wear made from organic cotton,Toys
+PRD-000620,Data Science Handbook,PureGlow,20.62,846.95,,Synthetic,1,342,4.8,Energy efficient smart lighting for home automation,Automotive

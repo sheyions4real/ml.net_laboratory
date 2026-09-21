@@ -1,0 +1,721 @@
+RecordId,Text,SentimentLabel,WordCount,Source
+NLP-000001,"Terrible experience, product broke after one week.",Negative,7,Review
+NLP-000002,Waited on hold for 45 minutes with no resolution.,Negative,9,Email
+NLP-000003,"Terrible experience, product broke after one week.",Negative,7,SocialMedia
+NLP-000004,Very disappointed with the quality for the price.,Negative,8,Survey
+NLP-000005,"Would not recommend, multiple bugs in the software.",Negative,8,Review
+NLP-000006,Fantastic quality and fast delivery.,Positive,5,Email
+NLP-000007,Waited on hold for 45 minutes with no resolution.,Negative,9,Review
+NLP-000008,"Average experience overall, may try again.",Neutral,6,SocialMedia
+NLP-000009,The team went above and beyond to help us.,Positive,9,Survey
+NLP-000010,It works as expected for basic needs.,Neutral,7,Ticket
+NLP-000011,Fantastic quality and fast delivery.,Positive,5,Chat
+NLP-000012,"Terrible experience, product broke after one week.",Negative,7,Chat
+NLP-000013,Waited on hold for 45 minutes with no resolution.,Negative,9,Review
+NLP-000014,Waited on hold for 45 minutes with no resolution.,Negative,9,Ticket
+NLP-000015,Very disappointed with the quality for the price.,Negative,8,Ticket
+NLP-000016,"Average experience overall, may try again.",Neutral,6,Chat
+NLP-000017,It works as expected for basic needs.,Neutral,7,Survey
+NLP-000018,"Absolutely love this product, exceeded my expectations!",Positive,7,SocialMedia
+NLP-000019,Waited on hold for 45 minutes with no resolution.,Negative,9,Review
+NLP-000020,"Standard service, nothing exceptional.",Neutral,4,SocialMedia
+NLP-000021,"Best purchase I have made this year, highly recommend.",Positive,9,Review
+NLP-000022,Waited on hold for 45 minutes with no resolution.,Negative,9,Email
+NLP-000023,"Best purchase I have made this year, highly recommend.",Positive,9,Chat
+NLP-000024,Fantastic quality and fast delivery.,Positive,5,Survey
+NLP-000025,"Best purchase I have made this year, highly recommend.",Positive,9,Chat
+NLP-000026,The team went above and beyond to help us.,Positive,9,Ticket
+NLP-000027,Fantastic quality and fast delivery.,Positive,5,Email
+NLP-000028,It works as expected for basic needs.,Neutral,7,SocialMedia
+NLP-000029,The team went above and beyond to help us.,Positive,9,SocialMedia
+NLP-000030,"Would not recommend, multiple bugs in the software.",Negative,8,Chat
+NLP-000031,Product arrived on time as described.,Neutral,6,Chat
+NLP-000032,Customer support was unhelpful and rude.,Negative,6,Email
+NLP-000033,"Terrible experience, product broke after one week.",Negative,7,Chat
+NLP-000034,"Best purchase I have made this year, highly recommend.",Positive,9,Ticket
+NLP-000035,Product arrived on time as described.,Neutral,6,SocialMedia
+NLP-000036,"Great customer service, issue resolved quickly.",Positive,6,Chat
+NLP-000037,"Great customer service, issue resolved quickly.",Positive,6,Ticket
+NLP-000038,"Absolutely love this product, exceeded my expectations!",Positive,7,Chat
+NLP-000039,"Average experience overall, may try again.",Neutral,6,Review
+NLP-000040,"Absolutely love this product, exceeded my expectations!",Positive,7,Email
+NLP-000041,"Absolutely love this product, exceeded my expectations!",Positive,7,Ticket
+NLP-000042,Product arrived on time as described.,Neutral,6,Email
+NLP-000043,"Standard service, nothing exceptional.",Neutral,4,SocialMedia
+NLP-000044,Waited on hold for 45 minutes with no resolution.,Negative,9,Ticket
+NLP-000045,It works as expected for basic needs.,Neutral,7,Review
+NLP-000046,Customer support was unhelpful and rude.,Negative,6,Review
+NLP-000047,Customer support was unhelpful and rude.,Negative,6,SocialMedia
+NLP-000048,"Received the item, still evaluating its features.",Neutral,7,Ticket
+NLP-000049,"Great customer service, issue resolved quickly.",Positive,6,Chat
+NLP-000050,The team went above and beyond to help us.,Positive,9,Ticket
+NLP-000051,"Average experience overall, may try again.",Neutral,6,SocialMedia
+NLP-000052,Very disappointed with the quality for the price.,Negative,8,Survey
+NLP-000053,"Received the item, still evaluating its features.",Neutral,7,Email
+NLP-000054,The team went above and beyond to help us.,Positive,9,Chat
+NLP-000055,"Standard service, nothing exceptional.",Neutral,4,SocialMedia
+NLP-000056,Very disappointed with the quality for the price.,Negative,8,Survey
+NLP-000057,Waited on hold for 45 minutes with no resolution.,Negative,9,SocialMedia
+NLP-000058,"Absolutely love this product, exceeded my expectations!",Positive,7,Chat
+NLP-000059,"Standard service, nothing exceptional.",Neutral,4,SocialMedia
+NLP-000060,"Absolutely love this product, exceeded my expectations!",Positive,7,Survey
+NLP-000061,"Received the item, still evaluating its features.",Neutral,7,Chat
+NLP-000062,"Standard service, nothing exceptional.",Neutral,4,SocialMedia
+NLP-000063,Product arrived on time as described.,Neutral,6,Email
+NLP-000064,"Great customer service, issue resolved quickly.",Positive,6,Review
+NLP-000065,Very disappointed with the quality for the price.,Negative,8,SocialMedia
+NLP-000066,"Received the item, still evaluating its features.",Neutral,7,Survey
+NLP-000067,"Terrible experience, product broke after one week.",Negative,7,Email
+NLP-000068,Fantastic quality and fast delivery.,Positive,5,Ticket
+NLP-000069,Very disappointed with the quality for the price.,Negative,8,Chat
+NLP-000070,Product arrived on time as described.,Neutral,6,Email
+NLP-000071,Fantastic quality and fast delivery.,Positive,5,Survey
+NLP-000072,"Terrible experience, product broke after one week.",Negative,7,SocialMedia
+NLP-000073,The team went above and beyond to help us.,Positive,9,SocialMedia
+NLP-000074,"Great customer service, issue resolved quickly.",Positive,6,Ticket
+NLP-000075,"Best purchase I have made this year, highly recommend.",Positive,9,Ticket
+NLP-000076,"Would not recommend, multiple bugs in the software.",Negative,8,Email
+NLP-000077,Fantastic quality and fast delivery.,Positive,5,Email
+NLP-000078,Waited on hold for 45 minutes with no resolution.,Negative,9,SocialMedia
+NLP-000079,"Standard service, nothing exceptional.",Neutral,4,Chat
+NLP-000080,"Great customer service, issue resolved quickly.",Positive,6,Chat
+NLP-000081,"Would not recommend, multiple bugs in the software.",Negative,8,Survey
+NLP-000082,Waited on hold for 45 minutes with no resolution.,Negative,9,Chat
+NLP-000083,"Terrible experience, product broke after one week.",Negative,7,Survey
+NLP-000084,Customer support was unhelpful and rude.,Negative,6,Email
+NLP-000085,"Best purchase I have made this year, highly recommend.",Positive,9,Survey
+NLP-000086,Fantastic quality and fast delivery.,Positive,5,Review
+NLP-000087,The team went above and beyond to help us.,Positive,9,Review
+NLP-000088,Waited on hold for 45 minutes with no resolution.,Negative,9,Email
+NLP-000089,The team went above and beyond to help us.,Positive,9,Email
+NLP-000090,Customer support was unhelpful and rude.,Negative,6,Survey
+NLP-000091,Product arrived on time as described.,Neutral,6,Chat
+NLP-000092,"Standard service, nothing exceptional.",Neutral,4,Chat
+NLP-000093,Fantastic quality and fast delivery.,Positive,5,Survey
+NLP-000094,"Received the item, still evaluating its features.",Neutral,7,Chat
+NLP-000095,"Received the item, still evaluating its features.",Neutral,7,SocialMedia
+NLP-000096,Waited on hold for 45 minutes with no resolution.,Negative,9,Survey
+NLP-000097,Customer support was unhelpful and rude.,Negative,6,Email
+NLP-000098,Waited on hold for 45 minutes with no resolution.,Negative,9,Chat
+NLP-000099,The team went above and beyond to help us.,Positive,9,Ticket
+NLP-000100,Very disappointed with the quality for the price.,Negative,8,Survey
+NLP-000101,Customer support was unhelpful and rude.,Negative,6,SocialMedia
+NLP-000102,"Standard service, nothing exceptional.",Neutral,4,Review
+NLP-000103,Customer support was unhelpful and rude.,Negative,6,SocialMedia
+NLP-000104,Customer support was unhelpful and rude.,Negative,6,Chat
+NLP-000105,Customer support was unhelpful and rude.,Negative,6,Chat
+NLP-000106,"Absolutely love this product, exceeded my expectations!",Positive,7,Review
+NLP-000107,"Received the item, still evaluating its features.",Neutral,7,Email
+NLP-000108,Product arrived on time as described.,Neutral,6,Survey
+NLP-000109,"Average experience overall, may try again.",Neutral,6,Chat
+NLP-000110,Product arrived on time as described.,Neutral,6,Review
+NLP-000111,"Received the item, still evaluating its features.",Neutral,7,Ticket
+NLP-000112,"Standard service, nothing exceptional.",Neutral,4,SocialMedia
+NLP-000113,"Best purchase I have made this year, highly recommend.",Positive,9,Chat
+NLP-000114,Customer support was unhelpful and rude.,Negative,6,Ticket
+NLP-000115,Very disappointed with the quality for the price.,Negative,8,SocialMedia
+NLP-000116,"Absolutely love this product, exceeded my expectations!",Positive,7,Email
+NLP-000117,"Best purchase I have made this year, highly recommend.",Positive,9,Review
+NLP-000118,Customer support was unhelpful and rude.,Negative,6,SocialMedia
+NLP-000119,"Average experience overall, may try again.",Neutral,6,Ticket
+NLP-000120,Waited on hold for 45 minutes with no resolution.,Negative,9,Chat
+NLP-000121,"Absolutely love this product, exceeded my expectations!",Positive,7,Chat
+NLP-000122,"Would not recommend, multiple bugs in the software.",Negative,8,Review
+NLP-000123,Fantastic quality and fast delivery.,Positive,5,SocialMedia
+NLP-000124,It works as expected for basic needs.,Neutral,7,Review
+NLP-000125,The team went above and beyond to help us.,Positive,9,Chat
+NLP-000126,"Standard service, nothing exceptional.",Neutral,4,Email
+NLP-000127,"Great customer service, issue resolved quickly.",Positive,6,Ticket
+NLP-000128,"Great customer service, issue resolved quickly.",Positive,6,Survey
+NLP-000129,The team went above and beyond to help us.,Positive,9,Email
+NLP-000130,Fantastic quality and fast delivery.,Positive,5,Email
+NLP-000131,It works as expected for basic needs.,Neutral,7,Review
+NLP-000132,"Average experience overall, may try again.",Neutral,6,Chat
+NLP-000133,"Absolutely love this product, exceeded my expectations!",Positive,7,Email
+NLP-000134,Very disappointed with the quality for the price.,Negative,8,Chat
+NLP-000135,"Standard service, nothing exceptional.",Neutral,4,Survey
+NLP-000136,"Average experience overall, may try again.",Neutral,6,Survey
+NLP-000137,"Great customer service, issue resolved quickly.",Positive,6,SocialMedia
+NLP-000138,It works as expected for basic needs.,Neutral,7,Ticket
+NLP-000139,"Would not recommend, multiple bugs in the software.",Negative,8,Survey
+NLP-000140,It works as expected for basic needs.,Neutral,7,Review
+NLP-000141,"Terrible experience, product broke after one week.",Negative,7,Chat
+NLP-000142,Customer support was unhelpful and rude.,Negative,6,Survey
+NLP-000143,Waited on hold for 45 minutes with no resolution.,Negative,9,SocialMedia
+NLP-000144,"Terrible experience, product broke after one week.",Negative,7,SocialMedia
+NLP-000145,"Would not recommend, multiple bugs in the software.",Negative,8,Survey
+NLP-000146,"Terrible experience, product broke after one week.",Negative,7,Review
+NLP-000147,"Would not recommend, multiple bugs in the software.",Negative,8,SocialMedia
+NLP-000148,"Average experience overall, may try again.",Neutral,6,Ticket
+NLP-000149,"Great customer service, issue resolved quickly.",Positive,6,Ticket
+NLP-000150,It works as expected for basic needs.,Neutral,7,Survey
+NLP-000151,"Received the item, still evaluating its features.",Neutral,7,Ticket
+NLP-000152,Customer support was unhelpful and rude.,Negative,6,Chat
+NLP-000153,Fantastic quality and fast delivery.,Positive,5,Email
+NLP-000154,"Standard service, nothing exceptional.",Neutral,4,Review
+NLP-000155,The team went above and beyond to help us.,Positive,9,Email
+NLP-000156,Very disappointed with the quality for the price.,Negative,8,SocialMedia
+NLP-000157,Product arrived on time as described.,Neutral,6,Email
+NLP-000158,"Average experience overall, may try again.",Neutral,6,Ticket
+NLP-000159,Fantastic quality and fast delivery.,Positive,5,SocialMedia
+NLP-000160,"Absolutely love this product, exceeded my expectations!",Positive,7,Chat
+NLP-000161,Customer support was unhelpful and rude.,Negative,6,Review
+NLP-000162,"Terrible experience, product broke after one week.",Negative,7,Chat
+NLP-000163,"Absolutely love this product, exceeded my expectations!",Positive,7,Survey
+NLP-000164,The team went above and beyond to help us.,Positive,9,Survey
+NLP-000165,"Received the item, still evaluating its features.",Neutral,7,SocialMedia
+NLP-000166,"Best purchase I have made this year, highly recommend.",Positive,9,Survey
+NLP-000167,Fantastic quality and fast delivery.,Positive,5,Chat
+NLP-000168,The team went above and beyond to help us.,Positive,9,SocialMedia
+NLP-000169,The team went above and beyond to help us.,Positive,9,Survey
+NLP-000170,"Average experience overall, may try again.",Neutral,6,Chat
+NLP-000171,"Received the item, still evaluating its features.",Neutral,7,Chat
+NLP-000172,"Best purchase I have made this year, highly recommend.",Positive,9,Review
+NLP-000173,Waited on hold for 45 minutes with no resolution.,Negative,9,Survey
+NLP-000174,"Absolutely love this product, exceeded my expectations!",Positive,7,SocialMedia
+NLP-000175,"Average experience overall, may try again.",Neutral,6,Review
+NLP-000176,"Best purchase I have made this year, highly recommend.",Positive,9,SocialMedia
+NLP-000177,"Standard service, nothing exceptional.",Neutral,4,Survey
+NLP-000178,Waited on hold for 45 minutes with no resolution.,Negative,9,Chat
+NLP-000179,"Would not recommend, multiple bugs in the software.",Negative,8,Review
+NLP-000180,"Great customer service, issue resolved quickly.",Positive,6,Ticket
+NLP-000181,Very disappointed with the quality for the price.,Negative,8,Review
+NLP-000182,Fantastic quality and fast delivery.,Positive,5,Survey
+NLP-000183,"Standard service, nothing exceptional.",Neutral,4,Email
+NLP-000184,"Standard service, nothing exceptional.",Neutral,4,Chat
+NLP-000185,Waited on hold for 45 minutes with no resolution.,Negative,9,SocialMedia
+NLP-000186,Very disappointed with the quality for the price.,Negative,8,Email
+NLP-000187,The team went above and beyond to help us.,Positive,9,Survey
+NLP-000188,Product arrived on time as described.,Neutral,6,Survey
+NLP-000189,"Received the item, still evaluating its features.",Neutral,7,SocialMedia
+NLP-000190,Product arrived on time as described.,Neutral,6,Review
+NLP-000191,Very disappointed with the quality for the price.,Negative,8,Email
+NLP-000192,The team went above and beyond to help us.,Positive,9,Chat
+NLP-000193,Fantastic quality and fast delivery.,Positive,5,Review
+NLP-000194,"Terrible experience, product broke after one week.",Negative,7,SocialMedia
+NLP-000195,"Great customer service, issue resolved quickly.",Positive,6,Review
+NLP-000196,Customer support was unhelpful and rude.,Negative,6,SocialMedia
+NLP-000197,"Absolutely love this product, exceeded my expectations!",Positive,7,Chat
+NLP-000198,Customer support was unhelpful and rude.,Negative,6,Survey
+NLP-000199,Waited on hold for 45 minutes with no resolution.,Negative,9,Review
+NLP-000200,"Best purchase I have made this year, highly recommend.",Positive,9,Chat
+NLP-000201,Fantastic quality and fast delivery.,Positive,5,Survey
+NLP-000202,"Best purchase I have made this year, highly recommend.",Positive,9,Survey
+NLP-000203,It works as expected for basic needs.,Neutral,7,Chat
+NLP-000204,The team went above and beyond to help us.,Positive,9,Survey
+NLP-000205,"Standard service, nothing exceptional.",Neutral,4,Ticket
+NLP-000206,Waited on hold for 45 minutes with no resolution.,Negative,9,Ticket
+NLP-000207,The team went above and beyond to help us.,Positive,9,Email
+NLP-000208,Very disappointed with the quality for the price.,Negative,8,Survey
+NLP-000209,The team went above and beyond to help us.,Positive,9,Ticket
+NLP-000210,"Standard service, nothing exceptional.",Neutral,4,Chat
+NLP-000211,"Terrible experience, product broke after one week.",Negative,7,SocialMedia
+NLP-000212,"Standard service, nothing exceptional.",Neutral,4,Survey
+NLP-000213,"Terrible experience, product broke after one week.",Negative,7,Ticket
+NLP-000214,It works as expected for basic needs.,Neutral,7,Review
+NLP-000215,"Absolutely love this product, exceeded my expectations!",Positive,7,Chat
+NLP-000216,Fantastic quality and fast delivery.,Positive,5,Email
+NLP-000217,"Great customer service, issue resolved quickly.",Positive,6,SocialMedia
+NLP-000218,"Best purchase I have made this year, highly recommend.",Positive,9,Survey
+NLP-000219,Product arrived on time as described.,Neutral,6,Ticket
+NLP-000220,"Terrible experience, product broke after one week.",Negative,7,Review
+NLP-000221,"Absolutely love this product, exceeded my expectations!",Positive,7,Chat
+NLP-000222,"Absolutely love this product, exceeded my expectations!",Positive,7,Chat
+NLP-000223,"Best purchase I have made this year, highly recommend.",Positive,9,Review
+NLP-000224,"Average experience overall, may try again.",Neutral,6,Ticket
+NLP-000225,"Standard service, nothing exceptional.",Neutral,4,Chat
+NLP-000226,Very disappointed with the quality for the price.,Negative,8,Review
+NLP-000227,"Received the item, still evaluating its features.",Neutral,7,Chat
+NLP-000228,Waited on hold for 45 minutes with no resolution.,Negative,9,Survey
+NLP-000229,"Absolutely love this product, exceeded my expectations!",Positive,7,Ticket
+NLP-000230,"Would not recommend, multiple bugs in the software.",Negative,8,Survey
+NLP-000231,"Absolutely love this product, exceeded my expectations!",Positive,7,Ticket
+NLP-000232,"Received the item, still evaluating its features.",Neutral,7,Survey
+NLP-000233,"Average experience overall, may try again.",Neutral,6,Survey
+NLP-000234,"Standard service, nothing exceptional.",Neutral,4,Email
+NLP-000235,It works as expected for basic needs.,Neutral,7,Review
+NLP-000236,"Absolutely love this product, exceeded my expectations!",Positive,7,Review
+NLP-000237,Fantastic quality and fast delivery.,Positive,5,SocialMedia
+NLP-000238,"Would not recommend, multiple bugs in the software.",Negative,8,Email
+NLP-000239,"Terrible experience, product broke after one week.",Negative,7,Survey
+NLP-000240,It works as expected for basic needs.,Neutral,7,Ticket
+NLP-000241,"Average experience overall, may try again.",Neutral,6,Review
+NLP-000242,The team went above and beyond to help us.,Positive,9,Ticket
+NLP-000243,"Received the item, still evaluating its features.",Neutral,7,Survey
+NLP-000244,Very disappointed with the quality for the price.,Negative,8,Chat
+NLP-000245,Very disappointed with the quality for the price.,Negative,8,Survey
+NLP-000246,"Average experience overall, may try again.",Neutral,6,Chat
+NLP-000247,"Terrible experience, product broke after one week.",Negative,7,Chat
+NLP-000248,"Standard service, nothing exceptional.",Neutral,4,Chat
+NLP-000249,"Would not recommend, multiple bugs in the software.",Negative,8,SocialMedia
+NLP-000250,Waited on hold for 45 minutes with no resolution.,Negative,9,Review
+NLP-000251,Waited on hold for 45 minutes with no resolution.,Negative,9,Survey
+NLP-000252,It works as expected for basic needs.,Neutral,7,Email
+NLP-000253,Waited on hold for 45 minutes with no resolution.,Negative,9,Survey
+NLP-000254,Product arrived on time as described.,Neutral,6,Ticket
+NLP-000255,Product arrived on time as described.,Neutral,6,SocialMedia
+NLP-000256,"Standard service, nothing exceptional.",Neutral,4,SocialMedia
+NLP-000257,Fantastic quality and fast delivery.,Positive,5,SocialMedia
+NLP-000258,It works as expected for basic needs.,Neutral,7,Review
+NLP-000259,It works as expected for basic needs.,Neutral,7,Survey
+NLP-000260,Customer support was unhelpful and rude.,Negative,6,Ticket
+NLP-000261,"Average experience overall, may try again.",Neutral,6,Email
+NLP-000262,"Best purchase I have made this year, highly recommend.",Positive,9,Review
+NLP-000263,It works as expected for basic needs.,Neutral,7,Email
+NLP-000264,Product arrived on time as described.,Neutral,6,Email
+NLP-000265,Very disappointed with the quality for the price.,Negative,8,SocialMedia
+NLP-000266,Customer support was unhelpful and rude.,Negative,6,SocialMedia
+NLP-000267,"Received the item, still evaluating its features.",Neutral,7,Chat
+NLP-000268,The team went above and beyond to help us.,Positive,9,Email
+NLP-000269,Product arrived on time as described.,Neutral,6,Survey
+NLP-000270,"Average experience overall, may try again.",Neutral,6,Email
+NLP-000271,"Received the item, still evaluating its features.",Neutral,7,Ticket
+NLP-000272,"Best purchase I have made this year, highly recommend.",Positive,9,Review
+NLP-000273,"Received the item, still evaluating its features.",Neutral,7,Ticket
+NLP-000274,Waited on hold for 45 minutes with no resolution.,Negative,9,Review
+NLP-000275,"Received the item, still evaluating its features.",Neutral,7,Ticket
+NLP-000276,It works as expected for basic needs.,Neutral,7,Review
+NLP-000277,Product arrived on time as described.,Neutral,6,Email
+NLP-000278,"Average experience overall, may try again.",Neutral,6,Email
+NLP-000279,"Average experience overall, may try again.",Neutral,6,SocialMedia
+NLP-000280,Customer support was unhelpful and rude.,Negative,6,SocialMedia
+NLP-000281,"Standard service, nothing exceptional.",Neutral,4,Chat
+NLP-000282,Fantastic quality and fast delivery.,Positive,5,Email
+NLP-000283,"Would not recommend, multiple bugs in the software.",Negative,8,Survey
+NLP-000284,"Received the item, still evaluating its features.",Neutral,7,SocialMedia
+NLP-000285,"Best purchase I have made this year, highly recommend.",Positive,9,SocialMedia
+NLP-000286,The team went above and beyond to help us.,Positive,9,Ticket
+NLP-000287,"Would not recommend, multiple bugs in the software.",Negative,8,Chat
+NLP-000288,"Terrible experience, product broke after one week.",Negative,7,Ticket
+NLP-000289,"Standard service, nothing exceptional.",Neutral,4,SocialMedia
+NLP-000290,Customer support was unhelpful and rude.,Negative,6,Review
+NLP-000291,"Would not recommend, multiple bugs in the software.",Negative,8,SocialMedia
+NLP-000292,"Great customer service, issue resolved quickly.",Positive,6,Survey
+NLP-000293,It works as expected for basic needs.,Neutral,7,Survey
+NLP-000294,Fantastic quality and fast delivery.,Positive,5,SocialMedia
+NLP-000295,"Received the item, still evaluating its features.",Neutral,7,Survey
+NLP-000296,"Terrible experience, product broke after one week.",Negative,7,Ticket
+NLP-000297,"Average experience overall, may try again.",Neutral,6,Survey
+NLP-000298,It works as expected for basic needs.,Neutral,7,SocialMedia
+NLP-000299,The team went above and beyond to help us.,Positive,9,Review
+NLP-000300,The team went above and beyond to help us.,Positive,9,Ticket
+NLP-000301,The team went above and beyond to help us.,Positive,9,Review
+NLP-000302,It works as expected for basic needs.,Neutral,7,Chat
+NLP-000303,"Average experience overall, may try again.",Neutral,6,Survey
+NLP-000304,"Terrible experience, product broke after one week.",Negative,7,SocialMedia
+NLP-000305,Product arrived on time as described.,Neutral,6,Survey
+NLP-000306,"Best purchase I have made this year, highly recommend.",Positive,9,SocialMedia
+NLP-000307,Fantastic quality and fast delivery.,Positive,5,Survey
+NLP-000308,Product arrived on time as described.,Neutral,6,Chat
+NLP-000309,"Terrible experience, product broke after one week.",Negative,7,Email
+NLP-000310,Fantastic quality and fast delivery.,Positive,5,Review
+NLP-000311,"Terrible experience, product broke after one week.",Negative,7,Email
+NLP-000312,"Best purchase I have made this year, highly recommend.",Positive,9,Survey
+NLP-000313,"Best purchase I have made this year, highly recommend.",Positive,9,Email
+NLP-000314,"Absolutely love this product, exceeded my expectations!",Positive,7,SocialMedia
+NLP-000315,Product arrived on time as described.,Neutral,6,Email
+NLP-000316,"Received the item, still evaluating its features.",Neutral,7,Ticket
+NLP-000317,"Would not recommend, multiple bugs in the software.",Negative,8,Ticket
+NLP-000318,Very disappointed with the quality for the price.,Negative,8,Review
+NLP-000319,Customer support was unhelpful and rude.,Negative,6,SocialMedia
+NLP-000320,The team went above and beyond to help us.,Positive,9,Chat
+NLP-000321,"Terrible experience, product broke after one week.",Negative,7,Review
+NLP-000322,Very disappointed with the quality for the price.,Negative,8,SocialMedia
+NLP-000323,"Terrible experience, product broke after one week.",Negative,7,Email
+NLP-000324,"Standard service, nothing exceptional.",Neutral,4,Survey
+NLP-000325,"Best purchase I have made this year, highly recommend.",Positive,9,Review
+NLP-000326,Very disappointed with the quality for the price.,Negative,8,Chat
+NLP-000327,"Best purchase I have made this year, highly recommend.",Positive,9,Chat
+NLP-000328,Customer support was unhelpful and rude.,Negative,6,SocialMedia
+NLP-000329,"Great customer service, issue resolved quickly.",Positive,6,Chat
+NLP-000330,"Would not recommend, multiple bugs in the software.",Negative,8,Email
+NLP-000331,The team went above and beyond to help us.,Positive,9,Email
+NLP-000332,Waited on hold for 45 minutes with no resolution.,Negative,9,Ticket
+NLP-000333,"Great customer service, issue resolved quickly.",Positive,6,Review
+NLP-000334,"Received the item, still evaluating its features.",Neutral,7,Review
+NLP-000335,"Best purchase I have made this year, highly recommend.",Positive,9,Review
+NLP-000336,Waited on hold for 45 minutes with no resolution.,Negative,9,Review
+NLP-000337,"Great customer service, issue resolved quickly.",Positive,6,Chat
+NLP-000338,"Best purchase I have made this year, highly recommend.",Positive,9,Chat
+NLP-000339,"Absolutely love this product, exceeded my expectations!",Positive,7,Chat
+NLP-000340,Product arrived on time as described.,Neutral,6,Chat
+NLP-000341,The team went above and beyond to help us.,Positive,9,Chat
+NLP-000342,Customer support was unhelpful and rude.,Negative,6,Ticket
+NLP-000343,"Absolutely love this product, exceeded my expectations!",Positive,7,SocialMedia
+NLP-000344,It works as expected for basic needs.,Neutral,7,Ticket
+NLP-000345,"Great customer service, issue resolved quickly.",Positive,6,Review
+NLP-000346,The team went above and beyond to help us.,Positive,9,SocialMedia
+NLP-000347,It works as expected for basic needs.,Neutral,7,Survey
+NLP-000348,"Average experience overall, may try again.",Neutral,6,Email
+NLP-000349,"Received the item, still evaluating its features.",Neutral,7,Survey
+NLP-000350,"Received the item, still evaluating its features.",Neutral,7,Chat
+NLP-000351,"Would not recommend, multiple bugs in the software.",Negative,8,Survey
+NLP-000352,"Absolutely love this product, exceeded my expectations!",Positive,7,Ticket
+NLP-000353,Fantastic quality and fast delivery.,Positive,5,Email
+NLP-000354,The team went above and beyond to help us.,Positive,9,Chat
+NLP-000355,The team went above and beyond to help us.,Positive,9,SocialMedia
+NLP-000356,Very disappointed with the quality for the price.,Negative,8,Ticket
+NLP-000357,Customer support was unhelpful and rude.,Negative,6,Survey
+NLP-000358,Fantastic quality and fast delivery.,Positive,5,Survey
+NLP-000359,"Standard service, nothing exceptional.",Neutral,4,Survey
+NLP-000360,"Average experience overall, may try again.",Neutral,6,Ticket
+NLP-000361,Waited on hold for 45 minutes with no resolution.,Negative,9,Review
+NLP-000362,Product arrived on time as described.,Neutral,6,Review
+NLP-000363,"Received the item, still evaluating its features.",Neutral,7,Survey
+NLP-000364,Customer support was unhelpful and rude.,Negative,6,Ticket
+NLP-000365,"Terrible experience, product broke after one week.",Negative,7,Chat
+NLP-000366,The team went above and beyond to help us.,Positive,9,Survey
+NLP-000367,It works as expected for basic needs.,Neutral,7,SocialMedia
+NLP-000368,"Best purchase I have made this year, highly recommend.",Positive,9,Survey
+NLP-000369,Very disappointed with the quality for the price.,Negative,8,Ticket
+NLP-000370,It works as expected for basic needs.,Neutral,7,Survey
+NLP-000371,"Terrible experience, product broke after one week.",Negative,7,Ticket
+NLP-000372,"Standard service, nothing exceptional.",Neutral,4,Email
+NLP-000373,"Received the item, still evaluating its features.",Neutral,7,Survey
+NLP-000374,"Terrible experience, product broke after one week.",Negative,7,Ticket
+NLP-000375,Waited on hold for 45 minutes with no resolution.,Negative,9,Review
+NLP-000376,Fantastic quality and fast delivery.,Positive,5,SocialMedia
+NLP-000377,"Terrible experience, product broke after one week.",Negative,7,Ticket
+NLP-000378,"Great customer service, issue resolved quickly.",Positive,6,Survey
+NLP-000379,Waited on hold for 45 minutes with no resolution.,Negative,9,Review
+NLP-000380,"Great customer service, issue resolved quickly.",Positive,6,Ticket
+NLP-000381,"Received the item, still evaluating its features.",Neutral,7,Email
+NLP-000382,"Best purchase I have made this year, highly recommend.",Positive,9,Ticket
+NLP-000383,Very disappointed with the quality for the price.,Negative,8,Ticket
+NLP-000384,"Would not recommend, multiple bugs in the software.",Negative,8,Survey
+NLP-000385,"Received the item, still evaluating its features.",Neutral,7,Review
+NLP-000386,"Absolutely love this product, exceeded my expectations!",Positive,7,Ticket
+NLP-000387,"Would not recommend, multiple bugs in the software.",Negative,8,Review
+NLP-000388,Customer support was unhelpful and rude.,Negative,6,SocialMedia
+NLP-000389,Fantastic quality and fast delivery.,Positive,5,Review
+NLP-000390,Waited on hold for 45 minutes with no resolution.,Negative,9,Ticket
+NLP-000391,"Average experience overall, may try again.",Neutral,6,Survey
+NLP-000392,"Would not recommend, multiple bugs in the software.",Negative,8,SocialMedia
+NLP-000393,It works as expected for basic needs.,Neutral,7,Chat
+NLP-000394,"Standard service, nothing exceptional.",Neutral,4,Email
+NLP-000395,It works as expected for basic needs.,Neutral,7,SocialMedia
+NLP-000396,"Terrible experience, product broke after one week.",Negative,7,Chat
+NLP-000397,"Received the item, still evaluating its features.",Neutral,7,Chat
+NLP-000398,Customer support was unhelpful and rude.,Negative,6,Chat
+NLP-000399,"Terrible experience, product broke after one week.",Negative,7,Chat
+NLP-000400,Very disappointed with the quality for the price.,Negative,8,SocialMedia
+NLP-000401,"Would not recommend, multiple bugs in the software.",Negative,8,Email
+NLP-000402,Very disappointed with the quality for the price.,Negative,8,Survey
+NLP-000403,Very disappointed with the quality for the price.,Negative,8,Ticket
+NLP-000404,"Best purchase I have made this year, highly recommend.",Positive,9,Email
+NLP-000405,"Average experience overall, may try again.",Neutral,6,SocialMedia
+NLP-000406,"Great customer service, issue resolved quickly.",Positive,6,Survey
+NLP-000407,Very disappointed with the quality for the price.,Negative,8,Chat
+NLP-000408,"Standard service, nothing exceptional.",Neutral,4,Chat
+NLP-000409,Very disappointed with the quality for the price.,Negative,8,Survey
+NLP-000410,Customer support was unhelpful and rude.,Negative,6,Review
+NLP-000411,"Would not recommend, multiple bugs in the software.",Negative,8,Chat
+NLP-000412,Waited on hold for 45 minutes with no resolution.,Negative,9,Chat
+NLP-000413,"Terrible experience, product broke after one week.",Negative,7,Ticket
+NLP-000414,Very disappointed with the quality for the price.,Negative,8,Chat
+NLP-000415,Fantastic quality and fast delivery.,Positive,5,Ticket
+NLP-000416,Product arrived on time as described.,Neutral,6,Ticket
+NLP-000417,It works as expected for basic needs.,Neutral,7,Email
+NLP-000418,"Absolutely love this product, exceeded my expectations!",Positive,7,SocialMedia
+NLP-000419,It works as expected for basic needs.,Neutral,7,Ticket
+NLP-000420,Product arrived on time as described.,Neutral,6,SocialMedia
+NLP-000421,It works as expected for basic needs.,Neutral,7,Review
+NLP-000422,It works as expected for basic needs.,Neutral,7,Email
+NLP-000423,Fantastic quality and fast delivery.,Positive,5,Email
+NLP-000424,"Absolutely love this product, exceeded my expectations!",Positive,7,Survey
+NLP-000425,Fantastic quality and fast delivery.,Positive,5,SocialMedia
+NLP-000426,"Absolutely love this product, exceeded my expectations!",Positive,7,Survey
+NLP-000427,"Absolutely love this product, exceeded my expectations!",Positive,7,SocialMedia
+NLP-000428,"Received the item, still evaluating its features.",Neutral,7,Email
+NLP-000429,"Absolutely love this product, exceeded my expectations!",Positive,7,Email
+NLP-000430,"Best purchase I have made this year, highly recommend.",Positive,9,Chat
+NLP-000431,"Received the item, still evaluating its features.",Neutral,7,Ticket
+NLP-000432,"Great customer service, issue resolved quickly.",Positive,6,Survey
+NLP-000433,Product arrived on time as described.,Neutral,6,Ticket
+NLP-000434,"Terrible experience, product broke after one week.",Negative,7,Ticket
+NLP-000435,The team went above and beyond to help us.,Positive,9,Email
+NLP-000436,"Average experience overall, may try again.",Neutral,6,Survey
+NLP-000437,Waited on hold for 45 minutes with no resolution.,Negative,9,Review
+NLP-000438,Fantastic quality and fast delivery.,Positive,5,SocialMedia
+NLP-000439,Customer support was unhelpful and rude.,Negative,6,Review
+NLP-000440,"Received the item, still evaluating its features.",Neutral,7,Email
+NLP-000441,It works as expected for basic needs.,Neutral,7,Survey
+NLP-000442,"Absolutely love this product, exceeded my expectations!",Positive,7,Survey
+NLP-000443,It works as expected for basic needs.,Neutral,7,Review
+NLP-000444,"Absolutely love this product, exceeded my expectations!",Positive,7,Ticket
+NLP-000445,"Terrible experience, product broke after one week.",Negative,7,Review
+NLP-000446,"Average experience overall, may try again.",Neutral,6,Chat
+NLP-000447,"Terrible experience, product broke after one week.",Negative,7,Review
+NLP-000448,Waited on hold for 45 minutes with no resolution.,Negative,9,SocialMedia
+NLP-000449,"Average experience overall, may try again.",Neutral,6,Email
+NLP-000450,Product arrived on time as described.,Neutral,6,Survey
+NLP-000451,"Absolutely love this product, exceeded my expectations!",Positive,7,Chat
+NLP-000452,The team went above and beyond to help us.,Positive,9,Chat
+NLP-000453,It works as expected for basic needs.,Neutral,7,Chat
+NLP-000454,"Best purchase I have made this year, highly recommend.",Positive,9,Ticket
+NLP-000455,The team went above and beyond to help us.,Positive,9,Email
+NLP-000456,It works as expected for basic needs.,Neutral,7,SocialMedia
+NLP-000457,It works as expected for basic needs.,Neutral,7,Ticket
+NLP-000458,"Received the item, still evaluating its features.",Neutral,7,Chat
+NLP-000459,Fantastic quality and fast delivery.,Positive,5,Email
+NLP-000460,"Received the item, still evaluating its features.",Neutral,7,Email
+NLP-000461,"Terrible experience, product broke after one week.",Negative,7,Email
+NLP-000462,Customer support was unhelpful and rude.,Negative,6,Review
+NLP-000463,Very disappointed with the quality for the price.,Negative,8,Email
+NLP-000464,"Terrible experience, product broke after one week.",Negative,7,Review
+NLP-000465,The team went above and beyond to help us.,Positive,9,Survey
+NLP-000466,"Great customer service, issue resolved quickly.",Positive,6,Review
+NLP-000467,"Received the item, still evaluating its features.",Neutral,7,Review
+NLP-000468,Waited on hold for 45 minutes with no resolution.,Negative,9,SocialMedia
+NLP-000469,"Received the item, still evaluating its features.",Neutral,7,Chat
+NLP-000470,The team went above and beyond to help us.,Positive,9,Survey
+NLP-000471,Fantastic quality and fast delivery.,Positive,5,Ticket
+NLP-000472,Fantastic quality and fast delivery.,Positive,5,Review
+NLP-000473,Very disappointed with the quality for the price.,Negative,8,Ticket
+NLP-000474,"Received the item, still evaluating its features.",Neutral,7,Review
+NLP-000475,"Absolutely love this product, exceeded my expectations!",Positive,7,Review
+NLP-000476,The team went above and beyond to help us.,Positive,9,Email
+NLP-000477,Product arrived on time as described.,Neutral,6,SocialMedia
+NLP-000478,"Average experience overall, may try again.",Neutral,6,Chat
+NLP-000479,"Average experience overall, may try again.",Neutral,6,Chat
+NLP-000480,Product arrived on time as described.,Neutral,6,Review
+NLP-000481,The team went above and beyond to help us.,Positive,9,Review
+NLP-000482,"Received the item, still evaluating its features.",Neutral,7,SocialMedia
+NLP-000483,"Standard service, nothing exceptional.",Neutral,4,Review
+NLP-000484,Waited on hold for 45 minutes with no resolution.,Negative,9,Chat
+NLP-000485,"Best purchase I have made this year, highly recommend.",Positive,9,Chat
+NLP-000486,Waited on hold for 45 minutes with no resolution.,Negative,9,Ticket
+NLP-000487,"Terrible experience, product broke after one week.",Negative,7,Ticket
+NLP-000488,Very disappointed with the quality for the price.,Negative,8,Ticket
+NLP-000489,Waited on hold for 45 minutes with no resolution.,Negative,9,Email
+NLP-000490,Very disappointed with the quality for the price.,Negative,8,Chat
+NLP-000491,Waited on hold for 45 minutes with no resolution.,Negative,9,Email
+NLP-000492,"Best purchase I have made this year, highly recommend.",Positive,9,Email
+NLP-000493,Fantastic quality and fast delivery.,Positive,5,SocialMedia
+NLP-000494,"Best purchase I have made this year, highly recommend.",Positive,9,Chat
+NLP-000495,"Received the item, still evaluating its features.",Neutral,7,Ticket
+NLP-000496,Customer support was unhelpful and rude.,Negative,6,SocialMedia
+NLP-000497,Fantastic quality and fast delivery.,Positive,5,Chat
+NLP-000498,"Standard service, nothing exceptional.",Neutral,4,SocialMedia
+NLP-000499,"Standard service, nothing exceptional.",Neutral,4,SocialMedia
+NLP-000500,"Would not recommend, multiple bugs in the software.",Negative,8,Review
+NLP-000501,Fantastic quality and fast delivery.,Positive,5,Survey
+NLP-000502,It works as expected for basic needs.,Neutral,7,Email
+NLP-000503,The team went above and beyond to help us.,Positive,9,Review
+NLP-000504,"Absolutely love this product, exceeded my expectations!",Positive,7,Ticket
+NLP-000505,"Best purchase I have made this year, highly recommend.",Positive,9,Chat
+NLP-000506,It works as expected for basic needs.,Neutral,7,Review
+NLP-000507,Customer support was unhelpful and rude.,Negative,6,Ticket
+NLP-000508,"Terrible experience, product broke after one week.",Negative,7,SocialMedia
+NLP-000509,Fantastic quality and fast delivery.,Positive,5,Survey
+NLP-000510,"Received the item, still evaluating its features.",Neutral,7,Survey
+NLP-000511,Customer support was unhelpful and rude.,Negative,6,Email
+NLP-000512,The team went above and beyond to help us.,Positive,9,Survey
+NLP-000513,Very disappointed with the quality for the price.,Negative,8,Review
+NLP-000514,Very disappointed with the quality for the price.,Negative,8,Survey
+NLP-000515,Product arrived on time as described.,Neutral,6,SocialMedia
+NLP-000516,"Best purchase I have made this year, highly recommend.",Positive,9,SocialMedia
+NLP-000517,Very disappointed with the quality for the price.,Negative,8,SocialMedia
+NLP-000518,Product arrived on time as described.,Neutral,6,Review
+NLP-000519,"Standard service, nothing exceptional.",Neutral,4,SocialMedia
+NLP-000520,Fantastic quality and fast delivery.,Positive,5,Chat
+NLP-000521,Product arrived on time as described.,Neutral,6,Email
+NLP-000522,"Average experience overall, may try again.",Neutral,6,SocialMedia
+NLP-000523,"Standard service, nothing exceptional.",Neutral,4,SocialMedia
+NLP-000524,"Best purchase I have made this year, highly recommend.",Positive,9,Ticket
+NLP-000525,"Terrible experience, product broke after one week.",Negative,7,Survey
+NLP-000526,"Best purchase I have made this year, highly recommend.",Positive,9,SocialMedia
+NLP-000527,"Standard service, nothing exceptional.",Neutral,4,Review
+NLP-000528,"Terrible experience, product broke after one week.",Negative,7,Ticket
+NLP-000529,Waited on hold for 45 minutes with no resolution.,Negative,9,Survey
+NLP-000530,"Absolutely love this product, exceeded my expectations!",Positive,7,SocialMedia
+NLP-000531,"Terrible experience, product broke after one week.",Negative,7,Ticket
+NLP-000532,"Average experience overall, may try again.",Neutral,6,Email
+NLP-000533,"Best purchase I have made this year, highly recommend.",Positive,9,Review
+NLP-000534,"Received the item, still evaluating its features.",Neutral,7,Review
+NLP-000535,"Absolutely love this product, exceeded my expectations!",Positive,7,Survey
+NLP-000536,Very disappointed with the quality for the price.,Negative,8,SocialMedia
+NLP-000537,The team went above and beyond to help us.,Positive,9,Chat
+NLP-000538,Very disappointed with the quality for the price.,Negative,8,Email
+NLP-000539,"Would not recommend, multiple bugs in the software.",Negative,8,Ticket
+NLP-000540,It works as expected for basic needs.,Neutral,7,Chat
+NLP-000541,"Standard service, nothing exceptional.",Neutral,4,Chat
+NLP-000542,The team went above and beyond to help us.,Positive,9,Email
+NLP-000543,"Would not recommend, multiple bugs in the software.",Negative,8,Review
+NLP-000544,Product arrived on time as described.,Neutral,6,Chat
+NLP-000545,Customer support was unhelpful and rude.,Negative,6,SocialMedia
+NLP-000546,Waited on hold for 45 minutes with no resolution.,Negative,9,SocialMedia
+NLP-000547,"Received the item, still evaluating its features.",Neutral,7,Survey
+NLP-000548,Product arrived on time as described.,Neutral,6,Ticket
+NLP-000549,"Average experience overall, may try again.",Neutral,6,Survey
+NLP-000550,"Average experience overall, may try again.",Neutral,6,Email
+NLP-000551,"Average experience overall, may try again.",Neutral,6,SocialMedia
+NLP-000552,"Standard service, nothing exceptional.",Neutral,4,Survey
+NLP-000553,The team went above and beyond to help us.,Positive,9,Email
+NLP-000554,Product arrived on time as described.,Neutral,6,Review
+NLP-000555,It works as expected for basic needs.,Neutral,7,Email
+NLP-000556,Fantastic quality and fast delivery.,Positive,5,Chat
+NLP-000557,Product arrived on time as described.,Neutral,6,Chat
+NLP-000558,The team went above and beyond to help us.,Positive,9,Survey
+NLP-000559,The team went above and beyond to help us.,Positive,9,Email
+NLP-000560,Very disappointed with the quality for the price.,Negative,8,Chat
+NLP-000561,"Standard service, nothing exceptional.",Neutral,4,Review
+NLP-000562,Fantastic quality and fast delivery.,Positive,5,Email
+NLP-000563,The team went above and beyond to help us.,Positive,9,Chat
+NLP-000564,"Average experience overall, may try again.",Neutral,6,Review
+NLP-000565,"Average experience overall, may try again.",Neutral,6,SocialMedia
+NLP-000566,Waited on hold for 45 minutes with no resolution.,Negative,9,Email
+NLP-000567,"Great customer service, issue resolved quickly.",Positive,6,Chat
+NLP-000568,"Received the item, still evaluating its features.",Neutral,7,Review
+NLP-000569,The team went above and beyond to help us.,Positive,9,Email
+NLP-000570,"Absolutely love this product, exceeded my expectations!",Positive,7,Chat
+NLP-000571,Very disappointed with the quality for the price.,Negative,8,Chat
+NLP-000572,"Average experience overall, may try again.",Neutral,6,Survey
+NLP-000573,"Terrible experience, product broke after one week.",Negative,7,SocialMedia
+NLP-000574,"Best purchase I have made this year, highly recommend.",Positive,9,Chat
+NLP-000575,"Standard service, nothing exceptional.",Neutral,4,Email
+NLP-000576,"Would not recommend, multiple bugs in the software.",Negative,8,Review
+NLP-000577,Customer support was unhelpful and rude.,Negative,6,Ticket
+NLP-000578,Fantastic quality and fast delivery.,Positive,5,Chat
+NLP-000579,"Absolutely love this product, exceeded my expectations!",Positive,7,Survey
+NLP-000580,It works as expected for basic needs.,Neutral,7,Chat
+NLP-000581,Product arrived on time as described.,Neutral,6,Review
+NLP-000582,Product arrived on time as described.,Neutral,6,Ticket
+NLP-000583,Customer support was unhelpful and rude.,Negative,6,Email
+NLP-000584,"Great customer service, issue resolved quickly.",Positive,6,Ticket
+NLP-000585,"Great customer service, issue resolved quickly.",Positive,6,Survey
+NLP-000586,"Great customer service, issue resolved quickly.",Positive,6,Review
+NLP-000587,The team went above and beyond to help us.,Positive,9,Chat
+NLP-000588,"Best purchase I have made this year, highly recommend.",Positive,9,Chat
+NLP-000589,"Terrible experience, product broke after one week.",Negative,7,SocialMedia
+NLP-000590,"Terrible experience, product broke after one week.",Negative,7,Survey
+NLP-000591,It works as expected for basic needs.,Neutral,7,Chat
+NLP-000592,"Received the item, still evaluating its features.",Neutral,7,SocialMedia
+NLP-000593,Waited on hold for 45 minutes with no resolution.,Negative,9,Email
+NLP-000594,Customer support was unhelpful and rude.,Negative,6,SocialMedia
+NLP-000595,Product arrived on time as described.,Neutral,6,Chat
+NLP-000596,"Received the item, still evaluating its features.",Neutral,7,Review
+NLP-000597,Fantastic quality and fast delivery.,Positive,5,Email
+NLP-000598,"Average experience overall, may try again.",Neutral,6,SocialMedia
+NLP-000599,Very disappointed with the quality for the price.,Negative,8,SocialMedia
+NLP-000600,It works as expected for basic needs.,Neutral,7,Ticket
+NLP-000601,"Absolutely love this product, exceeded my expectations!",Positive,7,Email
+NLP-000602,Waited on hold for 45 minutes with no resolution.,Negative,9,SocialMedia
+NLP-000603,"Standard service, nothing exceptional.",Neutral,4,Email
+NLP-000604,"Received the item, still evaluating its features.",Neutral,7,SocialMedia
+NLP-000605,"Terrible experience, product broke after one week.",Negative,7,Ticket
+NLP-000606,"Received the item, still evaluating its features.",Neutral,7,Chat
+NLP-000607,Product arrived on time as described.,Neutral,6,Chat
+NLP-000608,Customer support was unhelpful and rude.,Negative,6,Ticket
+NLP-000609,Fantastic quality and fast delivery.,Positive,5,Ticket
+NLP-000610,"Standard service, nothing exceptional.",Neutral,4,Ticket
+NLP-000611,"Standard service, nothing exceptional.",Neutral,4,SocialMedia
+NLP-000612,Waited on hold for 45 minutes with no resolution.,Negative,9,Email
+NLP-000613,"Terrible experience, product broke after one week.",Negative,7,Chat
+NLP-000614,"Absolutely love this product, exceeded my expectations!",Positive,7,Ticket
+NLP-000615,"Best purchase I have made this year, highly recommend.",Positive,9,SocialMedia
+NLP-000616,Waited on hold for 45 minutes with no resolution.,Negative,9,Email
+NLP-000617,The team went above and beyond to help us.,Positive,9,Review
+NLP-000618,"Received the item, still evaluating its features.",Neutral,7,Review
+NLP-000619,Waited on hold for 45 minutes with no resolution.,Negative,9,SocialMedia
+NLP-000620,Waited on hold for 45 minutes with no resolution.,Negative,9,SocialMedia
+NLP-000621,"Great customer service, issue resolved quickly.",Positive,6,Chat
+NLP-000622,Fantastic quality and fast delivery.,Positive,5,Survey
+NLP-000623,Waited on hold for 45 minutes with no resolution.,Negative,9,Email
+NLP-000624,"Terrible experience, product broke after one week.",Negative,7,Survey
+NLP-000625,Fantastic quality and fast delivery.,Positive,5,SocialMedia
+NLP-000626,"Received the item, still evaluating its features.",Neutral,7,Email
+NLP-000627,Very disappointed with the quality for the price.,Negative,8,Review
+NLP-000628,It works as expected for basic needs.,Neutral,7,Email
+NLP-000629,"Best purchase I have made this year, highly recommend.",Positive,9,Survey
+NLP-000630,It works as expected for basic needs.,Neutral,7,Survey
+NLP-000631,"Best purchase I have made this year, highly recommend.",Positive,9,Ticket
+NLP-000632,Product arrived on time as described.,Neutral,6,SocialMedia
+NLP-000633,"Terrible experience, product broke after one week.",Negative,7,Survey
+NLP-000634,Product arrived on time as described.,Neutral,6,Review
+NLP-000635,"Best purchase I have made this year, highly recommend.",Positive,9,Chat
+NLP-000636,Fantastic quality and fast delivery.,Positive,5,Survey
+NLP-000637,"Great customer service, issue resolved quickly.",Positive,6,Survey
+NLP-000638,"Best purchase I have made this year, highly recommend.",Positive,9,Ticket
+NLP-000639,"Standard service, nothing exceptional.",Neutral,4,Survey
+NLP-000640,"Best purchase I have made this year, highly recommend.",Positive,9,Email
+NLP-000641,Fantastic quality and fast delivery.,Positive,5,Survey
+NLP-000642,Waited on hold for 45 minutes with no resolution.,Negative,9,Email
+NLP-000643,"Received the item, still evaluating its features.",Neutral,7,Review
+NLP-000644,The team went above and beyond to help us.,Positive,9,Review
+NLP-000645,"Standard service, nothing exceptional.",Neutral,4,Email
+NLP-000646,"Great customer service, issue resolved quickly.",Positive,6,Review
+NLP-000647,Waited on hold for 45 minutes with no resolution.,Negative,9,Review
+NLP-000648,"Received the item, still evaluating its features.",Neutral,7,Review
+NLP-000649,Waited on hold for 45 minutes with no resolution.,Negative,9,SocialMedia
+NLP-000650,"Absolutely love this product, exceeded my expectations!",Positive,7,Ticket
+NLP-000651,"Terrible experience, product broke after one week.",Negative,7,Review
+NLP-000652,Customer support was unhelpful and rude.,Negative,6,Ticket
+NLP-000653,"Absolutely love this product, exceeded my expectations!",Positive,7,Survey
+NLP-000654,Waited on hold for 45 minutes with no resolution.,Negative,9,Email
+NLP-000655,"Absolutely love this product, exceeded my expectations!",Positive,7,Chat
+NLP-000656,"Best purchase I have made this year, highly recommend.",Positive,9,Review
+NLP-000657,"Standard service, nothing exceptional.",Neutral,4,Chat
+NLP-000658,The team went above and beyond to help us.,Positive,9,Chat
+NLP-000659,"Best purchase I have made this year, highly recommend.",Positive,9,Chat
+NLP-000660,"Standard service, nothing exceptional.",Neutral,4,Ticket
+NLP-000661,"Best purchase I have made this year, highly recommend.",Positive,9,SocialMedia
+NLP-000662,"Terrible experience, product broke after one week.",Negative,7,Survey
+NLP-000663,It works as expected for basic needs.,Neutral,7,Chat
+NLP-000664,Customer support was unhelpful and rude.,Negative,6,Survey
+NLP-000665,"Great customer service, issue resolved quickly.",Positive,6,SocialMedia
+NLP-000666,Customer support was unhelpful and rude.,Negative,6,Ticket
+NLP-000667,"Absolutely love this product, exceeded my expectations!",Positive,7,Survey
+NLP-000668,"Terrible experience, product broke after one week.",Negative,7,Email
+NLP-000669,"Standard service, nothing exceptional.",Neutral,4,Survey
+NLP-000670,The team went above and beyond to help us.,Positive,9,Review
+NLP-000671,Fantastic quality and fast delivery.,Positive,5,Review
+NLP-000672,"Average experience overall, may try again.",Neutral,6,Survey
+NLP-000673,Very disappointed with the quality for the price.,Negative,8,SocialMedia
+NLP-000674,Waited on hold for 45 minutes with no resolution.,Negative,9,Review
+NLP-000675,"Standard service, nothing exceptional.",Neutral,4,Ticket
+NLP-000676,Product arrived on time as described.,Neutral,6,Email
+NLP-000677,"Would not recommend, multiple bugs in the software.",Negative,8,Review
+NLP-000678,"Best purchase I have made this year, highly recommend.",Positive,9,SocialMedia
+NLP-000679,Waited on hold for 45 minutes with no resolution.,Negative,9,Ticket
+NLP-000680,"Absolutely love this product, exceeded my expectations!",Positive,7,Review
+NLP-000681,Fantastic quality and fast delivery.,Positive,5,Ticket
+NLP-000682,"Standard service, nothing exceptional.",Neutral,4,Ticket
+NLP-000683,"Would not recommend, multiple bugs in the software.",Negative,8,Survey
+NLP-000684,"Best purchase I have made this year, highly recommend.",Positive,9,Chat
+NLP-000685,"Terrible experience, product broke after one week.",Negative,7,Survey
+NLP-000686,It works as expected for basic needs.,Neutral,7,Ticket
+NLP-000687,"Absolutely love this product, exceeded my expectations!",Positive,7,Chat
+NLP-000688,"Great customer service, issue resolved quickly.",Positive,6,Email
+NLP-000689,Very disappointed with the quality for the price.,Negative,8,Survey
+NLP-000690,"Received the item, still evaluating its features.",Neutral,7,Email
+NLP-000691,"Best purchase I have made this year, highly recommend.",Positive,9,Ticket
+NLP-000692,"Standard service, nothing exceptional.",Neutral,4,Email
+NLP-000693,"Would not recommend, multiple bugs in the software.",Negative,8,Email
+NLP-000694,Fantastic quality and fast delivery.,Positive,5,Chat
+NLP-000695,Fantastic quality and fast delivery.,Positive,5,Review
+NLP-000696,Very disappointed with the quality for the price.,Negative,8,Email
+NLP-000697,Product arrived on time as described.,Neutral,6,Email
+NLP-000698,Product arrived on time as described.,Neutral,6,Email
+NLP-000699,Very disappointed with the quality for the price.,Negative,8,Chat
+NLP-000700,"Average experience overall, may try again.",Neutral,6,Review
+NLP-000701,"Best purchase I have made this year, highly recommend.",Positive,9,Survey
+NLP-000702,"Average experience overall, may try again.",Neutral,6,Survey
+NLP-000703,"Absolutely love this product, exceeded my expectations!",Positive,7,SocialMedia
+NLP-000704,Product arrived on time as described.,Neutral,6,Survey
+NLP-000705,Very disappointed with the quality for the price.,Negative,8,Ticket
+NLP-000706,Fantastic quality and fast delivery.,Positive,5,Email
+NLP-000707,Product arrived on time as described.,Neutral,6,Survey
+NLP-000708,"Standard service, nothing exceptional.",Neutral,4,Ticket
+NLP-000709,Very disappointed with the quality for the price.,Negative,8,Review
+NLP-000710,Very disappointed with the quality for the price.,Negative,8,Survey
+NLP-000711,"Standard service, nothing exceptional.",Neutral,4,Chat
+NLP-000712,Very disappointed with the quality for the price.,Negative,8,Survey
+NLP-000713,"Terrible experience, product broke after one week.",Negative,7,Email
+NLP-000714,It works as expected for basic needs.,Neutral,7,SocialMedia
+NLP-000715,Product arrived on time as described.,Neutral,6,Review
+NLP-000716,"Great customer service, issue resolved quickly.",Positive,6,Email
+NLP-000717,"Terrible experience, product broke after one week.",Negative,7,Ticket
+NLP-000718,"Standard service, nothing exceptional.",Neutral,4,SocialMedia
+NLP-000719,Product arrived on time as described.,Neutral,6,Survey
+NLP-000720,Waited on hold for 45 minutes with no resolution.,Negative,9,Review
