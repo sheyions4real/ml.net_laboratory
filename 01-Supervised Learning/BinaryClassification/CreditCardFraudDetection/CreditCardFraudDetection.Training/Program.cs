@@ -1,6 +1,8 @@
 ﻿using CreditCardFraudDetection.Training.Models;
 using Microsoft.ML;
+using Microsoft.ML.Trainers;
 using Microsoft.ML.Trainers.FastTree;
+using Microsoft.ML.Trainers.LightGbm;
 using MLNet.Shared;
 
 var mlContext = new MLContext();
@@ -24,28 +26,24 @@ var dataProcessPipeline = mlContext.Transforms.Categorical.OneHotEncoding("Merch
     nameof(TransactionData.IsInternational), nameof(TransactionData.PreviousFraudFlag),
     nameof(TransactionData.AvgTransactionAmount30d), nameof(TransactionData.TransactionCount24h)));
 
-// regularization for fast tree
 // Define options to restrict tree growth and force generalization
-var options = new FastTreeBinaryTrainer.Options
+var options = new LightGbmBinaryTrainer.Options
 {
     LabelColumnName = "Label",
     FeatureColumnName = "Features",
+    UnbalancedSets = true,
 
-    // 1. Reduce the complexity of each individual tree
-    NumberOfLeaves = 15,            // Default is 20. Lowering this limits tree depth.
+    // Allow the trees to be slightly more expressive (up from 5)
+    NumberOfLeaves = 8,
+    MinimumExampleCountPerLeaf = 15,
 
-    // 2. Reduce the total number of trees built
-    NumberOfTrees = 50,             // Default is 100. Fewer trees prevents over-memorization.
-
-    // 3. Force trees to only make a rule if a group of rows share it
-    MinimumExampleCountPerLeaf = 30,// Default is 10. Requires 30 rows to establish a pattern.
-
-    // 4. Slow down the learning process
-    LearningRate = 0.05             // Default is 0.2. A slower rate prevents over-correcting.
+    // Give it a few more iterations to map out rules safely
+    NumberOfIterations = 40,
+    LearningRate = 0.03
 };
 
 // choose Algorithm and append to pipeline
-var trainer = mlContext.BinaryClassification.Trainers.FastTree(options);
+var trainer = mlContext.BinaryClassification.Trainers.LightGbm(options);
 var trainingPipeline = dataProcessPipeline.Append(trainer);
 
 // training the model
@@ -53,11 +51,11 @@ Console.WriteLine("Training Fast Tree Model...");
 var trainedModel = trainingPipeline.Fit(trainTestSplit.TrainSet);
 
 // 2. Evaluate the Train Set (Add this to compare)
-var trainResults = EvaluationEngine.EvaluateBinary(mlContext, trainTestSplit.TrainSet, trainedModel);
+var trainResults = EvaluationEngine.EvaluateBinary(mlContext, trainTestSplit.TrainSet, trainedModel, threshold: 0.40f);
 
 
 // centralized Evaluation via shared library
-var testResults = EvaluationEngine.EvaluateBinary(mlContext, trainTestSplit.TestSet, trainedModel);
+var testResults = EvaluationEngine.EvaluateBinary(mlContext, trainTestSplit.TestSet, trainedModel, threshold: 0.40f);
 
 Console.WriteLine($"\n--- Evaluation Metrics ({testResults.AlgorithmName}) ---");
 foreach (var metric in testResults.Metrics)
