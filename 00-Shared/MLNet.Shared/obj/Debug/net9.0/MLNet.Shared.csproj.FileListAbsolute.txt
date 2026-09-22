@@ -1,0 +1,13 @@
+C:\Users\somagene\source\repos\ml.net laboratory\00-Shared\MLNet.Shared\bin\Debug\net9.0\MLNet.Shared.deps.json
+C:\Users\somagene\source\repos\ml.net laboratory\00-Shared\MLNet.Shared\bin\Debug\net9.0\MLNet.Shared.dll
+C:\Users\somagene\source\repos\ml.net laboratory\00-Shared\MLNet.Shared\bin\Debug\net9.0\MLNet.Shared.pdb
+C:\Users\somagene\source\repos\ml.net laboratory\00-Shared\MLNet.Shared\obj\Debug\net9.0\MLNet.Shared.csproj.AssemblyReference.cache
+C:\Users\somagene\source\repos\ml.net laboratory\00-Shared\MLNet.Shared\obj\Debug\net9.0\MLNet.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somagene\source\repos\ml.net laboratory\00-Shared\MLNet.Shared\obj\Debug\net9.0\MLNet.Shared.AssemblyInfoInputs.cache
+C:\Users\somagene\source\repos\ml.net laboratory\00-Shared\MLNet.Shared\obj\Debug\net9.0\MLNet.Shared.AssemblyInfo.cs
+C:\Users\somagene\source\repos\ml.net laboratory\00-Shared\MLNet.Shared\obj\Debug\net9.0\MLNet.Shared.csproj.CoreCompileInputs.cache
+C:\Users\somagene\source\repos\ml.net laboratory\00-Shared\MLNet.Shared\obj\Debug\net9.0\MLNet.Shared.sourcelink.json
+C:\Users\somagene\source\repos\ml.net laboratory\00-Shared\MLNet.Shared\obj\Debug\net9.0\MLNet.Shared.dll
+C:\Users\somagene\source\repos\ml.net laboratory\00-Shared\MLNet.Shared\obj\Debug\net9.0\refint\MLNet.Shared.dll
+C:\Users\somagene\source\repos\ml.net laboratory\00-Shared\MLNet.Shared\obj\Debug\net9.0\MLNet.Shared.pdb
+C:\Users\somagene\source\repos\ml.net laboratory\00-Shared\MLNet.Shared\obj\Debug\net9.0\ref\MLNet.Shared.dll

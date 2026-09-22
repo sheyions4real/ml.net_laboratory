@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ML" Version="6.0.0-preview.26457.2" />
+    <PackageReference Include="Microsoft.ML.FastTree" Version="6.0.0-preview.26457.2" />
+  </ItemGroup>
+
+</Project>
