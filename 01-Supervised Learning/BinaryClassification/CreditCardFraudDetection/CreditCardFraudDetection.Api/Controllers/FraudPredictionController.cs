@@ -8,10 +8,10 @@ namespace CreditCardFraudDetection.Api.Controllers;
 
 [ApiController]
 [Route("api/v1/[controller]")]
-public class FraudController : ControllerBase
+public class FraudPredictionController : ControllerBase
 {
     private readonly IFraudPredictionService _fraudPredictionService;
-    public FraudController(IFraudPredictionService fraudPredictionService) 
+    public FraudPredictionController(IFraudPredictionService fraudPredictionService) 
     {
         _fraudPredictionService = fraudPredictionService;
     }
@@ -23,7 +23,7 @@ public class FraudController : ControllerBase
     {
         if (transaction == null)
             return BadRequest("Invalid transaction Data");
-        var result = _fraudPredictionService.PredictFraudAsync(transaction, cancellationToken);
+        var result = await _fraudPredictionService.PredictFraudAsync(transaction, cancellationToken);
         return Ok(result);
     }
 

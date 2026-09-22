@@ -1,22 +1,21 @@
 ﻿using CreditCardFraudDetection.Api.Services.Contract;
 using CreditCardFraudDetection.Training.Models;
-using Microsoft.Extensions.ML;
 using MLNet.Shared.Dtos;
 
 namespace CreditCardFraudDetection.Api.Services
 {
     public class FraudPredictionService : IFraudPredictionService
     {
-        private readonly PredictionEnginePool<TransactionData, TransactionPrediction> _predictionEnginePool;
+        private readonly IFraudPredictionEngine _predictionEngine;
         // Hardcode the 0.40 threshold sweet spot you discovered during evaluation
         private const float FraudProbabilityThreshold = 0.40f;
-        public FraudPredictionService(PredictionEnginePool<TransactionData, TransactionPrediction> predictionEnginePool)
+        public FraudPredictionService(IFraudPredictionEngine predictionEngine)
         {
-            _predictionEnginePool = predictionEnginePool;
+            _predictionEngine = predictionEngine;
         }
         public async Task<PredictionResultDto<bool>> PredictFraudAsync(TransactionData transaction, CancellationToken cancellationToken)
         {
-            var prediction = _predictionEnginePool.Predict(modelName: "FraudModel", example: transaction);
+            var prediction = _predictionEngine.Predict(modelName: "FraudModel", example: transaction);
 
             // 2. Override the default 0.50 flag with your optimized 0.40 threshold!
             prediction.Prediction = prediction.Probability >= FraudProbabilityThreshold;

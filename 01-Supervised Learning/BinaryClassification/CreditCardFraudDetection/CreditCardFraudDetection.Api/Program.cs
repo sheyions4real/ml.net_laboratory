@@ -17,6 +17,8 @@ builder.Services.AddPredictionEnginePool<TransactionData, TransactionPrediction>
         filePath: Path.Combine(AppContext.BaseDirectory, "model", "FraudModel.zip"),
         watchForChanges: true // Auto-reloads instantly when the training app updates the file!
  );
+// this is for the prediction engine to use the model in unit tests
+builder.Services.AddSingleton<IFraudPredictionEngine, FraudPredictionEngineAdapter>();
 
 // add dependency injection
 builder.Services.AddScoped<IFraudPredictionService, FraudPredictionService>();
