@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.6" />
+    <PackageReference Include="Microsoft.Extensions.ML" Version="6.0.0-preview.26457.2" />
+    <PackageReference Include="ML.Extensions" Version="1.0.0" />
+    <PackageReference Include="Scalar.AspNetCore" Version="2.17.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\00-Shared\MLNet.Shared\MLNet.Shared.csproj" />
+    <ProjectReference Include="..\CustomerChurn.Training\CustomerChurn.Training.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -71,4 +71,19 @@ public static class EvaluationEngine
             }
         };
     }
+
+
+    public static void PrintEvaluationMetrics(string algorithmName, EvaluationResultDto trainResult, EvaluationResultDto testResult)
+    {
+        // 3. Print side-by-side comparison
+        Console.WriteLine($"\n--- Metric Comparison ({algorithmName}) ---");
+        Console.WriteLine($"Metric                 | Train Set | Test Set");
+        Console.WriteLine($"-----------------------------------------");
+
+        foreach (var metric in testResult.Metrics)
+        {
+            double trainValue = trainResult.Metrics.ContainsKey(metric.Key) ? trainResult.Metrics[metric.Key] : 0.0;
+            Console.WriteLine($"{metric.Key,-22} | {trainValue:F4}    | {metric.Value:F4}");
+        }
+    }
 }
