@@ -1,0 +1,17 @@
+﻿<Project Sdk="WixToolset.Sdk/5.0.0">
+	<PropertyGroup>
+		<OutputName>MlAgentToolInstaller</OutputName>
+		<OutputType>Package</OutputType>
+		<Platform>x64</Platform>
+		<InstallerPlatform>x64</InstallerPlatform>
+		<AcceptEula>wix7</AcceptEula>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\ml-tool\MlAgentToolCli.csproj" Publish="true" PublishProfile="FolderProfile" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="WixToolset.UI.wixext" Version="5.0.0" />
+	</ItemGroup>
+</Project>

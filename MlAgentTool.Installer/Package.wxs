@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<?wix extension="WixToolset.UI.wixext" ?>
+
+<!--
+
+  ML Agent Tool MSI Installer
+
+  ===========================
+
+  This file defines what gets installed, where it goes, and how users interact
+
+  with the installer. Build order: dotnet publish (CLI) -> WiX packages -> MSI.
+
+-->
+
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs"
+
+     xmlns:ui="http://wixtoolset.org/schemas/v4/wxs/ui">
+
+
+
+	<!-- ================================================================
+
+	     SECTION 1: Package metadata
+
+	     Defines product identity shown in Add/Remove Programs and used
+
+	     for upgrades. UpgradeCode must stay the same across all versions.
+
+	     Scope="perMachine" = install for all users (required for system PATH).
+
+	     ================================================================ -->
+
+	<Package Name="ML Agent Tool Master Toolkit"
+
+	         Manufacturer="Omagene"
+
+	         Version="1.0.0"
+
+	         UpgradeCode="9f8e7d6c-5b4a-3f2e-1d0c-9b8a7f6e5d4c"
+
+	         Scope="perMachine">
+
+
+
+		<!-- Block installing an older version over a newer one -->
+
+		<MajorUpgrade DowngradeErrorMessage="!(loc.DowngradeError)" />
+
+
+
+		<!-- Custom EULA (replaces default lorem ipsum placeholder) -->
+
+		<WixVariable Id="WixUILicenseRtf" Value="License.rtf" />
+
+
+
+		<!-- Binds the Install Directory dialog to our INSTALLFOLDER directory -->
+
+		<Property Id="WIXUI_INSTALLDIR" Value="INSTALLFOLDER" />
+
+
+
+		<!-- Standard wizard UI: welcome, license, custom setup, install dir, progress, finish -->
+
+		<ui:WixUI Id="WixUI_Mondo" />
+
+
+
+		<!-- ================================================================
+
+		     SECTION 2: Install location
+
+		     Default folder: C:\Program Files\MlAgentTools\
+
+		     User can change this on the Install Directory page (Browse).
+
+		     Published CLI output (exe, DLLs, MlModels\) is harvested here.
+
+		     ================================================================ -->
+
+		<StandardDirectory Id="ProgramFiles64Folder">
+
+			<Directory Id="INSTALLFOLDER" Name="MlAgentTools" />
+
+		</StandardDirectory>
+
+
+
+		<!-- ================================================================
+
+		     SECTION 3: Features (what the user can install)
+
+		     MainApplication = core CLI + models (always installed).
+
+		     AddToPathFeature = optional child; user toggles on Custom Setup.
+
+		     ================================================================ -->
+
+		<Feature Id="MainApplication"
+
+		         Title="!(loc.MainApplicationTitle)"
+
+		         Level="1"
+
+		         Description="!(loc.MainApplicationDescription)">
+
+			<ComponentGroupRef Id="PublishedAppFiles" />
+
+			<Feature Id="AddToPathFeature"
+
+			         Title="!(loc.AddToPathFeatureTitle)"
+
+			         Level="1"
+
+			         Description="!(loc.AddToPathFeatureDescription)">
+
+				<ComponentRef Id="PathEnvironmentComponent" />
+
+			</Feature>
+
+		</Feature>
+
+
+
+	</Package>
+
+
+
+	<!-- ================================================================
+
+	     SECTION 4: Application files (harvested from dotnet publish)
+
+	     WiX pulls everything from the published CLI folder via bindpath.
+
+	     Includes: ml-agent-tool.exe, .NET runtime DLLs, MlModels\*.zip
+
+	     ================================================================ -->
+
+	<Fragment>
+
+		<ComponentGroup Id="PublishedAppFiles" Directory="INSTALLFOLDER">
+
+			<Files Include="!(bindpath.MlAgentToolCli)\**" />
+
+		</ComponentGroup>
+
+	</Fragment>
+
+
+
+	<!-- ================================================================
+
+	     SECTION 5: System PATH environment variable (optional feature)
+
+	     Appends [INSTALLFOLDER] to machine PATH so "ml-agent-tool" works
+
+	     from any new terminal without typing the full path.
+
+	     Separate component so uninstall cleanly removes the PATH entry.
+
+	     Only installed when user leaves "Add to system PATH" checked.
+
+	     ================================================================ -->
+
+	<Fragment>
+
+		<DirectoryRef Id="INSTALLFOLDER">
+
+			<Component Id="PathEnvironmentComponent"
+
+			           Guid="c3d4e5f6-a7b8-9c0d-1e2f-3a4b5c6d7e8f"
+
+			           Bitness="always64">
+
+				<Environment Id="MlAgentToolPath"
+
+				             Name="PATH"
+
+				             Value="[INSTALLFOLDER]"
+
+				             Action="set"
+
+				             Part="last"
+
+				             System="yes" />
+
+				<CreateFolder />
+
+			</Component>
+
+		</DirectoryRef>
+
+	</Fragment>
+
+
+
+</Wix>
+
+
